@@ -1,0 +1,41 @@
+name: Data Integrity
+
+on:
+  push:
+    branches: [main]
+    paths: ["Data/**"]
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check snapshot structure
+        run: |
+          echo "=== Data Structure Check ==="
+          for dir in snapshots aggregates analytics state; do
+            if [ -d "$dir" ]; then
+              count=$(find "$dir" -type f -name "*.json" | wc -l)
+              echo "$dir: $count files"
+            else
+              echo "WARNING: $dir/ missing"
+            fi
+          done
+      - name: Validate JSON files
+        run: |
+          errors=0
+          while IFS= read -r -d '' f; do
+            if ! jq empty "$f" 2>/dev/null; then
+              echo "CORRUPT: $f"
+              errors=$((errors+1))
+            fi
+          done < <(find . -name "*.json" -print0)
+          echo "Errors: $errors"
+          [ "$errors" -eq 0 ] || exit 1
+      - name: Check for duplicate timestamps
+        run: |
+          dupes=$(find . -name "*.json" -exec basename {} \; | sort | uniq -d | wc -l)
+          echo "Duplicate filenames: $dupes"

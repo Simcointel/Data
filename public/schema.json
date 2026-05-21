@@ -1,0 +1,65 @@
+{
+  "version": "1.0",
+  "description": "SimcoIntel public dataset schema",
+  "datasets": {
+    "dashboard": {
+      "description": "Latest dashboard summaries per realm",
+      "type": "object",
+      "pattern": "realm-{id}: { scores: { eh, ms, st, ip, sr }, regime: { na, sc }, alerts, sectors, generatedAt }"
+    },
+    "macro": {
+      "description": "Latest macro snapshot for a realm",
+      "type": "object",
+      "fields": {
+        "realm": "string",
+        "latest": "{ companiesValue, activeCompanies, bondsSold, totalBuildings }",
+        "latestIndexes": "{ cpi, coreCpi, gdp } | null",
+        "latestInflation": "{ cpiRate, coreCpiRate, gdpGrowth } | null",
+        "generatedAt": "ISO timestamp"
+      }
+    },
+    "history": {
+      "description": "Macro history entries array",
+      "type": "array",
+      "items": "{ date, companiesValue, activeCompanies, bondsSold, totalBuildings }"
+    },
+    "indexes": {
+      "description": "Price indexes array",
+      "type": "array",
+      "items": "{ date, cpi, coreCpi, gdp }"
+    },
+    "inflation": {
+      "description": "Inflation rates array",
+      "type": "array",
+      "items": "{ date, cpiRate, coreCpiRate, gdpGrowth }"
+    },
+    "correlations": {
+      "description": "Cross-category correlation coefficients",
+      "type": "array",
+      "items": "{ realm, pair, coefficient, strength }"
+    },
+    "anomalies": {
+      "description": "Z-score anomaly events",
+      "type": "array",
+      "items": "{ realm, category, zScore, deviation, direction, timestamp }"
+    },
+    "divergence": {
+      "description": "Sector divergence signals",
+      "type": "array",
+      "items": "{ realm, sector, strength, type, signal }"
+    },
+    "contagion": {
+      "description": "Contagion risk assessments",
+      "type": "array",
+      "items": "{ realm, origin, spread, affected, risk }"
+    },
+    "sectors": {
+      "description": "Sector intelligence per realm",
+      "type": "object",
+      "pattern": "realm-{id}: [{ sector, strength, momentum, leader, volatility }]"
+    }
+  },
+  "exportFormats": ["json", "csv"],
+  "rateLimit": "120 requests/minute/IP",
+  "cache": "public, max-age=300"
+}
