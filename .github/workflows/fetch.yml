@@ -26,13 +26,14 @@ jobs:
           URL="$BACKEND_URL/api/public/sync"
           echo "Fetching from $URL ..."
           if [ -n "$SYNC_SECRET" ]; then
-            curl -sf -H "Authorization: Bearer $SYNC_SECRET" "$URL" -o /tmp/sync.json
+            HTTP_CODE=$(curl -sS -L -o /tmp/sync.json -w "%{http_code}" --max-time 30 \
+              -H "Authorization: Bearer $SYNC_SECRET" "$URL")
           else
-            curl -sf "$URL" -o /tmp/sync.json
+            HTTP_CODE=$(curl -sS -L -o /tmp/sync.json -w "%{http_code}" --max-time 30 "$URL")
           fi
-          RC=$?
-          if [ $RC -ne 0 ]; then
-            echo "::error::Sync API call failed (curl exit code $RC)"
+          echo "HTTP status: $HTTP_CODE"
+          if [ "$HTTP_CODE" != "200" ]; then
+            echo "::error::Sync API returned HTTP $HTTP_CODE"
             head -5 /tmp/sync.json 2>/dev/null || true
             exit 1
           fi
