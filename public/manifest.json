@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T16:30:45.454Z",
+  "generatedAt": "2026-05-22T16:38:17.940Z",
   "realms": [
     0
   ],
@@ -47,7 +47,7 @@
     },
     {
       "path": "public/realm-0/forecast.json",
-      "bytes": 9190
+      "bytes": 9366
     },
     {
       "path": "public/realm-0/signals.json",
