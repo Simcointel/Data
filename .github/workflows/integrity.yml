@@ -3,7 +3,6 @@ name: Data Integrity
 on:
   push:
     branches: [main]
-    paths: ["Data/**"]
   schedule:
     - cron: "0 6 * * *"
   workflow_dispatch:
