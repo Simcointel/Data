@@ -1,0 +1,74 @@
+name: Process Data
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Validate all JSON
+        run: |
+          errors=0
+          while IFS= read -r -d '' f; do
+            if ! jq empty "$f" 2>/dev/null; then
+              echo "CORRUPT: $f"
+              errors=$((errors+1))
+            fi
+          done < <(find . -name "*.json" -print0)
+          if [ "$errors" -ne 0 ]; then
+            echo "Found $errors corrupt files — will attempt fix"
+          fi
+
+      - name: Normalize JSON (sort keys, consistent formatting)
+        run: |
+          while IFS= read -r -d '' f; do
+            normalized=$(jq --sort-keys . "$f" 2>/dev/null)
+            if [ $? -eq 0 ]; then
+              echo "$normalized" > "$f"
+            fi
+          done < <(find . -name "*.json" -print0)
+
+      - name: Remove duplicate files
+        run: |
+          while IFS= read -r -d '' f; do
+            dir=$(dirname "$f")
+            base=$(basename "$f")
+            dup=$(find "$dir" -name "$base" ! -path "$f" | head -1)
+            if [ -n "$dup" ]; then
+              older=$([ "$f" -ot "$dup" ] && echo "$f" || echo "$dup")
+              echo "Removing duplicate: $older"
+              rm "$older"
+            fi
+          done < <(find . -name "*.json" -print0)
+
+      - name: Generate directory index files
+        run: |
+          for dir in $(find aggregates state snapshots public -type d 2>/dev/null); do
+            files=$(ls "$dir"/*.json 2>/dev/null | xargs -I{} basename {} | sort -r | head -100)
+            if [ -n "$files" ]; then
+              jq -n --arg dir "$dir" --argjson files '[$files | split("\n")[] | select(length > 0)]' \
+                '{directory: $dir, latest: $files[0], files: $files}' > "$dir/index.json" 2>/dev/null || true
+            fi
+          done
+
+      - name: Commit corrections
+        run: |
+          git config user.name "SimcoIntel Data Bot"
+          git config user.email "simcointel-data-bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "auto: normalize, dedupe, generate indexes"
+            git push
+          fi

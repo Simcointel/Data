@@ -1,0 +1,55 @@
+name: Fetch from Backend
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull data from Backend sync API
+        env:
+          BACKEND_URL: ${{ secrets.BACKEND_URL }}
+          SYNC_SECRET: ${{ secrets.SYNC_SECRET }}
+        run: |
+          if [ -z "$BACKEND_URL" ]; then
+            echo "::error::BACKEND_URL secret not set"
+            exit 1
+          fi
+          AUTH=""
+          if [ -n "$SYNC_SECRET" ]; then
+            AUTH="-H \"Authorization: Bearer $SYNC_SECRET\""
+          fi
+          echo "Fetching from $BACKEND_URL/api/public/sync ..."
+          curl -sf $AUTH "$BACKEND_URL/api/public/sync" -o /tmp/sync.json
+          if [ $? -ne 0 ]; then
+            echo "::error::Sync API call failed"
+            exit 1
+          fi
+          COUNT=$(jq '.data.files | length' /tmp/sync.json)
+          echo "Files received: $COUNT"
+          for path in $(jq -r '.data.files[].path' /tmp/sync.json); do
+            mkdir -p "$(dirname "$path")"
+            jq -r --arg p "$path" '.data.files[] | select(.path == $p) | .content' /tmp/sync.json > "$path"
+            echo "  wrote $path"
+          done
+
+      - name: Commit and push
+        run: |
+          git config user.name "SimcoIntel Sync Bot"
+          git config user.email "sync-bot@simcointel.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes — data is up to date"
+          else
+            git commit -m "auto: sync from backend $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+            echo "Pushed $(git diff --cached --stat)"
+          fi
