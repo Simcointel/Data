@@ -1,1 +1,26 @@
-{"t":"2026-05-20T14:53:17.427Z","r":0,"an":[{"id":"evt_mpe6lypf_3m1w","ty":"recession-active","se":"info","ca":"realm","ti":"Recession phase active","de":"Realm 0 in recession. CV growth: -1.17%","zs":0,"vl":-1.17,"mn":0,"sd":0,"ts":"2026-05-20T14:53:17.427Z"}],"su":{"to":1,"cr":0,"wa":0,"in":1},"ok":true}
+{
+  "an": [
+    {
+      "ca": "realm",
+      "de": "Realm 0 in recession. CV growth: -1.17%",
+      "id": "evt_mpe6lypf_3m1w",
+      "mn": 0,
+      "sd": 0,
+      "se": "info",
+      "ti": "Recession phase active",
+      "ts": "2026-05-20T14:53:17.427Z",
+      "ty": "recession-active",
+      "vl": -1.17,
+      "zs": 0
+    }
+  ],
+  "ok": true,
+  "r": 0,
+  "su": {
+    "cr": 0,
+    "in": 1,
+    "to": 1,
+    "wa": 0
+  },
+  "t": "2026-05-20T14:53:17.427Z"
+}

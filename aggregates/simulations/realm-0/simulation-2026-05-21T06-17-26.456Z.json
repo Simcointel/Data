@@ -1,1 +1,1109 @@
-[{"t":"2026-05-21T06:17:26.445Z","r":0,"scenario":"commodity-spike","scenarioDesc":"Sharp increase in raw material prices","shockMagnitude":2,"steps":[{"step":0,"category":"raw-materials","shockPct":50,"propagatedPct":0,"regime":"expansion","stress":0.2,"contagion":0},{"step":1,"category":"raw-materials","shockPct":0,"propagatedPct":50,"regime":"boom","stress":1,"contagion":0.5},{"step":1,"category":"industrial-goods","shockPct":0,"propagatedPct":15,"regime":"expansion","stress":0.3,"contagion":0.15},{"step":1,"category":"energy-fuel","shockPct":0,"propagatedPct":1.88,"regime":"recovery","stress":0.04,"contagion":0.02},{"step":1,"category":"consumer-goods","shockPct":0,"propagatedPct":0.07,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"electronics","shockPct":0,"propagatedPct":0,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"construction","shockPct":0,"propagatedPct":0,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"aerospace","shockPct":0,"propagatedPct":0,"regime":"recovery","stress":0,"contagion":0}],"sectorImpacts":[{"category":"raw-materials","directShock":50,"propagatedShock":50,"totalImpact":100,"recoveryDays":529},{"category":"industrial-goods","directShock":0,"propagatedShock":15,"totalImpact":15,"recoveryDays":104},{"category":"consumer-goods","directShock":0,"propagatedShock":0.07,"totalImpact":0.07,"recoveryDays":59},{"category":"energy-fuel","directShock":0,"propagatedShock":1.88,"totalImpact":1.88,"recoveryDays":59},{"category":"electronics","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":59},{"category":"construction","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":59},{"category":"aerospace","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":59}],"winners":["raw-materials","industrial-goods"],"losers":[],"estimatedRecoveryDays":133,"projectedRegime":"expansion","ok":true},{"t":"2026-05-21T06:17:26.447Z","r":0,"scenario":"recession","scenarioDesc":"Broad economic contraction","shockMagnitude":2,"steps":[{"step":0,"category":"all","shockPct":-15,"propagatedPct":0,"regime":"recession","stress":0.2,"contagion":0},{"step":1,"category":"all","shockPct":0,"propagatedPct":-15,"regime":"recession","stress":0.3,"contagion":0.15},{"step":1,"category":"raw-materials","shockPct":0,"propagatedPct":-2.25,"regime":"recession","stress":0.05,"contagion":0.02},{"step":1,"category":"energy-fuel","shockPct":0,"propagatedPct":-0.22,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"industrial-goods","shockPct":0,"propagatedPct":-0.01,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"consumer-goods","shockPct":0,"propagatedPct":0,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"electronics","shockPct":0,"propagatedPct":0,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"construction","shockPct":0,"propagatedPct":0,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"aerospace","shockPct":0,"propagatedPct":0,"regime":"recovery","stress":0,"contagion":0}],"sectorImpacts":[{"category":"raw-materials","directShock":0,"propagatedShock":-2.25,"totalImpact":-2.25,"recoveryDays":104},{"category":"industrial-goods","directShock":0,"propagatedShock":-0.01,"totalImpact":-0.01,"recoveryDays":104},{"category":"consumer-goods","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":104},{"category":"energy-fuel","directShock":0,"propagatedShock":-0.22,"totalImpact":-0.22,"recoveryDays":104},{"category":"electronics","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":104},{"category":"construction","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":104},{"category":"aerospace","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":104}],"winners":[],"losers":[],"estimatedRecoveryDays":104,"projectedRegime":"recession","ok":true},{"t":"2026-05-21T06:17:26.448Z","r":0,"scenario":"boom","scenarioDesc":"Rapid economic expansion","shockMagnitude":2,"steps":[{"step":0,"category":"all","shockPct":25,"propagatedPct":0,"regime":"expansion","stress":0.2,"contagion":0},{"step":1,"category":"all","shockPct":0,"propagatedPct":25,"regime":"boom","stress":0.5,"contagion":0.25},{"step":1,"category":"raw-materials","shockPct":0,"propagatedPct":3.75,"regime":"recovery","stress":0.08,"contagion":0.04},{"step":1,"category":"energy-fuel","shockPct":0,"propagatedPct":0.38,"regime":"recovery","stress":0.01,"contagion":0},{"step":1,"category":"industrial-goods","shockPct":0,"propagatedPct":0.01,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"consumer-goods","shockPct":0,"propagatedPct":0,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"electronics","shockPct":0,"propagatedPct":0,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"construction","shockPct":0,"propagatedPct":0,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"aerospace","shockPct":0,"propagatedPct":0,"regime":"recovery","stress":0,"contagion":0}],"sectorImpacts":[{"category":"raw-materials","directShock":0,"propagatedShock":3.75,"totalImpact":3.75,"recoveryDays":86},{"category":"industrial-goods","directShock":0,"propagatedShock":0.01,"totalImpact":0.01,"recoveryDays":86},{"category":"consumer-goods","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":86},{"category":"energy-fuel","directShock":0,"propagatedShock":0.38,"totalImpact":0.38,"recoveryDays":86},{"category":"electronics","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":86},{"category":"construction","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":86},{"category":"aerospace","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":86}],"winners":[],"losers":[],"estimatedRecoveryDays":86,"projectedRegime":"recovery","ok":true},{"t":"2026-05-21T06:17:26.450Z","r":0,"scenario":"supply-collapse","scenarioDesc":"Industrial supply chain disruption","shockMagnitude":2,"steps":[{"step":0,"category":"industrial-goods","shockPct":-40,"propagatedPct":0,"regime":"recession","stress":0.2,"contagion":0},{"step":1,"category":"industrial-goods","shockPct":0,"propagatedPct":-40,"regime":"recession","stress":0.8,"contagion":0.4},{"step":1,"category":"consumer-goods","shockPct":0,"propagatedPct":-12,"regime":"recession","stress":0.24,"contagion":0.12},{"step":1,"category":"energy-fuel","shockPct":0,"propagatedPct":-0.9,"regime":"recovery","stress":0.02,"contagion":0.01},{"step":1,"category":"raw-materials","shockPct":0,"propagatedPct":-0.01,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"construction","shockPct":0,"propagatedPct":0,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"aerospace","shockPct":0,"propagatedPct":0,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"electronics","shockPct":0,"propagatedPct":0,"regime":"recovery","stress":0,"contagion":0}],"sectorImpacts":[{"category":"raw-materials","directShock":0,"propagatedShock":-0.01,"totalImpact":-0.01,"recoveryDays":68},{"category":"industrial-goods","directShock":-40,"propagatedShock":-40,"totalImpact":-80,"recoveryDays":438},{"category":"consumer-goods","directShock":0,"propagatedShock":-12,"totalImpact":-12,"recoveryDays":98},{"category":"energy-fuel","directShock":0,"propagatedShock":-0.9,"totalImpact":-0.9,"recoveryDays":68},{"category":"electronics","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":68},{"category":"construction","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":68},{"category":"aerospace","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":68}],"winners":[],"losers":["industrial-goods","consumer-goods"],"estimatedRecoveryDays":125,"projectedRegime":"recession","ok":true},{"t":"2026-05-21T06:17:26.451Z","r":0,"scenario":"inflation-surge","scenarioDesc":"Rapid consumer price inflation","shockMagnitude":2,"steps":[{"step":0,"category":"consumer-goods","shockPct":30,"propagatedPct":0,"regime":"expansion","stress":0.2,"contagion":0},{"step":1,"category":"consumer-goods","shockPct":0,"propagatedPct":30,"regime":"boom","stress":0.6,"contagion":0.3}],"sectorImpacts":[{"category":"raw-materials","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":77},{"category":"industrial-goods","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":77},{"category":"consumer-goods","directShock":30,"propagatedShock":30,"totalImpact":60,"recoveryDays":347},{"category":"energy-fuel","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":77},{"category":"electronics","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":77},{"category":"construction","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":77},{"category":"aerospace","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":77}],"winners":["consumer-goods"],"losers":[],"estimatedRecoveryDays":116,"projectedRegime":"boom","ok":true},{"t":"2026-05-21T06:17:26.452Z","r":0,"scenario":"deflation-event","scenarioDesc":"Broad price deflation","shockMagnitude":2,"steps":[{"step":0,"category":"consumer-goods","shockPct":-20,"propagatedPct":0,"regime":"recession","stress":0.2,"contagion":0},{"step":1,"category":"consumer-goods","shockPct":0,"propagatedPct":-20,"regime":"recession","stress":0.4,"contagion":0.2}],"sectorImpacts":[{"category":"raw-materials","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":86},{"category":"industrial-goods","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":86},{"category":"consumer-goods","directShock":-20,"propagatedShock":-20,"totalImpact":-40,"recoveryDays":256},{"category":"energy-fuel","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":86},{"category":"electronics","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":86},{"category":"construction","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":86},{"category":"aerospace","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":86}],"winners":[],"losers":["consumer-goods"],"estimatedRecoveryDays":110,"projectedRegime":"recession","ok":true},{"t":"2026-05-21T06:17:26.454Z","r":0,"scenario":"fuel-shortage","scenarioDesc":"Energy supply crisis","shockMagnitude":2,"steps":[{"step":0,"category":"energy-fuel","shockPct":60,"propagatedPct":0,"regime":"expansion","stress":0.2,"contagion":0},{"step":1,"category":"energy-fuel","shockPct":0,"propagatedPct":60,"regime":"overheating","stress":1,"contagion":0.6},{"step":1,"category":"industrial-goods","shockPct":0,"propagatedPct":6,"regime":"expansion","stress":0.12,"contagion":0.06},{"step":1,"category":"raw-materials","shockPct":0,"propagatedPct":1.05,"regime":"recovery","stress":0.02,"contagion":0.01},{"step":1,"category":"consumer-goods","shockPct":0,"propagatedPct":0.07,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"electronics","shockPct":0,"propagatedPct":0,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"construction","shockPct":0,"propagatedPct":0,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"aerospace","shockPct":0,"propagatedPct":0,"regime":"recovery","stress":0,"contagion":0}],"sectorImpacts":[{"category":"raw-materials","directShock":0,"propagatedShock":1.05,"totalImpact":1.05,"recoveryDays":64},{"category":"industrial-goods","directShock":0,"propagatedShock":6,"totalImpact":6,"recoveryDays":64},{"category":"consumer-goods","directShock":0,"propagatedShock":0.07,"totalImpact":0.07,"recoveryDays":64},{"category":"energy-fuel","directShock":60,"propagatedShock":60,"totalImpact":120,"recoveryDays":634},{"category":"electronics","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":64},{"category":"construction","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":64},{"category":"aerospace","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":64}],"winners":["energy-fuel","industrial-goods"],"losers":[],"estimatedRecoveryDays":145,"projectedRegime":"expansion","ok":true},{"t":"2026-05-21T06:17:26.455Z","r":0,"scenario":"electronics-shortage","scenarioDesc":"Semiconductor and electronics shortage","shockMagnitude":2,"steps":[{"step":0,"category":"electronics","shockPct":-35,"propagatedPct":0,"regime":"recession","stress":0.2,"contagion":0},{"step":1,"category":"electronics","shockPct":0,"propagatedPct":-35,"regime":"recession","stress":0.7,"contagion":0.35},{"step":1,"category":"consumer-goods","shockPct":0,"propagatedPct":-7,"regime":"recession","stress":0.14,"contagion":0.07},{"step":1,"category":"energy-fuel","shockPct":0,"propagatedPct":-0.52,"regime":"recovery","stress":0.01,"contagion":0.01},{"step":1,"category":"raw-materials","shockPct":0,"propagatedPct":-0.01,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"industrial-goods","shockPct":0,"propagatedPct":0,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"construction","shockPct":0,"propagatedPct":0,"regime":"recovery","stress":0,"contagion":0},{"step":1,"category":"aerospace","shockPct":0,"propagatedPct":0,"regime":"recovery","stress":0,"contagion":0}],"sectorImpacts":[{"category":"raw-materials","directShock":0,"propagatedShock":-0.01,"totalImpact":-0.01,"recoveryDays":77},{"category":"industrial-goods","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":77},{"category":"consumer-goods","directShock":0,"propagatedShock":-7,"totalImpact":-7,"recoveryDays":82},{"category":"energy-fuel","directShock":0,"propagatedShock":-0.52,"totalImpact":-0.52,"recoveryDays":77},{"category":"electronics","directShock":-35,"propagatedShock":-35,"totalImpact":-70,"recoveryDays":397},{"category":"construction","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":77},{"category":"aerospace","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":77}],"winners":[],"losers":["electronics","consumer-goods"],"estimatedRecoveryDays":123,"projectedRegime":"recession","ok":true},{"t":"2026-05-21T06:17:26.456Z","r":0,"scenario":"construction-boom","scenarioDesc":"Construction sector expansion","shockMagnitude":2,"steps":[{"step":0,"category":"construction","shockPct":40,"propagatedPct":0,"regime":"expansion","stress":0.2,"contagion":0},{"step":1,"category":"construction","shockPct":0,"propagatedPct":40,"regime":"boom","stress":0.8,"contagion":0.4}],"sectorImpacts":[{"category":"raw-materials","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":104},{"category":"industrial-goods","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":104},{"category":"consumer-goods","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":104},{"category":"energy-fuel","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":104},{"category":"electronics","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":104},{"category":"construction","directShock":40,"propagatedShock":40,"totalImpact":80,"recoveryDays":474},{"category":"aerospace","directShock":0,"propagatedShock":0,"totalImpact":0,"recoveryDays":104}],"winners":["construction"],"losers":[],"estimatedRecoveryDays":157,"projectedRegime":"boom","ok":true}]
+[
+  {
+    "estimatedRecoveryDays": 133,
+    "losers": [],
+    "ok": true,
+    "projectedRegime": "expansion",
+    "r": 0,
+    "scenario": "commodity-spike",
+    "scenarioDesc": "Sharp increase in raw material prices",
+    "sectorImpacts": [
+      {
+        "category": "raw-materials",
+        "directShock": 50,
+        "propagatedShock": 50,
+        "recoveryDays": 529,
+        "totalImpact": 100
+      },
+      {
+        "category": "industrial-goods",
+        "directShock": 0,
+        "propagatedShock": 15,
+        "recoveryDays": 104,
+        "totalImpact": 15
+      },
+      {
+        "category": "consumer-goods",
+        "directShock": 0,
+        "propagatedShock": 0.07,
+        "recoveryDays": 59,
+        "totalImpact": 0.07
+      },
+      {
+        "category": "energy-fuel",
+        "directShock": 0,
+        "propagatedShock": 1.88,
+        "recoveryDays": 59,
+        "totalImpact": 1.88
+      },
+      {
+        "category": "electronics",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 59,
+        "totalImpact": 0
+      },
+      {
+        "category": "construction",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 59,
+        "totalImpact": 0
+      },
+      {
+        "category": "aerospace",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 59,
+        "totalImpact": 0
+      }
+    ],
+    "shockMagnitude": 2,
+    "steps": [
+      {
+        "category": "raw-materials",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "expansion",
+        "shockPct": 50,
+        "step": 0,
+        "stress": 0.2
+      },
+      {
+        "category": "raw-materials",
+        "contagion": 0.5,
+        "propagatedPct": 50,
+        "regime": "boom",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 1
+      },
+      {
+        "category": "industrial-goods",
+        "contagion": 0.15,
+        "propagatedPct": 15,
+        "regime": "expansion",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0.3
+      },
+      {
+        "category": "energy-fuel",
+        "contagion": 0.02,
+        "propagatedPct": 1.88,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0.04
+      },
+      {
+        "category": "consumer-goods",
+        "contagion": 0,
+        "propagatedPct": 0.07,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "electronics",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "construction",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "aerospace",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      }
+    ],
+    "t": "2026-05-21T06:17:26.445Z",
+    "winners": [
+      "raw-materials",
+      "industrial-goods"
+    ]
+  },
+  {
+    "estimatedRecoveryDays": 104,
+    "losers": [],
+    "ok": true,
+    "projectedRegime": "recession",
+    "r": 0,
+    "scenario": "recession",
+    "scenarioDesc": "Broad economic contraction",
+    "sectorImpacts": [
+      {
+        "category": "raw-materials",
+        "directShock": 0,
+        "propagatedShock": -2.25,
+        "recoveryDays": 104,
+        "totalImpact": -2.25
+      },
+      {
+        "category": "industrial-goods",
+        "directShock": 0,
+        "propagatedShock": -0.01,
+        "recoveryDays": 104,
+        "totalImpact": -0.01
+      },
+      {
+        "category": "consumer-goods",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 104,
+        "totalImpact": 0
+      },
+      {
+        "category": "energy-fuel",
+        "directShock": 0,
+        "propagatedShock": -0.22,
+        "recoveryDays": 104,
+        "totalImpact": -0.22
+      },
+      {
+        "category": "electronics",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 104,
+        "totalImpact": 0
+      },
+      {
+        "category": "construction",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 104,
+        "totalImpact": 0
+      },
+      {
+        "category": "aerospace",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 104,
+        "totalImpact": 0
+      }
+    ],
+    "shockMagnitude": 2,
+    "steps": [
+      {
+        "category": "all",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recession",
+        "shockPct": -15,
+        "step": 0,
+        "stress": 0.2
+      },
+      {
+        "category": "all",
+        "contagion": 0.15,
+        "propagatedPct": -15,
+        "regime": "recession",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0.3
+      },
+      {
+        "category": "raw-materials",
+        "contagion": 0.02,
+        "propagatedPct": -2.25,
+        "regime": "recession",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0.05
+      },
+      {
+        "category": "energy-fuel",
+        "contagion": 0,
+        "propagatedPct": -0.22,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "industrial-goods",
+        "contagion": 0,
+        "propagatedPct": -0.01,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "consumer-goods",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "electronics",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "construction",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "aerospace",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      }
+    ],
+    "t": "2026-05-21T06:17:26.447Z",
+    "winners": []
+  },
+  {
+    "estimatedRecoveryDays": 86,
+    "losers": [],
+    "ok": true,
+    "projectedRegime": "recovery",
+    "r": 0,
+    "scenario": "boom",
+    "scenarioDesc": "Rapid economic expansion",
+    "sectorImpacts": [
+      {
+        "category": "raw-materials",
+        "directShock": 0,
+        "propagatedShock": 3.75,
+        "recoveryDays": 86,
+        "totalImpact": 3.75
+      },
+      {
+        "category": "industrial-goods",
+        "directShock": 0,
+        "propagatedShock": 0.01,
+        "recoveryDays": 86,
+        "totalImpact": 0.01
+      },
+      {
+        "category": "consumer-goods",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 86,
+        "totalImpact": 0
+      },
+      {
+        "category": "energy-fuel",
+        "directShock": 0,
+        "propagatedShock": 0.38,
+        "recoveryDays": 86,
+        "totalImpact": 0.38
+      },
+      {
+        "category": "electronics",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 86,
+        "totalImpact": 0
+      },
+      {
+        "category": "construction",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 86,
+        "totalImpact": 0
+      },
+      {
+        "category": "aerospace",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 86,
+        "totalImpact": 0
+      }
+    ],
+    "shockMagnitude": 2,
+    "steps": [
+      {
+        "category": "all",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "expansion",
+        "shockPct": 25,
+        "step": 0,
+        "stress": 0.2
+      },
+      {
+        "category": "all",
+        "contagion": 0.25,
+        "propagatedPct": 25,
+        "regime": "boom",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0.5
+      },
+      {
+        "category": "raw-materials",
+        "contagion": 0.04,
+        "propagatedPct": 3.75,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0.08
+      },
+      {
+        "category": "energy-fuel",
+        "contagion": 0,
+        "propagatedPct": 0.38,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0.01
+      },
+      {
+        "category": "industrial-goods",
+        "contagion": 0,
+        "propagatedPct": 0.01,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "consumer-goods",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "electronics",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "construction",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "aerospace",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      }
+    ],
+    "t": "2026-05-21T06:17:26.448Z",
+    "winners": []
+  },
+  {
+    "estimatedRecoveryDays": 125,
+    "losers": [
+      "industrial-goods",
+      "consumer-goods"
+    ],
+    "ok": true,
+    "projectedRegime": "recession",
+    "r": 0,
+    "scenario": "supply-collapse",
+    "scenarioDesc": "Industrial supply chain disruption",
+    "sectorImpacts": [
+      {
+        "category": "raw-materials",
+        "directShock": 0,
+        "propagatedShock": -0.01,
+        "recoveryDays": 68,
+        "totalImpact": -0.01
+      },
+      {
+        "category": "industrial-goods",
+        "directShock": -40,
+        "propagatedShock": -40,
+        "recoveryDays": 438,
+        "totalImpact": -80
+      },
+      {
+        "category": "consumer-goods",
+        "directShock": 0,
+        "propagatedShock": -12,
+        "recoveryDays": 98,
+        "totalImpact": -12
+      },
+      {
+        "category": "energy-fuel",
+        "directShock": 0,
+        "propagatedShock": -0.9,
+        "recoveryDays": 68,
+        "totalImpact": -0.9
+      },
+      {
+        "category": "electronics",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 68,
+        "totalImpact": 0
+      },
+      {
+        "category": "construction",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 68,
+        "totalImpact": 0
+      },
+      {
+        "category": "aerospace",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 68,
+        "totalImpact": 0
+      }
+    ],
+    "shockMagnitude": 2,
+    "steps": [
+      {
+        "category": "industrial-goods",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recession",
+        "shockPct": -40,
+        "step": 0,
+        "stress": 0.2
+      },
+      {
+        "category": "industrial-goods",
+        "contagion": 0.4,
+        "propagatedPct": -40,
+        "regime": "recession",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0.8
+      },
+      {
+        "category": "consumer-goods",
+        "contagion": 0.12,
+        "propagatedPct": -12,
+        "regime": "recession",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0.24
+      },
+      {
+        "category": "energy-fuel",
+        "contagion": 0.01,
+        "propagatedPct": -0.9,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0.02
+      },
+      {
+        "category": "raw-materials",
+        "contagion": 0,
+        "propagatedPct": -0.01,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "construction",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "aerospace",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "electronics",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      }
+    ],
+    "t": "2026-05-21T06:17:26.450Z",
+    "winners": []
+  },
+  {
+    "estimatedRecoveryDays": 116,
+    "losers": [],
+    "ok": true,
+    "projectedRegime": "boom",
+    "r": 0,
+    "scenario": "inflation-surge",
+    "scenarioDesc": "Rapid consumer price inflation",
+    "sectorImpacts": [
+      {
+        "category": "raw-materials",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 77,
+        "totalImpact": 0
+      },
+      {
+        "category": "industrial-goods",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 77,
+        "totalImpact": 0
+      },
+      {
+        "category": "consumer-goods",
+        "directShock": 30,
+        "propagatedShock": 30,
+        "recoveryDays": 347,
+        "totalImpact": 60
+      },
+      {
+        "category": "energy-fuel",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 77,
+        "totalImpact": 0
+      },
+      {
+        "category": "electronics",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 77,
+        "totalImpact": 0
+      },
+      {
+        "category": "construction",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 77,
+        "totalImpact": 0
+      },
+      {
+        "category": "aerospace",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 77,
+        "totalImpact": 0
+      }
+    ],
+    "shockMagnitude": 2,
+    "steps": [
+      {
+        "category": "consumer-goods",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "expansion",
+        "shockPct": 30,
+        "step": 0,
+        "stress": 0.2
+      },
+      {
+        "category": "consumer-goods",
+        "contagion": 0.3,
+        "propagatedPct": 30,
+        "regime": "boom",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0.6
+      }
+    ],
+    "t": "2026-05-21T06:17:26.451Z",
+    "winners": [
+      "consumer-goods"
+    ]
+  },
+  {
+    "estimatedRecoveryDays": 110,
+    "losers": [
+      "consumer-goods"
+    ],
+    "ok": true,
+    "projectedRegime": "recession",
+    "r": 0,
+    "scenario": "deflation-event",
+    "scenarioDesc": "Broad price deflation",
+    "sectorImpacts": [
+      {
+        "category": "raw-materials",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 86,
+        "totalImpact": 0
+      },
+      {
+        "category": "industrial-goods",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 86,
+        "totalImpact": 0
+      },
+      {
+        "category": "consumer-goods",
+        "directShock": -20,
+        "propagatedShock": -20,
+        "recoveryDays": 256,
+        "totalImpact": -40
+      },
+      {
+        "category": "energy-fuel",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 86,
+        "totalImpact": 0
+      },
+      {
+        "category": "electronics",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 86,
+        "totalImpact": 0
+      },
+      {
+        "category": "construction",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 86,
+        "totalImpact": 0
+      },
+      {
+        "category": "aerospace",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 86,
+        "totalImpact": 0
+      }
+    ],
+    "shockMagnitude": 2,
+    "steps": [
+      {
+        "category": "consumer-goods",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recession",
+        "shockPct": -20,
+        "step": 0,
+        "stress": 0.2
+      },
+      {
+        "category": "consumer-goods",
+        "contagion": 0.2,
+        "propagatedPct": -20,
+        "regime": "recession",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0.4
+      }
+    ],
+    "t": "2026-05-21T06:17:26.452Z",
+    "winners": []
+  },
+  {
+    "estimatedRecoveryDays": 145,
+    "losers": [],
+    "ok": true,
+    "projectedRegime": "expansion",
+    "r": 0,
+    "scenario": "fuel-shortage",
+    "scenarioDesc": "Energy supply crisis",
+    "sectorImpacts": [
+      {
+        "category": "raw-materials",
+        "directShock": 0,
+        "propagatedShock": 1.05,
+        "recoveryDays": 64,
+        "totalImpact": 1.05
+      },
+      {
+        "category": "industrial-goods",
+        "directShock": 0,
+        "propagatedShock": 6,
+        "recoveryDays": 64,
+        "totalImpact": 6
+      },
+      {
+        "category": "consumer-goods",
+        "directShock": 0,
+        "propagatedShock": 0.07,
+        "recoveryDays": 64,
+        "totalImpact": 0.07
+      },
+      {
+        "category": "energy-fuel",
+        "directShock": 60,
+        "propagatedShock": 60,
+        "recoveryDays": 634,
+        "totalImpact": 120
+      },
+      {
+        "category": "electronics",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 64,
+        "totalImpact": 0
+      },
+      {
+        "category": "construction",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 64,
+        "totalImpact": 0
+      },
+      {
+        "category": "aerospace",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 64,
+        "totalImpact": 0
+      }
+    ],
+    "shockMagnitude": 2,
+    "steps": [
+      {
+        "category": "energy-fuel",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "expansion",
+        "shockPct": 60,
+        "step": 0,
+        "stress": 0.2
+      },
+      {
+        "category": "energy-fuel",
+        "contagion": 0.6,
+        "propagatedPct": 60,
+        "regime": "overheating",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 1
+      },
+      {
+        "category": "industrial-goods",
+        "contagion": 0.06,
+        "propagatedPct": 6,
+        "regime": "expansion",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0.12
+      },
+      {
+        "category": "raw-materials",
+        "contagion": 0.01,
+        "propagatedPct": 1.05,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0.02
+      },
+      {
+        "category": "consumer-goods",
+        "contagion": 0,
+        "propagatedPct": 0.07,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "electronics",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "construction",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "aerospace",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      }
+    ],
+    "t": "2026-05-21T06:17:26.454Z",
+    "winners": [
+      "energy-fuel",
+      "industrial-goods"
+    ]
+  },
+  {
+    "estimatedRecoveryDays": 123,
+    "losers": [
+      "electronics",
+      "consumer-goods"
+    ],
+    "ok": true,
+    "projectedRegime": "recession",
+    "r": 0,
+    "scenario": "electronics-shortage",
+    "scenarioDesc": "Semiconductor and electronics shortage",
+    "sectorImpacts": [
+      {
+        "category": "raw-materials",
+        "directShock": 0,
+        "propagatedShock": -0.01,
+        "recoveryDays": 77,
+        "totalImpact": -0.01
+      },
+      {
+        "category": "industrial-goods",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 77,
+        "totalImpact": 0
+      },
+      {
+        "category": "consumer-goods",
+        "directShock": 0,
+        "propagatedShock": -7,
+        "recoveryDays": 82,
+        "totalImpact": -7
+      },
+      {
+        "category": "energy-fuel",
+        "directShock": 0,
+        "propagatedShock": -0.52,
+        "recoveryDays": 77,
+        "totalImpact": -0.52
+      },
+      {
+        "category": "electronics",
+        "directShock": -35,
+        "propagatedShock": -35,
+        "recoveryDays": 397,
+        "totalImpact": -70
+      },
+      {
+        "category": "construction",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 77,
+        "totalImpact": 0
+      },
+      {
+        "category": "aerospace",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 77,
+        "totalImpact": 0
+      }
+    ],
+    "shockMagnitude": 2,
+    "steps": [
+      {
+        "category": "electronics",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recession",
+        "shockPct": -35,
+        "step": 0,
+        "stress": 0.2
+      },
+      {
+        "category": "electronics",
+        "contagion": 0.35,
+        "propagatedPct": -35,
+        "regime": "recession",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0.7
+      },
+      {
+        "category": "consumer-goods",
+        "contagion": 0.07,
+        "propagatedPct": -7,
+        "regime": "recession",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0.14
+      },
+      {
+        "category": "energy-fuel",
+        "contagion": 0.01,
+        "propagatedPct": -0.52,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0.01
+      },
+      {
+        "category": "raw-materials",
+        "contagion": 0,
+        "propagatedPct": -0.01,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "industrial-goods",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "construction",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      },
+      {
+        "category": "aerospace",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "recovery",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0
+      }
+    ],
+    "t": "2026-05-21T06:17:26.455Z",
+    "winners": []
+  },
+  {
+    "estimatedRecoveryDays": 157,
+    "losers": [],
+    "ok": true,
+    "projectedRegime": "boom",
+    "r": 0,
+    "scenario": "construction-boom",
+    "scenarioDesc": "Construction sector expansion",
+    "sectorImpacts": [
+      {
+        "category": "raw-materials",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 104,
+        "totalImpact": 0
+      },
+      {
+        "category": "industrial-goods",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 104,
+        "totalImpact": 0
+      },
+      {
+        "category": "consumer-goods",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 104,
+        "totalImpact": 0
+      },
+      {
+        "category": "energy-fuel",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 104,
+        "totalImpact": 0
+      },
+      {
+        "category": "electronics",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 104,
+        "totalImpact": 0
+      },
+      {
+        "category": "construction",
+        "directShock": 40,
+        "propagatedShock": 40,
+        "recoveryDays": 474,
+        "totalImpact": 80
+      },
+      {
+        "category": "aerospace",
+        "directShock": 0,
+        "propagatedShock": 0,
+        "recoveryDays": 104,
+        "totalImpact": 0
+      }
+    ],
+    "shockMagnitude": 2,
+    "steps": [
+      {
+        "category": "construction",
+        "contagion": 0,
+        "propagatedPct": 0,
+        "regime": "expansion",
+        "shockPct": 40,
+        "step": 0,
+        "stress": 0.2
+      },
+      {
+        "category": "construction",
+        "contagion": 0.4,
+        "propagatedPct": 40,
+        "regime": "boom",
+        "shockPct": 0,
+        "step": 1,
+        "stress": 0.8
+      }
+    ],
+    "t": "2026-05-21T06:17:26.456Z",
+    "winners": [
+      "construction"
+    ]
+  }
+]

@@ -1,1 +1,9 @@
-{"events":[{"id":"evt_mpe6lcc9_p72g","typeKey":"recession-active::realm","expiresAt":"2026-05-21T14:52:48.440Z"}]}
+{
+  "events": [
+    {
+      "expiresAt": "2026-05-21T14:52:48.440Z",
+      "id": "evt_mpe6lcc9_p72g",
+      "typeKey": "recession-active::realm"
+    }
+  ]
+}

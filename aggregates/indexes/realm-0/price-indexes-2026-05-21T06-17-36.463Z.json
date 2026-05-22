@@ -1,42 +1,42 @@
 {
-  "t": "2026-05-21T06:17:36.463Z",
-  "r": 0,
-  "sr": "C:\\Users\\nanda\\All\\SimcoIntel\\Data\\snapshots\\market\\realm-0\\market-snapshot-2026-05-20T14-02-50.142Z.json",
   "ix": {
-    "raw-materials": {
-      "v": 7096.3326,
-      "n": 28,
-      "rn": 28
-    },
-    "industrial-goods": {
-      "v": 421.8386,
-      "n": 24,
-      "rn": 24
-    },
-    "consumer-goods": {
-      "v": 554.2348,
-      "n": 38,
-      "rn": 38
-    },
-    "energy-fuel": {
-      "v": 24.1347,
-      "n": 6,
-      "rn": 6
-    },
-    "electronics": {
-      "v": 1056.186,
-      "n": 9,
-      "rn": 9
+    "aerospace": {
+      "n": 22,
+      "rn": 31,
+      "v": 3972.3957
     },
     "construction": {
-      "v": 1135.953,
       "n": 4,
-      "rn": 4
+      "rn": 4,
+      "v": 1135.953
     },
-    "aerospace": {
-      "v": 3972.3957,
-      "n": 22,
-      "rn": 31
+    "consumer-goods": {
+      "n": 38,
+      "rn": 38,
+      "v": 554.2348
+    },
+    "electronics": {
+      "n": 9,
+      "rn": 9,
+      "v": 1056.186
+    },
+    "energy-fuel": {
+      "n": 6,
+      "rn": 6,
+      "v": 24.1347
+    },
+    "industrial-goods": {
+      "n": 24,
+      "rn": 24,
+      "v": 421.8386
+    },
+    "raw-materials": {
+      "n": 28,
+      "rn": 28,
+      "v": 7096.3326
     }
-  }
+  },
+  "r": 0,
+  "sr": "C:\\Users\\nanda\\All\\SimcoIntel\\Data\\snapshots\\market\\realm-0\\market-snapshot-2026-05-20T14-02-50.142Z.json",
+  "t": "2026-05-21T06:17:36.463Z"
 }
