@@ -23,14 +23,22 @@ jobs:
             echo "::error::BACKEND_URL secret not set"
             exit 1
           fi
-          AUTH=""
+          URL="$BACKEND_URL/api/public/sync"
+          echo "Fetching from $URL ..."
           if [ -n "$SYNC_SECRET" ]; then
-            AUTH="-H \"Authorization: Bearer $SYNC_SECRET\""
+            curl -sf -H "Authorization: Bearer $SYNC_SECRET" "$URL" -o /tmp/sync.json
+          else
+            curl -sf "$URL" -o /tmp/sync.json
           fi
-          echo "Fetching from $BACKEND_URL/api/public/sync ..."
-          curl -sf $AUTH "$BACKEND_URL/api/public/sync" -o /tmp/sync.json
-          if [ $? -ne 0 ]; then
-            echo "::error::Sync API call failed"
+          RC=$?
+          if [ $RC -ne 0 ]; then
+            echo "::error::Sync API call failed (curl exit code $RC)"
+            head -5 /tmp/sync.json 2>/dev/null || true
+            exit 1
+          fi
+          if ! jq empty /tmp/sync.json 2>/dev/null; then
+            echo "::error::Response is not valid JSON"
+            head -10 /tmp/sync.json
             exit 1
           fi
           COUNT=$(jq '.data.files | length' /tmp/sync.json)
@@ -47,7 +55,7 @@ jobs:
           git config user.email "sync-bot@simcointel.com"
           git add -A
           if git diff --cached --quiet; then
-            echo "No changes — data is up to date"
+            echo "No changes -- data is up to date"
           else
             git commit -m "auto: sync from backend $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             git push
