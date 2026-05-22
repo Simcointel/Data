@@ -1,0 +1,14 @@
+*
+!.gitignore
+!aggregates/
+!aggregates/**/
+!aggregates/**/*.json
+!state/
+!state/**/
+!state/**/*.json
+!snapshots/
+!snapshots/**/
+!snapshots/**/*.json
+!public/
+!public/**/
+!public/**/*.json
