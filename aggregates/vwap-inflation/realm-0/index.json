@@ -1,2 +1,8 @@
-{"latest":"vwap-inflation-2026-05-23.json","files":["vwap-inflation-2026-05-23.json"]}
-
+{
+  "directory": "aggregates/vwap-inflation/realm-0",
+  "latest": "vwap-inflation-2026-05-23.json",
+  "files": [
+    "vwap-inflation-2026-05-23.json",
+    "index.json"
+  ]
+}
