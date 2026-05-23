@@ -1,0 +1,766 @@
+{
+  "t": "2026-03-25",
+  "r": 0,
+  "overall": {
+    "vw": 748.0879,
+    "n": 80
+  },
+  "quality": {
+    "0": {
+      "vw": 748.0879,
+      "n": 80
+    },
+    "1": {
+      "vw": 25.0459,
+      "n": 1
+    },
+    "2": {
+      "vw": 25.3211,
+      "n": 1
+    },
+    "3": {
+      "vw": 74.0345,
+      "n": 2
+    },
+    "4": {
+      "vw": 1648.0445,
+      "n": 9
+    },
+    "5": {
+      "vw": 27.8163,
+      "n": 1
+    },
+    "6": {
+      "vw": 28.6751,
+      "n": 1
+    },
+    "7": {
+      "vw": 28.5,
+      "n": 1
+    },
+    "9": {
+      "vw": 34.0321,
+      "n": 3
+    }
+  },
+  "product": {
+    "1": {
+      "nm": "Power",
+      "vw": 0.2923
+    },
+    "2": {
+      "nm": "Water",
+      "vw": 0.3917
+    },
+    "3": {
+      "nm": "Apples",
+      "vw": 2.5793
+    },
+    "6": {
+      "nm": "Grain",
+      "vw": 0.8203
+    },
+    "8": {
+      "nm": "Sausages",
+      "vw": 12.5064
+    },
+    "11": {
+      "nm": "Petrol",
+      "vw": 47.5561
+    },
+    "13": {
+      "nm": "Transport",
+      "vw": 0.4278
+    },
+    "14": {
+      "nm": "Minerals",
+      "vw": 12.7163
+    },
+    "17": {
+      "nm": "Chemicals",
+      "vw": 16.7555
+    },
+    "18": {
+      "nm": "Aluminium",
+      "vw": 24.7508
+    },
+    "19": {
+      "nm": "Plastic",
+      "vw": 13.5771
+    },
+    "21": {
+      "nm": "Electronic components",
+      "vw": 64.0582
+    },
+    "22": {
+      "nm": "Batteries",
+      "vw": 97.2167
+    },
+    "23": {
+      "nm": "Displays",
+      "vw": 138.9674
+    },
+    "24": {
+      "nm": "Smart phones",
+      "vw": 694.1543
+    },
+    "25": {
+      "nm": "Tablets",
+      "vw": 841.3062
+    },
+    "29": {
+      "nm": "Plant research",
+      "vw": 130.4309
+    },
+    "31": {
+      "nm": "Mining research",
+      "vw": 296.47
+    },
+    "32": {
+      "nm": "Electronics research",
+      "vw": 298.3551
+    },
+    "33": {
+      "nm": "Breeding research",
+      "vw": 152.8875
+    },
+    "35": {
+      "nm": "Software",
+      "vw": 112.8254
+    },
+    "40": {
+      "nm": "Cotton",
+      "vw": 1.838
+    },
+    "41": {
+      "nm": "Fabric",
+      "vw": 6.1141
+    },
+    "43": {
+      "nm": "Steel",
+      "vw": 12.8416
+    },
+    "46": {
+      "nm": "Leather",
+      "vw": 30.9557
+    },
+    "47": {
+      "nm": "On-board computer",
+      "vw": 519.1171
+    },
+    "49": {
+      "nm": "Luxury car interior",
+      "vw": 1146.7267
+    },
+    "50": {
+      "nm": "Basic interior",
+      "vw": 367.6716
+    },
+    "51": {
+      "nm": "Car body",
+      "vw": 912.1305
+    },
+    "53": {
+      "nm": "Economy e-car",
+      "vw": 3880
+    },
+    "54": {
+      "nm": "Luxury e-car",
+      "vw": 7257.7485
+    },
+    "55": {
+      "nm": "Economy car",
+      "vw": 2532.4597
+    },
+    "57": {
+      "nm": "Truck",
+      "vw": 6267.324
+    },
+    "59": {
+      "nm": "Fashion research",
+      "vw": 84.6807
+    },
+    "63": {
+      "nm": "Stiletto Heel",
+      "vw": 37.3389
+    },
+    "64": {
+      "nm": "Handbags",
+      "vw": 52.481
+    },
+    "65": {
+      "nm": "Sneakers",
+      "vw": 17.2504
+    },
+    "66": {
+      "nm": "Seeds",
+      "vw": 0.3029
+    },
+    "69": {
+      "nm": "Golden bars",
+      "vw": 6629.512
+    },
+    "72": {
+      "nm": "Sugarcane",
+      "vw": 1.8101
+    },
+    "76": {
+      "nm": "Carbon composite",
+      "vw": 69.369
+    },
+    "77": {
+      "nm": "Fuselage",
+      "vw": 3102.957
+    },
+    "79": {
+      "nm": "High grade e-comps",
+      "vw": 1003.5676
+    },
+    "82": {
+      "nm": "Attitude control",
+      "vw": 1838.4832
+    },
+    "83": {
+      "nm": "Rocket fuel",
+      "vw": 37.1579
+    },
+    "87": {
+      "nm": "Heat shield",
+      "vw": 632.2504
+    },
+    "89": {
+      "nm": "Jet engine",
+      "vw": 4926.613
+    },
+    "100": {
+      "nm": "Aerospace research",
+      "vw": 138.1173
+    },
+    "101": {
+      "nm": "Reinforced concrete",
+      "vw": 223.9103
+    },
+    "102": {
+      "nm": "Bricks",
+      "vw": 3.1668
+    },
+    "104": {
+      "nm": "Clay",
+      "vw": 1.0277
+    },
+    "106": {
+      "nm": "Wood",
+      "vw": 4.437
+    },
+    "111": {
+      "nm": "Construction units",
+      "vw": 2978.4778
+    },
+    "113": {
+      "nm": "Materials research",
+      "vw": 177.6956
+    },
+    "114": {
+      "nm": "Robots",
+      "vw": 862.1335
+    },
+    "115": {
+      "nm": "Cows",
+      "vw": 146.4793
+    },
+    "118": {
+      "nm": "Coffee beans",
+      "vw": 0.9222
+    },
+    "120": {
+      "nm": "Vegetables",
+      "vw": 3.0018
+    },
+    "121": {
+      "nm": "Bread",
+      "vw": 174.4273
+    },
+    "122": {
+      "nm": "Cheese",
+      "vw": 143.0156
+    },
+    "124": {
+      "nm": "Orange juice",
+      "vw": 41.917
+    },
+    "125": {
+      "nm": "Apple cider",
+      "vw": 28.3091
+    },
+    "126": {
+      "nm": "Ginger beer",
+      "vw": 61.3363
+    },
+    "127": {
+      "nm": "Frozen pizza",
+      "vw": 537.4846
+    },
+    "128": {
+      "nm": "Pasta",
+      "vw": 65.3064
+    },
+    "130": {
+      "nm": "Lasagna",
+      "vw": 2370.4167
+    },
+    "131": {
+      "nm": "Meat balls",
+      "vw": 2721.1628
+    },
+    "136": {
+      "nm": "Cocoa",
+      "vw": 1.9713
+    },
+    "137": {
+      "nm": "Dough",
+      "vw": 135.0203
+    },
+    "138": {
+      "nm": "Sauce",
+      "vw": 1223.1838
+    },
+    "139": {
+      "nm": "Fodder",
+      "vw": 11.7897
+    },
+    "142": {
+      "nm": "Salad",
+      "vw": 930.8612
+    },
+    "143": {
+      "nm": "Samosa",
+      "vw": 808.6745
+    },
+    "145": {
+      "nm": "Recipes",
+      "vw": 176.4164
+    },
+    "146": {
+      "nm": "Pumpkin",
+      "vw": 15.1364
+    },
+    "147": {
+      "nm": "Jack o'lantern",
+      "vw": 44
+    },
+    "148": {
+      "nm": "Witch costume",
+      "vw": 38.1956
+    },
+    "149": {
+      "nm": "Pumpkin soup",
+      "vw": 959.2071
+    },
+    "150": {
+      "nm": "Tree",
+      "vw": 430.0688
+    },
+    "153": {
+      "nm": "Chocolate icecream",
+      "vw": 62.0166
+    }
+  },
+  "both": {
+    "100_0": {
+      "nm": "Aerospace research",
+      "vw": 138.1173
+    },
+    "18_0": {
+      "nm": "Aluminium",
+      "vw": 24.7508
+    },
+    "18_1": {
+      "nm": "Aluminium",
+      "vw": 25.0459
+    },
+    "18_2": {
+      "nm": "Aluminium",
+      "vw": 25.3211
+    },
+    "18_3": {
+      "nm": "Aluminium",
+      "vw": 25.6329
+    },
+    "18_4": {
+      "nm": "Aluminium",
+      "vw": 27.4714
+    },
+    "18_5": {
+      "nm": "Aluminium",
+      "vw": 27.8163
+    },
+    "18_6": {
+      "nm": "Aluminium",
+      "vw": 28.6751
+    },
+    "18_7": {
+      "nm": "Aluminium",
+      "vw": 28.5
+    },
+    "18_9": {
+      "nm": "Aluminium",
+      "vw": 28.5964
+    },
+    "125_0": {
+      "nm": "Apple cider",
+      "vw": 28.3091
+    },
+    "125_4": {
+      "nm": "Apple cider",
+      "vw": 39.5859
+    },
+    "3_0": {
+      "nm": "Apples",
+      "vw": 2.5793
+    },
+    "82_0": {
+      "nm": "Attitude control",
+      "vw": 1838.4832
+    },
+    "50_0": {
+      "nm": "Basic interior",
+      "vw": 367.6716
+    },
+    "22_0": {
+      "nm": "Batteries",
+      "vw": 97.2167
+    },
+    "15_4": {
+      "nm": "Bauxite",
+      "vw": 13.7576
+    },
+    "121_0": {
+      "nm": "Bread",
+      "vw": 174.4273
+    },
+    "33_0": {
+      "nm": "Breeding research",
+      "vw": 152.8875
+    },
+    "102_0": {
+      "nm": "Bricks",
+      "vw": 3.1668
+    },
+    "51_0": {
+      "nm": "Car body",
+      "vw": 912.1305
+    },
+    "76_0": {
+      "nm": "Carbon composite",
+      "vw": 69.369
+    },
+    "75_9": {
+      "nm": "Carbon fibers",
+      "vw": 8
+    },
+    "122_0": {
+      "nm": "Cheese",
+      "vw": 143.0156
+    },
+    "17_0": {
+      "nm": "Chemicals",
+      "vw": 16.7555
+    },
+    "153_0": {
+      "nm": "Chocolate icecream",
+      "vw": 62.0166
+    },
+    "104_0": {
+      "nm": "Clay",
+      "vw": 1.0277
+    },
+    "136_0": {
+      "nm": "Cocoa",
+      "vw": 1.9713
+    },
+    "118_0": {
+      "nm": "Coffee beans",
+      "vw": 0.9222
+    },
+    "119_9": {
+      "nm": "Coffee powder",
+      "vw": 65.5
+    },
+    "111_0": {
+      "nm": "Construction units",
+      "vw": 2978.4778
+    },
+    "40_0": {
+      "nm": "Cotton",
+      "vw": 1.838
+    },
+    "115_0": {
+      "nm": "Cows",
+      "vw": 146.4793
+    },
+    "23_0": {
+      "nm": "Displays",
+      "vw": 138.9674
+    },
+    "137_0": {
+      "nm": "Dough",
+      "vw": 135.0203
+    },
+    "62_4": {
+      "nm": "Dress",
+      "vw": 28.2103
+    },
+    "55_0": {
+      "nm": "Economy car",
+      "vw": 2532.4597
+    },
+    "53_0": {
+      "nm": "Economy e-car",
+      "vw": 3880
+    },
+    "9_4": {
+      "nm": "Eggs",
+      "vw": 1.5299
+    },
+    "21_0": {
+      "nm": "Electronic components",
+      "vw": 64.0582
+    },
+    "32_0": {
+      "nm": "Electronics research",
+      "vw": 298.3551
+    },
+    "41_0": {
+      "nm": "Fabric",
+      "vw": 6.1141
+    },
+    "59_0": {
+      "nm": "Fashion research",
+      "vw": 84.6807
+    },
+    "139_0": {
+      "nm": "Fodder",
+      "vw": 11.7897
+    },
+    "127_0": {
+      "nm": "Frozen pizza",
+      "vw": 537.4846
+    },
+    "77_0": {
+      "nm": "Fuselage",
+      "vw": 3102.957
+    },
+    "126_0": {
+      "nm": "Ginger beer",
+      "vw": 61.3363
+    },
+    "45_4": {
+      "nm": "Glass",
+      "vw": 16.3243
+    },
+    "69_0": {
+      "nm": "Golden bars",
+      "vw": 6629.512
+    },
+    "6_0": {
+      "nm": "Grain",
+      "vw": 0.8203
+    },
+    "64_0": {
+      "nm": "Handbags",
+      "vw": 52.481
+    },
+    "87_0": {
+      "nm": "Heat shield",
+      "vw": 632.2504
+    },
+    "79_0": {
+      "nm": "High grade e-comps",
+      "vw": 1003.5676
+    },
+    "88_4": {
+      "nm": "Ion drive",
+      "vw": 13979.478
+    },
+    "147_0": {
+      "nm": "Jack o'lantern",
+      "vw": 44
+    },
+    "89_0": {
+      "nm": "Jet engine",
+      "vw": 4926.613
+    },
+    "130_0": {
+      "nm": "Lasagna",
+      "vw": 2370.4167
+    },
+    "46_0": {
+      "nm": "Leather",
+      "vw": 30.9557
+    },
+    "49_0": {
+      "nm": "Luxury car interior",
+      "vw": 1146.7267
+    },
+    "54_0": {
+      "nm": "Luxury e-car",
+      "vw": 7257.7485
+    },
+    "113_0": {
+      "nm": "Materials research",
+      "vw": 177.6956
+    },
+    "131_0": {
+      "nm": "Meat balls",
+      "vw": 2721.1628
+    },
+    "14_0": {
+      "nm": "Minerals",
+      "vw": 12.7163
+    },
+    "31_0": {
+      "nm": "Mining research",
+      "vw": 296.47
+    },
+    "27_4": {
+      "nm": "Monitors",
+      "vw": 722.2231
+    },
+    "47_0": {
+      "nm": "On-board computer",
+      "vw": 519.1171
+    },
+    "124_0": {
+      "nm": "Orange juice",
+      "vw": 41.917
+    },
+    "4_4": {
+      "nm": "Oranges",
+      "vw": 3.82
+    },
+    "128_0": {
+      "nm": "Pasta",
+      "vw": 65.3064
+    },
+    "11_0": {
+      "nm": "Petrol",
+      "vw": 47.5561
+    },
+    "29_0": {
+      "nm": "Plant research",
+      "vw": 130.4309
+    },
+    "19_0": {
+      "nm": "Plastic",
+      "vw": 13.5771
+    },
+    "1_0": {
+      "nm": "Power",
+      "vw": 0.2923
+    },
+    "146_0": {
+      "nm": "Pumpkin",
+      "vw": 15.1364
+    },
+    "149_0": {
+      "nm": "Pumpkin soup",
+      "vw": 959.2071
+    },
+    "145_0": {
+      "nm": "Recipes",
+      "vw": 176.4164
+    },
+    "101_0": {
+      "nm": "Reinforced concrete",
+      "vw": 223.9103
+    },
+    "114_0": {
+      "nm": "Robots",
+      "vw": 862.1335
+    },
+    "83_0": {
+      "nm": "Rocket fuel",
+      "vw": 37.1579
+    },
+    "142_0": {
+      "nm": "Salad",
+      "vw": 930.8612
+    },
+    "143_0": {
+      "nm": "Samosa",
+      "vw": 808.6745
+    },
+    "138_0": {
+      "nm": "Sauce",
+      "vw": 1223.1838
+    },
+    "8_0": {
+      "nm": "Sausages",
+      "vw": 12.5064
+    },
+    "66_0": {
+      "nm": "Seeds",
+      "vw": 0.3029
+    },
+    "24_0": {
+      "nm": "Smart phones",
+      "vw": 694.1543
+    },
+    "65_0": {
+      "nm": "Sneakers",
+      "vw": 17.2504
+    },
+    "35_0": {
+      "nm": "Software",
+      "vw": 112.8254
+    },
+    "43_0": {
+      "nm": "Steel",
+      "vw": 12.8416
+    },
+    "63_0": {
+      "nm": "Stiletto Heel",
+      "vw": 37.3389
+    },
+    "72_0": {
+      "nm": "Sugarcane",
+      "vw": 1.8101
+    },
+    "25_0": {
+      "nm": "Tablets",
+      "vw": 841.3062
+    },
+    "13_0": {
+      "nm": "Transport",
+      "vw": 0.4278
+    },
+    "150_0": {
+      "nm": "Tree",
+      "vw": 430.0688
+    },
+    "57_0": {
+      "nm": "Truck",
+      "vw": 6267.324
+    },
+    "120_0": {
+      "nm": "Vegetables",
+      "vw": 3.0018
+    },
+    "2_0": {
+      "nm": "Water",
+      "vw": 0.3917
+    },
+    "109_3": {
+      "nm": "Windows",
+      "vw": 122.436
+    },
+    "148_0": {
+      "nm": "Witch costume",
+      "vw": 38.1956
+    },
+    "106_0": {
+      "nm": "Wood",
+      "vw": 4.437
+    }
+  }
+}
