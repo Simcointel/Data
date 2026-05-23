@@ -1,0 +1,15 @@
+{
+  "directory": "public",
+  "latest": "sectors.json",
+  "files": [
+    "sectors.json",
+    "schema.json",
+    "manifest.json",
+    "index.json",
+    "divergence.json",
+    "dashboard.json",
+    "correlations.json",
+    "contagion.json",
+    "anomalies.json"
+  ]
+}

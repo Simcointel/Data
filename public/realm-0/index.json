@@ -1,0 +1,14 @@
+{
+  "directory": "public/realm-0",
+  "latest": "signals.json",
+  "files": [
+    "signals.json",
+    "macro.json",
+    "inflation.json",
+    "indexes.json",
+    "history.json",
+    "forecast.json",
+    "dependencies.json",
+    "cycles.json"
+  ]
+}

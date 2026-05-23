@@ -1,0 +1,8 @@
+{
+  "directory": "state/backfill",
+  "latest": "realm-0.json",
+  "files": [
+    "realm-0.json",
+    "index.json"
+  ]
+}

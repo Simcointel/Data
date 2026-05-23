@@ -1,0 +1,12 @@
+{
+  "directory": "aggregates/forecasts/realm-0",
+  "latest": "index.json",
+  "files": [
+    "index.json",
+    "forecast-2026-05-21T06-31-49.797Z.json",
+    "forecast-2026-05-21T06-17-44.906Z.json",
+    "forecast-2026-05-21T06-17-35.512Z.json",
+    "forecast-2026-05-21T06-17-26.440Z.json",
+    "forecast-2026-05-21T06-16-42.555Z.json"
+  ]
+}
