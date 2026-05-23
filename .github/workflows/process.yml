@@ -1,8 +1,9 @@
 name: Process Data
 
 on:
-  push:
-    branches: [main]
+  workflow_run:
+    workflows: ["Fetch from Backend"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
