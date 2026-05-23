@@ -56,8 +56,8 @@ jobs:
           for dir in $(find aggregates state snapshots public -type d 2>/dev/null); do
             files=$(ls "$dir"/*.json 2>/dev/null | xargs -I{} basename {} | sort -r | head -100)
             if [ -n "$files" ]; then
-              jq -n --arg dir "$dir" --argjson files '[$files | split("\n")[] | select(length > 0)]' \
-                '{directory: $dir, latest: $files[0], files: $files}' > "$dir/index.json" 2>/dev/null || true
+              jq -n --arg dir "$dir" --arg files "$files" \
+                '{directory: $dir, latest: ($files | split("\n") | first), files: [$files | split("\n")[] | select(length > 0)]}' > "$dir/index.json" 2>/dev/null || true
             fi
           done
 
