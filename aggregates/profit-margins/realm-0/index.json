@@ -1,2 +1,15 @@
-{"latest":"profit-margins-2026-05-23T19-10-08.409Z.json","files":["profit-margins-2026-05-23T19-10-08.409Z.json","profit-margins-2026-05-23T18-50-08.427Z.json","profit-margins-2026-05-23T18-35-05.838Z.json","profit-margins-2026-05-23T18-10-10.225Z.json"]}
-
+{
+  "directory": "aggregates/profit-margins/realm-0",
+  "latest": "profit-margins-2026-05-23T19-10-08.409Z.json",
+  "files": [
+    "profit-margins-2026-05-23T19-10-08.409Z.json",
+    "profit-margins-2026-05-23T18-50-08.427Z.json",
+    "profit-margins-2026-05-23T18-35-05.838Z.json",
+    "profit-margins-2026-05-23T18-10-10.225Z.json",
+    "profit-margins-2026-05-23T17-50-07.589Z.json",
+    "profit-margins-2026-05-23T17-30-12.036Z.json",
+    "profit-margins-2026-05-23T17-00-15.281Z.json",
+    "profit-margins-2026-05-23T16-35-07.456Z.json",
+    "index.json"
+  ]
+}
