@@ -1,7 +1,8 @@
 {
   "directory": "aggregates/system/operational",
-  "latest": "status-2026-05-24T13-15-09.425Z.json",
+  "latest": "status-2026-05-24T13-40-08.232Z.json",
   "files": [
+    "status-2026-05-24T13-40-08.232Z.json",
     "status-2026-05-24T13-15-09.425Z.json",
     "status-2026-05-24T12-35-05.514Z.json",
     "status-2026-05-24T12-10-08.319Z.json",
@@ -100,7 +101,6 @@
     "status-2026-05-22T16-38-17.935Z.json",
     "status-2026-05-22T16-30-45.449Z.json",
     "status-2026-05-22T16-24-04.108Z.json",
-    "status-2026-05-22T16-16-41.870Z.json",
-    "status-2026-05-22T16-09-29.486Z.json"
+    "status-2026-05-22T16-16-41.870Z.json"
   ]
 }
