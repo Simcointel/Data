@@ -1,2 +1,19 @@
-{"events":[{"id":"evt_mpnbi2ho_3z6q","typeKey":"sector-divergence::construction+raw-materials","expiresAt":"2026-05-28T00:20:09.372Z"},{"id":"evt_mpnbi2ho_v3ro","typeKey":"inflation-divergence::construction+raw-materials","expiresAt":"2026-05-28T00:20:09.372Z"},{"id":"evt_mpnbi2hp_egve","typeKey":"stress-divergence::raw-materials","expiresAt":"2026-05-28T00:20:09.372Z"}]}
-
+{
+  "events": [
+    {
+      "expiresAt": "2026-05-28T00:20:09.372Z",
+      "id": "evt_mpnbi2ho_3z6q",
+      "typeKey": "sector-divergence::construction+raw-materials"
+    },
+    {
+      "expiresAt": "2026-05-28T00:20:09.372Z",
+      "id": "evt_mpnbi2ho_v3ro",
+      "typeKey": "inflation-divergence::construction+raw-materials"
+    },
+    {
+      "expiresAt": "2026-05-28T00:20:09.372Z",
+      "id": "evt_mpnbi2hp_egve",
+      "typeKey": "stress-divergence::raw-materials"
+    }
+  ]
+}
