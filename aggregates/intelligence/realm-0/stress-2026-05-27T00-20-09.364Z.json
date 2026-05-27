@@ -1,2 +1,70 @@
-{"t":"2026-05-27T00:20:09.364Z","r":0,"stress":{"raw-materials":{"ri":false,"cp":true,"scp":-51.45,"oh":false,"cs":false,"flags":["collapsing-prices"]},"industrial-goods":{"ri":false,"cp":false,"scp":-51.45,"oh":false,"cs":false,"flags":[]},"consumer-goods":{"ri":false,"cp":false,"scp":-51.45,"oh":false,"cs":false,"flags":[]},"energy-fuel":{"ri":false,"cp":false,"scp":-51.45,"oh":false,"cs":false,"flags":[]},"electronics":{"ri":false,"cp":false,"scp":-51.45,"oh":false,"cs":false,"flags":[]},"construction":{"ri":false,"cp":false,"scp":-51.45,"oh":false,"cs":false,"flags":[]},"aerospace":{"ri":false,"cp":false,"scp":-51.45,"oh":false,"cs":false,"flags":[]}},"rs":{"os":0.03,"af":1,"tf":35},"ok":true}
-
+{
+  "ok": true,
+  "r": 0,
+  "rs": {
+    "af": 1,
+    "os": 0.03,
+    "tf": 35
+  },
+  "stress": {
+    "aerospace": {
+      "cp": false,
+      "cs": false,
+      "flags": [],
+      "oh": false,
+      "ri": false,
+      "scp": -51.45
+    },
+    "construction": {
+      "cp": false,
+      "cs": false,
+      "flags": [],
+      "oh": false,
+      "ri": false,
+      "scp": -51.45
+    },
+    "consumer-goods": {
+      "cp": false,
+      "cs": false,
+      "flags": [],
+      "oh": false,
+      "ri": false,
+      "scp": -51.45
+    },
+    "electronics": {
+      "cp": false,
+      "cs": false,
+      "flags": [],
+      "oh": false,
+      "ri": false,
+      "scp": -51.45
+    },
+    "energy-fuel": {
+      "cp": false,
+      "cs": false,
+      "flags": [],
+      "oh": false,
+      "ri": false,
+      "scp": -51.45
+    },
+    "industrial-goods": {
+      "cp": false,
+      "cs": false,
+      "flags": [],
+      "oh": false,
+      "ri": false,
+      "scp": -51.45
+    },
+    "raw-materials": {
+      "cp": true,
+      "cs": false,
+      "flags": [
+        "collapsing-prices"
+      ],
+      "oh": false,
+      "ri": false,
+      "scp": -51.45
+    }
+  },
+  "t": "2026-05-27T00:20:09.364Z"
+}
