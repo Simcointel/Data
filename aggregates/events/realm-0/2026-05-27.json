@@ -1,2 +1,58 @@
-[{"id":"evt_mpnbi2ho_3z6q","ty":"sector-divergence","se":"warning","ca":"construction+raw-materials","ti":"construction (0.3) outperforming raw-materials (-51.3) by 51.5pts","de":"construction (0.3) outperforming raw-materials (-51.3) by 51.5pts","da":{"sectors":["construction","raw-materials"],"strength":1.01,"direction":"construction-up-raw-materials-down"},"ts":"2026-05-27T00:20:09.372Z","ex":"2026-05-28T00:20:09.372Z","so":"divergence"},{"id":"evt_mpnbi2ho_v3ro","ty":"inflation-divergence","se":"warning","ca":"construction+raw-materials","ti":"construction inflating 0.26% while raw-materials at -51.26%","de":"construction inflating 0.26% while raw-materials at -51.26%","da":{"sectors":["construction","raw-materials"],"strength":51.5,"direction":"construction-high-raw-materials-low"},"ts":"2026-05-27T00:20:09.372Z","ex":"2026-05-28T00:20:09.372Z","so":"divergence"},{"id":"evt_mpnbi2hp_egve","ty":"stress-divergence","se":"warning","ca":"raw-materials","ti":"1 sectors stressed (raw-materials) while 6 stable","de":"1 sectors stressed (raw-materials) while 6 stable","da":{"sectors":["raw-materials"],"strength":0.14,"direction":"stressed-vs-stable"},"ts":"2026-05-27T00:20:09.372Z","ex":"2026-05-28T00:20:09.372Z","so":"divergence"}]
-
+[
+  {
+    "ca": "construction+raw-materials",
+    "da": {
+      "direction": "construction-up-raw-materials-down",
+      "sectors": [
+        "construction",
+        "raw-materials"
+      ],
+      "strength": 1.01
+    },
+    "de": "construction (0.3) outperforming raw-materials (-51.3) by 51.5pts",
+    "ex": "2026-05-28T00:20:09.372Z",
+    "id": "evt_mpnbi2ho_3z6q",
+    "se": "warning",
+    "so": "divergence",
+    "ti": "construction (0.3) outperforming raw-materials (-51.3) by 51.5pts",
+    "ts": "2026-05-27T00:20:09.372Z",
+    "ty": "sector-divergence"
+  },
+  {
+    "ca": "construction+raw-materials",
+    "da": {
+      "direction": "construction-high-raw-materials-low",
+      "sectors": [
+        "construction",
+        "raw-materials"
+      ],
+      "strength": 51.5
+    },
+    "de": "construction inflating 0.26% while raw-materials at -51.26%",
+    "ex": "2026-05-28T00:20:09.372Z",
+    "id": "evt_mpnbi2ho_v3ro",
+    "se": "warning",
+    "so": "divergence",
+    "ti": "construction inflating 0.26% while raw-materials at -51.26%",
+    "ts": "2026-05-27T00:20:09.372Z",
+    "ty": "inflation-divergence"
+  },
+  {
+    "ca": "raw-materials",
+    "da": {
+      "direction": "stressed-vs-stable",
+      "sectors": [
+        "raw-materials"
+      ],
+      "strength": 0.14
+    },
+    "de": "1 sectors stressed (raw-materials) while 6 stable",
+    "ex": "2026-05-28T00:20:09.372Z",
+    "id": "evt_mpnbi2hp_egve",
+    "se": "warning",
+    "so": "divergence",
+    "ti": "1 sectors stressed (raw-materials) while 6 stable",
+    "ts": "2026-05-27T00:20:09.372Z",
+    "ty": "stress-divergence"
+  }
+]
