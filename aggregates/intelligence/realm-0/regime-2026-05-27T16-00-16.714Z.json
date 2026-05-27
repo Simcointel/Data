@@ -1,2 +1,16 @@
-{"t":"2026-05-27T16:00:16.714Z","r":0,"cr":"recovery","pr":"recovery","rc":0.65,"rf":{"cvGrowth":1,"acGrowth":-4.4,"avgInflation":0,"avgStress":0,"avgVolatility":0,"phase":"normal"},"ok":true}
-
+{
+  "cr": "recovery",
+  "ok": true,
+  "pr": "recovery",
+  "r": 0,
+  "rc": 0.65,
+  "rf": {
+    "acGrowth": -4.4,
+    "avgInflation": 0,
+    "avgStress": 0,
+    "avgVolatility": 0,
+    "cvGrowth": 1,
+    "phase": "normal"
+  },
+  "t": "2026-05-27T16:00:16.714Z"
+}
