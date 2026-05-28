@@ -1,7 +1,8 @@
 {
   "directory": "aggregates/intelligence/realm-0",
-  "latest": "volatility-2026-05-27T21-47-08.260Z.json",
+  "latest": "volatility-2026-05-28T00-00-17.417Z.json",
   "files": [
+    "volatility-2026-05-28T00-00-17.417Z.json",
     "volatility-2026-05-27T21-47-08.260Z.json",
     "volatility-2026-05-27T21-25-06.116Z.json",
     "volatility-2026-05-27T19-45-21.526Z.json",
@@ -100,7 +101,6 @@
     "volatility-2026-05-22T15-34-51.422Z.json",
     "volatility-2026-05-22T15-27-18.694Z.json",
     "volatility-2026-05-22T15-20-08.646Z.json",
-    "volatility-2026-05-22T15-13-27.471Z.json",
-    "volatility-2026-05-22T15-05-54.713Z.json"
+    "volatility-2026-05-22T15-13-27.471Z.json"
   ]
 }
