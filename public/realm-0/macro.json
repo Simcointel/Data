@@ -1,12 +1,13 @@
 {
-  "generatedAt": "2026-05-29T16:55:06.961Z",
+  "realm": "0",
   "latest": {
+    "companiesValue": null,
     "activeCompanies": null,
     "bondsSold": null,
-    "companiesValue": null,
     "totalBuildings": null
   },
   "latestIndexes": null,
   "latestInflation": null,
-  "realm": "0"
+  "generatedAt": "2026-05-29T17:10:09.361Z"
 }
+
