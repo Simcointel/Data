@@ -1,20 +1,2 @@
-[
-  {
-    "ca": "realm",
-    "da": {
-      "direction": "cv-up-ac-down",
-      "sectors": [
-        "realm"
-      ],
-      "strength": 5.7
-    },
-    "de": "CV growing (1.68%) but companies declining (-4.04%)",
-    "ex": "2026-05-31T21:25:05.881Z",
-    "id": "evt_mpsv0cm2_yoya",
-    "se": "info",
-    "so": "divergence",
-    "ti": "CV growing (1.68%) but companies declining (-4.04%)",
-    "ts": "2026-05-30T21:25:05.881Z",
-    "ty": "growth-employment-divergence"
-  }
-]
+[{"id":"evt_mpszs9ij_qfxw","ty":"growth-employment-divergence","se":"info","ca":"realm","ti":"CV growing (1.68%) but companies declining (-4.04%)","de":"CV growing (1.68%) but companies declining (-4.04%)","da":{"sectors":["realm"],"strength":5.7,"direction":"cv-up-ac-down"},"ts":"2026-05-30T23:38:46.698Z","ex":"2026-05-31T23:38:46.698Z","so":"divergence"}]
+
