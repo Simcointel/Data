@@ -1,2 +1,9 @@
-{"events":[{"id":"evt_mps104m0_ptfk","typeKey":"growth-employment-divergence::realm","expiresAt":"2026-05-31T07:25:07.032Z"}]}
-
+{
+  "events": [
+    {
+      "expiresAt": "2026-05-31T07:25:07.032Z",
+      "id": "evt_mps104m0_ptfk",
+      "typeKey": "growth-employment-divergence::realm"
+    }
+  ]
+}
