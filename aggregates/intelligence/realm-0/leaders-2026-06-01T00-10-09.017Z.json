@@ -1,2 +1,125 @@
-{"t":"2026-06-01T00:10:09.017Z","r":0,"st":[{"c":"raw-materials","cn":"Raw Materials","m":106.07,"t":"up"},{"c":"industrial-goods","cn":"Industrial Goods","m":3.14,"t":"up"},{"c":"construction","cn":"Construction","m":2.75,"t":"up"}],"wk":[{"c":"consumer-goods","cn":"Consumer Goods","m":-0.69,"t":"flat"},{"c":"aerospace","cn":"Aerospace & Vehicles","m":-0.06,"t":"flat"},{"c":"energy-fuel","cn":"Energy & Fuel","m":0.66,"t":"flat"}],"fr":[{"c":"raw-materials","cn":"Raw Materials","m":106.07,"t":"up"},{"c":"industrial-goods","cn":"Industrial Goods","m":3.14,"t":"up"},{"c":"construction","cn":"Construction","m":2.75,"t":"up"}],"mu":[{"c":"raw-materials","cn":"Raw Materials","m":53.04,"t":"up"},{"c":"industrial-goods","cn":"Industrial Goods","m":1.57,"t":"up"},{"c":"construction","cn":"Construction","m":1.38,"t":"up"}],"lw":[{"c":"raw-materials","cn":"Raw Materials","m":106.07,"t":"up"},{"c":"industrial-goods","cn":"Industrial Goods","m":3.14,"t":"up"},{"c":"construction","cn":"Construction","m":2.75,"t":"up"}],"ll":[{"c":"consumer-goods","cn":"Consumer Goods","m":-0.69,"t":"flat"},{"c":"aerospace","cn":"Aerospace & Vehicles","m":-0.06,"t":"flat"},{"c":"energy-fuel","cn":"Energy & Fuel","m":0.66,"t":"flat"}],"ok":true}
-
+{
+  "fr": [
+    {
+      "c": "raw-materials",
+      "cn": "Raw Materials",
+      "m": 106.07,
+      "t": "up"
+    },
+    {
+      "c": "industrial-goods",
+      "cn": "Industrial Goods",
+      "m": 3.14,
+      "t": "up"
+    },
+    {
+      "c": "construction",
+      "cn": "Construction",
+      "m": 2.75,
+      "t": "up"
+    }
+  ],
+  "ll": [
+    {
+      "c": "consumer-goods",
+      "cn": "Consumer Goods",
+      "m": -0.69,
+      "t": "flat"
+    },
+    {
+      "c": "aerospace",
+      "cn": "Aerospace & Vehicles",
+      "m": -0.06,
+      "t": "flat"
+    },
+    {
+      "c": "energy-fuel",
+      "cn": "Energy & Fuel",
+      "m": 0.66,
+      "t": "flat"
+    }
+  ],
+  "lw": [
+    {
+      "c": "raw-materials",
+      "cn": "Raw Materials",
+      "m": 106.07,
+      "t": "up"
+    },
+    {
+      "c": "industrial-goods",
+      "cn": "Industrial Goods",
+      "m": 3.14,
+      "t": "up"
+    },
+    {
+      "c": "construction",
+      "cn": "Construction",
+      "m": 2.75,
+      "t": "up"
+    }
+  ],
+  "mu": [
+    {
+      "c": "raw-materials",
+      "cn": "Raw Materials",
+      "m": 53.04,
+      "t": "up"
+    },
+    {
+      "c": "industrial-goods",
+      "cn": "Industrial Goods",
+      "m": 1.57,
+      "t": "up"
+    },
+    {
+      "c": "construction",
+      "cn": "Construction",
+      "m": 1.38,
+      "t": "up"
+    }
+  ],
+  "ok": true,
+  "r": 0,
+  "st": [
+    {
+      "c": "raw-materials",
+      "cn": "Raw Materials",
+      "m": 106.07,
+      "t": "up"
+    },
+    {
+      "c": "industrial-goods",
+      "cn": "Industrial Goods",
+      "m": 3.14,
+      "t": "up"
+    },
+    {
+      "c": "construction",
+      "cn": "Construction",
+      "m": 2.75,
+      "t": "up"
+    }
+  ],
+  "t": "2026-06-01T00:10:09.017Z",
+  "wk": [
+    {
+      "c": "consumer-goods",
+      "cn": "Consumer Goods",
+      "m": -0.69,
+      "t": "flat"
+    },
+    {
+      "c": "aerospace",
+      "cn": "Aerospace & Vehicles",
+      "m": -0.06,
+      "t": "flat"
+    },
+    {
+      "c": "energy-fuel",
+      "cn": "Energy & Fuel",
+      "m": 0.66,
+      "t": "flat"
+    }
+  ]
+}
