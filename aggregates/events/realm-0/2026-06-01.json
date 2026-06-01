@@ -1,2 +1,207 @@
-[{"id":"evt_mpugcgl9_k1jd","ty":"inflation-anomaly","se":"warning","ca":"raw-materials","ti":"High inflation in raw-materials","de":"raw-materials inflation: 106.07% (current: 6971.2608, previous: 3382.9148)","da":{"zs":106.07,"vl":6971.2608,"mn":3382.9148,"sd":0},"ts":"2026-06-01T00:10:09.021Z","ex":"2026-06-02T00:10:09.021Z","so":"anomaly"},{"id":"evt_mpugcgl9_gfem","ty":"inflation-anomaly","se":"warning","ca":"cpi","ti":"High inflation in cpi","de":"cpi inflation: 33.64% (current: 2070.5116, previous: 1549.3461)","da":{"zs":33.64,"vl":2070.5116,"mn":1549.3461,"sd":0},"ts":"2026-06-01T00:10:09.021Z","ex":"2026-06-02T00:10:09.021Z","so":"anomaly"},{"id":"evt_mpugcgla_dcpa","ty":"inflation-anomaly","se":"warning","ca":"core-cpi","ti":"High inflation in core-cpi","de":"core-cpi inflation: 33.7% (current: 2362.8255, previous: 1767.2306)","da":{"zs":33.7,"vl":2362.8255,"mn":1767.2306,"sd":0},"ts":"2026-06-01T00:10:09.021Z","ex":"2026-06-02T00:10:09.021Z","so":"anomaly"},{"id":"evt_mpugcgla_k2ha","ty":"sector-divergence","se":"warning","ca":"raw-materials+consumer-goods","ti":"raw-materials (106.1) outperforming consumer-goods (-0.7) by 106.8pts","de":"raw-materials (106.1) outperforming consumer-goods (-0.7) by 106.8pts","da":{"sectors":["raw-materials","consumer-goods"],"strength":1.01,"direction":"raw-materials-up-consumer-goods-down"},"ts":"2026-06-01T00:10:09.021Z","ex":"2026-06-02T00:10:09.021Z","so":"divergence"},{"id":"evt_mpugcgla_kowd","ty":"inflation-divergence","se":"warning","ca":"raw-materials+consumer-goods","ti":"raw-materials inflating 106.07% while consumer-goods at -0.69%","de":"raw-materials inflating 106.07% while consumer-goods at -0.69%","da":{"sectors":["raw-materials","consumer-goods"],"strength":106.8,"direction":"raw-materials-high-consumer-goods-low"},"ts":"2026-06-01T00:10:09.021Z","ex":"2026-06-02T00:10:09.021Z","so":"divergence"},{"id":"evt_mpugcgla_w83k","ty":"inflation-spread","se":"info","ca":"raw-materials","ti":"raw-materials inflation (106.07%) spreading to industrial-goods, construction","de":"raw-materials inflation (106.07%) spreading to industrial-goods, construction","da":{"source":"raw-materials","affected":["industrial-goods","construction"],"strength":1},"ts":"2026-06-01T00:10:09.021Z","ex":"2026-06-02T00:10:09.021Z","so":"contagion"},{"id":"evt_mpugcglb_njo9","ty":"inflation-spread","se":"info","ca":"industrial-goods","ti":"industrial-goods inflation (3.14%) spreading to construction","de":"industrial-goods inflation (3.14%) spreading to construction","da":{"source":"industrial-goods","affected":["construction"],"strength":0.52},"ts":"2026-06-01T00:10:09.021Z","ex":"2026-06-02T00:10:09.021Z","so":"contagion"},{"id":"evt_mpugcglb_5zxc","ty":"inflation-spread","se":"info","ca":"construction","ti":"construction inflation (2.75%) spreading to industrial-goods","de":"construction inflation (2.75%) spreading to industrial-goods","da":{"source":"construction","affected":["industrial-goods"],"strength":0.46},"ts":"2026-06-01T00:10:09.021Z","ex":"2026-06-02T00:10:09.021Z","so":"contagion"},{"id":"evt_mpugcglb_2dcx","ty":"inflation-spread","se":"info","ca":"cpi","ti":"cpi inflation (33.64%) spreading to industrial-goods, construction","de":"cpi inflation (33.64%) spreading to industrial-goods, construction","da":{"source":"cpi","affected":["industrial-goods","construction"],"strength":1},"ts":"2026-06-01T00:10:09.021Z","ex":"2026-06-02T00:10:09.021Z","so":"contagion"},{"id":"evt_mpugcglc_iqed","ty":"inflation-spread","se":"info","ca":"core-cpi","ti":"core-cpi inflation (33.7%) spreading to industrial-goods, construction","de":"core-cpi inflation (33.7%) spreading to industrial-goods, construction","da":{"source":"core-cpi","affected":["industrial-goods","construction"],"strength":1},"ts":"2026-06-01T00:10:09.021Z","ex":"2026-06-02T00:10:09.021Z","so":"contagion"},{"id":"evt_mpugcglc_d0wr","ty":"cascading-instability","se":"warning","ca":"raw-materials","ti":"Instability cascading from raw-materials to industrial-goods, consumer-goods, energy-fuel, electronics, construction, aerospace (7/7 sectors stressed)","de":"Instability cascading from raw-materials to industrial-goods, consumer-goods, energy-fuel, electronics, construction, aerospace (7/7 sectors stressed)","da":{"source":"raw-materials","affected":["industrial-goods","consumer-goods","energy-fuel","electronics","construction","aerospace"],"strength":1},"ts":"2026-06-01T00:10:09.021Z","ex":"2026-06-02T00:10:09.021Z","so":"contagion"}]
-
+[
+  {
+    "ca": "raw-materials",
+    "da": {
+      "mn": 3382.9148,
+      "sd": 0,
+      "vl": 6971.2608,
+      "zs": 106.07
+    },
+    "de": "raw-materials inflation: 106.07% (current: 6971.2608, previous: 3382.9148)",
+    "ex": "2026-06-02T00:10:09.021Z",
+    "id": "evt_mpugcgl9_k1jd",
+    "se": "warning",
+    "so": "anomaly",
+    "ti": "High inflation in raw-materials",
+    "ts": "2026-06-01T00:10:09.021Z",
+    "ty": "inflation-anomaly"
+  },
+  {
+    "ca": "cpi",
+    "da": {
+      "mn": 1549.3461,
+      "sd": 0,
+      "vl": 2070.5116,
+      "zs": 33.64
+    },
+    "de": "cpi inflation: 33.64% (current: 2070.5116, previous: 1549.3461)",
+    "ex": "2026-06-02T00:10:09.021Z",
+    "id": "evt_mpugcgl9_gfem",
+    "se": "warning",
+    "so": "anomaly",
+    "ti": "High inflation in cpi",
+    "ts": "2026-06-01T00:10:09.021Z",
+    "ty": "inflation-anomaly"
+  },
+  {
+    "ca": "core-cpi",
+    "da": {
+      "mn": 1767.2306,
+      "sd": 0,
+      "vl": 2362.8255,
+      "zs": 33.7
+    },
+    "de": "core-cpi inflation: 33.7% (current: 2362.8255, previous: 1767.2306)",
+    "ex": "2026-06-02T00:10:09.021Z",
+    "id": "evt_mpugcgla_dcpa",
+    "se": "warning",
+    "so": "anomaly",
+    "ti": "High inflation in core-cpi",
+    "ts": "2026-06-01T00:10:09.021Z",
+    "ty": "inflation-anomaly"
+  },
+  {
+    "ca": "raw-materials+consumer-goods",
+    "da": {
+      "direction": "raw-materials-up-consumer-goods-down",
+      "sectors": [
+        "raw-materials",
+        "consumer-goods"
+      ],
+      "strength": 1.01
+    },
+    "de": "raw-materials (106.1) outperforming consumer-goods (-0.7) by 106.8pts",
+    "ex": "2026-06-02T00:10:09.021Z",
+    "id": "evt_mpugcgla_k2ha",
+    "se": "warning",
+    "so": "divergence",
+    "ti": "raw-materials (106.1) outperforming consumer-goods (-0.7) by 106.8pts",
+    "ts": "2026-06-01T00:10:09.021Z",
+    "ty": "sector-divergence"
+  },
+  {
+    "ca": "raw-materials+consumer-goods",
+    "da": {
+      "direction": "raw-materials-high-consumer-goods-low",
+      "sectors": [
+        "raw-materials",
+        "consumer-goods"
+      ],
+      "strength": 106.8
+    },
+    "de": "raw-materials inflating 106.07% while consumer-goods at -0.69%",
+    "ex": "2026-06-02T00:10:09.021Z",
+    "id": "evt_mpugcgla_kowd",
+    "se": "warning",
+    "so": "divergence",
+    "ti": "raw-materials inflating 106.07% while consumer-goods at -0.69%",
+    "ts": "2026-06-01T00:10:09.021Z",
+    "ty": "inflation-divergence"
+  },
+  {
+    "ca": "raw-materials",
+    "da": {
+      "affected": [
+        "industrial-goods",
+        "construction"
+      ],
+      "source": "raw-materials",
+      "strength": 1
+    },
+    "de": "raw-materials inflation (106.07%) spreading to industrial-goods, construction",
+    "ex": "2026-06-02T00:10:09.021Z",
+    "id": "evt_mpugcgla_w83k",
+    "se": "info",
+    "so": "contagion",
+    "ti": "raw-materials inflation (106.07%) spreading to industrial-goods, construction",
+    "ts": "2026-06-01T00:10:09.021Z",
+    "ty": "inflation-spread"
+  },
+  {
+    "ca": "industrial-goods",
+    "da": {
+      "affected": [
+        "construction"
+      ],
+      "source": "industrial-goods",
+      "strength": 0.52
+    },
+    "de": "industrial-goods inflation (3.14%) spreading to construction",
+    "ex": "2026-06-02T00:10:09.021Z",
+    "id": "evt_mpugcglb_njo9",
+    "se": "info",
+    "so": "contagion",
+    "ti": "industrial-goods inflation (3.14%) spreading to construction",
+    "ts": "2026-06-01T00:10:09.021Z",
+    "ty": "inflation-spread"
+  },
+  {
+    "ca": "construction",
+    "da": {
+      "affected": [
+        "industrial-goods"
+      ],
+      "source": "construction",
+      "strength": 0.46
+    },
+    "de": "construction inflation (2.75%) spreading to industrial-goods",
+    "ex": "2026-06-02T00:10:09.021Z",
+    "id": "evt_mpugcglb_5zxc",
+    "se": "info",
+    "so": "contagion",
+    "ti": "construction inflation (2.75%) spreading to industrial-goods",
+    "ts": "2026-06-01T00:10:09.021Z",
+    "ty": "inflation-spread"
+  },
+  {
+    "ca": "cpi",
+    "da": {
+      "affected": [
+        "industrial-goods",
+        "construction"
+      ],
+      "source": "cpi",
+      "strength": 1
+    },
+    "de": "cpi inflation (33.64%) spreading to industrial-goods, construction",
+    "ex": "2026-06-02T00:10:09.021Z",
+    "id": "evt_mpugcglb_2dcx",
+    "se": "info",
+    "so": "contagion",
+    "ti": "cpi inflation (33.64%) spreading to industrial-goods, construction",
+    "ts": "2026-06-01T00:10:09.021Z",
+    "ty": "inflation-spread"
+  },
+  {
+    "ca": "core-cpi",
+    "da": {
+      "affected": [
+        "industrial-goods",
+        "construction"
+      ],
+      "source": "core-cpi",
+      "strength": 1
+    },
+    "de": "core-cpi inflation (33.7%) spreading to industrial-goods, construction",
+    "ex": "2026-06-02T00:10:09.021Z",
+    "id": "evt_mpugcglc_iqed",
+    "se": "info",
+    "so": "contagion",
+    "ti": "core-cpi inflation (33.7%) spreading to industrial-goods, construction",
+    "ts": "2026-06-01T00:10:09.021Z",
+    "ty": "inflation-spread"
+  },
+  {
+    "ca": "raw-materials",
+    "da": {
+      "affected": [
+        "industrial-goods",
+        "consumer-goods",
+        "energy-fuel",
+        "electronics",
+        "construction",
+        "aerospace"
+      ],
+      "source": "raw-materials",
+      "strength": 1
+    },
+    "de": "Instability cascading from raw-materials to industrial-goods, consumer-goods, energy-fuel, electronics, construction, aerospace (7/7 sectors stressed)",
+    "ex": "2026-06-02T00:10:09.021Z",
+    "id": "evt_mpugcglc_d0wr",
+    "se": "warning",
+    "so": "contagion",
+    "ti": "Instability cascading from raw-materials to industrial-goods, consumer-goods, energy-fuel, electronics, construction, aerospace (7/7 sectors stressed)",
+    "ts": "2026-06-01T00:10:09.021Z",
+    "ty": "cascading-instability"
+  }
+]

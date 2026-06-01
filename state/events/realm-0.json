@@ -1,2 +1,64 @@
-{"events":[{"id":"evt_mpuf3dta_9mkf","typeKey":"growth-employment-divergence::realm","expiresAt":"2026-06-01T23:35:05.902Z"},{"id":"evt_mpugcgl9_k1jd","typeKey":"inflation-anomaly::raw-materials","expiresAt":"2026-06-02T00:10:09.021Z"},{"id":"evt_mpugcgl9_gfem","typeKey":"inflation-anomaly::cpi","expiresAt":"2026-06-02T00:10:09.021Z"},{"id":"evt_mpugcgla_dcpa","typeKey":"inflation-anomaly::core-cpi","expiresAt":"2026-06-02T00:10:09.021Z"},{"id":"evt_mpugcgla_k2ha","typeKey":"sector-divergence::raw-materials+consumer-goods","expiresAt":"2026-06-02T00:10:09.021Z"},{"id":"evt_mpugcgla_kowd","typeKey":"inflation-divergence::raw-materials+consumer-goods","expiresAt":"2026-06-02T00:10:09.021Z"},{"id":"evt_mpugcgla_w83k","typeKey":"inflation-spread::raw-materials","expiresAt":"2026-06-02T00:10:09.021Z"},{"id":"evt_mpugcglb_njo9","typeKey":"inflation-spread::industrial-goods","expiresAt":"2026-06-02T00:10:09.021Z"},{"id":"evt_mpugcglb_5zxc","typeKey":"inflation-spread::construction","expiresAt":"2026-06-02T00:10:09.021Z"},{"id":"evt_mpugcglb_2dcx","typeKey":"inflation-spread::cpi","expiresAt":"2026-06-02T00:10:09.021Z"},{"id":"evt_mpugcglc_iqed","typeKey":"inflation-spread::core-cpi","expiresAt":"2026-06-02T00:10:09.021Z"},{"id":"evt_mpugcglc_d0wr","typeKey":"cascading-instability::raw-materials","expiresAt":"2026-06-02T00:10:09.021Z"}]}
-
+{
+  "events": [
+    {
+      "expiresAt": "2026-06-01T23:35:05.902Z",
+      "id": "evt_mpuf3dta_9mkf",
+      "typeKey": "growth-employment-divergence::realm"
+    },
+    {
+      "expiresAt": "2026-06-02T00:10:09.021Z",
+      "id": "evt_mpugcgl9_k1jd",
+      "typeKey": "inflation-anomaly::raw-materials"
+    },
+    {
+      "expiresAt": "2026-06-02T00:10:09.021Z",
+      "id": "evt_mpugcgl9_gfem",
+      "typeKey": "inflation-anomaly::cpi"
+    },
+    {
+      "expiresAt": "2026-06-02T00:10:09.021Z",
+      "id": "evt_mpugcgla_dcpa",
+      "typeKey": "inflation-anomaly::core-cpi"
+    },
+    {
+      "expiresAt": "2026-06-02T00:10:09.021Z",
+      "id": "evt_mpugcgla_k2ha",
+      "typeKey": "sector-divergence::raw-materials+consumer-goods"
+    },
+    {
+      "expiresAt": "2026-06-02T00:10:09.021Z",
+      "id": "evt_mpugcgla_kowd",
+      "typeKey": "inflation-divergence::raw-materials+consumer-goods"
+    },
+    {
+      "expiresAt": "2026-06-02T00:10:09.021Z",
+      "id": "evt_mpugcgla_w83k",
+      "typeKey": "inflation-spread::raw-materials"
+    },
+    {
+      "expiresAt": "2026-06-02T00:10:09.021Z",
+      "id": "evt_mpugcglb_njo9",
+      "typeKey": "inflation-spread::industrial-goods"
+    },
+    {
+      "expiresAt": "2026-06-02T00:10:09.021Z",
+      "id": "evt_mpugcglb_5zxc",
+      "typeKey": "inflation-spread::construction"
+    },
+    {
+      "expiresAt": "2026-06-02T00:10:09.021Z",
+      "id": "evt_mpugcglb_2dcx",
+      "typeKey": "inflation-spread::cpi"
+    },
+    {
+      "expiresAt": "2026-06-02T00:10:09.021Z",
+      "id": "evt_mpugcglc_iqed",
+      "typeKey": "inflation-spread::core-cpi"
+    },
+    {
+      "expiresAt": "2026-06-02T00:10:09.021Z",
+      "id": "evt_mpugcglc_d0wr",
+      "typeKey": "cascading-instability::raw-materials"
+    }
+  ]
+}

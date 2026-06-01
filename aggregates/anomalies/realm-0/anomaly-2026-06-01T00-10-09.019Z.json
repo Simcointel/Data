@@ -1,2 +1,52 @@
-{"t":"2026-06-01T00:10:09.019Z","r":0,"an":[{"id":"evt_mpugcgl7_gmed","ty":"inflation-anomaly","se":"warning","ca":"raw-materials","ti":"High inflation in raw-materials","de":"raw-materials inflation: 106.07% (current: 6971.2608, previous: 3382.9148)","zs":106.07,"vl":6971.2608,"mn":3382.9148,"sd":0,"ts":"2026-06-01T00:10:09.019Z"},{"id":"evt_mpugcgl7_j8fx","ty":"inflation-anomaly","se":"warning","ca":"cpi","ti":"High inflation in cpi","de":"cpi inflation: 33.64% (current: 2070.5116, previous: 1549.3461)","zs":33.64,"vl":2070.5116,"mn":1549.3461,"sd":0,"ts":"2026-06-01T00:10:09.019Z"},{"id":"evt_mpugcgl7_kz4v","ty":"inflation-anomaly","se":"warning","ca":"core-cpi","ti":"High inflation in core-cpi","de":"core-cpi inflation: 33.7% (current: 2362.8255, previous: 1767.2306)","zs":33.7,"vl":2362.8255,"mn":1767.2306,"sd":0,"ts":"2026-06-01T00:10:09.019Z"}],"su":{"to":3,"cr":0,"wa":3,"in":0},"ok":true}
-
+{
+  "an": [
+    {
+      "ca": "raw-materials",
+      "de": "raw-materials inflation: 106.07% (current: 6971.2608, previous: 3382.9148)",
+      "id": "evt_mpugcgl7_gmed",
+      "mn": 3382.9148,
+      "sd": 0,
+      "se": "warning",
+      "ti": "High inflation in raw-materials",
+      "ts": "2026-06-01T00:10:09.019Z",
+      "ty": "inflation-anomaly",
+      "vl": 6971.2608,
+      "zs": 106.07
+    },
+    {
+      "ca": "cpi",
+      "de": "cpi inflation: 33.64% (current: 2070.5116, previous: 1549.3461)",
+      "id": "evt_mpugcgl7_j8fx",
+      "mn": 1549.3461,
+      "sd": 0,
+      "se": "warning",
+      "ti": "High inflation in cpi",
+      "ts": "2026-06-01T00:10:09.019Z",
+      "ty": "inflation-anomaly",
+      "vl": 2070.5116,
+      "zs": 33.64
+    },
+    {
+      "ca": "core-cpi",
+      "de": "core-cpi inflation: 33.7% (current: 2362.8255, previous: 1767.2306)",
+      "id": "evt_mpugcgl7_kz4v",
+      "mn": 1767.2306,
+      "sd": 0,
+      "se": "warning",
+      "ti": "High inflation in core-cpi",
+      "ts": "2026-06-01T00:10:09.019Z",
+      "ty": "inflation-anomaly",
+      "vl": 2362.8255,
+      "zs": 33.7
+    }
+  ],
+  "ok": true,
+  "r": 0,
+  "su": {
+    "cr": 0,
+    "in": 0,
+    "to": 3,
+    "wa": 3
+  },
+  "t": "2026-06-01T00:10:09.019Z"
+}
