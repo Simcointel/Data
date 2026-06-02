@@ -1,2 +1,36 @@
-{"t":"2026-06-02T00:30:13.707Z","r":0,"di":[{"id":"evt_mpvwi4sr_rus8","ty":"growth-employment-divergence","se":"info","de":"CV growing (2.03%) but companies declining (-3.13%)","sc":["realm"],"st":5.2,"dr":"cv-up-ac-down"},{"id":"evt_mpvwi4sr_p5s0","ty":"inflation-divergence","se":"info","de":"construction inflating 1.07% while energy-fuel at -2.27%","sc":["construction","energy-fuel"],"st":3.3,"dr":"construction-high-energy-fuel-low"}],"su":{"to":2,"cr":0,"wa":0,"in":2},"ok":true}
-
+{
+  "di": [
+    {
+      "de": "CV growing (2.03%) but companies declining (-3.13%)",
+      "dr": "cv-up-ac-down",
+      "id": "evt_mpvwi4sr_rus8",
+      "sc": [
+        "realm"
+      ],
+      "se": "info",
+      "st": 5.2,
+      "ty": "growth-employment-divergence"
+    },
+    {
+      "de": "construction inflating 1.07% while energy-fuel at -2.27%",
+      "dr": "construction-high-energy-fuel-low",
+      "id": "evt_mpvwi4sr_p5s0",
+      "sc": [
+        "construction",
+        "energy-fuel"
+      ],
+      "se": "info",
+      "st": 3.3,
+      "ty": "inflation-divergence"
+    }
+  ],
+  "ok": true,
+  "r": 0,
+  "su": {
+    "cr": 0,
+    "in": 2,
+    "to": 2,
+    "wa": 0
+  },
+  "t": "2026-06-02T00:30:13.707Z"
+}
