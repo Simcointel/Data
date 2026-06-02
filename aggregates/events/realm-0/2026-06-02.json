@@ -1,21 +1,2 @@
-[
-  {
-    "ca": "construction+energy-fuel",
-    "da": {
-      "direction": "construction-high-energy-fuel-low",
-      "sectors": [
-        "construction",
-        "energy-fuel"
-      ],
-      "strength": 3.3
-    },
-    "de": "construction inflating 1.07% while energy-fuel at -2.27%",
-    "ex": "2026-06-03T00:05:07.801Z",
-    "id": "evt_mpvvluu1_hbf1",
-    "se": "info",
-    "so": "divergence",
-    "ti": "construction inflating 1.07% while energy-fuel at -2.27%",
-    "ts": "2026-06-02T00:05:07.801Z",
-    "ty": "inflation-divergence"
-  }
-]
+[{"id":"evt_mpvvluu1_hbf1","ty":"inflation-divergence","se":"info","ca":"construction+energy-fuel","ti":"construction inflating 1.07% while energy-fuel at -2.27%","de":"construction inflating 1.07% while energy-fuel at -2.27%","da":{"sectors":["construction","energy-fuel"],"strength":3.3,"direction":"construction-high-energy-fuel-low"},"ts":"2026-06-02T00:05:07.801Z","ex":"2026-06-03T00:05:07.801Z","so":"divergence"}]
+
