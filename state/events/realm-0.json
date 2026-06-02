@@ -1,14 +1,2 @@
-{
-  "events": [
-    {
-      "expiresAt": "2026-06-02T23:10:09.559Z",
-      "id": "evt_mpvtn5w7_uy6f",
-      "typeKey": "growth-employment-divergence::realm"
-    },
-    {
-      "expiresAt": "2026-06-03T00:05:07.801Z",
-      "id": "evt_mpvvluu1_hbf1",
-      "typeKey": "inflation-divergence::construction+energy-fuel"
-    }
-  ]
-}
+{"events":[{"id":"evt_mpvxxgzs_cgg4","typeKey":"growth-employment-divergence::realm","expiresAt":"2026-06-03T01:10:08.967Z"}]}
+
