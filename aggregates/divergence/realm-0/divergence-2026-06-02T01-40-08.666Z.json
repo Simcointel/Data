@@ -1,24 +1,2 @@
-{
-  "di": [
-    {
-      "de": "CV growing (2.03%) but companies declining (-3.13%)",
-      "dr": "cv-up-ac-down",
-      "id": "evt_mpvz01ne_9q9d",
-      "sc": [
-        "realm"
-      ],
-      "se": "info",
-      "st": 5.2,
-      "ty": "growth-employment-divergence"
-    }
-  ],
-  "ok": true,
-  "r": 0,
-  "su": {
-    "cr": 0,
-    "in": 1,
-    "to": 1,
-    "wa": 0
-  },
-  "t": "2026-06-02T01:40:08.666Z"
-}
+{"t":"2026-06-02T01:40:08.666Z","r":0,"di":[{"id":"evt_mpvz01ne_9q9d","ty":"growth-employment-divergence","se":"info","de":"CV growing (2.03%) but companies declining (-3.13%)","sc":["realm"],"st":5.2,"dr":"cv-up-ac-down"}],"su":{"to":1,"cr":0,"wa":0,"in":1},"ok":true}
+
