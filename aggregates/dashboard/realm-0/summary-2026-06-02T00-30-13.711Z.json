@@ -1,0 +1,2 @@
+{"t":"2026-06-02T00:30:13.710Z","r":0,"scores":{"eh":50.9,"ms":72.3,"st":98.1,"ip":0.6,"sr":6},"regime":{"label":"recovery","confidence":0.65},"inflation":{"avg":0.04,"max":0,"count":0},"momentum":{"avg":0.04,"accelerating":0,"decelerating":0},"volatility":{"avg":0.39,"highCount":0},"stress":{"overall":0,"activeFlags":0},"anomalies":{"total":0,"critical":0,"warning":0},"alerts":{"total":2,"critical":0,"warning":0},"leaders":{"top":"construction","bottom":"energy-fuel"},"ok":true}
+
