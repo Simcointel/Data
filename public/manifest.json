@@ -1,67 +1,66 @@
 {
+  "fileCount": 14,
+  "files": [
+    {
+      "bytes": 3,
+      "path": "public/dashboard.json"
+    },
+    {
+      "bytes": 242,
+      "path": "public/realm-0/macro.json"
+    },
+    {
+      "bytes": 3,
+      "path": "public/realm-0/history.json"
+    },
+    {
+      "bytes": 3,
+      "path": "public/realm-0/indexes.json"
+    },
+    {
+      "bytes": 3,
+      "path": "public/realm-0/inflation.json"
+    },
+    {
+      "bytes": 3,
+      "path": "public/sectors.json"
+    },
+    {
+      "bytes": 3,
+      "path": "public/correlations.json"
+    },
+    {
+      "bytes": 3,
+      "path": "public/anomalies.json"
+    },
+    {
+      "bytes": 3,
+      "path": "public/divergence.json"
+    },
+    {
+      "bytes": 3,
+      "path": "public/contagion.json"
+    },
+    {
+      "bytes": 3,
+      "path": "public/realm-0/forecast.json"
+    },
+    {
+      "bytes": 3,
+      "path": "public/realm-0/signals.json"
+    },
+    {
+      "bytes": 1004,
+      "path": "public/realm-0/cycles.json"
+    },
+    {
+      "bytes": 2791,
+      "path": "public/realm-0/dependencies.json"
+    }
+  ],
   "generatedAt": "2026-06-03T08:10:10.268Z",
   "realms": [
     0
   ],
-  "fileCount": 14,
-  "files": [
-    {
-      "path": "public/dashboard.json",
-      "bytes": 3
-    },
-    {
-      "path": "public/realm-0/macro.json",
-      "bytes": 242
-    },
-    {
-      "path": "public/realm-0/history.json",
-      "bytes": 3
-    },
-    {
-      "path": "public/realm-0/indexes.json",
-      "bytes": 3
-    },
-    {
-      "path": "public/realm-0/inflation.json",
-      "bytes": 3
-    },
-    {
-      "path": "public/sectors.json",
-      "bytes": 3
-    },
-    {
-      "path": "public/correlations.json",
-      "bytes": 3
-    },
-    {
-      "path": "public/anomalies.json",
-      "bytes": 3
-    },
-    {
-      "path": "public/divergence.json",
-      "bytes": 3
-    },
-    {
-      "path": "public/contagion.json",
-      "bytes": 3
-    },
-    {
-      "path": "public/realm-0/forecast.json",
-      "bytes": 3
-    },
-    {
-      "path": "public/realm-0/signals.json",
-      "bytes": 3
-    },
-    {
-      "path": "public/realm-0/cycles.json",
-      "bytes": 1004
-    },
-    {
-      "path": "public/realm-0/dependencies.json",
-      "bytes": 2791
-    }
-  ],
   "schema": "https://raw.githubusercontent.com/SimcoIntel/main/main/Data/public/schema.json"
 }
-
