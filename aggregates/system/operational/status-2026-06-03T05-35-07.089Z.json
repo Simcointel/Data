@@ -1,2 +1,13 @@
-{"t":"2026-06-03T05:35:07.089Z","scheduler":{"running":true,"uptimeMs":1919504,"uptimeFormatted":"0h 31m 59s"},"pipelines":[],"fetch":{"consecutiveFailures":0,"lastFailure":null}}
-
+{
+  "fetch": {
+    "consecutiveFailures": 0,
+    "lastFailure": null
+  },
+  "pipelines": [],
+  "scheduler": {
+    "running": true,
+    "uptimeFormatted": "0h 31m 59s",
+    "uptimeMs": 1919504
+  },
+  "t": "2026-06-03T05:35:07.089Z"
+}
