@@ -1,21 +1,2 @@
-[
-  {
-    "ca": "raw-materials+gdp",
-    "da": {
-      "direction": "raw-materials-high-gdp-low",
-      "sectors": [
-        "raw-materials",
-        "gdp"
-      ],
-      "strength": 100
-    },
-    "de": "raw-materials inflating 0% while gdp at -100%",
-    "ex": "2026-06-05T03:05:08.908Z",
-    "id": "evt_mpywx2cs_9gq8",
-    "se": "warning",
-    "so": "divergence",
-    "ti": "raw-materials inflating 0% while gdp at -100%",
-    "ts": "2026-06-04T03:05:08.908Z",
-    "ty": "inflation-divergence"
-  }
-]
+[{"id":"evt_mpyzljn9_of3s","ty":"cascading-instability","se":"warning","ca":"raw-materials","ti":"Instability cascading from raw-materials to industrial-goods, consumer-goods, energy-fuel, electronics, construction, aerospace (7/7 sectors stressed)","de":"Instability cascading from raw-materials to industrial-goods, consumer-goods, energy-fuel, electronics, construction, aerospace (7/7 sectors stressed)","da":{"source":"raw-materials","affected":["industrial-goods","consumer-goods","energy-fuel","electronics","construction","aerospace"],"strength":1},"ts":"2026-06-04T04:20:10.288Z","ex":"2026-06-05T04:20:10.288Z","so":"contagion"}]
+
