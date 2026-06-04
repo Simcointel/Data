@@ -1,2 +1,25 @@
-{"t":"2026-06-04T03:05:08.907Z","r":0,"di":[{"id":"evt_mpywx2cr_nmnz","ty":"inflation-divergence","se":"warning","de":"raw-materials inflating 0% while gdp at -100%","sc":["raw-materials","gdp"],"st":100,"dr":"raw-materials-high-gdp-low"}],"su":{"to":1,"cr":0,"wa":1,"in":0},"ok":true}
-
+{
+  "di": [
+    {
+      "de": "raw-materials inflating 0% while gdp at -100%",
+      "dr": "raw-materials-high-gdp-low",
+      "id": "evt_mpywx2cr_nmnz",
+      "sc": [
+        "raw-materials",
+        "gdp"
+      ],
+      "se": "warning",
+      "st": 100,
+      "ty": "inflation-divergence"
+    }
+  ],
+  "ok": true,
+  "r": 0,
+  "su": {
+    "cr": 0,
+    "in": 0,
+    "to": 1,
+    "wa": 1
+  },
+  "t": "2026-06-04T03:05:08.907Z"
+}
