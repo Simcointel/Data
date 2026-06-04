@@ -1,0 +1,2 @@
+{"t":"2026-06-04T06:45:10.204Z","r":0,"scores":{"eh":12,"ms":60,"st":65,"ip":0,"sr":44},"regime":{"label":"stagnation","confidence":0.5},"inflation":{"avg":0,"max":0,"count":0},"momentum":{"avg":0,"accelerating":0,"decelerating":0},"volatility":{"avg":0,"highCount":0},"stress":{"overall":0.2,"activeFlags":7},"anomalies":{"total":0,"critical":0,"warning":0},"alerts":{"total":1,"critical":0,"warning":1},"leaders":{"top":"raw-materials","bottom":"aerospace"},"ok":true}
+
