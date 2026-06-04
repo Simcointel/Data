@@ -1,2 +1,9 @@
-{"events":[{"id":"evt_mpzij5be_zeca","typeKey":"cascading-instability::raw-materials","expiresAt":"2026-06-05T13:10:11.113Z"}]}
-
+{
+  "events": [
+    {
+      "expiresAt": "2026-06-05T13:10:11.113Z",
+      "id": "evt_mpzij5be_zeca",
+      "typeKey": "cascading-instability::raw-materials"
+    }
+  ]
+}
