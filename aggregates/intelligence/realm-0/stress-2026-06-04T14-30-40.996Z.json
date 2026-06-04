@@ -1,2 +1,82 @@
-{"t":"2026-06-04T14:30:40.996Z","r":0,"stress":{"raw-materials":{"ri":false,"cp":false,"scp":0,"oh":false,"cs":true,"flags":["contraction"]},"industrial-goods":{"ri":false,"cp":false,"scp":0,"oh":false,"cs":true,"flags":["contraction"]},"consumer-goods":{"ri":false,"cp":false,"scp":0,"oh":false,"cs":true,"flags":["contraction"]},"energy-fuel":{"ri":false,"cp":false,"scp":0,"oh":false,"cs":true,"flags":["contraction"]},"electronics":{"ri":false,"cp":false,"scp":0,"oh":false,"cs":true,"flags":["contraction"]},"construction":{"ri":false,"cp":false,"scp":0,"oh":false,"cs":true,"flags":["contraction"]},"aerospace":{"ri":false,"cp":false,"scp":0,"oh":false,"cs":true,"flags":["contraction"]}},"rs":{"os":0.2,"af":7,"tf":35},"ok":true}
-
+{
+  "ok": true,
+  "r": 0,
+  "rs": {
+    "af": 7,
+    "os": 0.2,
+    "tf": 35
+  },
+  "stress": {
+    "aerospace": {
+      "cp": false,
+      "cs": true,
+      "flags": [
+        "contraction"
+      ],
+      "oh": false,
+      "ri": false,
+      "scp": 0
+    },
+    "construction": {
+      "cp": false,
+      "cs": true,
+      "flags": [
+        "contraction"
+      ],
+      "oh": false,
+      "ri": false,
+      "scp": 0
+    },
+    "consumer-goods": {
+      "cp": false,
+      "cs": true,
+      "flags": [
+        "contraction"
+      ],
+      "oh": false,
+      "ri": false,
+      "scp": 0
+    },
+    "electronics": {
+      "cp": false,
+      "cs": true,
+      "flags": [
+        "contraction"
+      ],
+      "oh": false,
+      "ri": false,
+      "scp": 0
+    },
+    "energy-fuel": {
+      "cp": false,
+      "cs": true,
+      "flags": [
+        "contraction"
+      ],
+      "oh": false,
+      "ri": false,
+      "scp": 0
+    },
+    "industrial-goods": {
+      "cp": false,
+      "cs": true,
+      "flags": [
+        "contraction"
+      ],
+      "oh": false,
+      "ri": false,
+      "scp": 0
+    },
+    "raw-materials": {
+      "cp": false,
+      "cs": true,
+      "flags": [
+        "contraction"
+      ],
+      "oh": false,
+      "ri": false,
+      "scp": 0
+    }
+  },
+  "t": "2026-06-04T14:30:40.996Z"
+}
