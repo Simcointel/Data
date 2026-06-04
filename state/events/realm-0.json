@@ -1,2 +1,9 @@
-{"events":[{"id":"evt_mpzk4y6i_resw","typeKey":"cascading-instability::raw-materials","expiresAt":"2026-06-05T13:55:07.913Z"}]}
-
+{
+  "events": [
+    {
+      "expiresAt": "2026-06-05T13:55:07.913Z",
+      "id": "evt_mpzk4y6i_resw",
+      "typeKey": "cascading-instability::raw-materials"
+    }
+  ]
+}
