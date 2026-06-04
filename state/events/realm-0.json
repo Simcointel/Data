@@ -1,2 +1,9 @@
-{"events":[{"id":"evt_mpywx2cs_9gq8","typeKey":"inflation-divergence::raw-materials+gdp","expiresAt":"2026-06-05T03:05:08.908Z"}]}
-
+{
+  "events": [
+    {
+      "expiresAt": "2026-06-05T03:05:08.908Z",
+      "id": "evt_mpywx2cs_9gq8",
+      "typeKey": "inflation-divergence::raw-materials+gdp"
+    }
+  ]
+}
