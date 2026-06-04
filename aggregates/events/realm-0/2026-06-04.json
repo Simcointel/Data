@@ -1,0 +1,2 @@
+[{"id":"evt_mpywx2cs_9gq8","ty":"inflation-divergence","se":"warning","ca":"raw-materials+gdp","ti":"raw-materials inflating 0% while gdp at -100%","de":"raw-materials inflating 0% while gdp at -100%","da":{"sectors":["raw-materials","gdp"],"strength":100,"direction":"raw-materials-high-gdp-low"},"ts":"2026-06-04T03:05:08.908Z","ex":"2026-06-05T03:05:08.908Z","so":"divergence"}]
+
