@@ -1,23 +1,2 @@
-{
-  "ci": 1,
-  "co": [
-    {
-      "af": [
-        "industrial-goods",
-        "consumer-goods",
-        "energy-fuel",
-        "electronics",
-        "construction",
-        "aerospace"
-      ],
-      "de": "Instability cascading from raw-materials to industrial-goods, consumer-goods, energy-fuel, electronics, construction, aerospace (7/7 sectors stressed)",
-      "id": "evt_mpz6e13l_ivo7",
-      "so": "raw-materials",
-      "st": 1,
-      "ty": "cascading-instability"
-    }
-  ],
-  "ok": true,
-  "r": 0,
-  "t": "2026-06-04T07:30:16.977Z"
-}
+{"t":"2026-06-04T07:30:16.977Z","r":0,"co":[{"id":"evt_mpz6e13l_ivo7","ty":"cascading-instability","so":"raw-materials","af":["industrial-goods","consumer-goods","energy-fuel","electronics","construction","aerospace"],"st":1,"de":"Instability cascading from raw-materials to industrial-goods, consumer-goods, energy-fuel, electronics, construction, aerospace (7/7 sectors stressed)"}],"ci":1,"ok":true}
+
