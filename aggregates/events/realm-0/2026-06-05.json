@@ -1,25 +1,2 @@
-[
-  {
-    "ca": "raw-materials",
-    "da": {
-      "affected": [
-        "industrial-goods",
-        "consumer-goods",
-        "energy-fuel",
-        "electronics",
-        "construction",
-        "aerospace"
-      ],
-      "source": "raw-materials",
-      "strength": 1
-    },
-    "de": "Instability cascading from raw-materials to industrial-goods, consumer-goods, energy-fuel, electronics, construction, aerospace (7/7 sectors stressed)",
-    "ex": "2026-06-06T00:10:12.081Z",
-    "id": "evt_mq063xm9_i3k1",
-    "se": "warning",
-    "so": "contagion",
-    "ti": "Instability cascading from raw-materials to industrial-goods, consumer-goods, energy-fuel, electronics, construction, aerospace (7/7 sectors stressed)",
-    "ts": "2026-06-05T00:10:12.081Z",
-    "ty": "cascading-instability"
-  }
-]
+[{"id":"evt_mq0b41gd_60ff","ty":"cascading-instability","se":"warning","ca":"raw-materials","ti":"Instability cascading from raw-materials to industrial-goods, consumer-goods, energy-fuel, electronics, construction, aerospace (7/7 sectors stressed)","de":"Instability cascading from raw-materials to industrial-goods, consumer-goods, energy-fuel, electronics, construction, aerospace (7/7 sectors stressed)","da":{"source":"raw-materials","affected":["industrial-goods","consumer-goods","energy-fuel","electronics","construction","aerospace"],"strength":1},"ts":"2026-06-05T02:30:15.133Z","ex":"2026-06-06T02:30:15.133Z","so":"contagion"}]
+
