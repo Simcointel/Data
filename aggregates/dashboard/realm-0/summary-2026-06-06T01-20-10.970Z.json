@@ -1,0 +1,2 @@
+{"t":"2026-06-06T01:20:10.970Z","r":0,"scores":{"eh":63.2,"ms":72,"st":96.8,"ip":22.7,"sr":39.4},"regime":{"label":"boom","confidence":0.8},"inflation":{"avg":1.51,"max":0,"count":0},"momentum":{"avg":1.51,"accelerating":0,"decelerating":0},"volatility":{"avg":0.65,"highCount":0},"stress":{"overall":0,"activeFlags":0},"anomalies":{"total":7,"critical":0,"warning":7},"alerts":{"total":10,"critical":0,"warning":7},"leaders":{"top":"consumer-goods","bottom":"raw-materials"},"ok":true}
+
