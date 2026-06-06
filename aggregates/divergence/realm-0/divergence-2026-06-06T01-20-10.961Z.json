@@ -1,2 +1,25 @@
-{"t":"2026-06-06T01:20:10.961Z","r":0,"di":[{"id":"evt_mq1o1s5t_s0lb","ty":"inflation-divergence","se":"info","de":"consumer-goods inflating 3.15% while gdp at 0%","sc":["consumer-goods","gdp"],"st":3.2,"dr":"consumer-goods-high-gdp-low"}],"su":{"to":1,"cr":0,"wa":0,"in":1},"ok":true}
-
+{
+  "di": [
+    {
+      "de": "consumer-goods inflating 3.15% while gdp at 0%",
+      "dr": "consumer-goods-high-gdp-low",
+      "id": "evt_mq1o1s5t_s0lb",
+      "sc": [
+        "consumer-goods",
+        "gdp"
+      ],
+      "se": "info",
+      "st": 3.2,
+      "ty": "inflation-divergence"
+    }
+  ],
+  "ok": true,
+  "r": 0,
+  "su": {
+    "cr": 0,
+    "in": 1,
+    "to": 1,
+    "wa": 0
+  },
+  "t": "2026-06-06T01:20:10.961Z"
+}

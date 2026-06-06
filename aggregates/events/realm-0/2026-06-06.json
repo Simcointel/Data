@@ -1,2 +1,179 @@
-[{"id":"evt_mq1o1s5v_6tq4","ty":"price-spike","se":"warning","ca":"raw-materials","ti":"Spike in raw-materials","de":"raw-materials z-score: 2 (value: 7022, mean: 7017)","da":{"zs":2,"vl":7022.19,"mn":7016.99,"sd":2.6},"ts":"2026-06-06T01:20:10.962Z","ex":"2026-06-07T01:20:10.962Z","so":"anomaly"},{"id":"evt_mq1o1s5v_s8l1","ty":"price-spike","se":"warning","ca":"industrial-goods","ti":"Spike in industrial-goods","de":"industrial-goods z-score: 2 (value: 427, mean: 427)","da":{"zs":2,"vl":427.11,"mn":426.62,"sd":0.25},"ts":"2026-06-06T01:20:10.962Z","ex":"2026-06-07T01:20:10.962Z","so":"anomaly"},{"id":"evt_mq1o1s5v_jswa","ty":"price-spike","se":"warning","ca":"consumer-goods","ti":"Spike in consumer-goods","de":"consumer-goods z-score: 2 (value: 568, mean: 555)","da":{"zs":2,"vl":568.4,"mn":554.53,"sd":6.93},"ts":"2026-06-06T01:20:10.962Z","ex":"2026-06-07T01:20:10.962Z","so":"anomaly"},{"id":"evt_mq1o1s5w_juaw","ty":"price-spike","se":"warning","ca":"energy-fuel","ti":"Spike in energy-fuel","de":"energy-fuel z-score: 2 (value: 24, mean: 24)","da":{"zs":2,"vl":24.49,"mn":24.12,"sd":0.19},"ts":"2026-06-06T01:20:10.962Z","ex":"2026-06-07T01:20:10.962Z","so":"anomaly"},{"id":"evt_mq1o1s5w_mkdz","ty":"price-spike","se":"warning","ca":"electronics","ti":"Spike in electronics","de":"electronics z-score: 2 (value: 1124, mean: 1102)","da":{"zs":2,"vl":1124.18,"mn":1101.91,"sd":11.13},"ts":"2026-06-06T01:20:10.962Z","ex":"2026-06-07T01:20:10.962Z","so":"anomaly"},{"id":"evt_mq1o1s5w_rtvv","ty":"price-spike","se":"warning","ca":"construction","ti":"Spike in construction","de":"construction z-score: 2 (value: 1587, mean: 1570)","da":{"zs":2,"vl":1586.65,"mn":1570.41,"sd":8.12},"ts":"2026-06-06T01:20:10.962Z","ex":"2026-06-07T01:20:10.962Z","so":"anomaly"},{"id":"evt_mq1o1s5w_rg1n","ty":"price-spike","se":"warning","ca":"aerospace","ti":"Spike in aerospace","de":"aerospace z-score: 2 (value: 4038, mean: 3993)","da":{"zs":2,"vl":4038.35,"mn":3992.86,"sd":22.75},"ts":"2026-06-06T01:20:10.962Z","ex":"2026-06-07T01:20:10.962Z","so":"anomaly"},{"id":"evt_mq1o1s5w_hawy","ty":"inflation-divergence","se":"info","ca":"consumer-goods+gdp","ti":"consumer-goods inflating 3.15% while gdp at 0%","de":"consumer-goods inflating 3.15% while gdp at 0%","da":{"sectors":["consumer-goods","gdp"],"strength":3.2,"direction":"consumer-goods-high-gdp-low"},"ts":"2026-06-06T01:20:10.962Z","ex":"2026-06-07T01:20:10.962Z","so":"divergence"},{"id":"evt_mq1o1s5w_xac3","ty":"inflation-spread","se":"info","ca":"consumer-goods","ti":"consumer-goods inflation (3.15%) spreading to construction, aerospace","de":"consumer-goods inflation (3.15%) spreading to construction, aerospace","da":{"source":"consumer-goods","affected":["construction","aerospace"],"strength":0.53},"ts":"2026-06-06T01:20:10.962Z","ex":"2026-06-07T01:20:10.962Z","so":"contagion"},{"id":"evt_mq1o1s61_23vp","ty":"inflation-spread","se":"info","ca":"electronics","ti":"electronics inflation (2.54%) spreading to consumer-goods, construction, aerospace","de":"electronics inflation (2.54%) spreading to consumer-goods, construction, aerospace","da":{"source":"electronics","affected":["consumer-goods","construction","aerospace"],"strength":0.42},"ts":"2026-06-06T01:20:10.962Z","ex":"2026-06-07T01:20:10.962Z","so":"contagion"}]
-
+[
+  {
+    "ca": "raw-materials",
+    "da": {
+      "mn": 7016.99,
+      "sd": 2.6,
+      "vl": 7022.19,
+      "zs": 2
+    },
+    "de": "raw-materials z-score: 2 (value: 7022, mean: 7017)",
+    "ex": "2026-06-07T01:20:10.962Z",
+    "id": "evt_mq1o1s5v_6tq4",
+    "se": "warning",
+    "so": "anomaly",
+    "ti": "Spike in raw-materials",
+    "ts": "2026-06-06T01:20:10.962Z",
+    "ty": "price-spike"
+  },
+  {
+    "ca": "industrial-goods",
+    "da": {
+      "mn": 426.62,
+      "sd": 0.25,
+      "vl": 427.11,
+      "zs": 2
+    },
+    "de": "industrial-goods z-score: 2 (value: 427, mean: 427)",
+    "ex": "2026-06-07T01:20:10.962Z",
+    "id": "evt_mq1o1s5v_s8l1",
+    "se": "warning",
+    "so": "anomaly",
+    "ti": "Spike in industrial-goods",
+    "ts": "2026-06-06T01:20:10.962Z",
+    "ty": "price-spike"
+  },
+  {
+    "ca": "consumer-goods",
+    "da": {
+      "mn": 554.53,
+      "sd": 6.93,
+      "vl": 568.4,
+      "zs": 2
+    },
+    "de": "consumer-goods z-score: 2 (value: 568, mean: 555)",
+    "ex": "2026-06-07T01:20:10.962Z",
+    "id": "evt_mq1o1s5v_jswa",
+    "se": "warning",
+    "so": "anomaly",
+    "ti": "Spike in consumer-goods",
+    "ts": "2026-06-06T01:20:10.962Z",
+    "ty": "price-spike"
+  },
+  {
+    "ca": "energy-fuel",
+    "da": {
+      "mn": 24.12,
+      "sd": 0.19,
+      "vl": 24.49,
+      "zs": 2
+    },
+    "de": "energy-fuel z-score: 2 (value: 24, mean: 24)",
+    "ex": "2026-06-07T01:20:10.962Z",
+    "id": "evt_mq1o1s5w_juaw",
+    "se": "warning",
+    "so": "anomaly",
+    "ti": "Spike in energy-fuel",
+    "ts": "2026-06-06T01:20:10.962Z",
+    "ty": "price-spike"
+  },
+  {
+    "ca": "electronics",
+    "da": {
+      "mn": 1101.91,
+      "sd": 11.13,
+      "vl": 1124.18,
+      "zs": 2
+    },
+    "de": "electronics z-score: 2 (value: 1124, mean: 1102)",
+    "ex": "2026-06-07T01:20:10.962Z",
+    "id": "evt_mq1o1s5w_mkdz",
+    "se": "warning",
+    "so": "anomaly",
+    "ti": "Spike in electronics",
+    "ts": "2026-06-06T01:20:10.962Z",
+    "ty": "price-spike"
+  },
+  {
+    "ca": "construction",
+    "da": {
+      "mn": 1570.41,
+      "sd": 8.12,
+      "vl": 1586.65,
+      "zs": 2
+    },
+    "de": "construction z-score: 2 (value: 1587, mean: 1570)",
+    "ex": "2026-06-07T01:20:10.962Z",
+    "id": "evt_mq1o1s5w_rtvv",
+    "se": "warning",
+    "so": "anomaly",
+    "ti": "Spike in construction",
+    "ts": "2026-06-06T01:20:10.962Z",
+    "ty": "price-spike"
+  },
+  {
+    "ca": "aerospace",
+    "da": {
+      "mn": 3992.86,
+      "sd": 22.75,
+      "vl": 4038.35,
+      "zs": 2
+    },
+    "de": "aerospace z-score: 2 (value: 4038, mean: 3993)",
+    "ex": "2026-06-07T01:20:10.962Z",
+    "id": "evt_mq1o1s5w_rg1n",
+    "se": "warning",
+    "so": "anomaly",
+    "ti": "Spike in aerospace",
+    "ts": "2026-06-06T01:20:10.962Z",
+    "ty": "price-spike"
+  },
+  {
+    "ca": "consumer-goods+gdp",
+    "da": {
+      "direction": "consumer-goods-high-gdp-low",
+      "sectors": [
+        "consumer-goods",
+        "gdp"
+      ],
+      "strength": 3.2
+    },
+    "de": "consumer-goods inflating 3.15% while gdp at 0%",
+    "ex": "2026-06-07T01:20:10.962Z",
+    "id": "evt_mq1o1s5w_hawy",
+    "se": "info",
+    "so": "divergence",
+    "ti": "consumer-goods inflating 3.15% while gdp at 0%",
+    "ts": "2026-06-06T01:20:10.962Z",
+    "ty": "inflation-divergence"
+  },
+  {
+    "ca": "consumer-goods",
+    "da": {
+      "affected": [
+        "construction",
+        "aerospace"
+      ],
+      "source": "consumer-goods",
+      "strength": 0.53
+    },
+    "de": "consumer-goods inflation (3.15%) spreading to construction, aerospace",
+    "ex": "2026-06-07T01:20:10.962Z",
+    "id": "evt_mq1o1s5w_xac3",
+    "se": "info",
+    "so": "contagion",
+    "ti": "consumer-goods inflation (3.15%) spreading to construction, aerospace",
+    "ts": "2026-06-06T01:20:10.962Z",
+    "ty": "inflation-spread"
+  },
+  {
+    "ca": "electronics",
+    "da": {
+      "affected": [
+        "consumer-goods",
+        "construction",
+        "aerospace"
+      ],
+      "source": "electronics",
+      "strength": 0.42
+    },
+    "de": "electronics inflation (2.54%) spreading to consumer-goods, construction, aerospace",
+    "ex": "2026-06-07T01:20:10.962Z",
+    "id": "evt_mq1o1s61_23vp",
+    "se": "info",
+    "so": "contagion",
+    "ti": "electronics inflation (2.54%) spreading to consumer-goods, construction, aerospace",
+    "ts": "2026-06-06T01:20:10.962Z",
+    "ty": "inflation-spread"
+  }
+]

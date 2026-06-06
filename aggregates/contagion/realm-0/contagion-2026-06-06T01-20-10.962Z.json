@@ -1,2 +1,31 @@
-{"t":"2026-06-06T01:20:10.962Z","r":0,"co":[{"id":"evt_mq1o1s5u_95gh","ty":"inflation-spread","so":"consumer-goods","af":["construction","aerospace"],"st":0.53,"de":"consumer-goods inflation (3.15%) spreading to construction, aerospace"},{"id":"evt_mq1o1s5u_zf4w","ty":"inflation-spread","so":"electronics","af":["consumer-goods","construction","aerospace"],"st":0.42,"de":"electronics inflation (2.54%) spreading to consumer-goods, construction, aerospace"}],"ci":0.48,"ok":true}
-
+{
+  "ci": 0.48,
+  "co": [
+    {
+      "af": [
+        "construction",
+        "aerospace"
+      ],
+      "de": "consumer-goods inflation (3.15%) spreading to construction, aerospace",
+      "id": "evt_mq1o1s5u_95gh",
+      "so": "consumer-goods",
+      "st": 0.53,
+      "ty": "inflation-spread"
+    },
+    {
+      "af": [
+        "consumer-goods",
+        "construction",
+        "aerospace"
+      ],
+      "de": "electronics inflation (2.54%) spreading to consumer-goods, construction, aerospace",
+      "id": "evt_mq1o1s5u_zf4w",
+      "so": "electronics",
+      "st": 0.42,
+      "ty": "inflation-spread"
+    }
+  ],
+  "ok": true,
+  "r": 0,
+  "t": "2026-06-06T01:20:10.962Z"
+}

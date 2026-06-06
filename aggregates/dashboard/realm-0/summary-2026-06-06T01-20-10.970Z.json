@@ -1,2 +1,48 @@
-{"t":"2026-06-06T01:20:10.970Z","r":0,"scores":{"eh":63.2,"ms":72,"st":96.8,"ip":22.7,"sr":39.4},"regime":{"label":"boom","confidence":0.8},"inflation":{"avg":1.51,"max":0,"count":0},"momentum":{"avg":1.51,"accelerating":0,"decelerating":0},"volatility":{"avg":0.65,"highCount":0},"stress":{"overall":0,"activeFlags":0},"anomalies":{"total":7,"critical":0,"warning":7},"alerts":{"total":10,"critical":0,"warning":7},"leaders":{"top":"consumer-goods","bottom":"raw-materials"},"ok":true}
-
+{
+  "alerts": {
+    "critical": 0,
+    "total": 10,
+    "warning": 7
+  },
+  "anomalies": {
+    "critical": 0,
+    "total": 7,
+    "warning": 7
+  },
+  "inflation": {
+    "avg": 1.51,
+    "count": 0,
+    "max": 0
+  },
+  "leaders": {
+    "bottom": "raw-materials",
+    "top": "consumer-goods"
+  },
+  "momentum": {
+    "accelerating": 0,
+    "avg": 1.51,
+    "decelerating": 0
+  },
+  "ok": true,
+  "r": 0,
+  "regime": {
+    "confidence": 0.8,
+    "label": "boom"
+  },
+  "scores": {
+    "eh": 63.2,
+    "ip": 22.7,
+    "ms": 72,
+    "sr": 39.4,
+    "st": 96.8
+  },
+  "stress": {
+    "activeFlags": 0,
+    "overall": 0
+  },
+  "t": "2026-06-06T01:20:10.970Z",
+  "volatility": {
+    "avg": 0.65,
+    "highCount": 0
+  }
+}
