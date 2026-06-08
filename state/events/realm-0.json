@@ -1,2 +1,24 @@
-{"events":[{"id":"evt_mq4gyofu_qnye","typeKey":"inflation-anomaly::raw-materials","expiresAt":"2026-06-09T00:25:07.386Z"},{"id":"evt_mq4gyofv_w0mu","typeKey":"sector-divergence::raw-materials+industrial-goods","expiresAt":"2026-06-09T00:25:07.386Z"},{"id":"evt_mq4gyofv_2y21","typeKey":"inflation-divergence::raw-materials+industrial-goods","expiresAt":"2026-06-09T00:25:07.386Z"},{"id":"evt_mq4gyofv_65yr","typeKey":"cascading-instability::raw-materials","expiresAt":"2026-06-09T00:25:07.386Z"}]}
-
+{
+  "events": [
+    {
+      "expiresAt": "2026-06-09T00:25:07.386Z",
+      "id": "evt_mq4gyofu_qnye",
+      "typeKey": "inflation-anomaly::raw-materials"
+    },
+    {
+      "expiresAt": "2026-06-09T00:25:07.386Z",
+      "id": "evt_mq4gyofv_w0mu",
+      "typeKey": "sector-divergence::raw-materials+industrial-goods"
+    },
+    {
+      "expiresAt": "2026-06-09T00:25:07.386Z",
+      "id": "evt_mq4gyofv_2y21",
+      "typeKey": "inflation-divergence::raw-materials+industrial-goods"
+    },
+    {
+      "expiresAt": "2026-06-09T00:25:07.386Z",
+      "id": "evt_mq4gyofv_65yr",
+      "typeKey": "cascading-instability::raw-materials"
+    }
+  ]
+}
