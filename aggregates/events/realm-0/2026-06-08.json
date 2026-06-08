@@ -1,2 +1,80 @@
-[{"id":"evt_mq4gyofu_qnye","ty":"inflation-anomaly","se":"warning","ca":"raw-materials","ti":"High inflation in raw-materials","de":"raw-materials inflation: 6.77% (current: 7528.2017, previous: 7051.0658)","da":{"zs":6.77,"vl":7528.2017,"mn":7051.0658,"sd":0},"ts":"2026-06-08T00:25:07.386Z","ex":"2026-06-09T00:25:07.386Z","so":"anomaly"},{"id":"evt_mq4gyofv_w0mu","ty":"sector-divergence","se":"warning","ca":"raw-materials+industrial-goods","ti":"raw-materials (6.8) outperforming industrial-goods (-0.6) by 7.3pts","de":"raw-materials (6.8) outperforming industrial-goods (-0.6) by 7.3pts","da":{"sectors":["raw-materials","industrial-goods"],"strength":1.08,"direction":"raw-materials-up-industrial-goods-down"},"ts":"2026-06-08T00:25:07.386Z","ex":"2026-06-09T00:25:07.386Z","so":"divergence"},{"id":"evt_mq4gyofv_2y21","ty":"inflation-divergence","se":"warning","ca":"raw-materials+industrial-goods","ti":"raw-materials inflating 6.77% while industrial-goods at -0.55%","de":"raw-materials inflating 6.77% while industrial-goods at -0.55%","da":{"sectors":["raw-materials","industrial-goods"],"strength":7.3,"direction":"raw-materials-high-industrial-goods-low"},"ts":"2026-06-08T00:25:07.386Z","ex":"2026-06-09T00:25:07.386Z","so":"divergence"},{"id":"evt_mq4gyofv_65yr","ty":"cascading-instability","se":"warning","ca":"raw-materials","ti":"Instability cascading from raw-materials to industrial-goods, consumer-goods, energy-fuel, electronics, construction, aerospace (7/7 sectors stressed)","de":"Instability cascading from raw-materials to industrial-goods, consumer-goods, energy-fuel, electronics, construction, aerospace (7/7 sectors stressed)","da":{"source":"raw-materials","affected":["industrial-goods","consumer-goods","energy-fuel","electronics","construction","aerospace"],"strength":1},"ts":"2026-06-08T00:25:07.386Z","ex":"2026-06-09T00:25:07.386Z","so":"contagion"}]
-
+[
+  {
+    "ca": "raw-materials",
+    "da": {
+      "mn": 7051.0658,
+      "sd": 0,
+      "vl": 7528.2017,
+      "zs": 6.77
+    },
+    "de": "raw-materials inflation: 6.77% (current: 7528.2017, previous: 7051.0658)",
+    "ex": "2026-06-09T00:25:07.386Z",
+    "id": "evt_mq4gyofu_qnye",
+    "se": "warning",
+    "so": "anomaly",
+    "ti": "High inflation in raw-materials",
+    "ts": "2026-06-08T00:25:07.386Z",
+    "ty": "inflation-anomaly"
+  },
+  {
+    "ca": "raw-materials+industrial-goods",
+    "da": {
+      "direction": "raw-materials-up-industrial-goods-down",
+      "sectors": [
+        "raw-materials",
+        "industrial-goods"
+      ],
+      "strength": 1.08
+    },
+    "de": "raw-materials (6.8) outperforming industrial-goods (-0.6) by 7.3pts",
+    "ex": "2026-06-09T00:25:07.386Z",
+    "id": "evt_mq4gyofv_w0mu",
+    "se": "warning",
+    "so": "divergence",
+    "ti": "raw-materials (6.8) outperforming industrial-goods (-0.6) by 7.3pts",
+    "ts": "2026-06-08T00:25:07.386Z",
+    "ty": "sector-divergence"
+  },
+  {
+    "ca": "raw-materials+industrial-goods",
+    "da": {
+      "direction": "raw-materials-high-industrial-goods-low",
+      "sectors": [
+        "raw-materials",
+        "industrial-goods"
+      ],
+      "strength": 7.3
+    },
+    "de": "raw-materials inflating 6.77% while industrial-goods at -0.55%",
+    "ex": "2026-06-09T00:25:07.386Z",
+    "id": "evt_mq4gyofv_2y21",
+    "se": "warning",
+    "so": "divergence",
+    "ti": "raw-materials inflating 6.77% while industrial-goods at -0.55%",
+    "ts": "2026-06-08T00:25:07.386Z",
+    "ty": "inflation-divergence"
+  },
+  {
+    "ca": "raw-materials",
+    "da": {
+      "affected": [
+        "industrial-goods",
+        "consumer-goods",
+        "energy-fuel",
+        "electronics",
+        "construction",
+        "aerospace"
+      ],
+      "source": "raw-materials",
+      "strength": 1
+    },
+    "de": "Instability cascading from raw-materials to industrial-goods, consumer-goods, energy-fuel, electronics, construction, aerospace (7/7 sectors stressed)",
+    "ex": "2026-06-09T00:25:07.386Z",
+    "id": "evt_mq4gyofv_65yr",
+    "se": "warning",
+    "so": "contagion",
+    "ti": "Instability cascading from raw-materials to industrial-goods, consumer-goods, energy-fuel, electronics, construction, aerospace (7/7 sectors stressed)",
+    "ts": "2026-06-08T00:25:07.386Z",
+    "ty": "cascading-instability"
+  }
+]

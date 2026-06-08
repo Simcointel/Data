@@ -1,2 +1,26 @@
-{"t":"2026-06-08T00:25:07.384Z","r":0,"an":[{"id":"evt_mq4gyofs_y0sh","ty":"inflation-anomaly","se":"warning","ca":"raw-materials","ti":"High inflation in raw-materials","de":"raw-materials inflation: 6.77% (current: 7528.2017, previous: 7051.0658)","zs":6.77,"vl":7528.2017,"mn":7051.0658,"sd":0,"ts":"2026-06-08T00:25:07.384Z"}],"su":{"to":1,"cr":0,"wa":1,"in":0},"ok":true}
-
+{
+  "an": [
+    {
+      "ca": "raw-materials",
+      "de": "raw-materials inflation: 6.77% (current: 7528.2017, previous: 7051.0658)",
+      "id": "evt_mq4gyofs_y0sh",
+      "mn": 7051.0658,
+      "sd": 0,
+      "se": "warning",
+      "ti": "High inflation in raw-materials",
+      "ts": "2026-06-08T00:25:07.384Z",
+      "ty": "inflation-anomaly",
+      "vl": 7528.2017,
+      "zs": 6.77
+    }
+  ],
+  "ok": true,
+  "r": 0,
+  "su": {
+    "cr": 0,
+    "in": 0,
+    "to": 1,
+    "wa": 1
+  },
+  "t": "2026-06-08T00:25:07.384Z"
+}
