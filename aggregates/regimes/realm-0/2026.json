@@ -1,18 +1,2 @@
-{
-  "e": [
-    {
-      "d": "2026-06-07",
-      "pr": "stagnation",
-      "rc": 0.65,
-      "rg": "recovery"
-    },
-    {
-      "d": "2026-06-08",
-      "pr": "recovery",
-      "rc": 0.65,
-      "rg": "recovery"
-    }
-  ],
-  "r": 0,
-  "y": 2026
-}
+{"r":0,"y":2026,"e":[{"d":"2026-06-07","rg":"recovery","rc":0.65,"pr":"stagnation"},{"d":"2026-06-08","rg":"recovery","rc":0.65,"pr":"recovery"}]}
+
