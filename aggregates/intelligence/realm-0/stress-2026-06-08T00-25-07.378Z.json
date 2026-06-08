@@ -1,2 +1,83 @@
-{"t":"2026-06-08T00:25:07.377Z","r":0,"stress":{"raw-materials":{"ri":true,"cp":false,"scp":6.43,"oh":false,"cs":false,"flags":["rapid-inflation","supply-chain-pressure"]},"industrial-goods":{"ri":false,"cp":false,"scp":6.43,"oh":false,"cs":false,"flags":["supply-chain-pressure"]},"consumer-goods":{"ri":false,"cp":false,"scp":6.43,"oh":false,"cs":false,"flags":["supply-chain-pressure"]},"energy-fuel":{"ri":false,"cp":false,"scp":6.43,"oh":false,"cs":false,"flags":["supply-chain-pressure"]},"electronics":{"ri":false,"cp":false,"scp":6.43,"oh":false,"cs":false,"flags":["supply-chain-pressure"]},"construction":{"ri":false,"cp":false,"scp":6.43,"oh":false,"cs":false,"flags":["supply-chain-pressure"]},"aerospace":{"ri":false,"cp":false,"scp":6.43,"oh":false,"cs":false,"flags":["supply-chain-pressure"]}},"rs":{"os":0.23,"af":8,"tf":35},"ok":true}
-
+{
+  "ok": true,
+  "r": 0,
+  "rs": {
+    "af": 8,
+    "os": 0.23,
+    "tf": 35
+  },
+  "stress": {
+    "aerospace": {
+      "cp": false,
+      "cs": false,
+      "flags": [
+        "supply-chain-pressure"
+      ],
+      "oh": false,
+      "ri": false,
+      "scp": 6.43
+    },
+    "construction": {
+      "cp": false,
+      "cs": false,
+      "flags": [
+        "supply-chain-pressure"
+      ],
+      "oh": false,
+      "ri": false,
+      "scp": 6.43
+    },
+    "consumer-goods": {
+      "cp": false,
+      "cs": false,
+      "flags": [
+        "supply-chain-pressure"
+      ],
+      "oh": false,
+      "ri": false,
+      "scp": 6.43
+    },
+    "electronics": {
+      "cp": false,
+      "cs": false,
+      "flags": [
+        "supply-chain-pressure"
+      ],
+      "oh": false,
+      "ri": false,
+      "scp": 6.43
+    },
+    "energy-fuel": {
+      "cp": false,
+      "cs": false,
+      "flags": [
+        "supply-chain-pressure"
+      ],
+      "oh": false,
+      "ri": false,
+      "scp": 6.43
+    },
+    "industrial-goods": {
+      "cp": false,
+      "cs": false,
+      "flags": [
+        "supply-chain-pressure"
+      ],
+      "oh": false,
+      "ri": false,
+      "scp": 6.43
+    },
+    "raw-materials": {
+      "cp": false,
+      "cs": false,
+      "flags": [
+        "rapid-inflation",
+        "supply-chain-pressure"
+      ],
+      "oh": false,
+      "ri": true,
+      "scp": 6.43
+    }
+  },
+  "t": "2026-06-08T00:25:07.377Z"
+}
