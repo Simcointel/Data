@@ -1,2 +1,417 @@
-{"t":"2026-06-08T06:20:10.807Z","r":0,"w":20,"m":{"raw-materials":{"raw-materials":{"r":1,"s":"strong","n":1},"industrial-goods":{"r":null,"s":"weak","n":5},"consumer-goods":{"r":0.7071,"s":"strong","n":5},"energy-fuel":{"r":null,"s":"weak","n":5},"electronics":{"r":0,"s":"weak","n":5},"construction":{"r":0,"s":"weak","n":5},"aerospace":{"r":null,"s":"weak","n":5}},"industrial-goods":{"raw-materials":{"r":null,"s":"weak","n":5},"industrial-goods":{"r":1,"s":"strong","n":1},"consumer-goods":{"r":null,"s":"weak","n":5},"energy-fuel":{"r":-1,"s":"strong","n":5},"electronics":{"r":null,"s":"weak","n":5},"construction":{"r":null,"s":"weak","n":5},"aerospace":{"r":-1,"s":"strong","n":5}},"consumer-goods":{"raw-materials":{"r":0.7071,"s":"strong","n":5},"industrial-goods":{"r":null,"s":"weak","n":5},"consumer-goods":{"r":1,"s":"strong","n":1},"energy-fuel":{"r":null,"s":"weak","n":5},"electronics":{"r":0.7071,"s":"strong","n":5},"construction":{"r":-1,"s":"strong","n":5},"aerospace":{"r":null,"s":"weak","n":5}},"energy-fuel":{"raw-materials":{"r":null,"s":"weak","n":5},"industrial-goods":{"r":-1,"s":"strong","n":5},"consumer-goods":{"r":null,"s":"weak","n":5},"energy-fuel":{"r":1,"s":"strong","n":1},"electronics":{"r":null,"s":"weak","n":5},"construction":{"r":null,"s":"weak","n":5},"aerospace":{"r":0,"s":"weak","n":5}},"electronics":{"raw-materials":{"r":0,"s":"weak","n":5},"industrial-goods":{"r":null,"s":"weak","n":5},"consumer-goods":{"r":0.7071,"s":"strong","n":5},"energy-fuel":{"r":null,"s":"weak","n":5},"electronics":{"r":1,"s":"strong","n":1},"construction":{"r":1,"s":"strong","n":5},"aerospace":{"r":null,"s":"weak","n":5}},"construction":{"raw-materials":{"r":0,"s":"weak","n":5},"industrial-goods":{"r":null,"s":"weak","n":5},"consumer-goods":{"r":-1,"s":"strong","n":5},"energy-fuel":{"r":null,"s":"weak","n":5},"electronics":{"r":1,"s":"strong","n":5},"construction":{"r":1,"s":"strong","n":1},"aerospace":{"r":null,"s":"weak","n":5}},"aerospace":{"raw-materials":{"r":null,"s":"weak","n":5},"industrial-goods":{"r":-1,"s":"strong","n":5},"consumer-goods":{"r":null,"s":"weak","n":5},"energy-fuel":{"r":0,"s":"weak","n":5},"electronics":{"r":null,"s":"weak","n":5},"construction":{"r":null,"s":"weak","n":5},"aerospace":{"r":1,"s":"strong","n":1}}},"tp":[{"a":"raw-materials","b":"industrial-goods","r":null,"s":"weak","n":5},{"a":"raw-materials","b":"consumer-goods","r":0.7071,"s":"strong","n":5},{"a":"raw-materials","b":"energy-fuel","r":null,"s":"weak","n":5},{"a":"raw-materials","b":"electronics","r":0,"s":"weak","n":5},{"a":"raw-materials","b":"construction","r":0,"s":"weak","n":5},{"a":"raw-materials","b":"aerospace","r":null,"s":"weak","n":5},{"a":"industrial-goods","b":"consumer-goods","r":null,"s":"weak","n":5},{"a":"industrial-goods","b":"energy-fuel","r":-1,"s":"strong","n":5},{"a":"industrial-goods","b":"electronics","r":null,"s":"weak","n":5},{"a":"industrial-goods","b":"construction","r":null,"s":"weak","n":5},{"a":"industrial-goods","b":"aerospace","r":-1,"s":"strong","n":5},{"a":"consumer-goods","b":"energy-fuel","r":null,"s":"weak","n":5},{"a":"consumer-goods","b":"construction","r":-1,"s":"strong","n":5},{"a":"consumer-goods","b":"electronics","r":0.7071,"s":"strong","n":5},{"a":"consumer-goods","b":"aerospace","r":null,"s":"weak","n":5},{"a":"energy-fuel","b":"electronics","r":null,"s":"weak","n":5},{"a":"energy-fuel","b":"construction","r":null,"s":"weak","n":5},{"a":"electronics","b":"construction","r":1,"s":"strong","n":5},{"a":"energy-fuel","b":"aerospace","r":0,"s":"weak","n":5},{"a":"electronics","b":"aerospace","r":null,"s":"weak","n":5},{"a":"construction","b":"aerospace","r":null,"s":"weak","n":5}],"sh":{},"ok":true}
-
+{
+  "m": {
+    "aerospace": {
+      "aerospace": {
+        "n": 1,
+        "r": 1,
+        "s": "strong"
+      },
+      "construction": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "consumer-goods": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "electronics": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "energy-fuel": {
+        "n": 5,
+        "r": 0,
+        "s": "weak"
+      },
+      "industrial-goods": {
+        "n": 5,
+        "r": -1,
+        "s": "strong"
+      },
+      "raw-materials": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      }
+    },
+    "construction": {
+      "aerospace": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "construction": {
+        "n": 1,
+        "r": 1,
+        "s": "strong"
+      },
+      "consumer-goods": {
+        "n": 5,
+        "r": -1,
+        "s": "strong"
+      },
+      "electronics": {
+        "n": 5,
+        "r": 1,
+        "s": "strong"
+      },
+      "energy-fuel": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "industrial-goods": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "raw-materials": {
+        "n": 5,
+        "r": 0,
+        "s": "weak"
+      }
+    },
+    "consumer-goods": {
+      "aerospace": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "construction": {
+        "n": 5,
+        "r": -1,
+        "s": "strong"
+      },
+      "consumer-goods": {
+        "n": 1,
+        "r": 1,
+        "s": "strong"
+      },
+      "electronics": {
+        "n": 5,
+        "r": 0.7071,
+        "s": "strong"
+      },
+      "energy-fuel": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "industrial-goods": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "raw-materials": {
+        "n": 5,
+        "r": 0.7071,
+        "s": "strong"
+      }
+    },
+    "electronics": {
+      "aerospace": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "construction": {
+        "n": 5,
+        "r": 1,
+        "s": "strong"
+      },
+      "consumer-goods": {
+        "n": 5,
+        "r": 0.7071,
+        "s": "strong"
+      },
+      "electronics": {
+        "n": 1,
+        "r": 1,
+        "s": "strong"
+      },
+      "energy-fuel": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "industrial-goods": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "raw-materials": {
+        "n": 5,
+        "r": 0,
+        "s": "weak"
+      }
+    },
+    "energy-fuel": {
+      "aerospace": {
+        "n": 5,
+        "r": 0,
+        "s": "weak"
+      },
+      "construction": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "consumer-goods": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "electronics": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "energy-fuel": {
+        "n": 1,
+        "r": 1,
+        "s": "strong"
+      },
+      "industrial-goods": {
+        "n": 5,
+        "r": -1,
+        "s": "strong"
+      },
+      "raw-materials": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      }
+    },
+    "industrial-goods": {
+      "aerospace": {
+        "n": 5,
+        "r": -1,
+        "s": "strong"
+      },
+      "construction": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "consumer-goods": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "electronics": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "energy-fuel": {
+        "n": 5,
+        "r": -1,
+        "s": "strong"
+      },
+      "industrial-goods": {
+        "n": 1,
+        "r": 1,
+        "s": "strong"
+      },
+      "raw-materials": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      }
+    },
+    "raw-materials": {
+      "aerospace": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "construction": {
+        "n": 5,
+        "r": 0,
+        "s": "weak"
+      },
+      "consumer-goods": {
+        "n": 5,
+        "r": 0.7071,
+        "s": "strong"
+      },
+      "electronics": {
+        "n": 5,
+        "r": 0,
+        "s": "weak"
+      },
+      "energy-fuel": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "industrial-goods": {
+        "n": 5,
+        "r": null,
+        "s": "weak"
+      },
+      "raw-materials": {
+        "n": 1,
+        "r": 1,
+        "s": "strong"
+      }
+    }
+  },
+  "ok": true,
+  "r": 0,
+  "sh": {},
+  "t": "2026-06-08T06:20:10.807Z",
+  "tp": [
+    {
+      "a": "raw-materials",
+      "b": "industrial-goods",
+      "n": 5,
+      "r": null,
+      "s": "weak"
+    },
+    {
+      "a": "raw-materials",
+      "b": "consumer-goods",
+      "n": 5,
+      "r": 0.7071,
+      "s": "strong"
+    },
+    {
+      "a": "raw-materials",
+      "b": "energy-fuel",
+      "n": 5,
+      "r": null,
+      "s": "weak"
+    },
+    {
+      "a": "raw-materials",
+      "b": "electronics",
+      "n": 5,
+      "r": 0,
+      "s": "weak"
+    },
+    {
+      "a": "raw-materials",
+      "b": "construction",
+      "n": 5,
+      "r": 0,
+      "s": "weak"
+    },
+    {
+      "a": "raw-materials",
+      "b": "aerospace",
+      "n": 5,
+      "r": null,
+      "s": "weak"
+    },
+    {
+      "a": "industrial-goods",
+      "b": "consumer-goods",
+      "n": 5,
+      "r": null,
+      "s": "weak"
+    },
+    {
+      "a": "industrial-goods",
+      "b": "energy-fuel",
+      "n": 5,
+      "r": -1,
+      "s": "strong"
+    },
+    {
+      "a": "industrial-goods",
+      "b": "electronics",
+      "n": 5,
+      "r": null,
+      "s": "weak"
+    },
+    {
+      "a": "industrial-goods",
+      "b": "construction",
+      "n": 5,
+      "r": null,
+      "s": "weak"
+    },
+    {
+      "a": "industrial-goods",
+      "b": "aerospace",
+      "n": 5,
+      "r": -1,
+      "s": "strong"
+    },
+    {
+      "a": "consumer-goods",
+      "b": "energy-fuel",
+      "n": 5,
+      "r": null,
+      "s": "weak"
+    },
+    {
+      "a": "consumer-goods",
+      "b": "construction",
+      "n": 5,
+      "r": -1,
+      "s": "strong"
+    },
+    {
+      "a": "consumer-goods",
+      "b": "electronics",
+      "n": 5,
+      "r": 0.7071,
+      "s": "strong"
+    },
+    {
+      "a": "consumer-goods",
+      "b": "aerospace",
+      "n": 5,
+      "r": null,
+      "s": "weak"
+    },
+    {
+      "a": "energy-fuel",
+      "b": "electronics",
+      "n": 5,
+      "r": null,
+      "s": "weak"
+    },
+    {
+      "a": "energy-fuel",
+      "b": "construction",
+      "n": 5,
+      "r": null,
+      "s": "weak"
+    },
+    {
+      "a": "electronics",
+      "b": "construction",
+      "n": 5,
+      "r": 1,
+      "s": "strong"
+    },
+    {
+      "a": "energy-fuel",
+      "b": "aerospace",
+      "n": 5,
+      "r": 0,
+      "s": "weak"
+    },
+    {
+      "a": "electronics",
+      "b": "aerospace",
+      "n": 5,
+      "r": null,
+      "s": "weak"
+    },
+    {
+      "a": "construction",
+      "b": "aerospace",
+      "n": 5,
+      "r": null,
+      "s": "weak"
+    }
+  ],
+  "w": 20
+}
