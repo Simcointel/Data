@@ -1,2 +1,105 @@
-{"t":"2026-06-10T05:15:11.983Z","r":0,"sectors":{"raw-materials":{"momentum":{"st":0,"mt":0},"volatility":{"v5":0,"v20":0},"flags":["weak-trend"],"outlook":"neutral"},"industrial-goods":{"momentum":{"st":0,"mt":0},"volatility":{"v5":0,"v20":0},"flags":["weak-trend"],"outlook":"neutral"},"consumer-goods":{"momentum":{"st":0,"mt":0},"volatility":{"v5":0,"v20":0},"flags":["weak-trend"],"outlook":"neutral"},"energy-fuel":{"momentum":{"st":0,"mt":0},"volatility":{"v5":0,"v20":0},"flags":["weak-trend"],"outlook":"neutral"},"electronics":{"momentum":{"st":0,"mt":0},"volatility":{"v5":0,"v20":0},"flags":["weak-trend"],"outlook":"neutral"},"construction":{"momentum":{"st":0,"mt":0},"volatility":{"v5":0,"v20":0},"flags":["weak-trend"],"outlook":"neutral"},"aerospace":{"momentum":{"st":0,"mt":0},"volatility":{"v5":0,"v20":0},"flags":["weak-trend"],"outlook":"neutral"}},"ok":true}
-
+{
+  "ok": true,
+  "r": 0,
+  "sectors": {
+    "aerospace": {
+      "flags": [
+        "weak-trend"
+      ],
+      "momentum": {
+        "mt": 0,
+        "st": 0
+      },
+      "outlook": "neutral",
+      "volatility": {
+        "v20": 0,
+        "v5": 0
+      }
+    },
+    "construction": {
+      "flags": [
+        "weak-trend"
+      ],
+      "momentum": {
+        "mt": 0,
+        "st": 0
+      },
+      "outlook": "neutral",
+      "volatility": {
+        "v20": 0,
+        "v5": 0
+      }
+    },
+    "consumer-goods": {
+      "flags": [
+        "weak-trend"
+      ],
+      "momentum": {
+        "mt": 0,
+        "st": 0
+      },
+      "outlook": "neutral",
+      "volatility": {
+        "v20": 0,
+        "v5": 0
+      }
+    },
+    "electronics": {
+      "flags": [
+        "weak-trend"
+      ],
+      "momentum": {
+        "mt": 0,
+        "st": 0
+      },
+      "outlook": "neutral",
+      "volatility": {
+        "v20": 0,
+        "v5": 0
+      }
+    },
+    "energy-fuel": {
+      "flags": [
+        "weak-trend"
+      ],
+      "momentum": {
+        "mt": 0,
+        "st": 0
+      },
+      "outlook": "neutral",
+      "volatility": {
+        "v20": 0,
+        "v5": 0
+      }
+    },
+    "industrial-goods": {
+      "flags": [
+        "weak-trend"
+      ],
+      "momentum": {
+        "mt": 0,
+        "st": 0
+      },
+      "outlook": "neutral",
+      "volatility": {
+        "v20": 0,
+        "v5": 0
+      }
+    },
+    "raw-materials": {
+      "flags": [
+        "weak-trend"
+      ],
+      "momentum": {
+        "mt": 0,
+        "st": 0
+      },
+      "outlook": "neutral",
+      "volatility": {
+        "v20": 0,
+        "v5": 0
+      }
+    }
+  },
+  "t": "2026-06-10T05:15:11.983Z"
+}
