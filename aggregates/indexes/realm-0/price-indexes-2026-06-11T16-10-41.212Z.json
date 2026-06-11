@@ -1,7 +1,7 @@
 {
-  "t": "2026-06-11T15:30:22.898Z",
+  "t": "2026-06-11T16:10:41.212Z",
   "r": 0,
-  "sr": "/tmp/data-repo/snapshots/market/realm-0/market-snapshot-2026-06-11T15-25-38.475Z.json",
+  "sr": "/tmp/data-repo/snapshots/market/realm-0/market-snapshot-2026-06-11T16-10-11.639Z.json",
   "ix": {
     "raw-materials": {
       "v": 7748.8831,
@@ -47,6 +47,11 @@
       "v": 2589.2847,
       "n": 7,
       "rn": 7
+    },
+    "gdp": {
+      "v": 1983958293246,
+      "n": 1,
+      "rn": 1
     }
   }
 }
