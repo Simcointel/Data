@@ -1,14 +1,2 @@
-{
-  "events": [
-    {
-      "expiresAt": "2026-06-14T00:10:16.539Z",
-      "id": "evt_mqblmue3_du8k",
-      "typeKey": "sector-divergence::industrial-goods+raw-materials"
-    },
-    {
-      "expiresAt": "2026-06-14T00:10:16.539Z",
-      "id": "evt_mqblmue4_scmh",
-      "typeKey": "inflation-divergence::industrial-goods+raw-materials"
-    }
-  ]
-}
+{"events":[{"id":"evt_mqblmue3_du8k","typeKey":"sector-divergence::industrial-goods+raw-materials","expiresAt":"2026-06-14T00:10:16.539Z"},{"id":"evt_mqblmue4_scmh","typeKey":"inflation-divergence::industrial-goods+raw-materials","expiresAt":"2026-06-14T00:10:16.539Z"}]}
+
