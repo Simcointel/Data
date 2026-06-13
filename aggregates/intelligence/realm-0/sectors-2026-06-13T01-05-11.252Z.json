@@ -1,2 +1,109 @@
-{"t":"2026-06-13T01:05:11.252Z","r":0,"sectors":{"raw-materials":{"momentum":{"st":-8.22,"mt":-8.22},"volatility":{"v5":3.88,"v20":3.88},"flags":["weak-trend","high-volatility"],"outlook":"negative"},"industrial-goods":{"momentum":{"st":0.1,"mt":0.1},"volatility":{"v5":0.05,"v20":0.05},"flags":["stable"],"outlook":"neutral"},"consumer-goods":{"momentum":{"st":-1.9,"mt":-1.9},"volatility":{"v5":0.9,"v20":0.9},"flags":["weak-trend"],"outlook":"neutral"},"energy-fuel":{"momentum":{"st":-0.86,"mt":-0.86},"volatility":{"v5":0.41,"v20":0.41},"flags":["weak-trend","stable"],"outlook":"neutral"},"electronics":{"momentum":{"st":-2.71,"mt":-2.71},"volatility":{"v5":1.28,"v20":1.28},"flags":["weak-trend"],"outlook":"negative"},"construction":{"momentum":{"st":-0.04,"mt":-0.04},"volatility":{"v5":0.02,"v20":0.02},"flags":["weak-trend","stable"],"outlook":"neutral"},"aerospace":{"momentum":{"st":-0.98,"mt":-0.98},"volatility":{"v5":0.46,"v20":0.46},"flags":["weak-trend","stable"],"outlook":"neutral"}},"ok":true}
-
+{
+  "ok": true,
+  "r": 0,
+  "sectors": {
+    "aerospace": {
+      "flags": [
+        "weak-trend",
+        "stable"
+      ],
+      "momentum": {
+        "mt": -0.98,
+        "st": -0.98
+      },
+      "outlook": "neutral",
+      "volatility": {
+        "v20": 0.46,
+        "v5": 0.46
+      }
+    },
+    "construction": {
+      "flags": [
+        "weak-trend",
+        "stable"
+      ],
+      "momentum": {
+        "mt": -0.04,
+        "st": -0.04
+      },
+      "outlook": "neutral",
+      "volatility": {
+        "v20": 0.02,
+        "v5": 0.02
+      }
+    },
+    "consumer-goods": {
+      "flags": [
+        "weak-trend"
+      ],
+      "momentum": {
+        "mt": -1.9,
+        "st": -1.9
+      },
+      "outlook": "neutral",
+      "volatility": {
+        "v20": 0.9,
+        "v5": 0.9
+      }
+    },
+    "electronics": {
+      "flags": [
+        "weak-trend"
+      ],
+      "momentum": {
+        "mt": -2.71,
+        "st": -2.71
+      },
+      "outlook": "negative",
+      "volatility": {
+        "v20": 1.28,
+        "v5": 1.28
+      }
+    },
+    "energy-fuel": {
+      "flags": [
+        "weak-trend",
+        "stable"
+      ],
+      "momentum": {
+        "mt": -0.86,
+        "st": -0.86
+      },
+      "outlook": "neutral",
+      "volatility": {
+        "v20": 0.41,
+        "v5": 0.41
+      }
+    },
+    "industrial-goods": {
+      "flags": [
+        "stable"
+      ],
+      "momentum": {
+        "mt": 0.1,
+        "st": 0.1
+      },
+      "outlook": "neutral",
+      "volatility": {
+        "v20": 0.05,
+        "v5": 0.05
+      }
+    },
+    "raw-materials": {
+      "flags": [
+        "weak-trend",
+        "high-volatility"
+      ],
+      "momentum": {
+        "mt": -8.22,
+        "st": -8.22
+      },
+      "outlook": "negative",
+      "volatility": {
+        "v20": 3.88,
+        "v5": 3.88
+      }
+    }
+  },
+  "t": "2026-06-13T01:05:11.252Z"
+}
