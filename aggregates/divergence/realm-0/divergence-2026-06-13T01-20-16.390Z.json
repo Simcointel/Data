@@ -1,0 +1,2 @@
+{"t":"2026-06-13T01:20:16.390Z","r":0,"di":[{"id":"evt_mqbo4v0m_1un4","ty":"sector-divergence","se":"warning","de":"industrial-goods (0.1) outperforming raw-materials (-8.2) by 8.3pts","sc":["industrial-goods","raw-materials"],"st":1.01,"dr":"industrial-goods-up-raw-materials-down"},{"id":"evt_mqbo4v0m_0pa9","ty":"inflation-divergence","se":"warning","de":"industrial-goods inflating 0.1% while raw-materials at -8.22%","sc":["industrial-goods","raw-materials"],"st":8.3,"dr":"industrial-goods-high-raw-materials-low"}],"su":{"to":2,"cr":0,"wa":2,"in":0},"ok":true}
+
