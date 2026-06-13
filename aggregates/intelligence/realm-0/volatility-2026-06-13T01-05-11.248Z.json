@@ -1,2 +1,72 @@
-{"t":"2026-06-13T01:05:11.248Z","r":0,"vol":{"raw-materials":{"v5":3.88,"v20":3.88,"as":0,"is":0.97,"s5":3.88,"s20":3.88},"industrial-goods":{"v5":0.05,"v20":0.05,"as":0,"is":0.01,"s5":0.05,"s20":0.05},"consumer-goods":{"v5":0.9,"v20":0.9,"as":0,"is":0.23,"s5":0.9,"s20":0.9},"energy-fuel":{"v5":0.41,"v20":0.41,"as":0,"is":0.1,"s5":0.41,"s20":0.41},"electronics":{"v5":1.28,"v20":1.28,"as":0,"is":0.32,"s5":1.28,"s20":1.28},"construction":{"v5":0.02,"v20":0.02,"as":0,"is":0.01,"s5":0.02,"s20":0.02},"aerospace":{"v5":0.46,"v20":0.46,"as":0,"is":0.12,"s5":0.46,"s20":0.46}},"sr":{"construction":1,"industrial-goods":2,"energy-fuel":3,"aerospace":4,"consumer-goods":5,"electronics":6,"raw-materials":7},"ok":true}
-
+{
+  "ok": true,
+  "r": 0,
+  "sr": {
+    "aerospace": 4,
+    "construction": 1,
+    "consumer-goods": 5,
+    "electronics": 6,
+    "energy-fuel": 3,
+    "industrial-goods": 2,
+    "raw-materials": 7
+  },
+  "t": "2026-06-13T01:05:11.248Z",
+  "vol": {
+    "aerospace": {
+      "as": 0,
+      "is": 0.12,
+      "s20": 0.46,
+      "s5": 0.46,
+      "v20": 0.46,
+      "v5": 0.46
+    },
+    "construction": {
+      "as": 0,
+      "is": 0.01,
+      "s20": 0.02,
+      "s5": 0.02,
+      "v20": 0.02,
+      "v5": 0.02
+    },
+    "consumer-goods": {
+      "as": 0,
+      "is": 0.23,
+      "s20": 0.9,
+      "s5": 0.9,
+      "v20": 0.9,
+      "v5": 0.9
+    },
+    "electronics": {
+      "as": 0,
+      "is": 0.32,
+      "s20": 1.28,
+      "s5": 1.28,
+      "v20": 1.28,
+      "v5": 1.28
+    },
+    "energy-fuel": {
+      "as": 0,
+      "is": 0.1,
+      "s20": 0.41,
+      "s5": 0.41,
+      "v20": 0.41,
+      "v5": 0.41
+    },
+    "industrial-goods": {
+      "as": 0,
+      "is": 0.01,
+      "s20": 0.05,
+      "s5": 0.05,
+      "v20": 0.05,
+      "v5": 0.05
+    },
+    "raw-materials": {
+      "as": 0,
+      "is": 0.97,
+      "s20": 3.88,
+      "s5": 3.88,
+      "v20": 3.88,
+      "v5": 3.88
+    }
+  }
+}
