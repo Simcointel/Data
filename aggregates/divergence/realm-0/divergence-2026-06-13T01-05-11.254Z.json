@@ -1,2 +1,37 @@
-{"t":"2026-06-13T01:05:11.253Z","r":0,"di":[{"id":"evt_mqbnlglx_ov1i","ty":"sector-divergence","se":"warning","de":"industrial-goods (0.1) outperforming raw-materials (-8.2) by 8.3pts","sc":["industrial-goods","raw-materials"],"st":1.01,"dr":"industrial-goods-up-raw-materials-down"},{"id":"evt_mqbnlglx_g68x","ty":"inflation-divergence","se":"warning","de":"industrial-goods inflating 0.1% while raw-materials at -8.22%","sc":["industrial-goods","raw-materials"],"st":8.3,"dr":"industrial-goods-high-raw-materials-low"}],"su":{"to":2,"cr":0,"wa":2,"in":0},"ok":true}
-
+{
+  "di": [
+    {
+      "de": "industrial-goods (0.1) outperforming raw-materials (-8.2) by 8.3pts",
+      "dr": "industrial-goods-up-raw-materials-down",
+      "id": "evt_mqbnlglx_ov1i",
+      "sc": [
+        "industrial-goods",
+        "raw-materials"
+      ],
+      "se": "warning",
+      "st": 1.01,
+      "ty": "sector-divergence"
+    },
+    {
+      "de": "industrial-goods inflating 0.1% while raw-materials at -8.22%",
+      "dr": "industrial-goods-high-raw-materials-low",
+      "id": "evt_mqbnlglx_g68x",
+      "sc": [
+        "industrial-goods",
+        "raw-materials"
+      ],
+      "se": "warning",
+      "st": 8.3,
+      "ty": "inflation-divergence"
+    }
+  ],
+  "ok": true,
+  "r": 0,
+  "su": {
+    "cr": 0,
+    "in": 0,
+    "to": 2,
+    "wa": 2
+  },
+  "t": "2026-06-13T01:05:11.253Z"
+}
