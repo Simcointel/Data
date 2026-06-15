@@ -1,52 +1,53 @@
 {
+  "t": "2026-06-15T05:30:21.613Z",
+  "r": 0,
   "current": {
+    "phase": "recovery",
     "confidence": 0.6666666666666666,
     "durationDays": 1,
+    "intensity": 0,
     "indicators": {
+      "cvGrowth": 0,
       "avgMomentum": 0,
       "avgVol": 0,
-      "cvGrowth": 0,
       "stressLevel": 0
-    },
-    "intensity": 0,
-    "phase": "recovery"
+    }
   },
   "history": [],
-  "ok": true,
-  "r": 0,
-  "stability": 0.6,
-  "t": "2026-06-15T05:30:21.613Z",
   "transitionProbabilities": {
-    "contraction": {
-      "expansion": 0.1,
-      "recovery": 0.4,
-      "stagnation": 0.3
-    },
     "expansion": {
-      "contraction": 0.1,
+      "speculative": 0.3,
       "overheating": 0.2,
-      "recovery": 0.1,
-      "speculative": 0.3
+      "contraction": 0.1,
+      "recovery": 0.1
+    },
+    "speculative": {
+      "overheating": 0.4,
+      "expansion": 0.2,
+      "contraction": 0.15
     },
     "overheating": {
       "contraction": 0.5,
       "expansion": 0.1,
       "recovery": 0.1
     },
-    "recovery": {
-      "contraction": 0.1,
-      "expansion": 0.5,
-      "stagnation": 0.2
+    "contraction": {
+      "recovery": 0.4,
+      "stagnation": 0.3,
+      "expansion": 0.1
     },
-    "speculative": {
-      "contraction": 0.15,
-      "expansion": 0.2,
-      "overheating": 0.4
+    "recovery": {
+      "expansion": 0.5,
+      "stagnation": 0.2,
+      "contraction": 0.1
     },
     "stagnation": {
-      "contraction": 0.15,
+      "recovery": 0.3,
       "expansion": 0.2,
-      "recovery": 0.3
+      "contraction": 0.15
     }
-  }
+  },
+  "stability": 0.6,
+  "ok": true
 }
+
