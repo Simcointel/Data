@@ -1,2 +1,16 @@
-{"t":"2026-06-15T00:30:21.730Z","r":0,"cr":"recovery","pr":"stagnation","rc":0.65,"rf":{"cvGrowth":4.42,"acGrowth":-0.27,"avgInflation":0,"avgStress":0,"avgVolatility":0,"phase":"normal"},"ok":true}
-
+{
+  "cr": "recovery",
+  "ok": true,
+  "pr": "stagnation",
+  "r": 0,
+  "rc": 0.65,
+  "rf": {
+    "acGrowth": -0.27,
+    "avgInflation": 0,
+    "avgStress": 0,
+    "avgVolatility": 0,
+    "cvGrowth": 4.42,
+    "phase": "normal"
+  },
+  "t": "2026-06-15T00:30:21.730Z"
+}
