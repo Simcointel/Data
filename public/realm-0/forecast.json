@@ -1,288 +1,38 @@
 {
-  "raw-materials": {
-    "category": "raw-materials",
-    "history": [
-      6853.6475,
-      6853.6475,
-      6853.6475,
-      6853.6475,
-      6853.6475,
-      6853.6475
-    ],
-    "fc": [
-      {
-        "t": "2026-06-16T08:55:12.891Z",
-        "v": 6853.65,
-        "cl": 6853.65,
-        "cu": 6853.65
-      },
-      {
-        "t": "2026-06-16T13:55:12.891Z",
-        "v": 6853.65,
-        "cl": 6853.65,
-        "cu": 6853.65
-      },
-      {
-        "t": "2026-06-17T07:55:12.891Z",
-        "v": 6853.65,
-        "cl": 6853.65,
-        "cu": 6853.65
-      },
-      {
-        "t": "2026-06-19T07:55:12.891Z",
-        "v": 6853.65,
-        "cl": 6853.65,
-        "cu": 6853.65
-      },
-      {
-        "t": "2026-06-23T07:55:12.891Z",
-        "v": 6853.65,
-        "cl": 6853.65,
-        "cu": 6853.65
-      }
-    ],
-    "method": "exponential-smoothing",
-    "trend": 0,
-    "volatility": 0,
-    "reliability": 0.5
-  },
-  "industrial-goods": {
-    "category": "industrial-goods",
-    "history": [
-      433.9177,
-      433.9177,
-      433.9177,
-      433.9177,
-      433.9177,
-      433.9177
-    ],
-    "fc": [
-      {
-        "t": "2026-06-16T08:55:12.891Z",
-        "v": 433.92,
-        "cl": 433.92,
-        "cu": 433.92
-      },
-      {
-        "t": "2026-06-16T13:55:12.891Z",
-        "v": 433.92,
-        "cl": 433.92,
-        "cu": 433.92
-      },
-      {
-        "t": "2026-06-17T07:55:12.891Z",
-        "v": 433.92,
-        "cl": 433.92,
-        "cu": 433.92
-      },
-      {
-        "t": "2026-06-19T07:55:12.891Z",
-        "v": 433.92,
-        "cl": 433.92,
-        "cu": 433.92
-      },
-      {
-        "t": "2026-06-23T07:55:12.891Z",
-        "v": 433.92,
-        "cl": 433.92,
-        "cu": 433.92
-      }
-    ],
-    "method": "exponential-smoothing",
-    "trend": 0,
-    "volatility": 0,
-    "reliability": 0.5
-  },
-  "consumer-goods": {
-    "category": "consumer-goods",
-    "history": [
-      585.0175,
-      585.0175,
-      585.0175,
-      585.0175,
-      585.0175,
-      585.0175
-    ],
-    "fc": [
-      {
-        "t": "2026-06-16T08:55:12.891Z",
-        "v": 585.02,
-        "cl": 585.02,
-        "cu": 585.02
-      },
-      {
-        "t": "2026-06-16T13:55:12.891Z",
-        "v": 585.02,
-        "cl": 585.02,
-        "cu": 585.02
-      },
-      {
-        "t": "2026-06-17T07:55:12.891Z",
-        "v": 585.02,
-        "cl": 585.02,
-        "cu": 585.02
-      },
-      {
-        "t": "2026-06-19T07:55:12.891Z",
-        "v": 585.02,
-        "cl": 585.02,
-        "cu": 585.02
-      },
-      {
-        "t": "2026-06-23T07:55:12.891Z",
-        "v": 585.02,
-        "cl": 585.02,
-        "cu": 585.02
-      }
-    ],
-    "method": "exponential-smoothing",
-    "trend": 0,
-    "volatility": 0,
-    "reliability": 0.5
-  },
-  "energy-fuel": {
-    "category": "energy-fuel",
-    "history": [
-      23.8242,
-      23.8242,
-      23.8242,
-      23.8242,
-      23.8242,
-      23.8242
-    ],
-    "fc": [
-      {
-        "t": "2026-06-16T08:55:12.891Z",
-        "v": 23.82,
-        "cl": 23.82,
-        "cu": 23.82
-      },
-      {
-        "t": "2026-06-16T13:55:12.891Z",
-        "v": 23.82,
-        "cl": 23.82,
-        "cu": 23.82
-      },
-      {
-        "t": "2026-06-17T07:55:12.891Z",
-        "v": 23.82,
-        "cl": 23.82,
-        "cu": 23.82
-      },
-      {
-        "t": "2026-06-19T07:55:12.891Z",
-        "v": 23.82,
-        "cl": 23.82,
-        "cu": 23.82
-      },
-      {
-        "t": "2026-06-23T07:55:12.891Z",
-        "v": 23.82,
-        "cl": 23.82,
-        "cu": 23.82
-      }
-    ],
-    "method": "exponential-smoothing",
-    "trend": 0,
-    "volatility": 0,
-    "reliability": 0.5
-  },
-  "electronics": {
-    "category": "electronics",
-    "history": [
-      1154.5372,
-      1154.5372,
-      1154.5372,
-      1154.5372,
-      1154.5372,
-      1154.5372
-    ],
-    "fc": [
-      {
-        "t": "2026-06-16T08:55:12.891Z",
-        "v": 1154.54,
-        "cl": 1154.54,
-        "cu": 1154.54
-      },
-      {
-        "t": "2026-06-16T13:55:12.891Z",
-        "v": 1154.54,
-        "cl": 1154.54,
-        "cu": 1154.54
-      },
-      {
-        "t": "2026-06-17T07:55:12.891Z",
-        "v": 1154.54,
-        "cl": 1154.54,
-        "cu": 1154.54
-      },
-      {
-        "t": "2026-06-19T07:55:12.891Z",
-        "v": 1154.54,
-        "cl": 1154.54,
-        "cu": 1154.54
-      },
-      {
-        "t": "2026-06-23T07:55:12.891Z",
-        "v": 1154.54,
-        "cl": 1154.54,
-        "cu": 1154.54
-      }
-    ],
-    "method": "exponential-smoothing",
-    "trend": 0,
-    "volatility": 0,
-    "reliability": 0.5
-  },
-  "construction": {
-    "category": "construction",
-    "history": [
-      1631.4119,
-      1631.4119,
-      1631.4119,
-      1631.4119,
-      1631.4119,
-      1631.4119
-    ],
-    "fc": [
-      {
-        "t": "2026-06-16T08:55:12.891Z",
-        "v": 1631.41,
-        "cl": 1631.41,
-        "cu": 1631.41
-      },
-      {
-        "t": "2026-06-16T13:55:12.891Z",
-        "v": 1631.41,
-        "cl": 1631.41,
-        "cu": 1631.41
-      },
-      {
-        "t": "2026-06-17T07:55:12.891Z",
-        "v": 1631.41,
-        "cl": 1631.41,
-        "cu": 1631.41
-      },
-      {
-        "t": "2026-06-19T07:55:12.891Z",
-        "v": 1631.41,
-        "cl": 1631.41,
-        "cu": 1631.41
-      },
-      {
-        "t": "2026-06-23T07:55:12.891Z",
-        "v": 1631.41,
-        "cl": 1631.41,
-        "cu": 1631.41
-      }
-    ],
-    "method": "exponential-smoothing",
-    "trend": 0,
-    "volatility": 0,
-    "reliability": 0.5
-  },
   "aerospace": {
     "category": "aerospace",
+    "fc": [
+      {
+        "cl": 4157.64,
+        "cu": 4157.64,
+        "t": "2026-06-16T08:55:12.891Z",
+        "v": 4157.64
+      },
+      {
+        "cl": 4157.64,
+        "cu": 4157.64,
+        "t": "2026-06-16T13:55:12.891Z",
+        "v": 4157.64
+      },
+      {
+        "cl": 4157.64,
+        "cu": 4157.64,
+        "t": "2026-06-17T07:55:12.891Z",
+        "v": 4157.64
+      },
+      {
+        "cl": 4157.64,
+        "cu": 4157.64,
+        "t": "2026-06-19T07:55:12.891Z",
+        "v": 4157.64
+      },
+      {
+        "cl": 4157.64,
+        "cu": 4157.64,
+        "t": "2026-06-23T07:55:12.891Z",
+        "v": 4157.64
+      }
+    ],
     "history": [
       4157.6374,
       4157.6374,
@@ -291,177 +41,256 @@
       4157.6374,
       4157.6374
     ],
+    "method": "exponential-smoothing",
+    "reliability": 0.5,
+    "trend": 0,
+    "volatility": 0
+  },
+  "construction": {
+    "category": "construction",
     "fc": [
       {
+        "cl": 1631.41,
+        "cu": 1631.41,
         "t": "2026-06-16T08:55:12.891Z",
-        "v": 4157.64,
-        "cl": 4157.64,
-        "cu": 4157.64
+        "v": 1631.41
       },
       {
+        "cl": 1631.41,
+        "cu": 1631.41,
         "t": "2026-06-16T13:55:12.891Z",
-        "v": 4157.64,
-        "cl": 4157.64,
-        "cu": 4157.64
+        "v": 1631.41
       },
       {
+        "cl": 1631.41,
+        "cu": 1631.41,
         "t": "2026-06-17T07:55:12.891Z",
-        "v": 4157.64,
-        "cl": 4157.64,
-        "cu": 4157.64
+        "v": 1631.41
       },
       {
+        "cl": 1631.41,
+        "cu": 1631.41,
         "t": "2026-06-19T07:55:12.891Z",
-        "v": 4157.64,
-        "cl": 4157.64,
-        "cu": 4157.64
+        "v": 1631.41
       },
       {
+        "cl": 1631.41,
+        "cu": 1631.41,
         "t": "2026-06-23T07:55:12.891Z",
-        "v": 4157.64,
-        "cl": 4157.64,
-        "cu": 4157.64
+        "v": 1631.41
       }
     ],
-    "method": "exponential-smoothing",
-    "trend": 0,
-    "volatility": 0,
-    "reliability": 0.5
-  },
-  "inflation-raw-materials": {
-    "category": "inflation-raw-materials",
     "history": [
-      0,
-      0,
-      0,
-      0,
-      0
+      1631.4119,
+      1631.4119,
+      1631.4119,
+      1631.4119,
+      1631.4119,
+      1631.4119
     ],
+    "method": "exponential-smoothing",
+    "reliability": 0.5,
+    "trend": 0,
+    "volatility": 0
+  },
+  "consumer-goods": {
+    "category": "consumer-goods",
     "fc": [
       {
+        "cl": 585.02,
+        "cu": 585.02,
+        "t": "2026-06-16T08:55:12.891Z",
+        "v": 585.02
+      },
+      {
+        "cl": 585.02,
+        "cu": 585.02,
+        "t": "2026-06-16T13:55:12.891Z",
+        "v": 585.02
+      },
+      {
+        "cl": 585.02,
+        "cu": 585.02,
         "t": "2026-06-17T07:55:12.891Z",
-        "v": 0.01,
-        "cl": 0.01,
-        "cu": 0.01
+        "v": 585.02
+      },
+      {
+        "cl": 585.02,
+        "cu": 585.02,
+        "t": "2026-06-19T07:55:12.891Z",
+        "v": 585.02
+      },
+      {
+        "cl": 585.02,
+        "cu": 585.02,
+        "t": "2026-06-23T07:55:12.891Z",
+        "v": 585.02
       }
     ],
-    "method": "exponential-smoothing",
-    "trend": 0,
-    "volatility": 0,
-    "reliability": 0.5
-  },
-  "inflation-industrial-goods": {
-    "category": "inflation-industrial-goods",
     "history": [
-      0,
-      0,
-      0,
-      0,
-      0
+      585.0175,
+      585.0175,
+      585.0175,
+      585.0175,
+      585.0175,
+      585.0175
     ],
+    "method": "exponential-smoothing",
+    "reliability": 0.5,
+    "trend": 0,
+    "volatility": 0
+  },
+  "electronics": {
+    "category": "electronics",
     "fc": [
       {
+        "cl": 1154.54,
+        "cu": 1154.54,
+        "t": "2026-06-16T08:55:12.891Z",
+        "v": 1154.54
+      },
+      {
+        "cl": 1154.54,
+        "cu": 1154.54,
+        "t": "2026-06-16T13:55:12.891Z",
+        "v": 1154.54
+      },
+      {
+        "cl": 1154.54,
+        "cu": 1154.54,
         "t": "2026-06-17T07:55:12.891Z",
-        "v": 0.01,
-        "cl": 0.01,
-        "cu": 0.01
+        "v": 1154.54
+      },
+      {
+        "cl": 1154.54,
+        "cu": 1154.54,
+        "t": "2026-06-19T07:55:12.891Z",
+        "v": 1154.54
+      },
+      {
+        "cl": 1154.54,
+        "cu": 1154.54,
+        "t": "2026-06-23T07:55:12.891Z",
+        "v": 1154.54
       }
     ],
-    "method": "exponential-smoothing",
-    "trend": 0,
-    "volatility": 0,
-    "reliability": 0.5
-  },
-  "inflation-consumer-goods": {
-    "category": "inflation-consumer-goods",
     "history": [
-      0,
-      0,
-      0,
-      0,
-      0
+      1154.5372,
+      1154.5372,
+      1154.5372,
+      1154.5372,
+      1154.5372,
+      1154.5372
     ],
+    "method": "exponential-smoothing",
+    "reliability": 0.5,
+    "trend": 0,
+    "volatility": 0
+  },
+  "energy-fuel": {
+    "category": "energy-fuel",
     "fc": [
       {
+        "cl": 23.82,
+        "cu": 23.82,
+        "t": "2026-06-16T08:55:12.891Z",
+        "v": 23.82
+      },
+      {
+        "cl": 23.82,
+        "cu": 23.82,
+        "t": "2026-06-16T13:55:12.891Z",
+        "v": 23.82
+      },
+      {
+        "cl": 23.82,
+        "cu": 23.82,
         "t": "2026-06-17T07:55:12.891Z",
-        "v": 0.01,
-        "cl": 0.01,
-        "cu": 0.01
+        "v": 23.82
+      },
+      {
+        "cl": 23.82,
+        "cu": 23.82,
+        "t": "2026-06-19T07:55:12.891Z",
+        "v": 23.82
+      },
+      {
+        "cl": 23.82,
+        "cu": 23.82,
+        "t": "2026-06-23T07:55:12.891Z",
+        "v": 23.82
       }
     ],
-    "method": "exponential-smoothing",
-    "trend": 0,
-    "volatility": 0,
-    "reliability": 0.5
-  },
-  "inflation-energy-fuel": {
-    "category": "inflation-energy-fuel",
     "history": [
-      0,
-      0,
-      0,
-      0,
-      0
+      23.8242,
+      23.8242,
+      23.8242,
+      23.8242,
+      23.8242,
+      23.8242
     ],
+    "method": "exponential-smoothing",
+    "reliability": 0.5,
+    "trend": 0,
+    "volatility": 0
+  },
+  "industrial-goods": {
+    "category": "industrial-goods",
     "fc": [
       {
-        "t": "2026-06-17T07:55:12.891Z",
-        "v": 0.01,
-        "cl": 0.01,
-        "cu": 0.01
-      }
-    ],
-    "method": "exponential-smoothing",
-    "trend": 0,
-    "volatility": 0,
-    "reliability": 0.5
-  },
-  "inflation-electronics": {
-    "category": "inflation-electronics",
-    "history": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "fc": [
+        "cl": 433.92,
+        "cu": 433.92,
+        "t": "2026-06-16T08:55:12.891Z",
+        "v": 433.92
+      },
       {
-        "t": "2026-06-17T07:55:12.891Z",
-        "v": 0.01,
-        "cl": 0.01,
-        "cu": 0.01
-      }
-    ],
-    "method": "exponential-smoothing",
-    "trend": 0,
-    "volatility": 0,
-    "reliability": 0.5
-  },
-  "inflation-construction": {
-    "category": "inflation-construction",
-    "history": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "fc": [
+        "cl": 433.92,
+        "cu": 433.92,
+        "t": "2026-06-16T13:55:12.891Z",
+        "v": 433.92
+      },
       {
+        "cl": 433.92,
+        "cu": 433.92,
         "t": "2026-06-17T07:55:12.891Z",
-        "v": 0.01,
-        "cl": 0.01,
-        "cu": 0.01
+        "v": 433.92
+      },
+      {
+        "cl": 433.92,
+        "cu": 433.92,
+        "t": "2026-06-19T07:55:12.891Z",
+        "v": 433.92
+      },
+      {
+        "cl": 433.92,
+        "cu": 433.92,
+        "t": "2026-06-23T07:55:12.891Z",
+        "v": 433.92
       }
     ],
+    "history": [
+      433.9177,
+      433.9177,
+      433.9177,
+      433.9177,
+      433.9177,
+      433.9177
+    ],
     "method": "exponential-smoothing",
+    "reliability": 0.5,
     "trend": 0,
-    "volatility": 0,
-    "reliability": 0.5
+    "volatility": 0
   },
   "inflation-aerospace": {
     "category": "inflation-aerospace",
+    "fc": [
+      {
+        "cl": 0.01,
+        "cu": 0.01,
+        "t": "2026-06-17T07:55:12.891Z",
+        "v": 0.01
+      }
+    ],
     "history": [
       0,
       0,
@@ -469,18 +298,188 @@
       0,
       0
     ],
+    "method": "exponential-smoothing",
+    "reliability": 0.5,
+    "trend": 0,
+    "volatility": 0
+  },
+  "inflation-construction": {
+    "category": "inflation-construction",
     "fc": [
       {
-        "t": "2026-06-17T07:55:12.891Z",
-        "v": 0.01,
         "cl": 0.01,
-        "cu": 0.01
+        "cu": 0.01,
+        "t": "2026-06-17T07:55:12.891Z",
+        "v": 0.01
       }
     ],
+    "history": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "method": "exponential-smoothing",
+    "reliability": 0.5,
     "trend": 0,
-    "volatility": 0,
-    "reliability": 0.5
+    "volatility": 0
+  },
+  "inflation-consumer-goods": {
+    "category": "inflation-consumer-goods",
+    "fc": [
+      {
+        "cl": 0.01,
+        "cu": 0.01,
+        "t": "2026-06-17T07:55:12.891Z",
+        "v": 0.01
+      }
+    ],
+    "history": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "method": "exponential-smoothing",
+    "reliability": 0.5,
+    "trend": 0,
+    "volatility": 0
+  },
+  "inflation-electronics": {
+    "category": "inflation-electronics",
+    "fc": [
+      {
+        "cl": 0.01,
+        "cu": 0.01,
+        "t": "2026-06-17T07:55:12.891Z",
+        "v": 0.01
+      }
+    ],
+    "history": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "method": "exponential-smoothing",
+    "reliability": 0.5,
+    "trend": 0,
+    "volatility": 0
+  },
+  "inflation-energy-fuel": {
+    "category": "inflation-energy-fuel",
+    "fc": [
+      {
+        "cl": 0.01,
+        "cu": 0.01,
+        "t": "2026-06-17T07:55:12.891Z",
+        "v": 0.01
+      }
+    ],
+    "history": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "method": "exponential-smoothing",
+    "reliability": 0.5,
+    "trend": 0,
+    "volatility": 0
+  },
+  "inflation-industrial-goods": {
+    "category": "inflation-industrial-goods",
+    "fc": [
+      {
+        "cl": 0.01,
+        "cu": 0.01,
+        "t": "2026-06-17T07:55:12.891Z",
+        "v": 0.01
+      }
+    ],
+    "history": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "method": "exponential-smoothing",
+    "reliability": 0.5,
+    "trend": 0,
+    "volatility": 0
+  },
+  "inflation-raw-materials": {
+    "category": "inflation-raw-materials",
+    "fc": [
+      {
+        "cl": 0.01,
+        "cu": 0.01,
+        "t": "2026-06-17T07:55:12.891Z",
+        "v": 0.01
+      }
+    ],
+    "history": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "method": "exponential-smoothing",
+    "reliability": 0.5,
+    "trend": 0,
+    "volatility": 0
+  },
+  "raw-materials": {
+    "category": "raw-materials",
+    "fc": [
+      {
+        "cl": 6853.65,
+        "cu": 6853.65,
+        "t": "2026-06-16T08:55:12.891Z",
+        "v": 6853.65
+      },
+      {
+        "cl": 6853.65,
+        "cu": 6853.65,
+        "t": "2026-06-16T13:55:12.891Z",
+        "v": 6853.65
+      },
+      {
+        "cl": 6853.65,
+        "cu": 6853.65,
+        "t": "2026-06-17T07:55:12.891Z",
+        "v": 6853.65
+      },
+      {
+        "cl": 6853.65,
+        "cu": 6853.65,
+        "t": "2026-06-19T07:55:12.891Z",
+        "v": 6853.65
+      },
+      {
+        "cl": 6853.65,
+        "cu": 6853.65,
+        "t": "2026-06-23T07:55:12.891Z",
+        "v": 6853.65
+      }
+    ],
+    "history": [
+      6853.6475,
+      6853.6475,
+      6853.6475,
+      6853.6475,
+      6853.6475,
+      6853.6475
+    ],
+    "method": "exponential-smoothing",
+    "reliability": 0.5,
+    "trend": 0,
+    "volatility": 0
   }
 }
-
