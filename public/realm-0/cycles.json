@@ -1,5 +1,5 @@
 {
-  "t": "2026-06-16T03:10:17.653Z",
+  "t": "2026-06-16T03:35:11.925Z",
   "r": 0,
   "current": {
     "phase": "recovery",
@@ -7,7 +7,7 @@
     "durationDays": 1,
     "intensity": 0,
     "indicators": {
-      "cvGrowth": 3.91,
+      "cvGrowth": 5.13,
       "avgMomentum": 0,
       "avgVol": 0,
       "stressLevel": 0
