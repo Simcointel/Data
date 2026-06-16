@@ -3,6 +3,8 @@
   "latest": "index.json",
   "files": [
     "index.json",
+    "divergence-2026-06-16T19-20-19.632Z.json",
+    "divergence-2026-06-16T18-50-18.454Z.json",
     "divergence-2026-06-16T18-15-20.468Z.json",
     "divergence-2026-06-16T17-55-13.762Z.json",
     "divergence-2026-06-16T17-25-13.577Z.json",
@@ -99,8 +101,6 @@
     "divergence-2026-06-15T01-50-44.752Z.json",
     "divergence-2026-06-15T01-30-21.631Z.json",
     "divergence-2026-06-15T01-10-15.709Z.json",
-    "divergence-2026-06-15T00-30-21.731Z.json",
-    "divergence-2026-06-14T23-50-14.506Z.json",
-    "divergence-2026-06-14T23-25-12.100Z.json"
+    "divergence-2026-06-15T00-30-21.731Z.json"
   ]
 }
