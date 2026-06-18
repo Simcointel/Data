@@ -1,25 +1,2 @@
-{
-  "di": [
-    {
-      "de": "energy-fuel inflating 1.64% while electronics at -1.92%",
-      "dr": "energy-fuel-high-electronics-low",
-      "id": "evt_mqir6znd_7xxz",
-      "sc": [
-        "energy-fuel",
-        "electronics"
-      ],
-      "se": "info",
-      "st": 3.6,
-      "ty": "inflation-divergence"
-    }
-  ],
-  "ok": true,
-  "r": 0,
-  "su": {
-    "cr": 0,
-    "in": 1,
-    "to": 1,
-    "wa": 0
-  },
-  "t": "2026-06-18T00:20:17.785Z"
-}
+{"t":"2026-06-18T00:20:17.785Z","r":0,"di":[{"id":"evt_mqir6znd_7xxz","ty":"inflation-divergence","se":"info","de":"energy-fuel inflating 1.64% while electronics at -1.92%","sc":["energy-fuel","electronics"],"st":3.6,"dr":"energy-fuel-high-electronics-low"}],"su":{"to":1,"cr":0,"wa":0,"in":1},"ok":true}
+
