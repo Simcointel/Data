@@ -1,2 +1,9 @@
-{"events":[{"id":"evt_mqir6znd_ifft","typeKey":"inflation-divergence::energy-fuel+electronics","expiresAt":"2026-06-19T00:20:17.785Z"}]}
-
+{
+  "events": [
+    {
+      "expiresAt": "2026-06-19T00:20:17.785Z",
+      "id": "evt_mqir6znd_ifft",
+      "typeKey": "inflation-divergence::energy-fuel+electronics"
+    }
+  ]
+}
