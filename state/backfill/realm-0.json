@@ -1,8 +1,9 @@
 {
-  "backfillComplete": false,
-  "lastSyncTime": "2026-06-18T15:55:13.776Z",
+  "r": 0,
   "newestDateStored": "2026-06-18",
   "oldestDateStored": "2025-10-12",
-  "r": 0,
+  "lastSyncTime": "2026-06-18T15:55:13.776Z",
+  "backfillComplete": false,
   "totalDaysStored": 250
 }
+
