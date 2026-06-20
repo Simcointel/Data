@@ -1,2 +1,18 @@
-{"r":0,"y":2026,"e":[{"d":"2026-06-19","rg":"stagnation","rc":0.7,"pr":null},{"d":"2026-06-20","rg":"expansion","rc":0.75,"pr":"stagnation"}]}
-
+{
+  "e": [
+    {
+      "d": "2026-06-19",
+      "pr": null,
+      "rc": 0.7,
+      "rg": "stagnation"
+    },
+    {
+      "d": "2026-06-20",
+      "pr": "stagnation",
+      "rc": 0.75,
+      "rg": "expansion"
+    }
+  ],
+  "r": 0,
+  "y": 2026
+}
