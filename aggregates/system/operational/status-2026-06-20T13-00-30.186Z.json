@@ -1,2 +1,46 @@
-{"t":"2026-06-20T13:00:30.186Z","scheduler":{"running":true,"uptimeMs":4511021,"uptimeFormatted":"1h 15m 11s"},"pipelines":[{"name":"dashboard","lastRun":"2026-06-20T12:30:25.864Z","lastOk":true,"totalRuns":4,"failedRuns":0,"avgDurationMs":2},{"name":"macro","lastRun":"2026-06-20T12:30:25.863Z","lastOk":false,"totalRuns":2,"failedRuns":2,"avgDurationMs":611218},{"name":"intelligence","lastRun":"2026-06-20T12:30:25.864Z","lastOk":false,"totalRuns":2,"failedRuns":2,"avgDurationMs":5},{"name":"relational","lastRun":"2026-06-20T12:30:25.864Z","lastOk":true,"totalRuns":2,"failedRuns":0,"avgDurationMs":12}],"fetch":{"consecutiveFailures":2,"lastFailure":"2026-06-20T12:50:17.695Z"}}
-
+{
+  "fetch": {
+    "consecutiveFailures": 2,
+    "lastFailure": "2026-06-20T12:50:17.695Z"
+  },
+  "pipelines": [
+    {
+      "avgDurationMs": 2,
+      "failedRuns": 0,
+      "lastOk": true,
+      "lastRun": "2026-06-20T12:30:25.864Z",
+      "name": "dashboard",
+      "totalRuns": 4
+    },
+    {
+      "avgDurationMs": 611218,
+      "failedRuns": 2,
+      "lastOk": false,
+      "lastRun": "2026-06-20T12:30:25.863Z",
+      "name": "macro",
+      "totalRuns": 2
+    },
+    {
+      "avgDurationMs": 5,
+      "failedRuns": 2,
+      "lastOk": false,
+      "lastRun": "2026-06-20T12:30:25.864Z",
+      "name": "intelligence",
+      "totalRuns": 2
+    },
+    {
+      "avgDurationMs": 12,
+      "failedRuns": 0,
+      "lastOk": true,
+      "lastRun": "2026-06-20T12:30:25.864Z",
+      "name": "relational",
+      "totalRuns": 2
+    }
+  ],
+  "scheduler": {
+    "running": true,
+    "uptimeFormatted": "1h 15m 11s",
+    "uptimeMs": 4511021
+  },
+  "t": "2026-06-20T13:00:30.186Z"
+}
