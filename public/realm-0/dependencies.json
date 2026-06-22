@@ -1,123 +1,122 @@
 {
-  "t": "2026-06-22T18:50:21.526Z",
-  "r": 0,
+  "bottleneckChains": [],
   "criticalResources": [
     {
+      "bottleneckRisk": 1,
       "category": "raw-materials",
       "dependencyScore": 1,
-      "bottleneckRisk": 1,
-      "upstreamPressure": 2.4,
       "downstreamPressure": 1.8,
+      "upstreamPressure": 2.4,
       "vulnerableSectors": []
     },
     {
+      "bottleneckRisk": 1,
       "category": "industrial-goods",
       "dependencyScore": 1,
-      "bottleneckRisk": 1,
-      "upstreamPressure": 2.4,
       "downstreamPressure": 1.8,
+      "upstreamPressure": 2.4,
       "vulnerableSectors": []
     },
     {
+      "bottleneckRisk": 1,
       "category": "consumer-goods",
       "dependencyScore": 1,
-      "bottleneckRisk": 1,
-      "upstreamPressure": 2.4,
       "downstreamPressure": 1.8,
+      "upstreamPressure": 2.4,
       "vulnerableSectors": []
     },
     {
+      "bottleneckRisk": 1,
       "category": "energy-fuel",
       "dependencyScore": 1,
-      "bottleneckRisk": 1,
-      "upstreamPressure": 2.4,
       "downstreamPressure": 1.8,
+      "upstreamPressure": 2.4,
       "vulnerableSectors": []
     },
     {
+      "bottleneckRisk": 1,
       "category": "electronics",
       "dependencyScore": 1,
-      "bottleneckRisk": 1,
-      "upstreamPressure": 2.4,
       "downstreamPressure": 1.8,
+      "upstreamPressure": 2.4,
       "vulnerableSectors": []
     },
     {
+      "bottleneckRisk": 1,
       "category": "construction",
       "dependencyScore": 1,
-      "bottleneckRisk": 1,
-      "upstreamPressure": 2.4,
       "downstreamPressure": 1.8,
+      "upstreamPressure": 2.4,
       "vulnerableSectors": []
     },
     {
+      "bottleneckRisk": 1,
       "category": "aerospace",
       "dependencyScore": 1,
-      "bottleneckRisk": 1,
-      "upstreamPressure": 2.4,
       "downstreamPressure": 1.8,
+      "upstreamPressure": 2.4,
       "vulnerableSectors": []
     }
   ],
-  "bottleneckChains": [],
+  "ok": true,
+  "r": 0,
   "risks": [
     {
-      "category": "raw-materials",
-      "riskScore": 1,
-      "upstreamCount": 6,
-      "downstreamCount": 6,
       "avgDependencyWeight": 0.43,
-      "isCritical": true
+      "category": "raw-materials",
+      "downstreamCount": 6,
+      "isCritical": true,
+      "riskScore": 1,
+      "upstreamCount": 6
     },
     {
-      "category": "industrial-goods",
-      "riskScore": 1,
-      "upstreamCount": 6,
-      "downstreamCount": 6,
       "avgDependencyWeight": 0.57,
-      "isCritical": true
+      "category": "industrial-goods",
+      "downstreamCount": 6,
+      "isCritical": true,
+      "riskScore": 1,
+      "upstreamCount": 6
     },
     {
+      "avgDependencyWeight": 0.28,
       "category": "consumer-goods",
-      "riskScore": 1,
-      "upstreamCount": 6,
       "downstreamCount": 6,
-      "avgDependencyWeight": 0.28,
-      "isCritical": true
+      "isCritical": true,
+      "riskScore": 1,
+      "upstreamCount": 6
     },
     {
-      "category": "energy-fuel",
-      "riskScore": 1,
-      "upstreamCount": 6,
-      "downstreamCount": 6,
       "avgDependencyWeight": 0.22,
-      "isCritical": true
+      "category": "energy-fuel",
+      "downstreamCount": 6,
+      "isCritical": true,
+      "riskScore": 1,
+      "upstreamCount": 6
     },
     {
-      "category": "electronics",
-      "riskScore": 1,
-      "upstreamCount": 6,
-      "downstreamCount": 6,
       "avgDependencyWeight": 0.35,
-      "isCritical": true
+      "category": "electronics",
+      "downstreamCount": 6,
+      "isCritical": true,
+      "riskScore": 1,
+      "upstreamCount": 6
     },
     {
-      "category": "construction",
-      "riskScore": 1,
-      "upstreamCount": 6,
-      "downstreamCount": 6,
       "avgDependencyWeight": 0.28,
-      "isCritical": true
+      "category": "construction",
+      "downstreamCount": 6,
+      "isCritical": true,
+      "riskScore": 1,
+      "upstreamCount": 6
     },
     {
-      "category": "aerospace",
-      "riskScore": 1,
-      "upstreamCount": 6,
-      "downstreamCount": 6,
       "avgDependencyWeight": 0.25,
-      "isCritical": true
+      "category": "aerospace",
+      "downstreamCount": 6,
+      "isCritical": true,
+      "riskScore": 1,
+      "upstreamCount": 6
     }
   ],
-  "ok": true
+  "t": "2026-06-22T18:50:21.526Z"
 }
-
