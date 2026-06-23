@@ -1,2 +1,16 @@
-{"t":"2026-06-23T00:10:17.608Z","r":0,"cr":"normal","pr":"normal","rc":1,"rf":{"cvGrowth":4.46,"acGrowth":4.14,"avgInflation":0,"avgStress":0,"avgVolatility":0,"phase":"normal"},"ok":true}
-
+{
+  "cr": "normal",
+  "ok": true,
+  "pr": "normal",
+  "r": 0,
+  "rc": 1,
+  "rf": {
+    "acGrowth": 4.14,
+    "avgInflation": 0,
+    "avgStress": 0,
+    "avgVolatility": 0,
+    "cvGrowth": 4.46,
+    "phase": "normal"
+  },
+  "t": "2026-06-23T00:10:17.608Z"
+}
