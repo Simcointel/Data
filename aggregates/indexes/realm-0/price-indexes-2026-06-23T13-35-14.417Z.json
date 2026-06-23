@@ -1,57 +1,57 @@
 {
-  "t": "2026-06-23T13:35:14.417Z",
-  "r": 0,
-  "sr": "/tmp/data-repo/snapshots/market/realm-0/market-snapshot-2026-06-23T13-35-14.156Z.json",
   "ix": {
-    "raw-materials": {
-      "v": 7194.6714,
-      "n": 28,
-      "rn": 28
-    },
-    "industrial-goods": {
-      "v": 431.9032,
-      "n": 24,
-      "rn": 24
-    },
-    "consumer-goods": {
-      "v": 580.8547,
-      "n": 38,
-      "rn": 38
-    },
-    "energy-fuel": {
-      "v": 24.0652,
-      "n": 6,
-      "rn": 6
-    },
-    "electronics": {
-      "v": 1146.7262,
-      "n": 9,
-      "rn": 9
+    "aerospace": {
+      "n": 22,
+      "rn": 31,
+      "v": 4143.0476
     },
     "construction": {
-      "v": 1697.9049,
       "n": 3,
-      "rn": 3
+      "rn": 3,
+      "v": 1697.9049
     },
-    "aerospace": {
-      "v": 4143.0476,
-      "n": 22,
-      "rn": 31
-    },
-    "cpi": {
-      "v": 2174.1676,
-      "n": 7,
-      "rn": 7
+    "consumer-goods": {
+      "n": 38,
+      "rn": 38,
+      "v": 580.8547
     },
     "core-cpi": {
-      "v": 2481.3251,
       "n": 7,
-      "rn": 7
+      "rn": 7,
+      "v": 2481.3251
+    },
+    "cpi": {
+      "n": 7,
+      "rn": 7,
+      "v": 2174.1676
+    },
+    "electronics": {
+      "n": 9,
+      "rn": 9,
+      "v": 1146.7262
+    },
+    "energy-fuel": {
+      "n": 6,
+      "rn": 6,
+      "v": 24.0652
     },
     "gdp": {
-      "v": 2011382054312,
       "n": 1,
-      "rn": 1
+      "rn": 1,
+      "v": 2011382054312
+    },
+    "industrial-goods": {
+      "n": 24,
+      "rn": 24,
+      "v": 431.9032
+    },
+    "raw-materials": {
+      "n": 28,
+      "rn": 28,
+      "v": 7194.6714
     }
-  }
+  },
+  "r": 0,
+  "sr": "/tmp/data-repo/snapshots/market/realm-0/market-snapshot-2026-06-23T13-35-14.156Z.json",
+  "t": "2026-06-23T13:35:14.417Z"
 }
