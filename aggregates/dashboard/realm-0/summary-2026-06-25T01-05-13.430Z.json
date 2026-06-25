@@ -1,2 +1,48 @@
-{"t":"2026-06-25T01:05:13.430Z","r":0,"scores":{"eh":69.4,"ms":67.9,"st":95.5,"ip":10.2,"sr":10},"regime":{"label":"normal","confidence":1},"inflation":{"avg":0.68,"max":0,"count":0},"momentum":{"avg":-0.68,"accelerating":0,"decelerating":0},"volatility":{"avg":0.91,"highCount":2},"stress":{"overall":0,"activeFlags":0},"anomalies":{"total":0,"critical":0,"warning":0},"alerts":{"total":2,"critical":0,"warning":2},"leaders":{"top":"consumer-goods","bottom":"industrial-goods"},"ok":true}
-
+{
+  "alerts": {
+    "critical": 0,
+    "total": 2,
+    "warning": 2
+  },
+  "anomalies": {
+    "critical": 0,
+    "total": 0,
+    "warning": 0
+  },
+  "inflation": {
+    "avg": 0.68,
+    "count": 0,
+    "max": 0
+  },
+  "leaders": {
+    "bottom": "industrial-goods",
+    "top": "consumer-goods"
+  },
+  "momentum": {
+    "accelerating": 0,
+    "avg": -0.68,
+    "decelerating": 0
+  },
+  "ok": true,
+  "r": 0,
+  "regime": {
+    "confidence": 1,
+    "label": "normal"
+  },
+  "scores": {
+    "eh": 69.4,
+    "ip": 10.2,
+    "ms": 67.9,
+    "sr": 10,
+    "st": 95.5
+  },
+  "stress": {
+    "activeFlags": 0,
+    "overall": 0
+  },
+  "t": "2026-06-25T01:05:13.430Z",
+  "volatility": {
+    "avg": 0.91,
+    "highCount": 2
+  }
+}

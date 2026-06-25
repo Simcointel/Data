@@ -1,2 +1,40 @@
-[{"id":"evt_mqssvqad_mi9z","ty":"sector-divergence","se":"warning","ca":"consumer-goods+industrial-goods","ti":"consumer-goods (4.4) outperforming industrial-goods (-5.0) by 9.4pts","de":"consumer-goods (4.4) outperforming industrial-goods (-5.0) by 9.4pts","da":{"sectors":["consumer-goods","industrial-goods"],"strength":1.87,"direction":"consumer-goods-up-industrial-goods-down"},"ts":"2026-06-25T01:05:13.428Z","ex":"2026-06-26T01:05:13.428Z","so":"divergence"},{"id":"evt_mqssvqad_ifrk","ty":"inflation-divergence","se":"warning","ca":"consumer-goods+industrial-goods","ti":"consumer-goods inflating 4.37% while industrial-goods at -5.01%","de":"consumer-goods inflating 4.37% while industrial-goods at -5.01%","da":{"sectors":["consumer-goods","industrial-goods"],"strength":9.4,"direction":"consumer-goods-high-industrial-goods-low"},"ts":"2026-06-25T01:05:13.428Z","ex":"2026-06-26T01:05:13.428Z","so":"divergence"}]
-
+[
+  {
+    "ca": "consumer-goods+industrial-goods",
+    "da": {
+      "direction": "consumer-goods-up-industrial-goods-down",
+      "sectors": [
+        "consumer-goods",
+        "industrial-goods"
+      ],
+      "strength": 1.87
+    },
+    "de": "consumer-goods (4.4) outperforming industrial-goods (-5.0) by 9.4pts",
+    "ex": "2026-06-26T01:05:13.428Z",
+    "id": "evt_mqssvqad_mi9z",
+    "se": "warning",
+    "so": "divergence",
+    "ti": "consumer-goods (4.4) outperforming industrial-goods (-5.0) by 9.4pts",
+    "ts": "2026-06-25T01:05:13.428Z",
+    "ty": "sector-divergence"
+  },
+  {
+    "ca": "consumer-goods+industrial-goods",
+    "da": {
+      "direction": "consumer-goods-high-industrial-goods-low",
+      "sectors": [
+        "consumer-goods",
+        "industrial-goods"
+      ],
+      "strength": 9.4
+    },
+    "de": "consumer-goods inflating 4.37% while industrial-goods at -5.01%",
+    "ex": "2026-06-26T01:05:13.428Z",
+    "id": "evt_mqssvqad_ifrk",
+    "se": "warning",
+    "so": "divergence",
+    "ti": "consumer-goods inflating 4.37% while industrial-goods at -5.01%",
+    "ts": "2026-06-25T01:05:13.428Z",
+    "ty": "inflation-divergence"
+  }
+]
