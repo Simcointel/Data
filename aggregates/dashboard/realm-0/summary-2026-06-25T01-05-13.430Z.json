@@ -1,0 +1,2 @@
+{"t":"2026-06-25T01:05:13.430Z","r":0,"scores":{"eh":69.4,"ms":67.9,"st":95.5,"ip":10.2,"sr":10},"regime":{"label":"normal","confidence":1},"inflation":{"avg":0.68,"max":0,"count":0},"momentum":{"avg":-0.68,"accelerating":0,"decelerating":0},"volatility":{"avg":0.91,"highCount":2},"stress":{"overall":0,"activeFlags":0},"anomalies":{"total":0,"critical":0,"warning":0},"alerts":{"total":2,"critical":0,"warning":2},"leaders":{"top":"consumer-goods","bottom":"industrial-goods"},"ok":true}
+

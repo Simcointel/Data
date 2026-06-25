@@ -1,0 +1,2 @@
+{"t":"2026-06-25T01:05:13.427Z","r":0,"di":[{"id":"evt_mqssvqab_clwo","ty":"sector-divergence","se":"warning","de":"consumer-goods (4.4) outperforming industrial-goods (-5.0) by 9.4pts","sc":["consumer-goods","industrial-goods"],"st":1.87,"dr":"consumer-goods-up-industrial-goods-down"},{"id":"evt_mqssvqab_q5a8","ty":"inflation-divergence","se":"warning","de":"consumer-goods inflating 4.37% while industrial-goods at -5.01%","sc":["consumer-goods","industrial-goods"],"st":9.4,"dr":"consumer-goods-high-industrial-goods-low"}],"su":{"to":2,"cr":0,"wa":2,"in":0},"ok":true}
+

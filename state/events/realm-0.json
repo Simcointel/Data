@@ -1,9 +1,2 @@
-{
-  "events": [
-    {
-      "expiresAt": "2026-06-19T00:20:17.785Z",
-      "id": "evt_mqir6znd_ifft",
-      "typeKey": "inflation-divergence::energy-fuel+electronics"
-    }
-  ]
-}
+{"events":[{"id":"evt_mqssvqad_mi9z","typeKey":"sector-divergence::consumer-goods+industrial-goods","expiresAt":"2026-06-26T01:05:13.428Z"},{"id":"evt_mqssvqad_ifrk","typeKey":"inflation-divergence::consumer-goods+industrial-goods","expiresAt":"2026-06-26T01:05:13.428Z"}]}
+
