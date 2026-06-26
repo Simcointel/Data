@@ -1,7 +1,8 @@
 {
   "directory": "aggregates/dashboard/realm-0",
-  "latest": "summary-2026-06-26T05-55-12.621Z.json",
+  "latest": "summary-2026-06-26T06-30-26.502Z.json",
   "files": [
+    "summary-2026-06-26T06-30-26.502Z.json",
     "summary-2026-06-26T05-55-12.621Z.json",
     "summary-2026-06-26T05-30-25.401Z.json",
     "summary-2026-06-26T05-00-29.569Z.json",
@@ -100,7 +101,6 @@
     "summary-2026-06-24T09-15-23.465Z.json",
     "summary-2026-06-24T08-45-22.082Z.json",
     "summary-2026-06-24T08-05-51.549Z.json",
-    "summary-2026-06-24T07-45-19.080Z.json",
-    "summary-2026-06-24T07-30-28.326Z.json"
+    "summary-2026-06-24T07-45-19.080Z.json"
   ]
 }
