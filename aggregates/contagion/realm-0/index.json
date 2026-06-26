@@ -3,6 +3,7 @@
   "latest": "index.json",
   "files": [
     "index.json",
+    "contagion-2026-06-26T13-10-20.453Z.json",
     "contagion-2026-06-26T12-40-19.973Z.json",
     "contagion-2026-06-26T12-15-17.443Z.json",
     "contagion-2026-06-26T11-45-16.822Z.json",
@@ -100,7 +101,6 @@
     "contagion-2026-06-24T16-40-19.538Z.json",
     "contagion-2026-06-24T16-25-15.891Z.json",
     "contagion-2026-06-24T16-00-35.816Z.json",
-    "contagion-2026-06-24T15-35-15.525Z.json",
-    "contagion-2026-06-24T14-50-18.792Z.json"
+    "contagion-2026-06-24T15-35-15.525Z.json"
   ]
 }
