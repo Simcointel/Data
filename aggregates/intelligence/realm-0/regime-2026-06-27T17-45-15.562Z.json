@@ -1,16 +1,2 @@
-{
-  "cr": "boom",
-  "ok": true,
-  "pr": "boom",
-  "r": 0,
-  "rc": 1,
-  "rf": {
-    "acGrowth": 3.32,
-    "avgInflation": 0,
-    "avgStress": 0,
-    "avgVolatility": 0,
-    "cvGrowth": 4.89,
-    "phase": "boom"
-  },
-  "t": "2026-06-27T17:45:15.562Z"
-}
+{"t":"2026-06-27T17:45:15.562Z","r":0,"cr":"boom","pr":"boom","rc":1,"rf":{"cvGrowth":4.89,"acGrowth":3.32,"avgInflation":0,"avgStress":0,"avgVolatility":0,"phase":"boom"},"ok":true}
+
