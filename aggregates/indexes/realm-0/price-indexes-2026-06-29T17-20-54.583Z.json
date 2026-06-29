@@ -1,0 +1,57 @@
+{
+  "t": "2026-06-29T17:20:54.583Z",
+  "r": 0,
+  "sr": "/tmp/data-repo/snapshots/market/realm-0/market-snapshot-2026-06-29T15-55-50.142Z.json",
+  "ix": {
+    "raw-materials": {
+      "v": 7335.1795,
+      "n": 28,
+      "rn": 28
+    },
+    "industrial-goods": {
+      "v": 412.4772,
+      "n": 24,
+      "rn": 24
+    },
+    "consumer-goods": {
+      "v": 594.4222,
+      "n": 38,
+      "rn": 38
+    },
+    "energy-fuel": {
+      "v": 24.9272,
+      "n": 6,
+      "rn": 6
+    },
+    "electronics": {
+      "v": 1184.3344,
+      "n": 9,
+      "rn": 9
+    },
+    "construction": {
+      "v": 1695.6958,
+      "n": 3,
+      "rn": 3
+    },
+    "aerospace": {
+      "v": 4262.3574,
+      "n": 22,
+      "rn": 31
+    },
+    "cpi": {
+      "v": 2215.6277,
+      "n": 7,
+      "rn": 7
+    },
+    "core-cpi": {
+      "v": 2528.5849,
+      "n": 7,
+      "rn": 7
+    },
+    "gdp": {
+      "v": 2010790515869,
+      "n": 1,
+      "rn": 1
+    }
+  }
+}
