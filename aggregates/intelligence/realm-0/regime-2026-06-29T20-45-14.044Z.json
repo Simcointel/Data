@@ -1,2 +1,16 @@
-{"t":"2026-06-29T20:45:14.044Z","r":0,"cr":"boom","pr":"boom","rc":1,"rf":{"cvGrowth":4.67,"acGrowth":2.73,"avgInflation":0,"avgStress":0,"avgVolatility":0,"phase":"boom"},"ok":true}
-
+{
+  "cr": "boom",
+  "ok": true,
+  "pr": "boom",
+  "r": 0,
+  "rc": 1,
+  "rf": {
+    "acGrowth": 2.73,
+    "avgInflation": 0,
+    "avgStress": 0,
+    "avgVolatility": 0,
+    "cvGrowth": 4.67,
+    "phase": "boom"
+  },
+  "t": "2026-06-29T20:45:14.044Z"
+}
