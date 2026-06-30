@@ -3,6 +3,7 @@
   "latest": "index.json",
   "files": [
     "index.json",
+    "anomaly-2026-06-30T10-15-16.606Z.json",
     "anomaly-2026-06-30T09-55-12.685Z.json",
     "anomaly-2026-06-30T09-15-14.867Z.json",
     "anomaly-2026-06-30T08-50-53.708Z.json",
@@ -100,7 +101,6 @@
     "anomaly-2026-06-28T12-45-15.846Z.json",
     "anomaly-2026-06-28T12-20-16.887Z.json",
     "anomaly-2026-06-28T11-35-12.262Z.json",
-    "anomaly-2026-06-28T11-10-16.922Z.json",
-    "anomaly-2026-06-28T10-40-17.248Z.json"
+    "anomaly-2026-06-28T11-10-16.922Z.json"
   ]
 }
