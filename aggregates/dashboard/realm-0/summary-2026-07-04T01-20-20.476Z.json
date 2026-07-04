@@ -1,2 +1,48 @@
-{"t":"2026-07-04T01:20:20.476Z","r":0,"scores":{"eh":50,"ms":72.7,"st":98.6,"ip":4.7,"sr":30},"regime":{"label":"normal","confidence":1},"inflation":{"avg":0.31,"max":0,"count":0},"momentum":{"avg":-0.31,"accelerating":0,"decelerating":0},"volatility":{"avg":0.28,"highCount":0},"stress":{"overall":0,"activeFlags":0},"anomalies":{"total":7,"critical":0,"warning":7},"alerts":{"total":7,"critical":0,"warning":7},"leaders":{"top":"consumer-goods","bottom":"energy-fuel"},"ok":true}
-
+{
+  "alerts": {
+    "critical": 0,
+    "total": 7,
+    "warning": 7
+  },
+  "anomalies": {
+    "critical": 0,
+    "total": 7,
+    "warning": 7
+  },
+  "inflation": {
+    "avg": 0.31,
+    "count": 0,
+    "max": 0
+  },
+  "leaders": {
+    "bottom": "energy-fuel",
+    "top": "consumer-goods"
+  },
+  "momentum": {
+    "accelerating": 0,
+    "avg": -0.31,
+    "decelerating": 0
+  },
+  "ok": true,
+  "r": 0,
+  "regime": {
+    "confidence": 1,
+    "label": "normal"
+  },
+  "scores": {
+    "eh": 50,
+    "ip": 4.7,
+    "ms": 72.7,
+    "sr": 30,
+    "st": 98.6
+  },
+  "stress": {
+    "activeFlags": 0,
+    "overall": 0
+  },
+  "t": "2026-07-04T01:20:20.476Z",
+  "volatility": {
+    "avg": 0.28,
+    "highCount": 0
+  }
+}

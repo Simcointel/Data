@@ -1,2 +1,39 @@
-{"events":[{"id":"evt_mr5odu62_p6to","typeKey":"price-crash::raw-materials","expiresAt":"2026-07-05T01:20:20.473Z"},{"id":"evt_mr5odu62_w2rh","typeKey":"price-crash::industrial-goods","expiresAt":"2026-07-05T01:20:20.473Z"},{"id":"evt_mr5odu62_3lbu","typeKey":"price-spike::consumer-goods","expiresAt":"2026-07-05T01:20:20.473Z"},{"id":"evt_mr5odu62_zi0w","typeKey":"price-crash::energy-fuel","expiresAt":"2026-07-05T01:20:20.473Z"},{"id":"evt_mr5odu63_phxb","typeKey":"price-crash::electronics","expiresAt":"2026-07-05T01:20:20.473Z"},{"id":"evt_mr5odu63_g855","typeKey":"price-spike::construction","expiresAt":"2026-07-05T01:20:20.473Z"},{"id":"evt_mr5odu63_y7zb","typeKey":"price-crash::aerospace","expiresAt":"2026-07-05T01:20:20.473Z"}]}
-
+{
+  "events": [
+    {
+      "expiresAt": "2026-07-05T01:20:20.473Z",
+      "id": "evt_mr5odu62_p6to",
+      "typeKey": "price-crash::raw-materials"
+    },
+    {
+      "expiresAt": "2026-07-05T01:20:20.473Z",
+      "id": "evt_mr5odu62_w2rh",
+      "typeKey": "price-crash::industrial-goods"
+    },
+    {
+      "expiresAt": "2026-07-05T01:20:20.473Z",
+      "id": "evt_mr5odu62_3lbu",
+      "typeKey": "price-spike::consumer-goods"
+    },
+    {
+      "expiresAt": "2026-07-05T01:20:20.473Z",
+      "id": "evt_mr5odu62_zi0w",
+      "typeKey": "price-crash::energy-fuel"
+    },
+    {
+      "expiresAt": "2026-07-05T01:20:20.473Z",
+      "id": "evt_mr5odu63_phxb",
+      "typeKey": "price-crash::electronics"
+    },
+    {
+      "expiresAt": "2026-07-05T01:20:20.473Z",
+      "id": "evt_mr5odu63_g855",
+      "typeKey": "price-spike::construction"
+    },
+    {
+      "expiresAt": "2026-07-05T01:20:20.473Z",
+      "id": "evt_mr5odu63_y7zb",
+      "typeKey": "price-crash::aerospace"
+    }
+  ]
+}
