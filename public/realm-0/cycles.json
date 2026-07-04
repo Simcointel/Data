@@ -1,15 +1,15 @@
 {
-  "t": "2026-07-04T01:05:10.607Z",
+  "t": "2026-07-04T01:20:20.482Z",
   "r": 0,
   "current": {
     "phase": "recovery",
     "confidence": 0.6666666666666666,
     "durationDays": 1,
-    "intensity": 0,
+    "intensity": 0.04,
     "indicators": {
       "cvGrowth": 0,
-      "avgMomentum": 0,
-      "avgVol": 0,
+      "avgMomentum": -0.31,
+      "avgVol": 0.28,
       "stressLevel": 0
     }
   },
@@ -47,7 +47,7 @@
       "contraction": 0.15
     }
   },
-  "stability": 0.6,
+  "stability": 0.58,
   "ok": true
 }
 
