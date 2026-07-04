@@ -1,2 +1,9 @@
-{"latest":"market-analytics-2026-07-04T17-10-20.868Z.json","files":["market-analytics-2026-07-04T17-10-20.868Z.json","market-analytics-2026-07-04T16-41-03.354Z.json","market-analytics-2026-07-04T16-15-12.166Z.json","market-analytics-2026-07-04T15-50-22.512Z.json"]}
-
+{
+  "files": [
+    "market-analytics-2026-07-04T17-10-20.868Z.json",
+    "market-analytics-2026-07-04T16-41-03.354Z.json",
+    "market-analytics-2026-07-04T16-15-12.166Z.json",
+    "market-analytics-2026-07-04T15-50-22.512Z.json"
+  ],
+  "latest": "market-analytics-2026-07-04T17-10-20.868Z.json"
+}
