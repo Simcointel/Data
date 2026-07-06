@@ -1,13 +1,2 @@
-{
-  "fetch": {
-    "consecutiveFailures": 1,
-    "lastFailure": "2026-07-06T03:20:35.511Z"
-  },
-  "pipelines": [],
-  "scheduler": {
-    "running": true,
-    "uptimeFormatted": "0h 25m 28s",
-    "uptimeMs": 1528028
-  },
-  "t": "2026-07-06T03:30:39.560Z"
-}
+{"t":"2026-07-06T03:30:39.560Z","scheduler":{"running":true,"uptimeMs":1528028,"uptimeFormatted":"0h 25m 28s"},"pipelines":[],"fetch":{"consecutiveFailures":1,"lastFailure":"2026-07-06T03:20:35.511Z"}}
+
