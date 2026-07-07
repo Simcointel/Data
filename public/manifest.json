@@ -1,14 +1,13 @@
 {
-  "version": "1.0.0",
+  "files": [
+    {
+      "bytes": 242,
+      "path": "realm-0/macro.json"
+    }
+  ],
   "generatedAt": "2026-07-07T18:50:33.171Z",
   "realms": [
     0
   ],
-  "files": [
-    {
-      "path": "realm-0/macro.json",
-      "bytes": 242
-    }
-  ]
+  "version": "1.0.0"
 }
-
