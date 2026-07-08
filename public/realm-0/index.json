@@ -3,6 +3,7 @@
   "latest": "signals.json",
   "files": [
     "signals.json",
+    "retail.json",
     "margins.json",
     "macro.json",
     "inflation.json",
