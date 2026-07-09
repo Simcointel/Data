@@ -1,21 +1,2 @@
-{
-  "directory": "aggregates/retail/realm-0",
-  "latest": "retail-summary-2026-07-09T03-20-35.671Z.json",
-  "files": [
-    "retail-summary-2026-07-09T03-20-35.671Z.json",
-    "retail-summary-2026-07-09T02-25-11.157Z.json",
-    "retail-summary-2026-07-09T01-45-14.466Z.json",
-    "retail-summary-2026-07-09T01-10-38.238Z.json",
-    "retail-summary-2026-07-09T00-15-14.641Z.json",
-    "retail-summary-2026-07-08T23-05-10.393Z.json",
-    "retail-summary-2026-07-08T22-25-11.623Z.json",
-    "retail-summary-2026-07-08T21-50-36.800Z.json",
-    "retail-summary-2026-07-08T21-20-38.828Z.json",
-    "retail-summary-2026-07-08T20-40-36.159Z.json",
-    "retail-summary-2026-07-08T20-00-52.076Z.json",
-    "retail-summary-2026-07-08T19-25-10.981Z.json",
-    "retail-summary-2026-07-08T17-05-12.095Z.json",
-    "retail-summary-2026-07-08T16-25-10.637Z.json",
-    "index.json"
-  ]
-}
+{"latest":"retail-summary-2026-07-09T03-20-35.671Z.json","files":["retail-summary-2026-07-09T03-20-35.671Z.json"]}
+
