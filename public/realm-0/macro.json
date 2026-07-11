@@ -1,17 +1,16 @@
 {
-  "realm": "0",
+  "generatedAt": "2026-07-11T00:55:10.774Z",
   "latest": {
-    "companiesValue": 2050214052650,
     "activeCompanies": 25173,
     "bondsSold": 18206010000,
+    "companiesValue": 2050214052650,
     "totalBuildings": 301816
   },
   "latestIndexes": {
-    "cpi": 2167.9981,
     "coreCpi": 2474.2511,
+    "cpi": 2167.9981,
     "gdp": 2050214052650
   },
   "latestInflation": null,
-  "generatedAt": "2026-07-11T00:55:10.774Z"
+  "realm": "0"
 }
-
