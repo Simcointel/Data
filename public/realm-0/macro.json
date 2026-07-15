@@ -6,8 +6,12 @@
     "bondsSold": 18040070000,
     "totalBuildings": 302765
   },
-  "latestIndexes": null,
+  "latestIndexes": {
+    "cpi": 2186.464,
+    "coreCpi": 2495.3451,
+    "gdp": 2050156705802
+  },
   "latestInflation": null,
-  "generatedAt": "2026-07-15T22:05:11.202Z"
+  "generatedAt": "2026-07-15T22:40:30.133Z"
 }
 
