@@ -1,29 +1,18 @@
 {
-  "files": [
-    {
-      "bytes": 306,
-      "path": "realm-0/macro.json"
-    },
-    {
-      "bytes": 7445,
-      "path": "realm-0/history.json"
-    },
-    {
-      "bytes": 968,
-      "path": "realm-0/indexes.json"
-    },
-    {
-      "bytes": 43664,
-      "path": "realm-0/margins.json"
-    },
-    {
-      "bytes": 5083,
-      "path": "realm-0/retail.json"
-    }
-  ],
-  "generatedAt": "2026-07-15T18:05:11.880Z",
+  "version": "1.0.0",
+  "generatedAt": "2026-07-15T19:15:14.158Z",
   "realms": [
     0
   ],
-  "version": "1.0.0"
+  "files": [
+    {
+      "path": "realm-0/macro.json",
+      "bytes": 242
+    },
+    {
+      "path": "realm-0/history.json",
+      "bytes": 17990
+    }
+  ]
 }
+
