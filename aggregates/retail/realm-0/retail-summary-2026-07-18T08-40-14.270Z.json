@@ -1,143 +1,6 @@
 {
-  "t": "2026-07-18T08:40:14.270Z",
   "r": 0,
   "retail": {
-    "3": {
-      "saturation": 1.4924600057691466,
-      "sellers": 0
-    },
-    "4": {
-      "saturation": 1.4786833970480169,
-      "sellers": 0
-    },
-    "5": {
-      "saturation": 1.4768060056676022,
-      "sellers": 0
-    },
-    "7": {
-      "saturation": 1.3963168235099574,
-      "sellers": 0
-    },
-    "8": {
-      "saturation": 1.2503645598112396,
-      "sellers": 0
-    },
-    "9": {
-      "saturation": 1.5458340957542234,
-      "sellers": 0
-    },
-    "11": {
-      "saturation": 0.8636921939289013,
-      "sellers": 0
-    },
-    "12": {
-      "saturation": 0.8481616609625213,
-      "sellers": 0
-    },
-    "24": {
-      "saturation": 0.7956217177183756,
-      "sellers": 0
-    },
-    "25": {
-      "saturation": 0.8919026307113608,
-      "sellers": 0
-    },
-    "26": {
-      "saturation": 0.6949214602564923,
-      "sellers": 0
-    },
-    "27": {
-      "saturation": 0.6431147761734975,
-      "sellers": 0
-    },
-    "28": {
-      "saturation": 0.6643046370152943,
-      "sellers": 0
-    },
-    "53": {
-      "saturation": 0.7348322887321435,
-      "sellers": 0
-    },
-    "54": {
-      "saturation": 0.7140745777725154,
-      "sellers": 0
-    },
-    "55": {
-      "saturation": 0.5847586212775862,
-      "sellers": 0
-    },
-    "56": {
-      "saturation": 0.6896674739560053,
-      "sellers": 0
-    },
-    "57": {
-      "saturation": 0.5219703749137974,
-      "sellers": 0
-    },
-    "60": {
-      "saturation": 1.3393207999669552,
-      "sellers": 0
-    },
-    "61": {
-      "saturation": 1.2505339471557564,
-      "sellers": 0
-    },
-    "62": {
-      "saturation": 1.2518734391997333,
-      "sellers": 0
-    },
-    "63": {
-      "saturation": 1.3167048457032577,
-      "sellers": 0
-    },
-    "64": {
-      "saturation": 1.3524645865980178,
-      "sellers": 0
-    },
-    "65": {
-      "saturation": 0.8171615169876278,
-      "sellers": 0
-    },
-    "67": {
-      "saturation": 0.6067788465089504,
-      "sellers": 0
-    },
-    "70": {
-      "saturation": 0.8279321483007593,
-      "sellers": 0
-    },
-    "71": {
-      "saturation": 0.9933456941368225,
-      "sellers": 0
-    },
-    "91": {
-      "saturation": 1.2768048780745813,
-      "sellers": 0
-    },
-    "94": {
-      "saturation": 1.258245371325646,
-      "sellers": 0
-    },
-    "95": {
-      "saturation": 1.2623474036611155,
-      "sellers": 0
-    },
-    "96": {
-      "saturation": 1.2476817445905606,
-      "sellers": 0
-    },
-    "97": {
-      "saturation": 1.3027002353501964,
-      "sellers": 0
-    },
-    "98": {
-      "saturation": 0.7042929796709739,
-      "sellers": 0
-    },
-    "99": {
-      "saturation": 1.1932759587078368,
-      "sellers": 0
-    },
     "102": {
       "saturation": 1.0248727047492212,
       "sellers": 0
@@ -154,6 +17,10 @@
       "saturation": 0.694268571729693,
       "sellers": 0
     },
+    "11": {
+      "saturation": 0.8636921939289013,
+      "sellers": 0
+    },
     "110": {
       "saturation": 0.7344263987712399,
       "sellers": 0
@@ -164,6 +31,10 @@
     },
     "119": {
       "saturation": 1.347571763110012,
+      "sellers": 0
+    },
+    "12": {
+      "saturation": 0.8481616609625213,
       "sellers": 0
     },
     "121": {
@@ -265,6 +136,135 @@
     "154": {
       "saturation": 0.5788511970480742,
       "sellers": 0
+    },
+    "24": {
+      "saturation": 0.7956217177183756,
+      "sellers": 0
+    },
+    "25": {
+      "saturation": 0.8919026307113608,
+      "sellers": 0
+    },
+    "26": {
+      "saturation": 0.6949214602564923,
+      "sellers": 0
+    },
+    "27": {
+      "saturation": 0.6431147761734975,
+      "sellers": 0
+    },
+    "28": {
+      "saturation": 0.6643046370152943,
+      "sellers": 0
+    },
+    "3": {
+      "saturation": 1.4924600057691466,
+      "sellers": 0
+    },
+    "4": {
+      "saturation": 1.4786833970480169,
+      "sellers": 0
+    },
+    "5": {
+      "saturation": 1.4768060056676022,
+      "sellers": 0
+    },
+    "53": {
+      "saturation": 0.7348322887321435,
+      "sellers": 0
+    },
+    "54": {
+      "saturation": 0.7140745777725154,
+      "sellers": 0
+    },
+    "55": {
+      "saturation": 0.5847586212775862,
+      "sellers": 0
+    },
+    "56": {
+      "saturation": 0.6896674739560053,
+      "sellers": 0
+    },
+    "57": {
+      "saturation": 0.5219703749137974,
+      "sellers": 0
+    },
+    "60": {
+      "saturation": 1.3393207999669552,
+      "sellers": 0
+    },
+    "61": {
+      "saturation": 1.2505339471557564,
+      "sellers": 0
+    },
+    "62": {
+      "saturation": 1.2518734391997333,
+      "sellers": 0
+    },
+    "63": {
+      "saturation": 1.3167048457032577,
+      "sellers": 0
+    },
+    "64": {
+      "saturation": 1.3524645865980178,
+      "sellers": 0
+    },
+    "65": {
+      "saturation": 0.8171615169876278,
+      "sellers": 0
+    },
+    "67": {
+      "saturation": 0.6067788465089504,
+      "sellers": 0
+    },
+    "7": {
+      "saturation": 1.3963168235099574,
+      "sellers": 0
+    },
+    "70": {
+      "saturation": 0.8279321483007593,
+      "sellers": 0
+    },
+    "71": {
+      "saturation": 0.9933456941368225,
+      "sellers": 0
+    },
+    "8": {
+      "saturation": 1.2503645598112396,
+      "sellers": 0
+    },
+    "9": {
+      "saturation": 1.5458340957542234,
+      "sellers": 0
+    },
+    "91": {
+      "saturation": 1.2768048780745813,
+      "sellers": 0
+    },
+    "94": {
+      "saturation": 1.258245371325646,
+      "sellers": 0
+    },
+    "95": {
+      "saturation": 1.2623474036611155,
+      "sellers": 0
+    },
+    "96": {
+      "saturation": 1.2476817445905606,
+      "sellers": 0
+    },
+    "97": {
+      "saturation": 1.3027002353501964,
+      "sellers": 0
+    },
+    "98": {
+      "saturation": 0.7042929796709739,
+      "sellers": 0
+    },
+    "99": {
+      "saturation": 1.1932759587078368,
+      "sellers": 0
     }
-  }
+  },
+  "t": "2026-07-18T08:40:14.270Z"
 }
