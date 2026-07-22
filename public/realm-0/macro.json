@@ -7,15 +7,15 @@
     "totalBuildings": 301702
   },
   "latestIndexes": {
-    "cpi": 2202.319,
-    "coreCpi": 2513.3975,
+    "cpi": 2196.2602,
+    "coreCpi": 2506.4824,
     "gdp": 2049102317294
   },
   "latestInflation": {
-    "cpiRate": 0,
-    "coreCpiRate": 0,
+    "cpiRate": -0.28,
+    "coreCpiRate": -0.28,
     "gdpGrowth": 0
   },
-  "generatedAt": "2026-07-21T23:45:09.405Z"
+  "generatedAt": "2026-07-22T00:15:08.884Z"
 }
 
