@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-07-27T21:05:06.494Z",
+  "generatedAt": "2026-07-27T21:55:06.212Z",
   "realms": [
     0
   ],
@@ -10,12 +10,16 @@
       "bytes": 395
     },
     {
+      "path": "realm-0/history.json",
+      "bytes": 7481
+    },
+    {
       "path": "realm-0/indexes.json",
-      "bytes": 3156
+      "bytes": 4207
     },
     {
       "path": "realm-0/inflation.json",
-      "bytes": 2117
+      "bytes": 3174
     },
     {
       "path": "realm-0/margins.json",
