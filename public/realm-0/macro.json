@@ -6,8 +6,12 @@
     "bondsSold": null,
     "totalBuildings": null
   },
-  "latestIndexes": null,
+  "latestIndexes": {
+    "cpi": 2127.4169,
+    "coreCpi": 2427.7804,
+    "gdp": null
+  },
   "latestInflation": null,
-  "generatedAt": "2026-07-27T04:25:06.317Z"
+  "generatedAt": "2026-07-27T04:55:06.453Z"
 }
 
