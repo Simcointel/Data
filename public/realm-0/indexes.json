@@ -1,59 +1,60 @@
 [
   {
+    "t": "2026-07-27T20:00:18.337Z",
+    "r": 0,
+    "sr": "/tmp/data-repo/snapshots/market/realm-0/market-snapshot-2026-07-27T20-00-18.173Z.json",
     "ix": {
-      "aerospace": {
-        "n": 22,
-        "rn": 31,
-        "v": 4125.7891
-      },
-      "construction": {
-        "n": 3,
-        "rn": 3,
-        "v": 1699.5108
-      },
-      "consumer-goods": {
-        "n": 38,
-        "rn": 38,
-        "v": 599.836
-      },
-      "core-cpi": {
-        "n": 7,
-        "rn": 7,
-        "v": 2427.7804
-      },
-      "cpi": {
-        "n": 7,
-        "rn": 7,
-        "v": 2127.4169
-      },
-      "electronics": {
-        "n": 9,
-        "rn": 9,
-        "v": 1154.2026
-      },
-      "energy-fuel": {
-        "n": 6,
-        "rn": 6,
-        "v": 24.8729
-      },
-      "gdp": {
-        "n": 1,
-        "rn": 1,
-        "v": 2055099347879
+      "raw-materials": {
+        "v": 6875.3193,
+        "n": 28,
+        "rn": 28
       },
       "industrial-goods": {
+        "v": 412.3879,
         "n": 24,
-        "rn": 24,
-        "v": 412.3879
+        "rn": 24
       },
-      "raw-materials": {
-        "n": 28,
-        "rn": 28,
-        "v": 6875.3193
+      "consumer-goods": {
+        "v": 599.836,
+        "n": 38,
+        "rn": 38
+      },
+      "energy-fuel": {
+        "v": 24.8729,
+        "n": 6,
+        "rn": 6
+      },
+      "electronics": {
+        "v": 1154.2026,
+        "n": 9,
+        "rn": 9
+      },
+      "construction": {
+        "v": 1699.5108,
+        "n": 3,
+        "rn": 3
+      },
+      "aerospace": {
+        "v": 4125.7891,
+        "n": 22,
+        "rn": 31
+      },
+      "cpi": {
+        "v": 2127.4169,
+        "n": 7,
+        "rn": 7
+      },
+      "core-cpi": {
+        "v": 2427.7804,
+        "n": 7,
+        "rn": 7
+      },
+      "gdp": {
+        "v": 2055099347879,
+        "n": 1,
+        "rn": 1
       }
-    },
-    "r": 0,
-    "sr": "/tmp/data-repo/snapshots/market/realm-0/market-snapshot-2026-07-27T16-30-12.626Z.json",
-    "t": "2026-07-27T16:35:06.140Z"
+    }
   }
 ]
+
