@@ -1,16 +1,17 @@
 {
-  "generatedAt": "2026-07-27T01:00:14.945Z",
+  "realm": "0",
   "latest": {
+    "companiesValue": null,
     "activeCompanies": null,
     "bondsSold": null,
-    "companiesValue": null,
     "totalBuildings": null
   },
   "latestIndexes": {
-    "coreCpi": 2427.7804,
     "cpi": 2127.4169,
+    "coreCpi": 2427.7804,
     "gdp": null
   },
   "latestInflation": null,
-  "realm": "0"
+  "generatedAt": "2026-07-27T01:00:14.945Z"
 }
+
