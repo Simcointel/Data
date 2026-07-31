@@ -3,8 +3,8 @@
   "latest": {
     "companiesValue": 2050761497489,
     "activeCompanies": 25111,
-    "bondsSold": 18359730000,
-    "totalBuildings": 302316
+    "bondsSold": 18486435000,
+    "totalBuildings": 301607
   },
   "latestIndexes": {
     "cpi": 2204.4826,
@@ -16,6 +16,6 @@
     "coreCpiRate": 0,
     "gdpGrowth": 0
   },
-  "generatedAt": "2026-07-31T12:20:56.234Z"
+  "generatedAt": "2026-07-31T12:55:06.215Z"
 }
 
