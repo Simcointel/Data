@@ -1,143 +1,6 @@
 {
-  "t": "2026-07-31T04:20:08.214Z",
   "r": 0,
   "retail": {
-    "3": {
-      "saturation": 1.4690369261015073,
-      "sellers": 0
-    },
-    "4": {
-      "saturation": 1.457121523868057,
-      "sellers": 0
-    },
-    "5": {
-      "saturation": 1.5177956824414622,
-      "sellers": 0
-    },
-    "7": {
-      "saturation": 1.3760369699100214,
-      "sellers": 0
-    },
-    "8": {
-      "saturation": 1.2472333829066273,
-      "sellers": 0
-    },
-    "9": {
-      "saturation": 1.5796538164107325,
-      "sellers": 0
-    },
-    "11": {
-      "saturation": 0.857435771987302,
-      "sellers": 0
-    },
-    "12": {
-      "saturation": 0.8450294108180967,
-      "sellers": 0
-    },
-    "24": {
-      "saturation": 0.7858527531298338,
-      "sellers": 0
-    },
-    "25": {
-      "saturation": 0.8929424919639863,
-      "sellers": 0
-    },
-    "26": {
-      "saturation": 0.7034589745118222,
-      "sellers": 0
-    },
-    "27": {
-      "saturation": 0.6052050890620674,
-      "sellers": 0
-    },
-    "28": {
-      "saturation": 0.679579107482255,
-      "sellers": 0
-    },
-    "53": {
-      "saturation": 0.7441651696309719,
-      "sellers": 0
-    },
-    "54": {
-      "saturation": 0.7203336701534976,
-      "sellers": 0
-    },
-    "55": {
-      "saturation": 0.5912671086026497,
-      "sellers": 0
-    },
-    "56": {
-      "saturation": 0.6864057797431498,
-      "sellers": 0
-    },
-    "57": {
-      "saturation": 0.5313506380105658,
-      "sellers": 0
-    },
-    "60": {
-      "saturation": 1.34979408858028,
-      "sellers": 0
-    },
-    "61": {
-      "saturation": 1.2279092513371423,
-      "sellers": 0
-    },
-    "62": {
-      "saturation": 1.2350125009341537,
-      "sellers": 0
-    },
-    "63": {
-      "saturation": 1.305044387319372,
-      "sellers": 0
-    },
-    "64": {
-      "saturation": 1.3833857648122683,
-      "sellers": 0
-    },
-    "65": {
-      "saturation": 0.8520907562280017,
-      "sellers": 0
-    },
-    "67": {
-      "saturation": 1.7564018909591435,
-      "sellers": 0
-    },
-    "70": {
-      "saturation": 0.7771436441527194,
-      "sellers": 0
-    },
-    "71": {
-      "saturation": 1.036436552075884,
-      "sellers": 0
-    },
-    "91": {
-      "saturation": 1.2765902928872328,
-      "sellers": 0
-    },
-    "94": {
-      "saturation": 1.276449174671332,
-      "sellers": 0
-    },
-    "95": {
-      "saturation": 1.2773468407043842,
-      "sellers": 0
-    },
-    "96": {
-      "saturation": 1.250931985306587,
-      "sellers": 0
-    },
-    "97": {
-      "saturation": 1.3069851358826636,
-      "sellers": 0
-    },
-    "98": {
-      "saturation": 0.7351271453435985,
-      "sellers": 0
-    },
-    "99": {
-      "saturation": 1.1986232485754558,
-      "sellers": 0
-    },
     "102": {
       "saturation": 1.0284959164952532,
       "sellers": 0
@@ -154,6 +17,10 @@
       "saturation": 0.7036889348191,
       "sellers": 0
     },
+    "11": {
+      "saturation": 0.857435771987302,
+      "sellers": 0
+    },
     "110": {
       "saturation": 0.7356172116201424,
       "sellers": 0
@@ -164,6 +31,10 @@
     },
     "119": {
       "saturation": 1.2896363188405653,
+      "sellers": 0
+    },
+    "12": {
+      "saturation": 0.8450294108180967,
       "sellers": 0
     },
     "121": {
@@ -265,7 +136,135 @@
     "154": {
       "saturation": 0.42296669338143095,
       "sellers": 0
+    },
+    "24": {
+      "saturation": 0.7858527531298338,
+      "sellers": 0
+    },
+    "25": {
+      "saturation": 0.8929424919639863,
+      "sellers": 0
+    },
+    "26": {
+      "saturation": 0.7034589745118222,
+      "sellers": 0
+    },
+    "27": {
+      "saturation": 0.6052050890620674,
+      "sellers": 0
+    },
+    "28": {
+      "saturation": 0.679579107482255,
+      "sellers": 0
+    },
+    "3": {
+      "saturation": 1.4690369261015073,
+      "sellers": 0
+    },
+    "4": {
+      "saturation": 1.457121523868057,
+      "sellers": 0
+    },
+    "5": {
+      "saturation": 1.5177956824414622,
+      "sellers": 0
+    },
+    "53": {
+      "saturation": 0.7441651696309719,
+      "sellers": 0
+    },
+    "54": {
+      "saturation": 0.7203336701534976,
+      "sellers": 0
+    },
+    "55": {
+      "saturation": 0.5912671086026497,
+      "sellers": 0
+    },
+    "56": {
+      "saturation": 0.6864057797431498,
+      "sellers": 0
+    },
+    "57": {
+      "saturation": 0.5313506380105658,
+      "sellers": 0
+    },
+    "60": {
+      "saturation": 1.34979408858028,
+      "sellers": 0
+    },
+    "61": {
+      "saturation": 1.2279092513371423,
+      "sellers": 0
+    },
+    "62": {
+      "saturation": 1.2350125009341537,
+      "sellers": 0
+    },
+    "63": {
+      "saturation": 1.305044387319372,
+      "sellers": 0
+    },
+    "64": {
+      "saturation": 1.3833857648122683,
+      "sellers": 0
+    },
+    "65": {
+      "saturation": 0.8520907562280017,
+      "sellers": 0
+    },
+    "67": {
+      "saturation": 1.7564018909591435,
+      "sellers": 0
+    },
+    "7": {
+      "saturation": 1.3760369699100214,
+      "sellers": 0
+    },
+    "70": {
+      "saturation": 0.7771436441527194,
+      "sellers": 0
+    },
+    "71": {
+      "saturation": 1.036436552075884,
+      "sellers": 0
+    },
+    "8": {
+      "saturation": 1.2472333829066273,
+      "sellers": 0
+    },
+    "9": {
+      "saturation": 1.5796538164107325,
+      "sellers": 0
+    },
+    "91": {
+      "saturation": 1.2765902928872328,
+      "sellers": 0
+    },
+    "94": {
+      "saturation": 1.276449174671332,
+      "sellers": 0
+    },
+    "95": {
+      "saturation": 1.2773468407043842,
+      "sellers": 0
+    },
+    "96": {
+      "saturation": 1.250931985306587,
+      "sellers": 0
+    },
+    "97": {
+      "saturation": 1.3069851358826636,
+      "sellers": 0
+    },
+    "98": {
+      "saturation": 0.7351271453435985,
+      "sellers": 0
+    },
+    "99": {
+      "saturation": 1.1986232485754558,
+      "sellers": 0
     }
-  }
+  },
+  "t": "2026-07-31T04:20:08.214Z"
 }
-
