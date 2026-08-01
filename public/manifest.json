@@ -1,13 +1,13 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-08-01T18:37:51.372Z",
+  "generatedAt": "2026-08-01T19:05:06.687Z",
   "realms": [
     0
   ],
   "files": [
     {
       "path": "realm-0/macro.json",
-      "bytes": 370
+      "bytes": 398
     },
     {
       "path": "realm-0/history.json",
@@ -15,15 +15,15 @@
     },
     {
       "path": "realm-0/indexes.json",
-      "bytes": 1937
+      "bytes": 2988
     },
     {
       "path": "realm-0/inflation.json",
-      "bytes": 962
+      "bytes": 1921
     },
     {
       "path": "realm-0/margins.json",
-      "bytes": 43651
+      "bytes": 48838
     },
     {
       "path": "realm-0/retail.json",
