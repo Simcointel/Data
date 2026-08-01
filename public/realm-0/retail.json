@@ -1,6 +1,143 @@
 {
+  "t": "2026-08-01T03:40:09.220Z",
   "r": 0,
   "retail": {
+    "3": {
+      "saturation": 1.4653328186775092,
+      "sellers": 0
+    },
+    "4": {
+      "saturation": 1.455826836473846,
+      "sellers": 0
+    },
+    "5": {
+      "saturation": 1.5202868389000554,
+      "sellers": 0
+    },
+    "7": {
+      "saturation": 1.3855158899684132,
+      "sellers": 0
+    },
+    "8": {
+      "saturation": 1.274814285772006,
+      "sellers": 0
+    },
+    "9": {
+      "saturation": 1.6062662303786892,
+      "sellers": 0
+    },
+    "11": {
+      "saturation": 0.8534808718911993,
+      "sellers": 0
+    },
+    "12": {
+      "saturation": 0.8432151139681596,
+      "sellers": 0
+    },
+    "24": {
+      "saturation": 0.7831288959771705,
+      "sellers": 0
+    },
+    "25": {
+      "saturation": 0.8936716275210584,
+      "sellers": 0
+    },
+    "26": {
+      "saturation": 0.7134657561799943,
+      "sellers": 0
+    },
+    "27": {
+      "saturation": 0.5969000965846732,
+      "sellers": 0
+    },
+    "28": {
+      "saturation": 0.6764644114538493,
+      "sellers": 0
+    },
+    "53": {
+      "saturation": 0.7438630615564468,
+      "sellers": 0
+    },
+    "54": {
+      "saturation": 0.7209093282086358,
+      "sellers": 0
+    },
+    "55": {
+      "saturation": 0.5919411479841649,
+      "sellers": 0
+    },
+    "56": {
+      "saturation": 0.6828789668674404,
+      "sellers": 0
+    },
+    "57": {
+      "saturation": 0.5382684328519225,
+      "sellers": 0
+    },
+    "60": {
+      "saturation": 1.3511355145059836,
+      "sellers": 0
+    },
+    "61": {
+      "saturation": 1.2240362186083251,
+      "sellers": 0
+    },
+    "62": {
+      "saturation": 1.2489240616754655,
+      "sellers": 0
+    },
+    "63": {
+      "saturation": 1.2876875262617198,
+      "sellers": 0
+    },
+    "64": {
+      "saturation": 1.3758987637300482,
+      "sellers": 0
+    },
+    "65": {
+      "saturation": 0.8550132674891551,
+      "sellers": 0
+    },
+    "67": {
+      "saturation": 1.5168925421919874,
+      "sellers": 0
+    },
+    "70": {
+      "saturation": 0.7745020792363883,
+      "sellers": 0
+    },
+    "71": {
+      "saturation": 1.036671000163368,
+      "sellers": 0
+    },
+    "91": {
+      "saturation": 1.2718706914907896,
+      "sellers": 0
+    },
+    "94": {
+      "saturation": 1.2763463381795253,
+      "sellers": 0
+    },
+    "95": {
+      "saturation": 1.2744941659681037,
+      "sellers": 0
+    },
+    "96": {
+      "saturation": 1.2479301002285732,
+      "sellers": 0
+    },
+    "97": {
+      "saturation": 1.3035780448526777,
+      "sellers": 0
+    },
+    "98": {
+      "saturation": 0.7362615041280341,
+      "sellers": 0
+    },
+    "99": {
+      "saturation": 1.1949617031397262,
+      "sellers": 0
+    },
     "102": {
       "saturation": 1.0319121305758672,
       "sellers": 0
@@ -17,10 +154,6 @@
       "saturation": 0.704711084305237,
       "sellers": 0
     },
-    "11": {
-      "saturation": 0.8534808718911993,
-      "sellers": 0
-    },
     "110": {
       "saturation": 0.7371457201312928,
       "sellers": 0
@@ -31,10 +164,6 @@
     },
     "119": {
       "saturation": 1.3032878794282334,
-      "sellers": 0
-    },
-    "12": {
-      "saturation": 0.8432151139681596,
       "sellers": 0
     },
     "121": {
@@ -136,135 +265,7 @@
     "154": {
       "saturation": 0.41126123393187747,
       "sellers": 0
-    },
-    "24": {
-      "saturation": 0.7831288959771705,
-      "sellers": 0
-    },
-    "25": {
-      "saturation": 0.8936716275210584,
-      "sellers": 0
-    },
-    "26": {
-      "saturation": 0.7134657561799943,
-      "sellers": 0
-    },
-    "27": {
-      "saturation": 0.5969000965846732,
-      "sellers": 0
-    },
-    "28": {
-      "saturation": 0.6764644114538493,
-      "sellers": 0
-    },
-    "3": {
-      "saturation": 1.4653328186775092,
-      "sellers": 0
-    },
-    "4": {
-      "saturation": 1.455826836473846,
-      "sellers": 0
-    },
-    "5": {
-      "saturation": 1.5202868389000554,
-      "sellers": 0
-    },
-    "53": {
-      "saturation": 0.7438630615564468,
-      "sellers": 0
-    },
-    "54": {
-      "saturation": 0.7209093282086358,
-      "sellers": 0
-    },
-    "55": {
-      "saturation": 0.5919411479841649,
-      "sellers": 0
-    },
-    "56": {
-      "saturation": 0.6828789668674404,
-      "sellers": 0
-    },
-    "57": {
-      "saturation": 0.5382684328519225,
-      "sellers": 0
-    },
-    "60": {
-      "saturation": 1.3511355145059836,
-      "sellers": 0
-    },
-    "61": {
-      "saturation": 1.2240362186083251,
-      "sellers": 0
-    },
-    "62": {
-      "saturation": 1.2489240616754655,
-      "sellers": 0
-    },
-    "63": {
-      "saturation": 1.2876875262617198,
-      "sellers": 0
-    },
-    "64": {
-      "saturation": 1.3758987637300482,
-      "sellers": 0
-    },
-    "65": {
-      "saturation": 0.8550132674891551,
-      "sellers": 0
-    },
-    "67": {
-      "saturation": 1.5168925421919874,
-      "sellers": 0
-    },
-    "7": {
-      "saturation": 1.3855158899684132,
-      "sellers": 0
-    },
-    "70": {
-      "saturation": 0.7745020792363883,
-      "sellers": 0
-    },
-    "71": {
-      "saturation": 1.036671000163368,
-      "sellers": 0
-    },
-    "8": {
-      "saturation": 1.274814285772006,
-      "sellers": 0
-    },
-    "9": {
-      "saturation": 1.6062662303786892,
-      "sellers": 0
-    },
-    "91": {
-      "saturation": 1.2718706914907896,
-      "sellers": 0
-    },
-    "94": {
-      "saturation": 1.2763463381795253,
-      "sellers": 0
-    },
-    "95": {
-      "saturation": 1.2744941659681037,
-      "sellers": 0
-    },
-    "96": {
-      "saturation": 1.2479301002285732,
-      "sellers": 0
-    },
-    "97": {
-      "saturation": 1.3035780448526777,
-      "sellers": 0
-    },
-    "98": {
-      "saturation": 0.7362615041280341,
-      "sellers": 0
-    },
-    "99": {
-      "saturation": 1.1949617031397262,
-      "sellers": 0
     }
-  },
-  "t": "2026-08-01T03:40:09.220Z"
+  }
 }
+
