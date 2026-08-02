@@ -1,0 +1,10067 @@
+{
+  "t": "2026-08-02T22:05:06.061Z",
+  "r": 0,
+  "rc": [
+    {
+      "i": 100,
+      "n": "Aerospace research",
+      "ph": 0.34600436893717856,
+      "w": 517.5,
+      "tr": 0,
+      "in": {
+        "91": 1,
+        "94": 1
+      },
+      "ir": false
+    },
+    {
+      "i": 18,
+      "n": "Aluminium",
+      "ph": 119.79075369847736,
+      "w": 414,
+      "tr": 1,
+      "in": {
+        "1": 15,
+        "15": 1
+      },
+      "ir": false
+    },
+    {
+      "i": 125,
+      "n": "Apple cider",
+      "ph": 36.564192686282865,
+      "w": 241.49999999999997,
+      "tr": 1,
+      "in": {
+        "3": 8
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.09308911316302905,
+          "modeledProductionCostPerUnit": 17.69129787320276,
+          "modeledStoreWages": 151.8,
+          "modeledUnitsSoldAnHour": 15,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 50.063698483184844,
+          "saturation": 1.5470437733375382,
+          "salesWages": 138
+        }
+      ]
+    },
+    {
+      "i": 154,
+      "n": "Apple icecream",
+      "ph": 32.14335468879014,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "3": 4,
+        "117": 2,
+        "135": 0.5
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.1346621314850427,
+          "modeledProductionCostPerUnit": 31.786743075133828,
+          "modeledStoreWages": 265.65,
+          "modeledUnitsSoldAnHour": 18,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 112.94138371876038,
+          "saturation": 0.4318983952760443,
+          "salesWages": 241.49999999999997
+        }
+      ]
+    },
+    {
+      "i": 123,
+      "n": "Apple pie",
+      "ph": 5.979001062993257,
+      "w": 448.5,
+      "tr": 2,
+      "in": {
+        "3": 2,
+        "135": 2,
+        "137": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.48007095614232465,
+          "modeledProductionCostPerUnit": 171.9774151587316,
+          "modeledStoreWages": 151.8,
+          "modeledUnitsSoldAnHour": 10,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 354.1529804272298,
+          "saturation": 1.1952431536615473,
+          "salesWages": 138
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "n": "Apples",
+      "ph": 202.18844174373334,
+      "w": 103.5,
+      "tr": 1,
+      "in": {
+        "2": 3,
+        "66": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.008217493995122272,
+          "modeledProductionCostPerUnit": 1.3858094303634345,
+          "modeledStoreWages": 151.8,
+          "modeledUnitsSoldAnHour": 110,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 5.431904290596629,
+          "saturation": 1.4631172093318823,
+          "salesWages": 138
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "n": "Attitude control",
+      "ph": 2.715785477787575,
+      "w": 724.5,
+      "tr": 1,
+      "in": {
+        "22": 5,
+        "43": 3,
+        "48": 3
+      },
+      "ir": false
+    },
+    {
+      "i": 58,
+      "n": "Automotive research",
+      "ph": 4.19080101478387,
+      "w": 552,
+      "tr": 0,
+      "in": {},
+      "ir": false
+    },
+    {
+      "i": 94,
+      "n": "BFR",
+      "ph": 0.21085617360191167,
+      "w": 759.0000000000001,
+      "tr": 2000,
+      "in": {
+        "92": 1,
+        "93": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 1043.3463637988102,
+          "modeledProductionCostPerUnit": 468066.8359275615,
+          "modeledStoreWages": 645.15,
+          "modeledUnitsSoldAnHour": 1,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "saturation": 1.2691823520073682,
+          "salesWages": 586.5
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "n": "Basic interior",
+      "ph": 31.88800566929737,
+      "w": 448.5,
+      "tr": 2,
+      "in": {
+        "19": 2,
+        "23": 2,
+        "41": 5
+      },
+      "ir": false
+    },
+    {
+      "i": 22,
+      "n": "Batteries",
+      "ph": 25.255492969763683,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "17": 4
+      },
+      "ir": false
+    },
+    {
+      "i": 15,
+      "n": "Bauxite",
+      "ph": 96.5218784793032,
+      "w": 276,
+      "tr": 1,
+      "in": {
+        "1": 14,
+        "2": 0.5
+      },
+      "ir": false
+    },
+    {
+      "i": 107,
+      "n": "Beams",
+      "ph": 129.98029593885207,
+      "w": 482.99999999999994,
+      "tr": 5,
+      "in": {
+        "1": 4,
+        "43": 1
+      },
+      "ir": false
+    },
+    {
+      "i": 121,
+      "n": "Bread",
+      "ph": 15.306242721262738,
+      "w": 448.5,
+      "tr": 1,
+      "in": {
+        "137": 1
+      },
+      "ir": false,
+      "sm": 28,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.3215916763639164,
+          "modeledProductionCostPerUnit": 111.10484999328038,
+          "modeledStoreWages": 645.15,
+          "modeledUnitsSoldAnHour": 0,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "saturation": 0.1
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "n": "Breeding research",
+      "ph": 3.8504170831653437,
+      "w": 414,
+      "tr": 0,
+      "in": {},
+      "ir": false
+    },
+    {
+      "i": 102,
+      "n": "Bricks",
+      "ph": 367.3526250147445,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "104": 0.5
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.003415339593778958,
+          "modeledProductionCostPerUnit": 1.2512595715460795,
+          "modeledStoreWages": 189.75,
+          "modeledUnitsSoldAnHour": 80,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 7.722087921339926,
+          "saturation": 1.0284005240946599,
+          "salesWages": 172.5
+        }
+      ]
+    },
+    {
+      "i": 112,
+      "n": "Bulldozer",
+      "ph": 5.58040099212704,
+      "w": 448.5,
+      "tr": 5,
+      "in": {
+        "43": 4,
+        "51": 1,
+        "52": 2
+      },
+      "ir": false
+    },
+    {
+      "i": 134,
+      "n": "Butter",
+      "ph": 13.775723438052918,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "117": 0.5
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.08661070778474494,
+          "modeledProductionCostPerUnit": 29.87055025723062,
+          "modeledStoreWages": 645.15,
+          "modeledUnitsSoldAnHour": 0,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "saturation": 0.1
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "n": "Car body",
+      "ph": 23.91600425197303,
+      "w": 448.5,
+      "tr": 2,
+      "in": {
+        "18": 30,
+        "43": 5,
+        "45": 5
+      },
+      "ir": false
+    },
+    {
+      "i": 76,
+      "n": "Carbon composite",
+      "ph": 68.45185925627278,
+      "w": 414,
+      "tr": 1,
+      "in": {
+        "75": 8
+      },
+      "ir": false
+    },
+    {
+      "i": 75,
+      "n": "Carbon fibers",
+      "ph": 245.10570091326392,
+      "w": 482.99999999999994,
+      "tr": 0.1,
+      "in": {
+        "1": 0.5,
+        "10": 0.1
+      },
+      "ir": false
+    },
+    {
+      "i": 103,
+      "n": "Cement",
+      "ph": 298.4740078244799,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "105": 3
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.009745984419983037,
+          "modeledProductionCostPerUnit": 3.3592180214001557,
+          "modeledStoreWages": 189.75,
+          "modeledUnitsSoldAnHour": 60,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 14.107485876172127,
+          "saturation": 0.9337925551928499,
+          "salesWages": 172.5
+        }
+      ]
+    },
+    {
+      "i": 122,
+      "n": "Cheese",
+      "ph": 5.510289375221167,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "117": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.20951715003660626,
+          "modeledProductionCostPerUnit": 73.5153317447319,
+          "modeledStoreWages": 151.8,
+          "modeledUnitsSoldAnHour": 30,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 151.8553710935336,
+          "saturation": 1.1256950942453872,
+          "salesWages": 138
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "n": "Chemicals",
+      "ph": 213.91206017585242,
+      "w": 414,
+      "tr": 1,
+      "in": {
+        "1": 0.2,
+        "14": 1
+      },
+      "ir": false
+    },
+    {
+      "i": 34,
+      "n": "Chemistry research",
+      "ph": 4.706065323868754,
+      "w": 414,
+      "tr": 0,
+      "in": {},
+      "ir": false
+    },
+    {
+      "i": 140,
+      "n": "Chocolate",
+      "ph": 3.214335468879014,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "117": 0.5,
+        "135": 1,
+        "136": 10
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.4320751867188788,
+          "modeledProductionCostPerUnit": 140.6298577066403,
+          "modeledStoreWages": 151.8,
+          "modeledUnitsSoldAnHour": 15,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 304.4203632991711,
+          "saturation": 1.071741695777847,
+          "salesWages": 138
+        }
+      ]
+    },
+    {
+      "i": 153,
+      "n": "Chocolate icecream",
+      "ph": 32.14335468879014,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "117": 2,
+        "135": 0.5,
+        "140": 0.0625
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.1287968546744835,
+          "modeledProductionCostPerUnit": 35.03287146034512,
+          "modeledStoreWages": 265.65,
+          "modeledUnitsSoldAnHour": 22,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 111.25747470248331,
+          "saturation": 0.2433391695117369,
+          "salesWages": 241.49999999999997
+        }
+      ]
+    },
+    {
+      "i": 104,
+      "n": "Clay",
+      "ph": 1078.7739359451534,
+      "w": 276,
+      "tr": 1,
+      "in": {
+        "1": 1
+      },
+      "ir": false
+    },
+    {
+      "i": 81,
+      "n": "Cockpit",
+      "ph": 2.2631545648229796,
+      "w": 724.5,
+      "tr": 1,
+      "in": {
+        "23": 8,
+        "50": 1,
+        "79": 4
+      },
+      "ir": false
+    },
+    {
+      "i": 132,
+      "n": "Cocktails",
+      "ph": 0.5214347857459736,
+      "w": 655.5,
+      "tr": 2,
+      "in": {
+        "119": 8,
+        "124": 1,
+        "125": 1,
+        "126": 2
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 2.9707149489812257,
+          "modeledProductionCostPerUnit": 1525.8676015591511,
+          "modeledStoreWages": 645.15,
+          "modeledUnitsSoldAnHour": 0,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "saturation": 0.1
+        }
+      ]
+    },
+    {
+      "i": 136,
+      "n": "Cocoa",
+      "ph": 169.83829106473598,
+      "w": 103.5,
+      "tr": 0.1,
+      "in": {
+        "2": 1,
+        "66": 1
+      },
+      "ir": false
+    },
+    {
+      "i": 118,
+      "n": "Coffee beans",
+      "ph": 499.0819496002313,
+      "w": 103.5,
+      "tr": 0.1,
+      "in": {
+        "2": 0.5,
+        "66": 1
+      },
+      "ir": false,
+      "sm": 21
+    },
+    {
+      "i": 119,
+      "n": "Coffee powder",
+      "ph": 22.95953906342153,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "118": 10
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.0831965820630771,
+          "modeledProductionCostPerUnit": 21.668055696201822,
+          "modeledStoreWages": 151.8,
+          "modeledUnitsSoldAnHour": 100,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 45.79036137943928,
+          "saturation": 1.318923921916037,
+          "salesWages": 138
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "n": "Combustion engine",
+      "ph": 5.596646735354555,
+      "w": 621,
+      "tr": 2,
+      "in": {
+        "17": 5,
+        "21": 5,
+        "43": 6
+      },
+      "ir": false
+    },
+    {
+      "i": 111,
+      "n": "Construction units",
+      "ph": 0.9857142857142858,
+      "w": 345,
+      "tr": 0,
+      "in": {
+        "12": 5,
+        "107": 8,
+        "109": 4,
+        "110": 4,
+        "112": 0.125
+      },
+      "ir": false
+    },
+    {
+      "i": 40,
+      "n": "Cotton",
+      "ph": 258.80120543197864,
+      "w": 103.5,
+      "tr": 0.5,
+      "in": {
+        "2": 1,
+        "66": 1
+      },
+      "ir": false
+    },
+    {
+      "i": 115,
+      "n": "Cows",
+      "ph": 37.67544809821799,
+      "w": 138,
+      "tr": 1,
+      "in": {
+        "2": 16,
+        "139": 12
+      },
+      "ir": false
+    },
+    {
+      "i": 155,
+      "n": "Cream egg",
+      "ph": 11.479769531710765,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "134": 0.5,
+        "135": 0.75,
+        "140": 0.1
+      },
+      "ir": false
+    },
+    {
+      "i": 10,
+      "n": "Crude oil",
+      "ph": 41.52052427246143,
+      "w": 517.5,
+      "tr": 1,
+      "in": {
+        "1": 25
+      },
+      "ir": false
+    },
+    {
+      "i": 12,
+      "n": "Diesel",
+      "ph": 115.12540497441184,
+      "w": 482.99999999999994,
+      "tr": 1,
+      "in": {
+        "1": 15,
+        "10": 0.75,
+        "73": 0.25
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.05894138193606232,
+          "modeledProductionCostPerUnit": 23.86026902336927,
+          "modeledStoreWages": 379.5,
+          "modeledUnitsSoldAnHour": 105,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 50.88650223374748,
+          "saturation": 0.8440021123818532,
+          "salesWages": 345
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "n": "Displays",
+      "ph": 32.14335468879014,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "16": 5,
+        "17": 4
+      },
+      "ir": false
+    },
+    {
+      "i": 137,
+      "n": "Dough",
+      "ph": 11.958002125986514,
+      "w": 448.5,
+      "tr": 1,
+      "in": {
+        "9": 1,
+        "133": 2,
+        "134": 0.5
+      },
+      "ir": false
+    },
+    {
+      "i": 62,
+      "n": "Dress",
+      "ph": 150.70179239287197,
+      "w": 138,
+      "tr": 1,
+      "in": {
+        "19": 0.5,
+        "41": 3
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.0616774897944069,
+          "modeledProductionCostPerUnit": 11.127709656118052,
+          "modeledStoreWages": 341.55,
+          "modeledUnitsSoldAnHour": 45,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 39.6410734946535,
+          "saturation": 1.2456439201635365,
+          "salesWages": 310.5
+        }
+      ]
+    },
+    {
+      "i": 151,
+      "n": "Easter Bunny",
+      "ph": 3.673526250147445,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "18": 0.0625,
+        "117": 0.25,
+        "135": 0.25,
+        "136": 8
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.3506680661576384,
+          "modeledProductionCostPerUnit": 115.70671384590469,
+          "modeledStoreWages": 151.8,
+          "modeledUnitsSoldAnHour": 30,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 270.4495372018512,
+          "saturation": 0.6740031518286747,
+          "salesWages": 241.49999999999997
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "n": "Economy car",
+      "ph": 13.9510024803176,
+      "w": 448.5,
+      "tr": 5,
+      "in": {
+        "47": 1,
+        "50": 1,
+        "51": 1,
+        "52": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 3.172768281418329,
+          "modeledProductionCostPerUnit": 1219.8990021740833,
+          "modeledStoreWages": 417.45000000000005,
+          "modeledUnitsSoldAnHour": 2,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 2833.8232884587746,
+          "saturation": 0.5934447244230451,
+          "salesWages": 379.50000000000006
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "n": "Economy e-car",
+      "ph": 19.930003543310857,
+      "w": 448.5,
+      "tr": 5,
+      "in": {
+        "22": 15,
+        "47": 1,
+        "48": 2,
+        "50": 1,
+        "51": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 4.897457779940566,
+          "modeledProductionCostPerUnit": 1817.5537839187427,
+          "modeledStoreWages": 417.45000000000005,
+          "modeledUnitsSoldAnHour": 2,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 4044.0282321899736,
+          "saturation": 0.7326119547677934,
+          "salesWages": 379.50000000000006
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "n": "Eggs",
+      "ph": 389.2627297507883,
+      "w": 138,
+      "tr": 0.1,
+      "in": {
+        "2": 0.4,
+        "6": 0.5
+      },
+      "ir": false,
+      "sm": 23,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.004825017092868805,
+          "modeledProductionCostPerUnit": 0.7292769680471267,
+          "modeledStoreWages": 151.8,
+          "modeledUnitsSoldAnHour": 340,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 2.1397327165026705,
+          "saturation": 1.5778042986082057,
+          "salesWages": 138
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "n": "Electric motor",
+      "ph": 30.78155704445005,
+      "w": 621,
+      "tr": 2,
+      "in": {
+        "21": 3,
+        "43": 2
+      },
+      "ir": false
+    },
+    {
+      "i": 21,
+      "n": "Electronic components",
+      "ph": 41.32717031415876,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "16": 3,
+        "17": 1
+      },
+      "ir": false
+    },
+    {
+      "i": 32,
+      "n": "Electronics research",
+      "ph": 2.4027898050985885,
+      "w": 586.5,
+      "tr": 0,
+      "in": {},
+      "ir": false
+    },
+    {
+      "i": 30,
+      "n": "Energy research",
+      "ph": 3.3038359820105594,
+      "w": 586.5,
+      "tr": 0,
+      "in": {},
+      "ir": false
+    },
+    {
+      "i": 73,
+      "n": "Ethanol",
+      "ph": 60.94032114380477,
+      "w": 241.49999999999997,
+      "tr": 1,
+      "in": {
+        "1": 20,
+        "72": 10
+      },
+      "ir": false
+    },
+    {
+      "i": 41,
+      "n": "Fabric",
+      "ph": 241.12286782859513,
+      "w": 138,
+      "tr": 0.5,
+      "in": {
+        "1": 1,
+        "40": 2
+      },
+      "ir": false
+    },
+    {
+      "i": 59,
+      "n": "Fashion research",
+      "ph": 6.776201204725691,
+      "w": 448.5,
+      "tr": 0,
+      "in": {},
+      "ir": false
+    },
+    {
+      "i": 80,
+      "n": "Flight computer",
+      "ph": 2.2631545648229796,
+      "w": 724.5,
+      "tr": 1,
+      "in": {
+        "47": 2,
+        "79": 4
+      },
+      "ir": false
+    },
+    {
+      "i": 133,
+      "n": "Flour",
+      "ph": 87.24624844100181,
+      "w": 379.50000000000006,
+      "tr": 0.1,
+      "in": {
+        "6": 15
+      },
+      "ir": false
+    },
+    {
+      "i": 139,
+      "n": "Fodder",
+      "ph": 284.69828438642696,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "6": 10,
+        "120": 0.5
+      },
+      "ir": false
+    },
+    {
+      "i": 127,
+      "n": "Frozen pizza",
+      "ph": 9.183815625368613,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "8": 1,
+        "120": 2,
+        "122": 1,
+        "137": 2
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.8391977205507947,
+          "modeledProductionCostPerUnit": 272.1983540854805,
+          "modeledStoreWages": 151.8,
+          "modeledUnitsSoldAnHour": 10,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 532.6007178879596,
+          "saturation": 1.2852770210668827,
+          "salesWages": 138
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "n": "Fuselage",
+      "ph": 3.3038359820105594,
+      "w": 586.5,
+      "tr": 2,
+      "in": {
+        "76": 40
+      },
+      "ir": false
+    },
+    {
+      "i": 126,
+      "n": "Ginger beer",
+      "ph": 73.12838537256573,
+      "w": 241.49999999999997,
+      "tr": 1,
+      "in": {
+        "2": 1,
+        "120": 3,
+        "135": 2
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.10544057868625505,
+          "modeledProductionCostPerUnit": 28.81633560579997,
+          "modeledStoreWages": 151.8,
+          "modeledUnitsSoldAnHour": 10,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 92.15476590748749,
+          "saturation": 1.2756078357299245,
+          "salesWages": 138
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "n": "Glass",
+      "ph": 128.34723610551146,
+      "w": 414,
+      "tr": 1,
+      "in": {
+        "1": 2,
+        "16": 1
+      },
+      "ir": false
+    },
+    {
+      "i": 61,
+      "n": "Gloves",
+      "ph": 143.16670277322837,
+      "w": 138,
+      "tr": 1,
+      "in": {
+        "41": 0.5,
+        "46": 0.5
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.06148171668974752,
+          "modeledProductionCostPerUnit": 9.394549459952708,
+          "modeledStoreWages": 341.55,
+          "modeledUnitsSoldAnHour": 20,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 53.54622660005607,
+          "saturation": 1.2149093707913907,
+          "salesWages": 310.5
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "n": "Gold ore",
+      "ph": 56.7775755760607,
+      "w": 276,
+      "tr": 10,
+      "in": {
+        "1": 80,
+        "2": 2
+      },
+      "ir": false
+    },
+    {
+      "i": 69,
+      "n": "Golden bars",
+      "ph": 29.94768842461934,
+      "w": 414,
+      "tr": 1000,
+      "in": {
+        "1": 40,
+        "68": 200
+      },
+      "ir": false
+    },
+    {
+      "i": 6,
+      "n": "Grain",
+      "ph": 808.7537669749333,
+      "w": 103.5,
+      "tr": 0.1,
+      "in": {
+        "2": 0.5,
+        "66": 1
+      },
+      "ir": false
+    },
+    {
+      "i": 5,
+      "n": "Grapes",
+      "ph": 210.27597941348264,
+      "w": 103.5,
+      "tr": 1,
+      "in": {
+        "2": 4,
+        "66": 1
+      },
+      "ir": false,
+      "sm": 30,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.010146722009585872,
+          "modeledProductionCostPerUnit": 1.7581615627211524,
+          "modeledStoreWages": 151.8,
+          "modeledUnitsSoldAnHour": 80,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 6.980870966002988,
+          "saturation": 1.541119688546577,
+          "salesWages": 138
+        }
+      ]
+    },
+    {
+      "i": 129,
+      "n": "Hamburger",
+      "ph": 0.5214347857459736,
+      "w": 655.5,
+      "tr": 2,
+      "in": {
+        "7": 4,
+        "120": 3,
+        "121": 0.5,
+        "134": 1,
+        "141": 0.5
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 2.661019290483073,
+          "modeledProductionCostPerUnit": 1464.6718224271067,
+          "modeledStoreWages": 645.15,
+          "modeledUnitsSoldAnHour": 0,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "saturation": 0.1
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "n": "Handbags",
+      "ph": 67.81580657679238,
+      "w": 138,
+      "tr": 1,
+      "in": {
+        "46": 1.5
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.15418093353842224,
+          "modeledProductionCostPerUnit": 23.87120299919537,
+          "modeledStoreWages": 341.55,
+          "modeledUnitsSoldAnHour": 20,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 83.37064597096484,
+          "saturation": 1.3828615580118613,
+          "salesWages": 310.5
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "n": "Heat shield",
+      "ph": 12.013949025492943,
+      "w": 586.5,
+      "tr": 1,
+      "in": {
+        "16": 30,
+        "43": 20
+      },
+      "ir": false
+    },
+    {
+      "i": 79,
+      "n": "High grade e-comps",
+      "ph": 1.8367631250737224,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "16": 4,
+        "17": 3,
+        "69": 0.0625
+      },
+      "ir": false
+    },
+    {
+      "i": 88,
+      "n": "Ion drive",
+      "ph": 0.5596646735354555,
+      "w": 621,
+      "tr": 1,
+      "in": {
+        "17": 15,
+        "22": 30,
+        "79": 8
+      },
+      "ir": false
+    },
+    {
+      "i": 42,
+      "n": "Iron ore",
+      "ph": 181.68824184339425,
+      "w": 276,
+      "tr": 1,
+      "in": {
+        "1": 7,
+        "2": 0.5
+      },
+      "ir": false
+    },
+    {
+      "i": 147,
+      "n": "Jack o'lantern",
+      "ph": 284.69828438642696,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "21": 0.5,
+        "146": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.05804296445981941,
+          "modeledProductionCostPerUnit": 19.229819239298102,
+          "modeledStoreWages": 227.7,
+          "modeledUnitsSoldAnHour": 40,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 59.34424451565196,
+          "saturation": 0.12876585206259855,
+          "salesWages": 207
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "n": "Jet engine",
+      "ph": 0.8394970103031831,
+      "w": 621,
+      "tr": 1,
+      "in": {
+        "18": 5,
+        "79": 4
+      },
+      "ir": false
+    },
+    {
+      "i": 95,
+      "n": "Jumbo jet",
+      "ph": 0.0632568520805735,
+      "w": 759.0000000000001,
+      "tr": 2000,
+      "in": {
+        "50": 140,
+        "77": 40,
+        "78": 10,
+        "81": 2,
+        "89": 4
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 286.1840844922776,
+          "modeledProductionCostPerUnit": 129421.73354727181,
+          "modeledStoreWages": 645.15,
+          "modeledUnitsSoldAnHour": 1,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "saturation": 1.2765228746743391,
+          "salesWages": 586.5
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "n": "Laptops",
+      "ph": 9.183815625368613,
+      "w": 379.50000000000006,
+      "tr": 2,
+      "in": {
+        "19": 3,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 1.6876114585927768,
+          "modeledProductionCostPerUnit": 638.1754481232036,
+          "modeledStoreWages": 189.75,
+          "modeledUnitsSoldAnHour": 1.2,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 1661.5191280457614,
+          "saturation": 0.7109336885452002,
+          "salesWages": 172.5
+        }
+      ]
+    },
+    {
+      "i": 130,
+      "n": "Lasagna",
+      "ph": 1.5643043572379207,
+      "w": 655.5,
+      "tr": 2,
+      "in": {
+        "7": 1,
+        "122": 0.5,
+        "128": 1,
+        "138": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 2.3570040173857527,
+          "modeledProductionCostPerUnit": 1380.694744516906,
+          "modeledStoreWages": 645.15,
+          "modeledUnitsSoldAnHour": 0,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "saturation": 0.1
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "n": "Leather",
+      "ph": 30.14035847857439,
+      "w": 138,
+      "tr": 1,
+      "in": {
+        "115": 0.125
+      },
+      "ir": false
+    },
+    {
+      "i": 105,
+      "n": "Limestone",
+      "ph": 794.8860580648499,
+      "w": 276,
+      "tr": 1,
+      "in": {
+        "1": 2
+      },
+      "ir": false
+    },
+    {
+      "i": 56,
+      "n": "Luxury car",
+      "ph": 1.9930003543310857,
+      "w": 448.5,
+      "tr": 5,
+      "in": {
+        "47": 2,
+        "49": 1,
+        "51": 1,
+        "52": 2
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 6.186137630842201,
+          "modeledProductionCostPerUnit": 2339.553506039372,
+          "modeledStoreWages": 417.45000000000005,
+          "modeledUnitsSoldAnHour": 0.5,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 6043.59466083614,
+          "saturation": 0.6769231318748653,
+          "salesWages": 379.50000000000006
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "n": "Luxury car interior",
+      "ph": 19.930003543310857,
+      "w": 448.5,
+      "tr": 2,
+      "in": {
+        "18": 2,
+        "23": 6,
+        "46": 5
+      },
+      "ir": false
+    },
+    {
+      "i": 54,
+      "n": "Luxury e-car",
+      "ph": 3.9860007086621714,
+      "w": 448.5,
+      "tr": 5,
+      "in": {
+        "22": 30,
+        "47": 2,
+        "48": 4,
+        "49": 1,
+        "51": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 9.427646261288189,
+          "modeledProductionCostPerUnit": 3441.633210109271,
+          "modeledStoreWages": 417.45000000000005,
+          "modeledUnitsSoldAnHour": 0.5,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 8402.19794878383,
+          "saturation": 0.7196221191644713,
+          "salesWages": 379.50000000000006
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "n": "Luxury jet",
+      "ph": 0.16868493888152936,
+      "w": 759.0000000000001,
+      "tr": 1000,
+      "in": {
+        "69": 2,
+        "77": 14,
+        "78": 2,
+        "81": 1,
+        "89": 2
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 99.70501453558225,
+          "modeledProductionCostPerUnit": 45536.191330114205,
+          "modeledStoreWages": 645.15,
+          "modeledUnitsSoldAnHour": 1,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "saturation": 1.2482901283565608,
+          "salesWages": 586.5
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "n": "Luxury watch",
+      "ph": 18.837724049108996,
+      "w": 138,
+      "tr": 1,
+      "in": {
+        "21": 2,
+        "45": 0.5,
+        "69": 0.1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 1.254733304893077,
+          "modeledProductionCostPerUnit": 445.2390620197452,
+          "modeledStoreWages": 341.55,
+          "modeledUnitsSoldAnHour": 3,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 1089.8711719576384,
+          "saturation": 0.780374358302664,
+          "salesWages": 310.5
+        }
+      ]
+    },
+    {
+      "i": 113,
+      "n": "Materials research",
+      "ph": 3.422592962813639,
+      "w": 414,
+      "tr": 0,
+      "in": {},
+      "ir": false
+    },
+    {
+      "i": 131,
+      "n": "Meat balls",
+      "ph": 1.2931582686500145,
+      "w": 655.5,
+      "tr": 2,
+      "in": {
+        "8": 2,
+        "121": 1,
+        "138": 1,
+        "141": 0.5
+      },
+      "ir": false,
+      "sm": 24,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 2.7388443758727177,
+          "modeledProductionCostPerUnit": 1623.0358321055742,
+          "modeledStoreWages": 645.15,
+          "modeledUnitsSoldAnHour": 0,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "saturation": 0.1
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "n": "Methane",
+      "ph": 55.36069902994857,
+      "w": 517.5,
+      "tr": 1,
+      "in": {
+        "1": 20
+      },
+      "ir": false
+    },
+    {
+      "i": 117,
+      "n": "Milk",
+      "ph": 120.56143391429757,
+      "w": 138,
+      "tr": 1,
+      "in": {
+        "2": 2,
+        "139": 0.5
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.028038477701024404,
+          "modeledProductionCostPerUnit": 4.644175593378594,
+          "modeledStoreWages": 645.15,
+          "modeledUnitsSoldAnHour": 0,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "saturation": 0.1
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "n": "Minerals",
+      "ph": 119.23290870972747,
+      "w": 276,
+      "tr": 1,
+      "in": {
+        "1": 20,
+        "2": 1
+      },
+      "ir": false
+    },
+    {
+      "i": 31,
+      "n": "Mining research",
+      "ph": 3.0034872563732358,
+      "w": 586.5,
+      "tr": 0,
+      "in": {},
+      "ir": false
+    },
+    {
+      "i": 27,
+      "n": "Monitors",
+      "ph": 12.857341875516056,
+      "w": 379.50000000000006,
+      "tr": 2,
+      "in": {
+        "19": 3,
+        "21": 2,
+        "23": 3
+      },
+      "ir": false,
+      "sm": -30,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.774758363447735,
+          "modeledProductionCostPerUnit": 294.1621171806931,
+          "modeledStoreWages": 189.75,
+          "modeledUnitsSoldAnHour": 2,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 841.5311385971462,
+          "saturation": 0.5968245031379401,
+          "salesWages": 172.5
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "n": "Necklace",
+      "ph": 41.44299290803979,
+      "w": 138,
+      "tr": 1,
+      "in": {
+        "69": 0.25
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 2.6108349112010596,
+          "modeledProductionCostPerUnit": 939.3094443646374,
+          "modeledStoreWages": 341.55,
+          "modeledUnitsSoldAnHour": 2,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 2093.143632207157,
+          "saturation": 1.0412483667679664,
+          "salesWages": 310.5
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "n": "On-board computer",
+      "ph": 13.775723438052918,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "20": 2,
+        "21": 3
+      },
+      "ir": false
+    },
+    {
+      "i": 124,
+      "n": "Orange juice",
+      "ph": 91.41048171570716,
+      "w": 241.49999999999997,
+      "tr": 1,
+      "in": {
+        "4": 5,
+        "135": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.08338665867769919,
+          "modeledProductionCostPerUnit": 20.09088128559387,
+          "modeledStoreWages": 151.8,
+          "modeledUnitsSoldAnHour": 15,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 63.66339289866574,
+          "saturation": 1.297670219378222,
+          "salesWages": 138
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "n": "Oranges",
+      "ph": 186.01336640423466,
+      "w": 103.5,
+      "tr": 1,
+      "in": {
+        "2": 3,
+        "66": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.008647570615670862,
+          "modeledProductionCostPerUnit": 1.4303223605902136,
+          "modeledStoreWages": 151.8,
+          "modeledUnitsSoldAnHour": 90,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 6.202309327113687,
+          "saturation": 1.4429042363094977,
+          "salesWages": 138
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "n": "Orbital booster",
+      "ph": 1.5017436281866179,
+      "w": 586.5,
+      "tr": 100,
+      "in": {
+        "77": 40,
+        "84": 16,
+        "86": 34
+      },
+      "ir": false
+    },
+    {
+      "i": 128,
+      "n": "Pasta",
+      "ph": 18.367631250737226,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "9": 2,
+        "133": 2
+      },
+      "ir": false
+    },
+    {
+      "i": 11,
+      "n": "Petrol",
+      "ph": 111.41168223330178,
+      "w": 482.99999999999994,
+      "tr": 1,
+      "in": {
+        "1": 15,
+        "10": 0.75,
+        "73": 0.25
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.05923092127223874,
+          "modeledProductionCostPerUnit": 24.00011652274248,
+          "modeledStoreWages": 379.5,
+          "modeledUnitsSoldAnHour": 103,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 50.843770271606644,
+          "saturation": 0.8556045884534612,
+          "salesWages": 345
+        }
+      ]
+    },
+    {
+      "i": 116,
+      "n": "Pigs",
+      "ph": 82.88598581607958,
+      "w": 138,
+      "tr": 1,
+      "in": {
+        "2": 4,
+        "139": 4
+      },
+      "ir": false
+    },
+    {
+      "i": 108,
+      "n": "Planks",
+      "ph": 85.19279968106476,
+      "w": 482.99999999999994,
+      "tr": 1,
+      "in": {
+        "106": 0.5
+      },
+      "ir": false,
+      "sm": -26,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.017176103717141112,
+          "modeledProductionCostPerUnit": 5.428119994457215,
+          "modeledStoreWages": 189.75,
+          "modeledUnitsSoldAnHour": 120,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 14.210487169799178,
+          "saturation": 0.9771415535688847,
+          "salesWages": 172.5
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "n": "Plant research",
+      "ph": 4.783200850394605,
+      "w": 448.5,
+      "tr": 0,
+      "in": {},
+      "ir": false
+    },
+    {
+      "i": 19,
+      "n": "Plastic",
+      "ph": 204.25475076105326,
+      "w": 482.99999999999994,
+      "tr": 1,
+      "in": {
+        "1": 5,
+        "10": 0.2
+      },
+      "ir": false
+    },
+    {
+      "i": 1,
+      "n": "Power",
+      "ph": 2566.944722110229,
+      "w": 414,
+      "tr": 0,
+      "in": {},
+      "ir": false
+    },
+    {
+      "i": 20,
+      "n": "Processors",
+      "ph": 9.183815625368613,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "16": 4,
+        "17": 1
+      },
+      "ir": false
+    },
+    {
+      "i": 84,
+      "n": "Propellant tank",
+      "ph": 4.505230884559854,
+      "w": 586.5,
+      "tr": 1,
+      "in": {
+        "18": 50,
+        "83": 250
+      },
+      "ir": false
+    },
+    {
+      "i": 146,
+      "n": "Pumpkin",
+      "ph": 137.48814038573866,
+      "w": 103.5,
+      "tr": 1,
+      "in": {
+        "2": 8,
+        "66": 2
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.015202095790618575,
+          "modeledProductionCostPerUnit": 2.989368583787052,
+          "modeledStoreWages": 227.7,
+          "modeledUnitsSoldAnHour": 50,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 19.83366212710388,
+          "saturation": 0.1693181807720016,
+          "salesWages": 207
+        }
+      ]
+    },
+    {
+      "i": 149,
+      "n": "Pumpkin soup",
+      "ph": 2.502886971580673,
+      "w": 655.5,
+      "tr": 2,
+      "in": {
+        "121": 0.5,
+        "134": 2,
+        "146": 10
+      },
+      "ir": false,
+      "sm": 20,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.9654845524734763,
+          "modeledProductionCostPerUnit": 459.46428775375654,
+          "modeledStoreWages": 645.15,
+          "modeledUnitsSoldAnHour": 0,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 900,
+          "saturation": 0.1
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "n": "Quadcopter",
+      "ph": 12.447350106526388,
+      "w": 724.5,
+      "tr": 2,
+      "in": {
+        "19": 2,
+        "21": 3,
+        "22": 1,
+        "47": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 1.1293732190169494,
+          "modeledProductionCostPerUnit": 456.9590044458487,
+          "modeledStoreWages": 189.75,
+          "modeledUnitsSoldAnHour": 1,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 1337.0554566121793,
+          "saturation": 0.7468384023978181,
+          "salesWages": 172.5
+        }
+      ]
+    },
+    {
+      "i": 152,
+      "n": "Ramadan sweets",
+      "ph": 5.051098593952736,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "117": 0.5,
+        "133": 2,
+        "134": 1,
+        "135": 0.25
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.41211825164833177,
+          "modeledProductionCostPerUnit": 130.32691085774997,
+          "modeledStoreWages": 151.8,
+          "modeledUnitsSoldAnHour": 40,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 259.33351864720873,
+          "saturation": 1.0457702380265284,
+          "salesWages": 138
+        }
+      ]
+    },
+    {
+      "i": 145,
+      "n": "Recipes",
+      "ph": 3.8060480583089644,
+      "w": 517.5,
+      "tr": 0,
+      "in": {},
+      "ir": false
+    },
+    {
+      "i": 101,
+      "n": "Reinforced concrete",
+      "ph": 188.26822032005654,
+      "w": 379.50000000000006,
+      "tr": 10,
+      "in": {
+        "2": 20,
+        "43": 5,
+        "44": 20,
+        "103": 15
+      },
+      "ir": false
+    },
+    {
+      "i": 114,
+      "n": "Robots",
+      "ph": 2.2959539063421532,
+      "w": 379.50000000000006,
+      "tr": 2,
+      "in": {
+        "19": 10,
+        "20": 2,
+        "48": 1
+      },
+      "ir": false
+    },
+    {
+      "i": 86,
+      "n": "Rocket engine",
+      "ph": 0.27983233676772773,
+      "w": 621,
+      "tr": 1,
+      "in": {
+        "18": 10,
+        "43": 20,
+        "79": 8
+      },
+      "ir": false
+    },
+    {
+      "i": 83,
+      "n": "Rocket fuel",
+      "ph": 77.98817756331124,
+      "w": 482.99999999999994,
+      "tr": 1,
+      "in": {
+        "1": 5,
+        "74": 1
+      },
+      "ir": false
+    },
+    {
+      "i": 142,
+      "n": "Salad",
+      "ph": 1.5017321829484038,
+      "w": 655.5,
+      "tr": 2,
+      "in": {
+        "120": 5,
+        "122": 2,
+        "141": 0.5
+      },
+      "ir": false,
+      "sm": -28,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 1.0211361858000747,
+          "modeledProductionCostPerUnit": 482.13660359234376,
+          "modeledStoreWages": 645.15,
+          "modeledUnitsSoldAnHour": 0,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "saturation": 0.1
+        }
+      ]
+    },
+    {
+      "i": 143,
+      "n": "Samosa",
+      "ph": 1.8250217501109076,
+      "w": 655.5,
+      "tr": 2,
+      "in": {
+        "120": 5,
+        "133": 4,
+        "141": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.951243407396712,
+          "modeledProductionCostPerUnit": 433.89562047411584,
+          "modeledStoreWages": 645.15,
+          "modeledUnitsSoldAnHour": 0,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "saturation": 0.1
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "n": "Sand",
+      "ph": 1419.4393894015175,
+      "w": 276,
+      "tr": 1,
+      "in": {
+        "1": 2
+      },
+      "ir": false
+    },
+    {
+      "i": 99,
+      "n": "Satellite",
+      "ph": 0.11315772824114897,
+      "w": 724.5,
+      "tr": 10,
+      "in": {
+        "79": 8,
+        "80": 4,
+        "82": 2,
+        "88": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 67.4274892656665,
+          "modeledProductionCostPerUnit": 29489.08364542424,
+          "modeledStoreWages": 645.15,
+          "modeledUnitsSoldAnHour": 1,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "saturation": 1.195810262278509,
+          "salesWages": 586.5
+        }
+      ]
+    },
+    {
+      "i": 138,
+      "n": "Sauce",
+      "ph": 0.7821521786189604,
+      "w": 655.5,
+      "tr": 2,
+      "in": {
+        "2": 0.5,
+        "120": 2,
+        "134": 0.5
+      },
+      "ir": false
+    },
+    {
+      "i": 8,
+      "n": "Sausages",
+      "ph": 77.00834166330688,
+      "w": 414,
+      "tr": 0.1,
+      "in": {
+        "116": 0.0625
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.02309206140870684,
+          "modeledProductionCostPerUnit": 7.046581956294532,
+          "modeledStoreWages": 151.8,
+          "modeledUnitsSoldAnHour": 110,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 16.341760349068288,
+          "saturation": 1.2689227552426061,
+          "salesWages": 138
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "n": "Seeds",
+      "ph": 889.6291436724266,
+      "w": 103.5,
+      "tr": 0.1,
+      "in": {
+        "2": 0.1
+      },
+      "ir": false
+    },
+    {
+      "i": 16,
+      "n": "Silicon",
+      "ph": 154.01668332661376,
+      "w": 414,
+      "tr": 1,
+      "in": {
+        "1": 3,
+        "44": 2
+      },
+      "ir": false
+    },
+    {
+      "i": 97,
+      "n": "Single engine plane",
+      "ph": 1.4759932152133817,
+      "w": 759.0000000000001,
+      "tr": 100,
+      "in": {
+        "52": 1,
+        "77": 8,
+        "78": 2,
+        "81": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 41.186777401805664,
+          "modeledProductionCostPerUnit": 19211.02508482617,
+          "modeledStoreWages": 645.15,
+          "modeledUnitsSoldAnHour": 1,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "saturation": 1.3051234954462922,
+          "salesWages": 586.5
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "n": "Smart phones",
+      "ph": 11.479769531710765,
+      "w": 379.50000000000006,
+      "tr": 2,
+      "in": {
+        "18": 2,
+        "20": 2,
+        "21": 1,
+        "22": 1,
+        "23": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.8786144000373325,
+          "modeledProductionCostPerUnit": 329.33500966377494,
+          "modeledStoreWages": 189.75,
+          "modeledUnitsSoldAnHour": 2,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 874.667801587413,
+          "saturation": 0.7812735186617025,
+          "salesWages": 172.5
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "n": "Sneakers",
+      "ph": 173.30706125180276,
+      "w": 138,
+      "tr": 1,
+      "in": {
+        "19": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.019632049806918853,
+          "modeledProductionCostPerUnit": 7.3977210046962965,
+          "modeledStoreWages": 341.55,
+          "modeledUnitsSoldAnHour": 30,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 33.881998798205174,
+          "saturation": 0.8623714266047849,
+          "salesWages": 310.5
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "n": "Software",
+      "ph": 5.7066257871091475,
+      "w": 586.5,
+      "tr": 0,
+      "in": {},
+      "ir": false
+    },
+    {
+      "i": 85,
+      "n": "Solid fuel booster",
+      "ph": 0.27983233676772773,
+      "w": 621,
+      "tr": 1,
+      "in": {
+        "17": 50,
+        "18": 30,
+        "83": 100
+      },
+      "ir": false
+    },
+    {
+      "i": 93,
+      "n": "Starship",
+      "ph": 0.30034872563732357,
+      "w": 586.5,
+      "tr": 100,
+      "in": {
+        "81": 2,
+        "82": 4,
+        "84": 6,
+        "86": 7,
+        "87": 10
+      },
+      "ir": false
+    },
+    {
+      "i": 7,
+      "n": "Steak",
+      "ph": 25.669447221102292,
+      "w": 414,
+      "tr": 1,
+      "in": {
+        "115": 0.125
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.09873545210512771,
+          "modeledProductionCostPerUnit": 26.107063782608222,
+          "modeledStoreWages": 151.8,
+          "modeledUnitsSoldAnHour": 35,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 57.19186346372939,
+          "saturation": 1.38955755290984,
+          "salesWages": 138
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "n": "Steel",
+      "ph": 192.52085415826718,
+      "w": 414,
+      "tr": 1,
+      "in": {
+        "1": 5,
+        "17": 0.1,
+        "42": 1
+      },
+      "ir": false
+    },
+    {
+      "i": 63,
+      "n": "Stiletto Heel",
+      "ph": 97.95616505536677,
+      "w": 138,
+      "tr": 1,
+      "in": {
+        "19": 0.2,
+        "46": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.10593777598939177,
+          "modeledProductionCostPerUnit": 17.286602160066415,
+          "modeledStoreWages": 341.55,
+          "modeledUnitsSoldAnHour": 30,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 61.64809597201947,
+          "saturation": 1.3041189896623222,
+          "salesWages": 310.5
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "n": "Sub-orbital 2nd stage",
+      "ph": 3.0034872563732358,
+      "w": 586.5,
+      "tr": 20,
+      "in": {
+        "77": 8,
+        "80": 2,
+        "82": 2,
+        "84": 2,
+        "88": 4
+      },
+      "ir": false
+    },
+    {
+      "i": 91,
+      "n": "Sub-orbital rocket",
+      "ph": 0.632568520805735,
+      "w": 759.0000000000001,
+      "tr": 20,
+      "in": {
+        "85": 1,
+        "90": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 146.4827870434139,
+          "modeledProductionCostPerUnit": 63971.32521944506,
+          "modeledStoreWages": 645.15,
+          "modeledUnitsSoldAnHour": 1,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "saturation": 1.2730265329766544,
+          "salesWages": 586.5
+        }
+      ]
+    },
+    {
+      "i": 135,
+      "n": "Sugar",
+      "ph": 41.32717031415876,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "1": 0.5,
+        "72": 1
+      },
+      "ir": false
+    },
+    {
+      "i": 72,
+      "n": "Sugarcane",
+      "ph": 647.0030135799466,
+      "w": 103.5,
+      "tr": 0.1,
+      "in": {
+        "2": 3,
+        "66": 1
+      },
+      "ir": false
+    },
+    {
+      "i": 25,
+      "n": "Tablets",
+      "ph": 11.479769531710765,
+      "w": 379.50000000000006,
+      "tr": 2,
+      "in": {
+        "18": 3,
+        "20": 2,
+        "21": 1,
+        "22": 1,
+        "23": 2
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 1.0835514408330698,
+          "modeledProductionCostPerUnit": 405.3539264590962,
+          "modeledStoreWages": 189.75,
+          "modeledUnitsSoldAnHour": 0.8,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 1342.5283081757389,
+          "saturation": 0.8897973916447117,
+          "salesWages": 172.5
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "n": "Televisions",
+      "ph": 16.07167734439507,
+      "w": 379.50000000000006,
+      "tr": 2,
+      "in": {
+        "19": 5,
+        "20": 1,
+        "21": 4,
+        "23": 4
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 1.3154602064174634,
+          "modeledProductionCostPerUnit": 500.8252761109699,
+          "modeledStoreWages": 189.75,
+          "modeledUnitsSoldAnHour": 1.8,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 1253.7761491744632,
+          "saturation": 0.6836619883094484,
+          "salesWages": 172.5
+        }
+      ]
+    },
+    {
+      "i": 110,
+      "n": "Tools",
+      "ph": 25.996059187770413,
+      "w": 482.99999999999994,
+      "tr": 1,
+      "in": {
+        "21": 1,
+        "22": 1,
+        "43": 0.5,
+        "108": 0.5
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.26350740210429063,
+          "modeledProductionCostPerUnit": 101.15883912297762,
+          "modeledStoreWages": 189.75,
+          "modeledUnitsSoldAnHour": 40,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 213.6045163800085,
+          "saturation": 0.7379828583146477,
+          "salesWages": 172.5
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "n": "Transport",
+      "ph": 3173.9508697581,
+      "w": 310.5,
+      "tr": 0,
+      "in": {
+        "1": 0.01,
+        "12": 0.005
+      },
+      "ir": false
+    },
+    {
+      "i": 150,
+      "n": "Tree",
+      "ph": 9.999999998843611,
+      "w": 79.35000000000001,
+      "tr": 1,
+      "in": {
+        "2": 12
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 1.0100441229107604,
+          "modeledProductionCostPerUnit": 83.08402442211386,
+          "modeledStoreWages": 265.65,
+          "modeledUnitsSoldAnHour": 5,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 296.80141025641035,
+          "saturation": 1.226284367659593,
+          "salesWages": 241.49999999999997
+        },
+        {
+          "quality": 1,
+          "buildingLevelsNeededPerUnitPerHour": 2.999831045044959,
+          "modeledProductionCostPerUnit": 246.7595525336782,
+          "modeledStoreWages": 265.65,
+          "modeledUnitsSoldAnHour": 2.5,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 300,
+          "saturation": 1.6588250967534737,
+          "salesWages": 241.49999999999997
+        },
+        {
+          "quality": 2,
+          "buildingLevelsNeededPerUnitPerHour": 6.928902683167816,
+          "modeledProductionCostPerUnit": 569.956407535701,
+          "modeledStoreWages": 265.65,
+          "modeledUnitsSoldAnHour": 1.25,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 2272.91968503937,
+          "saturation": 1.4822664529661589,
+          "salesWages": 241.49999999999997
+        },
+        {
+          "quality": 3,
+          "buildingLevelsNeededPerUnitPerHour": 14.696141988351565,
+          "modeledProductionCostPerUnit": 1208.8725553417567,
+          "modeledStoreWages": 265.65,
+          "modeledUnitsSoldAnHour": 0.625,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 4436.277225774717,
+          "saturation": 2.230564738009648,
+          "salesWages": 241.49999999999997
+        },
+        {
+          "quality": 4,
+          "buildingLevelsNeededPerUnitPerHour": 30.058913097824234,
+          "modeledProductionCostPerUnit": 2472.5805668021085,
+          "modeledStoreWages": 265.65,
+          "modeledUnitsSoldAnHour": 0.3125,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 7553.947337624341,
+          "saturation": 2.3077108517144214,
+          "salesWages": 241.49999999999997
+        },
+        {
+          "quality": 5,
+          "buildingLevelsNeededPerUnitPerHour": 60.45114075620902,
+          "modeledProductionCostPerUnit": 4972.578861663514,
+          "modeledStoreWages": 265.65,
+          "modeledUnitsSoldAnHour": 0.15625,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 14261.21650879567,
+          "saturation": 2.523601267481082,
+          "salesWages": 241.49999999999997
+        },
+        {
+          "quality": 6,
+          "buildingLevelsNeededPerUnitPerHour": 120.5790673930866,
+          "modeledProductionCostPerUnit": 9918.570835511953,
+          "modeledStoreWages": 265.65,
+          "modeledUnitsSoldAnHour": 0.078125,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 25615.323863636364,
+          "saturation": 1.8655907355425236,
+          "salesWages": 241.49999999999997
+        },
+        {
+          "quality": 7,
+          "buildingLevelsNeededPerUnitPerHour": 239.53196374828687,
+          "modeledProductionCostPerUnit": 19703.376391704303,
+          "modeledStoreWages": 265.65,
+          "modeledUnitsSoldAnHour": 0.0390625,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 50830.67316017316,
+          "saturation": 3.9881454869275017,
+          "salesWages": 241.49999999999997
+        },
+        {
+          "quality": 8,
+          "buildingLevelsNeededPerUnitPerHour": 474.84194306280665,
+          "modeledProductionCostPerUnit": 39059.46156132416,
+          "modeledStoreWages": 265.65,
+          "modeledUnitsSoldAnHour": 0.01953125,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 50000,
+          "saturation": 1.777583968050947,
+          "salesWages": 241.49999999999997
+        },
+        {
+          "quality": 9,
+          "buildingLevelsNeededPerUnitPerHour": 940.2803753413142,
+          "modeledProductionCostPerUnit": 77345.41085527845,
+          "modeledStoreWages": 265.65,
+          "modeledUnitsSoldAnHour": 0.009765625,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 233525.13151364765,
+          "saturation": 3.6767010848970227,
+          "salesWages": 241.49999999999997
+        },
+        {
+          "quality": 10,
+          "buildingLevelsNeededPerUnitPerHour": 1860.804287638494,
+          "modeledProductionCostPerUnit": 153065.69819286038,
+          "modeledStoreWages": 265.65,
+          "modeledUnitsSoldAnHour": 0.0048828125,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 503076.3381642512,
+          "saturation": 8.864616677932961,
+          "salesWages": 241.49999999999997
+        },
+        {
+          "quality": 11,
+          "buildingLevelsNeededPerUnitPerHour": 3681.156308154412,
+          "modeledProductionCostPerUnit": 302803.8812076151,
+          "modeledStoreWages": 265.65,
+          "modeledUnitsSoldAnHour": 0.00244140625,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 954052.3181818182,
+          "saturation": 2.8366093167229702,
+          "salesWages": 241.49999999999997
+        },
+        {
+          "quality": 12,
+          "buildingLevelsNeededPerUnitPerHour": 7280.478841470594,
+          "modeledProductionCostPerUnit": 598876.2947565505,
+          "modeledStoreWages": 265.65,
+          "modeledUnitsSoldAnHour": 0.001220703125,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 1621235,
+          "saturation": 1.948108890955075,
+          "salesWages": 241.49999999999997
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "n": "Truck",
+      "ph": 4.783200850394605,
+      "w": 448.5,
+      "tr": 5,
+      "in": {
+        "43": 10,
+        "47": 1,
+        "50": 1,
+        "51": 1,
+        "52": 6
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 7.460707968859187,
+          "modeledProductionCostPerUnit": 3045.215378262768,
+          "modeledStoreWages": 417.45000000000005,
+          "modeledUnitsSoldAnHour": 1,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 6662.385053361206,
+          "saturation": 0.5331950330875153,
+          "salesWages": 379.50000000000006
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "n": "Underwear",
+      "ph": 165.77197163215916,
+      "w": 138,
+      "tr": 1,
+      "in": {
+        "41": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.022069348330737128,
+          "modeledProductionCostPerUnit": 3.136225735914774,
+          "modeledStoreWages": 341.55,
+          "modeledUnitsSoldAnHour": 25,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 29.619826689178062,
+          "saturation": 1.3603337101906061,
+          "salesWages": 310.5
+        }
+      ]
+    },
+    {
+      "i": 141,
+      "n": "Vegetable oil",
+      "ph": 36.73526250147445,
+      "w": 379.50000000000006,
+      "tr": 1,
+      "in": {
+        "1": 1,
+        "120": 10
+      },
+      "ir": false
+    },
+    {
+      "i": 120,
+      "n": "Vegetables",
+      "ph": 283.06381844122666,
+      "w": 103.5,
+      "tr": 0.2,
+      "in": {
+        "2": 2,
+        "66": 5
+      },
+      "ir": false
+    },
+    {
+      "i": 2,
+      "n": "Water",
+      "ph": 1626.4285714285716,
+      "w": 345,
+      "tr": 0,
+      "in": {
+        "1": 0.2
+      },
+      "ir": false
+    },
+    {
+      "i": 109,
+      "n": "Windows",
+      "ph": 16.711752334995268,
+      "w": 482.99999999999994,
+      "tr": 1,
+      "in": {
+        "18": 2,
+        "45": 1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.1414072759065603,
+          "modeledProductionCostPerUnit": 59.345257310556754,
+          "modeledStoreWages": 189.75,
+          "modeledUnitsSoldAnHour": 30,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 127.65876348778585,
+          "saturation": 0.7034148962118473,
+          "salesWages": 172.5
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "n": "Wing",
+      "ph": 8.109415592207736,
+      "w": 586.5,
+      "tr": 2,
+      "in": {
+        "18": 5,
+        "76": 30
+      },
+      "ir": false
+    },
+    {
+      "i": 148,
+      "n": "Witch costume",
+      "ph": 120.56143391429757,
+      "w": 138,
+      "tr": 1,
+      "in": {
+        "19": 1,
+        "41": 4
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.08630433278541373,
+          "modeledProductionCostPerUnit": 16.96111872082079,
+          "modeledStoreWages": 227.7,
+          "modeledUnitsSoldAnHour": 12,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 74.25516387920679,
+          "saturation": 1.2074501710233403,
+          "salesWages": 207
+        }
+      ]
+    },
+    {
+      "i": 106,
+      "n": "Wood",
+      "ph": 76.83160786261867,
+      "w": 103.5,
+      "tr": 1,
+      "in": {
+        "2": 4,
+        "66": 1
+      },
+      "ir": false
+    },
+    {
+      "i": 67,
+      "n": "Xmas crackers",
+      "ph": 222.46854258288653,
+      "w": 414,
+      "tr": 0.5,
+      "in": {
+        "17": 0.5,
+        "19": 0.1
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.01700874955079077,
+          "modeledProductionCostPerUnit": 6.484413034180247,
+          "modeledStoreWages": 265.65,
+          "modeledUnitsSoldAnHour": 400,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 15.147669217176652,
+          "saturation": 1.3100435591658073,
+          "salesWages": 241.49999999999997
+        }
+      ]
+    },
+    {
+      "i": 144,
+      "n": "Xmas ornament",
+      "ph": 179.68613054771603,
+      "w": 414,
+      "tr": 0.5,
+      "in": {
+        "14": 0.25,
+        "18": 0.125,
+        "45": 0.5
+      },
+      "ir": false,
+      "ri": [
+        {
+          "quality": 0,
+          "buildingLevelsNeededPerUnitPerHour": 0.023485004300521344,
+          "modeledProductionCostPerUnit": 9.10169862822773,
+          "modeledStoreWages": 265.65,
+          "modeledUnitsSoldAnHour": 70,
+          "retailModelingQualityWeight": 0.3,
+          "retailAdjustment": 1,
+          "averagePrice": 24.988612044239257,
+          "saturation": 0.8557312557866175,
+          "salesWages": 241.49999999999997
+        }
+      ]
+    }
+  ],
+  "vw": [
+    {
+      "i": 1,
+      "q": 0,
+      "v": 0.27309704,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 1,
+      "q": 1,
+      "v": 0.27531463,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 1,
+      "q": 2,
+      "v": 0.27644607,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 1,
+      "q": 3,
+      "v": 0.27821183,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 1,
+      "q": 4,
+      "v": 0.27936426,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 1,
+      "q": 5,
+      "v": 0.27918166,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 1,
+      "q": 6,
+      "v": 0.28045356,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 1,
+      "q": 7,
+      "v": 0.2813676,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 1,
+      "q": 8,
+      "v": 0.2813938,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 1,
+      "q": 9,
+      "v": 0.28258678,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 1,
+      "q": 10,
+      "v": 0.28186116,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 1,
+      "q": 11,
+      "v": 0.28240108,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 1,
+      "q": 12,
+      "v": 0.28392917,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 2,
+      "q": 0,
+      "v": 0.38009766,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 2,
+      "q": 1,
+      "v": 0.384009,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 2,
+      "q": 2,
+      "v": 0.38759556,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 2,
+      "q": 3,
+      "v": 0.40235108,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 2,
+      "q": 4,
+      "v": 0.42236713,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 2,
+      "q": 5,
+      "v": 0.46982375,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 2,
+      "q": 6,
+      "v": 0.47973034,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 2,
+      "q": 7,
+      "v": 0.48167232,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 2,
+      "q": 8,
+      "v": 0.48785672,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 2,
+      "q": 9,
+      "v": 0.48619333,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 2,
+      "q": 10,
+      "v": 0.48532766,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 2,
+      "q": 11,
+      "v": 0.49407536,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 2,
+      "q": 12,
+      "v": 0.74,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 3,
+      "q": 0,
+      "v": 2.5102887,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 3,
+      "q": 1,
+      "v": 2.6263914,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 3,
+      "q": 2,
+      "v": 2.7540698,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 3,
+      "q": 3,
+      "v": 2.8737512,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 3,
+      "q": 4,
+      "v": 3.2552764,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 3,
+      "q": 5,
+      "v": 3.8321924,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 3,
+      "q": 6,
+      "v": 4.3,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 3,
+      "q": 7,
+      "v": 4.45,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 3,
+      "q": 8,
+      "v": 4.5,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 3,
+      "q": 10,
+      "v": 6,
+      "d": "2026-07-27T00:00:00Z"
+    },
+    {
+      "i": 3,
+      "q": 11,
+      "v": 6.1,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 4,
+      "q": 0,
+      "v": 2.633021,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 4,
+      "q": 1,
+      "v": 2.7605367,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 4,
+      "q": 2,
+      "v": 2.765951,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 4,
+      "q": 3,
+      "v": 2.8651974,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 4,
+      "q": 4,
+      "v": 3.3100452,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 4,
+      "q": 5,
+      "v": 3.525931,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 4,
+      "q": 6,
+      "v": 4.15,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 4,
+      "q": 7,
+      "v": 4.2,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 4,
+      "q": 8,
+      "v": 4.2,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 4,
+      "q": 9,
+      "v": 5.3,
+      "d": "2026-07-27T00:00:00Z"
+    },
+    {
+      "i": 4,
+      "q": 10,
+      "v": 6.6,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 5,
+      "q": 0,
+      "v": 2.8165038,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 5,
+      "q": 1,
+      "v": 2.9624207,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 5,
+      "q": 2,
+      "v": 3.0500658,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 5,
+      "q": 3,
+      "v": 3.1205585,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 5,
+      "q": 4,
+      "v": 3.2281158,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 5,
+      "q": 5,
+      "v": 4.70005,
+      "d": "2026-07-27T00:00:00Z"
+    },
+    {
+      "i": 5,
+      "q": 6,
+      "v": 4.5,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 5,
+      "q": 7,
+      "v": 5.9,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 6,
+      "q": 0,
+      "v": 0.7147728,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 6,
+      "q": 1,
+      "v": 0.73091584,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 6,
+      "q": 2,
+      "v": 0.74122304,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 6,
+      "q": 3,
+      "v": 0.79712677,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 6,
+      "q": 4,
+      "v": 0.92409813,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 6,
+      "q": 5,
+      "v": 0.9750012,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 6,
+      "q": 6,
+      "v": 0.9918782,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 6,
+      "q": 7,
+      "v": 1.1795566,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 6,
+      "q": 8,
+      "v": 1.55,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 6,
+      "q": 9,
+      "v": 1.9,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 6,
+      "q": 10,
+      "v": 1.8,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 6,
+      "q": 12,
+      "v": 3.45,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 7,
+      "q": 0,
+      "v": 42.434917,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 7,
+      "q": 1,
+      "v": 42.813995,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 7,
+      "q": 2,
+      "v": 43.178787,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 7,
+      "q": 3,
+      "v": 43.23501,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 7,
+      "q": 4,
+      "v": 52.84598,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 7,
+      "q": 6,
+      "v": 57.396233,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 7,
+      "q": 7,
+      "v": 54.197395,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 7,
+      "q": 8,
+      "v": 49,
+      "d": "2026-07-28T00:00:00Z"
+    },
+    {
+      "i": 8,
+      "q": 0,
+      "v": 11.704864,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 8,
+      "q": 1,
+      "v": 11.838046,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 8,
+      "q": 2,
+      "v": 12.054371,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 8,
+      "q": 3,
+      "v": 12.378798,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 8,
+      "q": 4,
+      "v": 12.741964,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 8,
+      "q": 5,
+      "v": 15.027662,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 8,
+      "q": 6,
+      "v": 16,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 8,
+      "q": 7,
+      "v": 16.7,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 9,
+      "q": 0,
+      "v": 1.1504551,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 9,
+      "q": 1,
+      "v": 1.1773102,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 9,
+      "q": 2,
+      "v": 1.1842203,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 9,
+      "q": 3,
+      "v": 1.2097585,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 9,
+      "q": 4,
+      "v": 1.3262482,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 9,
+      "q": 5,
+      "v": 1.5597405,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 9,
+      "q": 6,
+      "v": 1.7,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 9,
+      "q": 7,
+      "v": 1.9498311,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 9,
+      "q": 10,
+      "v": 3,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 9,
+      "q": 12,
+      "v": 2.095384,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 10,
+      "q": 0,
+      "v": 30.310177,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 10,
+      "q": 1,
+      "v": 30.576336,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 10,
+      "q": 2,
+      "v": 30.723848,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 10,
+      "q": 3,
+      "v": 30.947195,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 10,
+      "q": 4,
+      "v": 31.208796,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 10,
+      "q": 5,
+      "v": 31.39311,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 10,
+      "q": 6,
+      "v": 31.414083,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 10,
+      "q": 7,
+      "v": 31.577648,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 10,
+      "q": 8,
+      "v": 33,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 10,
+      "q": 9,
+      "v": 31.077423,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 10,
+      "q": 10,
+      "v": 32.155518,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 10,
+      "q": 11,
+      "v": 31.856377,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 10,
+      "q": 12,
+      "v": 30.95,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 11,
+      "q": 0,
+      "v": 40.828686,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 11,
+      "q": 1,
+      "v": 41.29367,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 11,
+      "q": 2,
+      "v": 41.47099,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 11,
+      "q": 3,
+      "v": 42.06892,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 11,
+      "q": 4,
+      "v": 42.31169,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 11,
+      "q": 5,
+      "v": 42.738564,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 11,
+      "q": 6,
+      "v": 43,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 11,
+      "q": 7,
+      "v": 44,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 11,
+      "q": 10,
+      "v": 46.5,
+      "d": "2026-07-26T00:00:00Z"
+    },
+    {
+      "i": 11,
+      "q": 11,
+      "v": 44.10343,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 12,
+      "q": 0,
+      "v": 41.35485,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 12,
+      "q": 1,
+      "v": 41.581123,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 12,
+      "q": 2,
+      "v": 41.68239,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 12,
+      "q": 3,
+      "v": 41.859425,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 12,
+      "q": 4,
+      "v": 42.410004,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 12,
+      "q": 5,
+      "v": 42.98458,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 12,
+      "q": 6,
+      "v": 45,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 12,
+      "q": 7,
+      "v": 42,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 12,
+      "q": 8,
+      "v": 41.25,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 13,
+      "q": 0,
+      "v": 0.3839972,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 14,
+      "q": 0,
+      "v": 10.939629,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 14,
+      "q": 1,
+      "v": 11.076962,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 14,
+      "q": 2,
+      "v": 11.1273575,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 14,
+      "q": 3,
+      "v": 11.227613,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 14,
+      "q": 4,
+      "v": 11.253625,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 14,
+      "q": 5,
+      "v": 11.7418,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 14,
+      "q": 6,
+      "v": 11.4,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 14,
+      "q": 7,
+      "v": 11.685963,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 14,
+      "q": 8,
+      "v": 11.700408,
+      "d": "2026-07-27T00:00:00Z"
+    },
+    {
+      "i": 14,
+      "q": 9,
+      "v": 14.9,
+      "d": "2026-07-26T00:00:00Z"
+    },
+    {
+      "i": 14,
+      "q": 10,
+      "v": 11.953488,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 14,
+      "q": 12,
+      "v": 12,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 15,
+      "q": 0,
+      "v": 10.914885,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 15,
+      "q": 1,
+      "v": 11.178921,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 15,
+      "q": 2,
+      "v": 11.329991,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 15,
+      "q": 3,
+      "v": 11.394876,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 15,
+      "q": 4,
+      "v": 11.450805,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 15,
+      "q": 5,
+      "v": 11.691709,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 15,
+      "q": 6,
+      "v": 12.1,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 15,
+      "q": 7,
+      "v": 12.358319,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 15,
+      "q": 8,
+      "v": 12.5,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 15,
+      "q": 10,
+      "v": 11.7,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 16,
+      "q": 0,
+      "v": 7.934473,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 16,
+      "q": 1,
+      "v": 8.042162,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 16,
+      "q": 2,
+      "v": 8.158718,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 16,
+      "q": 3,
+      "v": 8.219481,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 16,
+      "q": 4,
+      "v": 8.303258,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 16,
+      "q": 5,
+      "v": 8.34113,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 16,
+      "q": 6,
+      "v": 8.295399,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 16,
+      "q": 7,
+      "v": 8.4,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 16,
+      "q": 8,
+      "v": 8.5,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 16,
+      "q": 9,
+      "v": 8.5,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 16,
+      "q": 10,
+      "v": 8.5,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 16,
+      "q": 11,
+      "v": 8.4,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 16,
+      "q": 12,
+      "v": 8.543895,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 17,
+      "q": 0,
+      "v": 14.901977,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 17,
+      "q": 1,
+      "v": 15.041607,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 17,
+      "q": 2,
+      "v": 15.098734,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 17,
+      "q": 3,
+      "v": 15.206318,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 17,
+      "q": 4,
+      "v": 15.262724,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 17,
+      "q": 5,
+      "v": 15.46423,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 17,
+      "q": 6,
+      "v": 15.512386,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 17,
+      "q": 7,
+      "v": 15.6059675,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 17,
+      "q": 8,
+      "v": 16.173204,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 17,
+      "q": 9,
+      "v": 18.1,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 17,
+      "q": 10,
+      "v": 18,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 17,
+      "q": 12,
+      "v": 15.3,
+      "d": "2026-07-28T00:00:00Z"
+    },
+    {
+      "i": 18,
+      "q": 0,
+      "v": 21.098629,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 18,
+      "q": 1,
+      "v": 21.346016,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 18,
+      "q": 2,
+      "v": 21.55597,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 18,
+      "q": 3,
+      "v": 22.09396,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 18,
+      "q": 4,
+      "v": 22.385515,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 18,
+      "q": 5,
+      "v": 22.90125,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 18,
+      "q": 6,
+      "v": 25.973423,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 18,
+      "q": 8,
+      "v": 26.397184,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 18,
+      "q": 9,
+      "v": 27,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 18,
+      "q": 10,
+      "v": 29.25,
+      "d": "2026-07-26T00:00:00Z"
+    },
+    {
+      "i": 19,
+      "q": 0,
+      "v": 11.927617,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 19,
+      "q": 1,
+      "v": 12.091288,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 19,
+      "q": 2,
+      "v": 12.2506895,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 19,
+      "q": 3,
+      "v": 12.383585,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 19,
+      "q": 4,
+      "v": 12.700886,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 19,
+      "q": 5,
+      "v": 12.923993,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 19,
+      "q": 6,
+      "v": 13.003199,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 19,
+      "q": 7,
+      "v": 13.006886,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 19,
+      "q": 8,
+      "v": 13.203686,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 19,
+      "q": 10,
+      "v": 16.101122,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 20,
+      "q": 0,
+      "v": 116.32708,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 20,
+      "q": 1,
+      "v": 120.23443,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 20,
+      "q": 2,
+      "v": 123.04291,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 20,
+      "q": 3,
+      "v": 125.64976,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 20,
+      "q": 4,
+      "v": 131.74472,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 20,
+      "q": 5,
+      "v": 133.79997,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 20,
+      "q": 6,
+      "v": 130.1623,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 20,
+      "q": 7,
+      "v": 134.81592,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 20,
+      "q": 8,
+      "v": 160,
+      "d": "2026-07-26T00:00:00Z"
+    },
+    {
+      "i": 21,
+      "q": 0,
+      "v": 58.337482,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 21,
+      "q": 1,
+      "v": 58.187443,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 21,
+      "q": 2,
+      "v": 58.971313,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 21,
+      "q": 3,
+      "v": 59.499023,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 21,
+      "q": 4,
+      "v": 60.030685,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 21,
+      "q": 5,
+      "v": 60.841278,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 21,
+      "q": 6,
+      "v": 61.185093,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 21,
+      "q": 7,
+      "v": 61.106804,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 21,
+      "q": 8,
+      "v": 79.5,
+      "d": "2026-07-26T00:00:00Z"
+    },
+    {
+      "i": 21,
+      "q": 9,
+      "v": 78,
+      "d": "2026-07-26T00:00:00Z"
+    },
+    {
+      "i": 22,
+      "q": 0,
+      "v": 89.11608,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 22,
+      "q": 1,
+      "v": 90.07619,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 22,
+      "q": 2,
+      "v": 89.465256,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 22,
+      "q": 3,
+      "v": 89.98386,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 22,
+      "q": 4,
+      "v": 89.82546,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 22,
+      "q": 5,
+      "v": 91.639824,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 22,
+      "q": 6,
+      "v": 91.29711,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 22,
+      "q": 7,
+      "v": 89.64839,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 22,
+      "q": 8,
+      "v": 92.40301,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 22,
+      "q": 9,
+      "v": 92.5,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 22,
+      "q": 10,
+      "v": 108,
+      "d": "2026-07-27T00:00:00Z"
+    },
+    {
+      "i": 23,
+      "q": 0,
+      "v": 124.13961,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 23,
+      "q": 1,
+      "v": 124.32835,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 23,
+      "q": 2,
+      "v": 125.354065,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 23,
+      "q": 3,
+      "v": 125.73329,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 23,
+      "q": 4,
+      "v": 127.39806,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 23,
+      "q": 5,
+      "v": 128.80092,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 23,
+      "q": 6,
+      "v": 128.0886,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 23,
+      "q": 7,
+      "v": 131.05324,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 23,
+      "q": 8,
+      "v": 137,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 23,
+      "q": 11,
+      "v": 143,
+      "d": "2026-07-28T00:00:00Z"
+    },
+    {
+      "i": 24,
+      "q": 0,
+      "v": 604.60736,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 24,
+      "q": 1,
+      "v": 608.62506,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 24,
+      "q": 2,
+      "v": 621.33923,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 24,
+      "q": 3,
+      "v": 628.70667,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 24,
+      "q": 4,
+      "v": 636.27795,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 24,
+      "q": 5,
+      "v": 643.70435,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 24,
+      "q": 6,
+      "v": 660,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 24,
+      "q": 7,
+      "v": 664.0828,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 24,
+      "q": 8,
+      "v": 714.92535,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 25,
+      "q": 0,
+      "v": 774.68414,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 25,
+      "q": 1,
+      "v": 783.86035,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 25,
+      "q": 2,
+      "v": 783.4935,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 25,
+      "q": 3,
+      "v": 795.82635,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 25,
+      "q": 4,
+      "v": 804.0659,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 25,
+      "q": 5,
+      "v": 814.5545,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 25,
+      "q": 6,
+      "v": 847.3395,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 25,
+      "q": 7,
+      "v": 875,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 26,
+      "q": 0,
+      "v": 1198.0266,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 26,
+      "q": 1,
+      "v": 1178.381,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 26,
+      "q": 2,
+      "v": 1196.5164,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 26,
+      "q": 3,
+      "v": 1241.1523,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 26,
+      "q": 4,
+      "v": 1245.3691,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 26,
+      "q": 5,
+      "v": 1272.0098,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 26,
+      "q": 6,
+      "v": 1319.5067,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 26,
+      "q": 7,
+      "v": 1350,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 27,
+      "q": 0,
+      "v": 614.9261,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 27,
+      "q": 1,
+      "v": 615,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 27,
+      "q": 2,
+      "v": 615,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 27,
+      "q": 3,
+      "v": 613.8963,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 27,
+      "q": 4,
+      "v": 612.0835,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 27,
+      "q": 5,
+      "v": 622.1191,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 27,
+      "q": 6,
+      "v": 650,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 27,
+      "q": 7,
+      "v": 633.3333,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 27,
+      "q": 11,
+      "v": 540,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 28,
+      "q": 0,
+      "v": 958.49316,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 28,
+      "q": 1,
+      "v": 968.6043,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 28,
+      "q": 2,
+      "v": 969.1898,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 28,
+      "q": 3,
+      "v": 977.2399,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 28,
+      "q": 4,
+      "v": 998.77075,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 28,
+      "q": 5,
+      "v": 999.7219,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 28,
+      "q": 6,
+      "v": 1040,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 28,
+      "q": 8,
+      "v": 1050,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 29,
+      "q": 0,
+      "v": 111.624405,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 30,
+      "q": 0,
+      "v": 159.32234,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 31,
+      "q": 0,
+      "v": 181.74107,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 32,
+      "q": 0,
+      "v": 226.0689,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 33,
+      "q": 0,
+      "v": 117.77475,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 34,
+      "q": 0,
+      "v": 99.46018,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 35,
+      "q": 0,
+      "v": 91.71533,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 40,
+      "q": 0,
+      "v": 1.4973147,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 40,
+      "q": 1,
+      "v": 1.5510769,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 40,
+      "q": 2,
+      "v": 1.6246916,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 40,
+      "q": 3,
+      "v": 1.6817877,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 40,
+      "q": 4,
+      "v": 1.8463355,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 40,
+      "q": 5,
+      "v": 1.94,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 40,
+      "q": 6,
+      "v": 1.96,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 41,
+      "q": 0,
+      "v": 4.7706842,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 41,
+      "q": 1,
+      "v": 4.8674626,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 41,
+      "q": 2,
+      "v": 4.9182935,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 41,
+      "q": 3,
+      "v": 4.9492493,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 41,
+      "q": 4,
+      "v": 5.114995,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 41,
+      "q": 5,
+      "v": 5.3007736,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 41,
+      "q": 6,
+      "v": 6.5945005,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 41,
+      "q": 7,
+      "v": 5.490961,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 41,
+      "q": 8,
+      "v": 6.8,
+      "d": "2026-07-27T00:00:00Z"
+    },
+    {
+      "i": 41,
+      "q": 10,
+      "v": 9.9,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 42,
+      "q": 0,
+      "v": 6.3367476,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 42,
+      "q": 1,
+      "v": 6.382648,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 42,
+      "q": 2,
+      "v": 6.3969145,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 42,
+      "q": 3,
+      "v": 6.4142346,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 42,
+      "q": 4,
+      "v": 6.711754,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 42,
+      "q": 5,
+      "v": 6.8994837,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 42,
+      "q": 6,
+      "v": 7.1,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 42,
+      "q": 7,
+      "v": 8.6,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 42,
+      "q": 9,
+      "v": 7.4,
+      "d": "2026-07-27T00:00:00Z"
+    },
+    {
+      "i": 43,
+      "q": 0,
+      "v": 13.312511,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 43,
+      "q": 1,
+      "v": 13.488262,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 43,
+      "q": 2,
+      "v": 13.58946,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 43,
+      "q": 3,
+      "v": 13.792867,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 43,
+      "q": 4,
+      "v": 14.116298,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 43,
+      "q": 5,
+      "v": 14.733394,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 43,
+      "q": 6,
+      "v": 15.823747,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 43,
+      "q": 7,
+      "v": 16.6,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 43,
+      "q": 8,
+      "v": 17.6,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 43,
+      "q": 11,
+      "v": 25.5,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 44,
+      "q": 0,
+      "v": 1.2513883,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 44,
+      "q": 1,
+      "v": 1.263027,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 44,
+      "q": 2,
+      "v": 1.2838693,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 44,
+      "q": 3,
+      "v": 1.2978712,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 44,
+      "q": 4,
+      "v": 1.3288633,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 44,
+      "q": 5,
+      "v": 1.3218837,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 44,
+      "q": 6,
+      "v": 1.35,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 44,
+      "q": 7,
+      "v": 1.45,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 44,
+      "q": 10,
+      "v": 1.45,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 45,
+      "q": 0,
+      "v": 14.377884,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 45,
+      "q": 1,
+      "v": 14.431682,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 45,
+      "q": 2,
+      "v": 14.370665,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 45,
+      "q": 3,
+      "v": 14.712608,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 45,
+      "q": 4,
+      "v": 14.844284,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 45,
+      "q": 5,
+      "v": 14.814746,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 45,
+      "q": 7,
+      "v": 14.7,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 45,
+      "q": 12,
+      "v": 16,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 46,
+      "q": 0,
+      "v": 28.407963,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 46,
+      "q": 1,
+      "v": 29.963959,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 46,
+      "q": 2,
+      "v": 31.052624,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 46,
+      "q": 3,
+      "v": 31.0703,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 46,
+      "q": 4,
+      "v": 31.154877,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 46,
+      "q": 5,
+      "v": 31.209566,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 46,
+      "q": 6,
+      "v": 33.25,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 46,
+      "q": 7,
+      "v": 49.19155,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 46,
+      "q": 8,
+      "v": 60,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 47,
+      "q": 0,
+      "v": 457.14108,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 47,
+      "q": 1,
+      "v": 463.6468,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 47,
+      "q": 2,
+      "v": 465.80145,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 47,
+      "q": 3,
+      "v": 468.33975,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 47,
+      "q": 4,
+      "v": 473.32553,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 47,
+      "q": 5,
+      "v": 473.45203,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 47,
+      "q": 6,
+      "v": 499.43762,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 47,
+      "q": 7,
+      "v": 500,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 47,
+      "q": 8,
+      "v": 535,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 48,
+      "q": 0,
+      "v": 233.11316,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 48,
+      "q": 1,
+      "v": 233.99802,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 48,
+      "q": 2,
+      "v": 231.26447,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 48,
+      "q": 3,
+      "v": 235.65845,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 48,
+      "q": 4,
+      "v": 240.59004,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 48,
+      "q": 5,
+      "v": 268.0394,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 48,
+      "q": 6,
+      "v": 310,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 48,
+      "q": 7,
+      "v": 396,
+      "d": "2026-07-27T00:00:00Z"
+    },
+    {
+      "i": 49,
+      "q": 0,
+      "v": 941.2253,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 49,
+      "q": 1,
+      "v": 971.1539,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 49,
+      "q": 2,
+      "v": 964.7466,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 49,
+      "q": 3,
+      "v": 980,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 49,
+      "q": 4,
+      "v": 972.6502,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 49,
+      "q": 5,
+      "v": 1080,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 49,
+      "q": 6,
+      "v": 1050,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 50,
+      "q": 0,
+      "v": 325.4447,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 50,
+      "q": 1,
+      "v": 333.62552,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 50,
+      "q": 2,
+      "v": 335.00925,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 50,
+      "q": 3,
+      "v": 340.185,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 50,
+      "q": 4,
+      "v": 340.94955,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 50,
+      "q": 5,
+      "v": 340.76068,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 50,
+      "q": 6,
+      "v": 343.9327,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 50,
+      "q": 7,
+      "v": 343.19827,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 51,
+      "q": 0,
+      "v": 805.5597,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 51,
+      "q": 1,
+      "v": 825.2375,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 51,
+      "q": 2,
+      "v": 821.13434,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 51,
+      "q": 3,
+      "v": 830.86774,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 51,
+      "q": 4,
+      "v": 839.61884,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 51,
+      "q": 5,
+      "v": 860,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 51,
+      "q": 6,
+      "v": 870,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 51,
+      "q": 7,
+      "v": 945,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 51,
+      "q": 8,
+      "v": 999.5283,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 52,
+      "q": 0,
+      "v": 617.5435,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 52,
+      "q": 1,
+      "v": 624.7362,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 52,
+      "q": 2,
+      "v": 621.6329,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 52,
+      "q": 3,
+      "v": 627.2991,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 52,
+      "q": 4,
+      "v": 631.3915,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 52,
+      "q": 5,
+      "v": 658.9185,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 52,
+      "q": 6,
+      "v": 736.4457,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 52,
+      "q": 7,
+      "v": 765,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 52,
+      "q": 8,
+      "v": 780,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 52,
+      "q": 11,
+      "v": 1100,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 53,
+      "q": 0,
+      "v": 3346.5251,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 53,
+      "q": 1,
+      "v": 3370,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 53,
+      "q": 2,
+      "v": 3340,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 53,
+      "q": 3,
+      "v": 3480,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 53,
+      "q": 4,
+      "v": 3500,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 53,
+      "q": 5,
+      "v": 3500,
+      "d": "2026-07-27T00:00:00Z"
+    },
+    {
+      "i": 54,
+      "q": 0,
+      "v": 6350.6353,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 54,
+      "q": 1,
+      "v": 6367.4497,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 54,
+      "q": 2,
+      "v": 6386.399,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 54,
+      "q": 3,
+      "v": 6480.1646,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 54,
+      "q": 4,
+      "v": 6610.1924,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 54,
+      "q": 5,
+      "v": 6599.4175,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 54,
+      "q": 6,
+      "v": 6725,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 54,
+      "q": 7,
+      "v": 6797.512,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 54,
+      "q": 8,
+      "v": 6965.625,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 55,
+      "q": 0,
+      "v": 2166.5564,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 55,
+      "q": 1,
+      "v": 2221.742,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 55,
+      "q": 2,
+      "v": 2270,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 55,
+      "q": 3,
+      "v": 2288.8313,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 55,
+      "q": 4,
+      "v": 2304.1604,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 55,
+      "q": 5,
+      "v": 2351.1343,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 55,
+      "q": 6,
+      "v": 2388.9905,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 55,
+      "q": 8,
+      "v": 2490,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 56,
+      "q": 0,
+      "v": 4408.985,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 56,
+      "q": 1,
+      "v": 4403.3687,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 56,
+      "q": 2,
+      "v": 4414.351,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 56,
+      "q": 3,
+      "v": 4403.176,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 56,
+      "q": 4,
+      "v": 4434.7075,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 56,
+      "q": 5,
+      "v": 4458.3706,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 56,
+      "q": 6,
+      "v": 4624.3267,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 56,
+      "q": 7,
+      "v": 4889.615,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 56,
+      "q": 8,
+      "v": 5200,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 56,
+      "q": 9,
+      "v": 6500,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 57,
+      "q": 0,
+      "v": 5453.67,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 57,
+      "q": 1,
+      "v": 5470.2915,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 57,
+      "q": 2,
+      "v": 5581.161,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 57,
+      "q": 3,
+      "v": 5717.1016,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 57,
+      "q": 4,
+      "v": 5800,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 57,
+      "q": 5,
+      "v": 5734.0684,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 57,
+      "q": 6,
+      "v": 5900,
+      "d": "2026-07-26T00:00:00Z"
+    },
+    {
+      "i": 57,
+      "q": 7,
+      "v": 6025,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 57,
+      "q": 8,
+      "v": 7200,
+      "d": "2026-07-28T00:00:00Z"
+    },
+    {
+      "i": 58,
+      "q": 0,
+      "v": 129.8498,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 59,
+      "q": 0,
+      "v": 68.5075,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 60,
+      "q": 0,
+      "v": 6.3194313,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 60,
+      "q": 1,
+      "v": 6.399922,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 60,
+      "q": 2,
+      "v": 6.388366,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 60,
+      "q": 3,
+      "v": 6.4197826,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 60,
+      "q": 4,
+      "v": 6.5891395,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 60,
+      "q": 5,
+      "v": 6.640367,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 60,
+      "q": 6,
+      "v": 7.211051,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 60,
+      "q": 7,
+      "v": 7.3,
+      "d": "2026-07-28T00:00:00Z"
+    },
+    {
+      "i": 60,
+      "q": 8,
+      "v": 7.490909,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 60,
+      "q": 12,
+      "v": 12,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 61,
+      "q": 0,
+      "v": 20.044832,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 61,
+      "q": 1,
+      "v": 21.812464,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 61,
+      "q": 2,
+      "v": 22.348862,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 61,
+      "q": 3,
+      "v": 22.567091,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 61,
+      "q": 4,
+      "v": 23.146132,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 61,
+      "q": 5,
+      "v": 22.854065,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 61,
+      "q": 6,
+      "v": 23.75,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 61,
+      "q": 7,
+      "v": 26.75,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 61,
+      "q": 8,
+      "v": 24,
+      "d": "2026-07-28T00:00:00Z"
+    },
+    {
+      "i": 62,
+      "q": 0,
+      "v": 22.397104,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 62,
+      "q": 1,
+      "v": 23.236202,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 62,
+      "q": 2,
+      "v": 23.774319,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 62,
+      "q": 3,
+      "v": 23.6566,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 62,
+      "q": 4,
+      "v": 24.133394,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 62,
+      "q": 5,
+      "v": 25.17211,
+      "d": "2026-07-27T00:00:00Z"
+    },
+    {
+      "i": 62,
+      "q": 6,
+      "v": 26.684267,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 63,
+      "q": 0,
+      "v": 35.699356,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 63,
+      "q": 1,
+      "v": 36.617176,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 63,
+      "q": 2,
+      "v": 36.612373,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 63,
+      "q": 3,
+      "v": 37.75,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 63,
+      "q": 4,
+      "v": 38,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 63,
+      "q": 5,
+      "v": 38.11456,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 63,
+      "q": 6,
+      "v": 38.75,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 63,
+      "q": 7,
+      "v": 41,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 64,
+      "q": 0,
+      "v": 45.497726,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 64,
+      "q": 1,
+      "v": 45.98539,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 64,
+      "q": 2,
+      "v": 46.216904,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 64,
+      "q": 3,
+      "v": 47.2458,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 64,
+      "q": 4,
+      "v": 47.650017,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 64,
+      "q": 5,
+      "v": 47.9594,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 64,
+      "q": 6,
+      "v": 48.396053,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 64,
+      "q": 7,
+      "v": 45,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 64,
+      "q": 8,
+      "v": 55.96994,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 65,
+      "q": 0,
+      "v": 14.221765,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 65,
+      "q": 1,
+      "v": 14.379545,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 65,
+      "q": 2,
+      "v": 14.6818495,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 65,
+      "q": 3,
+      "v": 15.005976,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 65,
+      "q": 4,
+      "v": 15.55617,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 65,
+      "q": 5,
+      "v": 15.8,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 65,
+      "q": 6,
+      "v": 15.956198,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 65,
+      "q": 7,
+      "v": 16.10503,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 65,
+      "q": 8,
+      "v": 16.7,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 65,
+      "q": 9,
+      "v": 16.8,
+      "d": "2026-07-28T00:00:00Z"
+    },
+    {
+      "i": 65,
+      "q": 10,
+      "v": 17.3,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 65,
+      "q": 12,
+      "v": 15,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 66,
+      "q": 0,
+      "v": 0.28190207,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 66,
+      "q": 1,
+      "v": 0.28519878,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 66,
+      "q": 2,
+      "v": 0.29306877,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 66,
+      "q": 3,
+      "v": 0.31583035,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 66,
+      "q": 4,
+      "v": 0.31969026,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 66,
+      "q": 5,
+      "v": 0.32427868,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 66,
+      "q": 6,
+      "v": 0.3338892,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 66,
+      "q": 7,
+      "v": 0.37692907,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 66,
+      "q": 8,
+      "v": 0.60991585,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 66,
+      "q": 9,
+      "v": 0.6,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 66,
+      "q": 10,
+      "v": 0.6704945,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 66,
+      "q": 11,
+      "v": 0.6410832,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 67,
+      "q": 0,
+      "v": 12.708032,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 67,
+      "q": 1,
+      "v": 13.4,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 67,
+      "q": 2,
+      "v": 13,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 68,
+      "q": 0,
+      "v": 33.261555,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 68,
+      "q": 1,
+      "v": 33.937588,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 68,
+      "q": 2,
+      "v": 33.96905,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 68,
+      "q": 3,
+      "v": 34.33116,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 68,
+      "q": 4,
+      "v": 34.977406,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 68,
+      "q": 5,
+      "v": 35.75,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 68,
+      "q": 6,
+      "v": 37.25,
+      "d": "2026-07-27T00:00:00Z"
+    },
+    {
+      "i": 68,
+      "q": 10,
+      "v": 36.25,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 69,
+      "q": 0,
+      "v": 6614.13,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 69,
+      "q": 1,
+      "v": 6868.5645,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 69,
+      "q": 2,
+      "v": 6867.21,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 69,
+      "q": 3,
+      "v": 6912.7534,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 69,
+      "q": 4,
+      "v": 6988.3423,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 69,
+      "q": 5,
+      "v": 7002.5366,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 69,
+      "q": 6,
+      "v": 7127.145,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 69,
+      "q": 7,
+      "v": 7158.2275,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 69,
+      "q": 8,
+      "v": 7175,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 69,
+      "q": 9,
+      "v": 6900,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 69,
+      "q": 10,
+      "v": 7733.3335,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 69,
+      "q": 11,
+      "v": 8625,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 69,
+      "q": 12,
+      "v": 13700,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 70,
+      "q": 0,
+      "v": 831.80634,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 70,
+      "q": 1,
+      "v": 840.6374,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 70,
+      "q": 2,
+      "v": 833.77106,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 70,
+      "q": 3,
+      "v": 855,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 70,
+      "q": 4,
+      "v": 848.28125,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 70,
+      "q": 5,
+      "v": 865.65515,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 70,
+      "q": 6,
+      "v": 825,
+      "d": "2026-07-27T00:00:00Z"
+    },
+    {
+      "i": 70,
+      "q": 10,
+      "v": 1370,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 71,
+      "q": 0,
+      "v": 1611.1538,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 71,
+      "q": 1,
+      "v": 1628.78,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 71,
+      "q": 2,
+      "v": 1627.8041,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 71,
+      "q": 3,
+      "v": 1634.1642,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 71,
+      "q": 4,
+      "v": 1644.8029,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 71,
+      "q": 6,
+      "v": 1710,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 71,
+      "q": 7,
+      "v": 1993,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 72,
+      "q": 0,
+      "v": 1.684517,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 72,
+      "q": 1,
+      "v": 1.7157158,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 72,
+      "q": 2,
+      "v": 1.764858,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 72,
+      "q": 3,
+      "v": 1.8388346,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 72,
+      "q": 4,
+      "v": 2.1678753,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 72,
+      "q": 5,
+      "v": 2.9358003,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 72,
+      "q": 6,
+      "v": 3.25,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 72,
+      "q": 7,
+      "v": 4,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 72,
+      "q": 8,
+      "v": 3.782262,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 72,
+      "q": 9,
+      "v": 3.8,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 72,
+      "q": 10,
+      "v": 2.4,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 73,
+      "q": 0,
+      "v": 27.565924,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 73,
+      "q": 1,
+      "v": 28.609167,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 73,
+      "q": 2,
+      "v": 29.607283,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 73,
+      "q": 3,
+      "v": 30.722975,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 73,
+      "q": 4,
+      "v": 32.12372,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 73,
+      "q": 5,
+      "v": 34.283676,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 73,
+      "q": 6,
+      "v": 35.393112,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 73,
+      "q": 8,
+      "v": 36.25,
+      "d": "2026-07-27T00:00:00Z"
+    },
+    {
+      "i": 73,
+      "q": 9,
+      "v": 35,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 73,
+      "q": 10,
+      "v": 36.726204,
+      "d": "2026-07-27T00:00:00Z"
+    },
+    {
+      "i": 74,
+      "q": 0,
+      "v": 22.463923,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 74,
+      "q": 1,
+      "v": 23.835226,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 74,
+      "q": 2,
+      "v": 24.2486,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 74,
+      "q": 3,
+      "v": 25.064676,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 74,
+      "q": 4,
+      "v": 25.212465,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 74,
+      "q": 5,
+      "v": 25.75,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 74,
+      "q": 6,
+      "v": 25.75,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 74,
+      "q": 7,
+      "v": 25.036694,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 74,
+      "q": 8,
+      "v": 26.5,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 74,
+      "q": 12,
+      "v": 55,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 75,
+      "q": 0,
+      "v": 6.2607055,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 75,
+      "q": 1,
+      "v": 6.480734,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 75,
+      "q": 2,
+      "v": 6.5204177,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 75,
+      "q": 3,
+      "v": 6.725735,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 75,
+      "q": 4,
+      "v": 6.9185934,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 75,
+      "q": 5,
+      "v": 7.132376,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 75,
+      "q": 6,
+      "v": 7.0706854,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 75,
+      "q": 7,
+      "v": 7.1987014,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 75,
+      "q": 8,
+      "v": 7.364005,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 75,
+      "q": 9,
+      "v": 7.5396047,
+      "d": "2026-07-27T00:00:00Z"
+    },
+    {
+      "i": 75,
+      "q": 10,
+      "v": 7.4529414,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 75,
+      "q": 12,
+      "v": 7.7,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 76,
+      "q": 0,
+      "v": 59.684654,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 76,
+      "q": 1,
+      "v": 62.592472,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 76,
+      "q": 2,
+      "v": 63.28643,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 76,
+      "q": 3,
+      "v": 64.21159,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 76,
+      "q": 4,
+      "v": 65.30228,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 76,
+      "q": 5,
+      "v": 66.51345,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 76,
+      "q": 6,
+      "v": 71.495514,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 76,
+      "q": 7,
+      "v": 71.42857,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 76,
+      "q": 8,
+      "v": 73.49999,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 77,
+      "q": 0,
+      "v": 2633.453,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 77,
+      "q": 1,
+      "v": 2787.1665,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 77,
+      "q": 2,
+      "v": 2842.3713,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 77,
+      "q": 3,
+      "v": 2867.727,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 77,
+      "q": 4,
+      "v": 2903.862,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 77,
+      "q": 5,
+      "v": 2926.2507,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 77,
+      "q": 6,
+      "v": 3003.0557,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 77,
+      "q": 7,
+      "v": 3050,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 77,
+      "q": 8,
+      "v": 3086.6648,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 77,
+      "q": 9,
+      "v": 3380,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 78,
+      "q": 0,
+      "v": 1887.5267,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 78,
+      "q": 1,
+      "v": 2208.5027,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 78,
+      "q": 2,
+      "v": 2221.477,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 78,
+      "q": 3,
+      "v": 2333.784,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 78,
+      "q": 4,
+      "v": 2424.9631,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 78,
+      "q": 5,
+      "v": 2484.8882,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 78,
+      "q": 6,
+      "v": 2497.2341,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 78,
+      "q": 7,
+      "v": 2505.9167,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 78,
+      "q": 8,
+      "v": 2510,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 78,
+      "q": 9,
+      "v": 2520,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 78,
+      "q": 10,
+      "v": 2644.2166,
+      "d": "2026-07-28T00:00:00Z"
+    },
+    {
+      "i": 78,
+      "q": 11,
+      "v": 2740,
+      "d": "2026-07-28T00:00:00Z"
+    },
+    {
+      "i": 79,
+      "q": 0,
+      "v": 888.9598,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 79,
+      "q": 1,
+      "v": 913.29095,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 79,
+      "q": 2,
+      "v": 915.9472,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 79,
+      "q": 3,
+      "v": 922.1702,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 79,
+      "q": 4,
+      "v": 929.8742,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 79,
+      "q": 5,
+      "v": 936.31995,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 79,
+      "q": 6,
+      "v": 943.12933,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 79,
+      "q": 7,
+      "v": 949.0563,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 79,
+      "q": 8,
+      "v": 965,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 79,
+      "q": 9,
+      "v": 975,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 79,
+      "q": 10,
+      "v": 985.2481,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 79,
+      "q": 11,
+      "v": 1090,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 79,
+      "q": 12,
+      "v": 1590,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 80,
+      "q": 0,
+      "v": 4807.43,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 80,
+      "q": 1,
+      "v": 5088.5713,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 80,
+      "q": 2,
+      "v": 5110.192,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 80,
+      "q": 3,
+      "v": 5225.0874,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 80,
+      "q": 4,
+      "v": 4975.005,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 80,
+      "q": 5,
+      "v": 5291.3125,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 80,
+      "q": 6,
+      "v": 5334.1914,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 80,
+      "q": 7,
+      "v": 5945,
+      "d": "2026-07-28T00:00:00Z"
+    },
+    {
+      "i": 80,
+      "q": 8,
+      "v": 5950,
+      "d": "2026-07-28T00:00:00Z"
+    },
+    {
+      "i": 80,
+      "q": 9,
+      "v": 5731.4004,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 81,
+      "q": 0,
+      "v": 5476.411,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 81,
+      "q": 1,
+      "v": 5491.903,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 81,
+      "q": 2,
+      "v": 5573.6357,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 81,
+      "q": 3,
+      "v": 5542.126,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 81,
+      "q": 4,
+      "v": 5601.736,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 81,
+      "q": 5,
+      "v": 5775,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 81,
+      "q": 6,
+      "v": 5777.3765,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 81,
+      "q": 7,
+      "v": 5834.231,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 81,
+      "q": 8,
+      "v": 6400,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 82,
+      "q": 0,
+      "v": 1588.9373,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 82,
+      "q": 1,
+      "v": 1611.7125,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 82,
+      "q": 2,
+      "v": 1659.3901,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 82,
+      "q": 3,
+      "v": 1684.4934,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 82,
+      "q": 4,
+      "v": 1692.0299,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 82,
+      "q": 5,
+      "v": 1761.8102,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 82,
+      "q": 6,
+      "v": 1786.015,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 82,
+      "q": 7,
+      "v": 1910,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 82,
+      "q": 9,
+      "v": 1929.4996,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 83,
+      "q": 0,
+      "v": 31.965887,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 83,
+      "q": 1,
+      "v": 35.41522,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 83,
+      "q": 2,
+      "v": 36.46446,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 83,
+      "q": 3,
+      "v": 36.610035,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 83,
+      "q": 4,
+      "v": 36.80726,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 83,
+      "q": 5,
+      "v": 37.19811,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 83,
+      "q": 6,
+      "v": 36.0015,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 83,
+      "q": 7,
+      "v": 40,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 83,
+      "q": 11,
+      "v": 46,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 84,
+      "q": 0,
+      "v": 9429.245,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 84,
+      "q": 1,
+      "v": 9572.015,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 84,
+      "q": 2,
+      "v": 10231.674,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 84,
+      "q": 3,
+      "v": 10462.655,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 84,
+      "q": 4,
+      "v": 10631.613,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 84,
+      "q": 5,
+      "v": 10663.777,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 84,
+      "q": 6,
+      "v": 10900,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 84,
+      "q": 8,
+      "v": 12759.1045,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 85,
+      "q": 0,
+      "v": 7899.4116,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 85,
+      "q": 1,
+      "v": 8245,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 85,
+      "q": 2,
+      "v": 8970.968,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 85,
+      "q": 3,
+      "v": 9260.652,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 85,
+      "q": 4,
+      "v": 9332.143,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 85,
+      "q": 5,
+      "v": 9612.676,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 85,
+      "q": 6,
+      "v": 10600,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 86,
+      "q": 0,
+      "v": 11250,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 86,
+      "q": 1,
+      "v": 11364.849,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 86,
+      "q": 2,
+      "v": 11493.044,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 86,
+      "q": 3,
+      "v": 11644.9795,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 86,
+      "q": 4,
+      "v": 11766.007,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 86,
+      "q": 5,
+      "v": 11842.63,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 86,
+      "q": 6,
+      "v": 12225.616,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 86,
+      "q": 7,
+      "v": 12000,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 87,
+      "q": 0,
+      "v": 463.91306,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 87,
+      "q": 1,
+      "v": 494,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 87,
+      "q": 2,
+      "v": 525,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 87,
+      "q": 3,
+      "v": 587.6316,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 87,
+      "q": 4,
+      "v": 600,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 87,
+      "q": 5,
+      "v": 629.828,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 87,
+      "q": 6,
+      "v": 680,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 87,
+      "q": 7,
+      "v": 698.3333,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 88,
+      "q": 0,
+      "v": 11342.272,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 88,
+      "q": 1,
+      "v": 11508.154,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 88,
+      "q": 2,
+      "v": 11849.919,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 88,
+      "q": 3,
+      "v": 12040.872,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 88,
+      "q": 4,
+      "v": 12352.529,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 88,
+      "q": 5,
+      "v": 12436.632,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 88,
+      "q": 6,
+      "v": 12643.75,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 88,
+      "q": 7,
+      "v": 13700,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 88,
+      "q": 8,
+      "v": 13300,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 88,
+      "q": 10,
+      "v": 12455.057,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 89,
+      "q": 0,
+      "v": 4890.269,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 89,
+      "q": 1,
+      "v": 4900.8613,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 89,
+      "q": 2,
+      "v": 5047.4355,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 89,
+      "q": 3,
+      "v": 5135.1855,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 89,
+      "q": 4,
+      "v": 5360.952,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 89,
+      "q": 5,
+      "v": 5461.4463,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 89,
+      "q": 6,
+      "v": 5599.625,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 89,
+      "q": 7,
+      "v": 6175,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 89,
+      "q": 8,
+      "v": 6000,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 98,
+      "q": 0,
+      "v": 836.6105,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 98,
+      "q": 1,
+      "v": 831.53217,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 98,
+      "q": 2,
+      "v": 855.75214,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 98,
+      "q": 3,
+      "v": 862.47125,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 98,
+      "q": 4,
+      "v": 893.2171,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 98,
+      "q": 5,
+      "v": 907.43567,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 98,
+      "q": 6,
+      "v": 930,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 98,
+      "q": 7,
+      "v": 960,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 98,
+      "q": 8,
+      "v": 980,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 100,
+      "q": 0,
+      "v": 117.29445,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 101,
+      "q": 0,
+      "v": 207.6111,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 101,
+      "q": 1,
+      "v": 207.26259,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 101,
+      "q": 2,
+      "v": 208.39293,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 101,
+      "q": 3,
+      "v": 208.73541,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 101,
+      "q": 4,
+      "v": 209.40968,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 101,
+      "q": 5,
+      "v": 211.82063,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 102,
+      "q": 0,
+      "v": 2.808628,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 102,
+      "q": 1,
+      "v": 2.8397326,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 102,
+      "q": 2,
+      "v": 2.863606,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 102,
+      "q": 3,
+      "v": 2.9102993,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 102,
+      "q": 4,
+      "v": 2.9768345,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 102,
+      "q": 5,
+      "v": 2.9801147,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 102,
+      "q": 6,
+      "v": 3.0849662,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 102,
+      "q": 7,
+      "v": 3.7,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 102,
+      "q": 8,
+      "v": 3.3,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 102,
+      "q": 10,
+      "v": 3.3,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 102,
+      "q": 11,
+      "v": 4.25,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 102,
+      "q": 12,
+      "v": 3.5,
+      "d": "2026-07-26T00:00:00Z"
+    },
+    {
+      "i": 103,
+      "q": 0,
+      "v": 6.8467784,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 103,
+      "q": 1,
+      "v": 6.889244,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 103,
+      "q": 2,
+      "v": 6.9875717,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 103,
+      "q": 3,
+      "v": 7.1490016,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 103,
+      "q": 4,
+      "v": 7.483905,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 103,
+      "q": 5,
+      "v": 7.524132,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 103,
+      "q": 6,
+      "v": 7.8954625,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 103,
+      "q": 7,
+      "v": 7.6,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 103,
+      "q": 9,
+      "v": 11,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 103,
+      "q": 10,
+      "v": 8.3,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 103,
+      "q": 11,
+      "v": 10.378715,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 104,
+      "q": 0,
+      "v": 0.9935024,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 104,
+      "q": 1,
+      "v": 1.0194557,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 104,
+      "q": 2,
+      "v": 1.0298729,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 104,
+      "q": 3,
+      "v": 1.053931,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 104,
+      "q": 4,
+      "v": 1.0500418,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 104,
+      "q": 5,
+      "v": 1.19,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 105,
+      "q": 0,
+      "v": 1.5312725,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 105,
+      "q": 1,
+      "v": 1.5439005,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 105,
+      "q": 2,
+      "v": 1.5476518,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 105,
+      "q": 3,
+      "v": 1.5890306,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 105,
+      "q": 4,
+      "v": 1.5585672,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 105,
+      "q": 5,
+      "v": 1.5623263,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 105,
+      "q": 10,
+      "v": 2.4,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 106,
+      "q": 0,
+      "v": 3.8204682,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 106,
+      "q": 1,
+      "v": 3.8925066,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 106,
+      "q": 2,
+      "v": 4.2577434,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 106,
+      "q": 3,
+      "v": 4.4115796,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 106,
+      "q": 4,
+      "v": 4.6699095,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 106,
+      "q": 5,
+      "v": 4.75,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 106,
+      "q": 6,
+      "v": 3.65,
+      "d": "2026-07-28T00:00:00Z"
+    },
+    {
+      "i": 107,
+      "q": 0,
+      "v": 22.241283,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 107,
+      "q": 1,
+      "v": 22.101038,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 107,
+      "q": 2,
+      "v": 22.436417,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 107,
+      "q": 3,
+      "v": 22.577925,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 107,
+      "q": 4,
+      "v": 22.624325,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 107,
+      "q": 6,
+      "v": 22.5,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 108,
+      "q": 0,
+      "v": 11.235809,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 108,
+      "q": 1,
+      "v": 11.393461,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 108,
+      "q": 2,
+      "v": 11.280918,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 108,
+      "q": 3,
+      "v": 11.287242,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 108,
+      "q": 4,
+      "v": 11.446902,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 108,
+      "q": 5,
+      "v": 11.509343,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 108,
+      "q": 6,
+      "v": 12.4,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 108,
+      "q": 7,
+      "v": 11.4,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 109,
+      "q": 0,
+      "v": 108.04014,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 109,
+      "q": 1,
+      "v": 108.140366,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 109,
+      "q": 2,
+      "v": 108.89615,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 109,
+      "q": 3,
+      "v": 109.73099,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 109,
+      "q": 4,
+      "v": 109.921524,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 109,
+      "q": 6,
+      "v": 111.49013,
+      "d": "2026-07-28T00:00:00Z"
+    },
+    {
+      "i": 109,
+      "q": 10,
+      "v": 120,
+      "d": "2026-07-26T00:00:00Z"
+    },
+    {
+      "i": 110,
+      "q": 0,
+      "v": 198.48605,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 110,
+      "q": 1,
+      "v": 198.89825,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 110,
+      "q": 2,
+      "v": 199.76057,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 110,
+      "q": 3,
+      "v": 200.94485,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 110,
+      "q": 4,
+      "v": 201.61003,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 110,
+      "q": 5,
+      "v": 204,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 111,
+      "q": 0,
+      "v": 2677.3906,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 112,
+      "q": 0,
+      "v": 2311.7524,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 112,
+      "q": 1,
+      "v": 2314.021,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 112,
+      "q": 2,
+      "v": 2315.1956,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 112,
+      "q": 3,
+      "v": 2307.7302,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 112,
+      "q": 4,
+      "v": 2300,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 113,
+      "q": 0,
+      "v": 132.26387,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 114,
+      "q": 0,
+      "v": 634.9575,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 114,
+      "q": 1,
+      "v": 965.3994,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 114,
+      "q": 2,
+      "v": 974.07666,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 114,
+      "q": 3,
+      "v": 967.3111,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 114,
+      "q": 4,
+      "v": 976.3688,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 114,
+      "q": 5,
+      "v": 985.8163,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 114,
+      "q": 6,
+      "v": 1112,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 114,
+      "q": 7,
+      "v": 1280.8665,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 114,
+      "q": 8,
+      "v": 1656,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 114,
+      "q": 9,
+      "v": 1698.7665,
+      "d": "2026-07-28T00:00:00Z"
+    },
+    {
+      "i": 114,
+      "q": 10,
+      "v": 2000,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 115,
+      "q": 0,
+      "v": 144.01279,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 115,
+      "q": 1,
+      "v": 146.8408,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 115,
+      "q": 2,
+      "v": 150.91206,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 115,
+      "q": 3,
+      "v": 156.53322,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 115,
+      "q": 4,
+      "v": 159.19531,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 115,
+      "q": 5,
+      "v": 166.14397,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 115,
+      "q": 6,
+      "v": 166,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 115,
+      "q": 7,
+      "v": 168,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 116,
+      "q": 0,
+      "v": 44.43795,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 116,
+      "q": 1,
+      "v": 46.024548,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 116,
+      "q": 2,
+      "v": 47.94017,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 116,
+      "q": 3,
+      "v": 50.764828,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 116,
+      "q": 4,
+      "v": 52.5,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 116,
+      "q": 5,
+      "v": 53,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 117,
+      "q": 0,
+      "v": 9.666461,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 117,
+      "q": 1,
+      "v": 9.834522,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 117,
+      "q": 2,
+      "v": 10.029926,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 117,
+      "q": 3,
+      "v": 10.925346,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 117,
+      "q": 4,
+      "v": 11.434316,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 117,
+      "q": 5,
+      "v": 11.855679,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 117,
+      "q": 6,
+      "v": 12.208174,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 117,
+      "q": 7,
+      "v": 12.599613,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 117,
+      "q": 8,
+      "v": 12.654285,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 117,
+      "q": 9,
+      "v": 16.3,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 117,
+      "q": 10,
+      "v": 15.237252,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 117,
+      "q": 11,
+      "v": 16.4,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 117,
+      "q": 12,
+      "v": 19,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 118,
+      "q": 0,
+      "v": 0.7469075,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 118,
+      "q": 1,
+      "v": 0.88198775,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 118,
+      "q": 2,
+      "v": 0.880711,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 118,
+      "q": 3,
+      "v": 0.9014684,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 118,
+      "q": 4,
+      "v": 1.203822,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 118,
+      "q": 5,
+      "v": 1.2395189,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 118,
+      "q": 6,
+      "v": 1.32,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 118,
+      "q": 7,
+      "v": 1.49,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 118,
+      "q": 8,
+      "v": 1.6279453,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 118,
+      "q": 9,
+      "v": 1.89,
+      "d": "2026-07-26T00:00:00Z"
+    },
+    {
+      "i": 119,
+      "q": 0,
+      "v": 39.51491,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 119,
+      "q": 1,
+      "v": 40.61562,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 119,
+      "q": 2,
+      "v": 42.5538,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 119,
+      "q": 3,
+      "v": 44.858696,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 119,
+      "q": 4,
+      "v": 48.96569,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 119,
+      "q": 5,
+      "v": 52.082104,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 119,
+      "q": 6,
+      "v": 55.77681,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 119,
+      "q": 7,
+      "v": 63.5,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 119,
+      "q": 8,
+      "v": 67,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 119,
+      "q": 9,
+      "v": 67.07862,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 119,
+      "q": 10,
+      "v": 68,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 119,
+      "q": 11,
+      "v": 67.5,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 119,
+      "q": 12,
+      "v": 67.99818,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 120,
+      "q": 0,
+      "v": 2.6971426,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 120,
+      "q": 1,
+      "v": 2.854992,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 120,
+      "q": 2,
+      "v": 2.9455209,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 120,
+      "q": 3,
+      "v": 3.1561873,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 120,
+      "q": 4,
+      "v": 3.434503,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 120,
+      "q": 5,
+      "v": 3.4740822,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 120,
+      "q": 6,
+      "v": 3.6112025,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 120,
+      "q": 7,
+      "v": 4.1,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 120,
+      "q": 9,
+      "v": 5.9,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 120,
+      "q": 10,
+      "v": 6.210185,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 120,
+      "q": 11,
+      "v": 6.2000003,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 121,
+      "q": 0,
+      "v": 156.71024,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 121,
+      "q": 1,
+      "v": 164.97,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 121,
+      "q": 2,
+      "v": 181.43211,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 121,
+      "q": 3,
+      "v": 192.44507,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 121,
+      "q": 4,
+      "v": 226.69366,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 121,
+      "q": 5,
+      "v": 236.25134,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 121,
+      "q": 6,
+      "v": 236.46967,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 121,
+      "q": 7,
+      "v": 248.79504,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 121,
+      "q": 8,
+      "v": 270,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 121,
+      "q": 9,
+      "v": 290,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 121,
+      "q": 10,
+      "v": 304,
+      "d": "2026-07-26T00:00:00Z"
+    },
+    {
+      "i": 121,
+      "q": 12,
+      "v": 298,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 122,
+      "q": 0,
+      "v": 130.59634,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 122,
+      "q": 1,
+      "v": 130.97305,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 122,
+      "q": 2,
+      "v": 131.78506,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 122,
+      "q": 3,
+      "v": 137.89545,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 122,
+      "q": 4,
+      "v": 143.88295,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 122,
+      "q": 5,
+      "v": 145.23532,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 122,
+      "q": 6,
+      "v": 152.59586,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 122,
+      "q": 7,
+      "v": 174,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 122,
+      "q": 8,
+      "v": 174.92357,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 122,
+      "q": 9,
+      "v": 190,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 122,
+      "q": 10,
+      "v": 207.5,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 122,
+      "q": 11,
+      "v": 210,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 122,
+      "q": 12,
+      "v": 236,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 123,
+      "q": 0,
+      "v": 300.67,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 123,
+      "q": 1,
+      "v": 304.10736,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 123,
+      "q": 2,
+      "v": 301.69836,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 123,
+      "q": 3,
+      "v": 308.33698,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 123,
+      "q": 4,
+      "v": 316.52698,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 123,
+      "q": 5,
+      "v": 333.02628,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 123,
+      "q": 6,
+      "v": 336,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 123,
+      "q": 8,
+      "v": 338.5339,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 123,
+      "q": 12,
+      "v": 545.55554,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 124,
+      "q": 0,
+      "v": 38.594254,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 124,
+      "q": 1,
+      "v": 39.268204,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 124,
+      "q": 2,
+      "v": 40.734337,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 124,
+      "q": 3,
+      "v": 42.208336,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 124,
+      "q": 4,
+      "v": 46.782738,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 124,
+      "q": 5,
+      "v": 48.589325,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 124,
+      "q": 6,
+      "v": 57,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 124,
+      "q": 7,
+      "v": 59.226494,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 124,
+      "q": 8,
+      "v": 61.5,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 124,
+      "q": 10,
+      "v": 67.769264,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 124,
+      "q": 11,
+      "v": 76,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 124,
+      "q": 12,
+      "v": 100,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 125,
+      "q": 0,
+      "v": 28.27384,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 125,
+      "q": 1,
+      "v": 30.074917,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 125,
+      "q": 2,
+      "v": 32.417435,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 125,
+      "q": 3,
+      "v": 42.94287,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 125,
+      "q": 4,
+      "v": 46.584408,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 125,
+      "q": 5,
+      "v": 49.014328,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 125,
+      "q": 6,
+      "v": 49.24048,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 125,
+      "q": 7,
+      "v": 52.79257,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 125,
+      "q": 8,
+      "v": 55.227856,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 125,
+      "q": 9,
+      "v": 61,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 125,
+      "q": 10,
+      "v": 61.5,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 125,
+      "q": 11,
+      "v": 65,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 125,
+      "q": 12,
+      "v": 84,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 126,
+      "q": 0,
+      "v": 55.111385,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 126,
+      "q": 1,
+      "v": 55.909534,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 126,
+      "q": 2,
+      "v": 55.515667,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 126,
+      "q": 3,
+      "v": 56.869022,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 126,
+      "q": 4,
+      "v": 59.11568,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 126,
+      "q": 5,
+      "v": 62.746346,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 126,
+      "q": 6,
+      "v": 66.48775,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 126,
+      "q": 7,
+      "v": 69.545296,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 126,
+      "q": 8,
+      "v": 75,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 126,
+      "q": 9,
+      "v": 81.05995,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 126,
+      "q": 10,
+      "v": 87.55612,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 126,
+      "q": 12,
+      "v": 106.772484,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 127,
+      "q": 0,
+      "v": 487.69556,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 127,
+      "q": 1,
+      "v": 489.6,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 127,
+      "q": 2,
+      "v": 491.1579,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 127,
+      "q": 3,
+      "v": 400,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 127,
+      "q": 4,
+      "v": 486,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 127,
+      "q": 5,
+      "v": 520,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 128,
+      "q": 0,
+      "v": 58.850456,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 128,
+      "q": 1,
+      "v": 72,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 128,
+      "q": 2,
+      "v": 74.5,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 128,
+      "q": 3,
+      "v": 80,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 128,
+      "q": 4,
+      "v": 95.5,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 128,
+      "q": 5,
+      "v": 95,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 128,
+      "q": 6,
+      "v": 91,
+      "d": "2026-07-27T00:00:00Z"
+    },
+    {
+      "i": 128,
+      "q": 8,
+      "v": 91.88491,
+      "d": "2026-07-27T00:00:00Z"
+    },
+    {
+      "i": 128,
+      "q": 9,
+      "v": 108,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 129,
+      "q": 0,
+      "v": 2189.1018,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 129,
+      "q": 1,
+      "v": 2230.3643,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 129,
+      "q": 2,
+      "v": 2569.4214,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 129,
+      "q": 3,
+      "v": 2848.4417,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 129,
+      "q": 4,
+      "v": 2823.1316,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 129,
+      "q": 5,
+      "v": 2972.3054,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 129,
+      "q": 6,
+      "v": 3067.8745,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 129,
+      "q": 7,
+      "v": 3350,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 129,
+      "q": 8,
+      "v": 4470,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 129,
+      "q": 12,
+      "v": 4490,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 130,
+      "q": 0,
+      "v": 2122.5,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 130,
+      "q": 1,
+      "v": 2168.2856,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 130,
+      "q": 2,
+      "v": 2551.9592,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 130,
+      "q": 3,
+      "v": 2797.4624,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 130,
+      "q": 4,
+      "v": 2754.8428,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 130,
+      "q": 5,
+      "v": 2940.0232,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 130,
+      "q": 6,
+      "v": 2950,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 130,
+      "q": 7,
+      "v": 2880,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 130,
+      "q": 9,
+      "v": 3080,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 130,
+      "q": 10,
+      "v": 3310,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 130,
+      "q": 12,
+      "v": 3790,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 131,
+      "q": 0,
+      "v": 2222.973,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 131,
+      "q": 1,
+      "v": 2228.087,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 131,
+      "q": 2,
+      "v": 2661.2583,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 131,
+      "q": 3,
+      "v": 2791.6143,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 131,
+      "q": 4,
+      "v": 2907.9597,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 131,
+      "q": 5,
+      "v": 2969.0142,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 131,
+      "q": 6,
+      "v": 3000,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 131,
+      "q": 7,
+      "v": 3131.5967,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 131,
+      "q": 8,
+      "v": 3270,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 131,
+      "q": 9,
+      "v": 3130,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 131,
+      "q": 10,
+      "v": 4000,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 132,
+      "q": 0,
+      "v": 2316.4934,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 132,
+      "q": 1,
+      "v": 2296.3157,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 132,
+      "q": 2,
+      "v": 2380,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 132,
+      "q": 3,
+      "v": 2567.6785,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 132,
+      "q": 4,
+      "v": 2891.9219,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 132,
+      "q": 5,
+      "v": 2900,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 132,
+      "q": 6,
+      "v": 2908.819,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 132,
+      "q": 10,
+      "v": 3870,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 132,
+      "q": 12,
+      "v": 4079.4595,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 133,
+      "q": 0,
+      "v": 16.591625,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 133,
+      "q": 1,
+      "v": 18.113241,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 133,
+      "q": 2,
+      "v": 18.597868,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 133,
+      "q": 3,
+      "v": 19.697107,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 133,
+      "q": 4,
+      "v": 21.112669,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 133,
+      "q": 5,
+      "v": 22.224773,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 133,
+      "q": 6,
+      "v": 25.856659,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 133,
+      "q": 7,
+      "v": 33,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 133,
+      "q": 9,
+      "v": 35.11819,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 133,
+      "q": 10,
+      "v": 35.0098,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 134,
+      "q": 0,
+      "v": 52.18519,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 134,
+      "q": 1,
+      "v": 52.788887,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 134,
+      "q": 2,
+      "v": 54.39314,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 134,
+      "q": 3,
+      "v": 63.737137,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 134,
+      "q": 4,
+      "v": 69.35535,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 134,
+      "q": 5,
+      "v": 77.88805,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 134,
+      "q": 6,
+      "v": 79.86945,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 134,
+      "q": 7,
+      "v": 81.23025,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 134,
+      "q": 8,
+      "v": 81.027054,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 134,
+      "q": 9,
+      "v": 84,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 134,
+      "q": 10,
+      "v": 86.49427,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 134,
+      "q": 12,
+      "v": 110,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 135,
+      "q": 0,
+      "v": 21.45953,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 135,
+      "q": 1,
+      "v": 21.686583,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 135,
+      "q": 2,
+      "v": 21.766214,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 135,
+      "q": 3,
+      "v": 22.179754,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 135,
+      "q": 4,
+      "v": 25.488293,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 135,
+      "q": 5,
+      "v": 27.125078,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 135,
+      "q": 6,
+      "v": 29.5,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 135,
+      "q": 7,
+      "v": 29.75,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 135,
+      "q": 8,
+      "v": 25.534187,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 135,
+      "q": 9,
+      "v": 28,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 135,
+      "q": 11,
+      "v": 33,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 136,
+      "q": 0,
+      "v": 1.5127524,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 136,
+      "q": 1,
+      "v": 1.7487004,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 136,
+      "q": 2,
+      "v": 2.0443375,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 136,
+      "q": 3,
+      "v": 2.405187,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 136,
+      "q": 4,
+      "v": 2.202548,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 136,
+      "q": 5,
+      "v": 4.473392,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 136,
+      "q": 6,
+      "v": 3.7,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 136,
+      "q": 8,
+      "v": 3.8,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 136,
+      "q": 10,
+      "v": 3.9,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 136,
+      "q": 11,
+      "v": 5,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 137,
+      "q": 0,
+      "v": 135.96445,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 137,
+      "q": 1,
+      "v": 137.43535,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 137,
+      "q": 2,
+      "v": 144.96964,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 137,
+      "q": 3,
+      "v": 149.17017,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 137,
+      "q": 4,
+      "v": 153.01375,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 137,
+      "q": 5,
+      "v": 155,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 137,
+      "q": 6,
+      "v": 199,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 137,
+      "q": 9,
+      "v": 235.4772,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 138,
+      "q": 0,
+      "v": 1220.4,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 138,
+      "q": 1,
+      "v": 1578.4888,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 138,
+      "q": 2,
+      "v": 1823.024,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 138,
+      "q": 3,
+      "v": 1837.0769,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 138,
+      "q": 4,
+      "v": 1717.7761,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 138,
+      "q": 5,
+      "v": 1950,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 138,
+      "q": 7,
+      "v": 1300,
+      "d": "2026-07-27T00:00:00Z"
+    },
+    {
+      "i": 139,
+      "q": 0,
+      "v": 11.35943,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 139,
+      "q": 1,
+      "v": 11.50222,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 139,
+      "q": 2,
+      "v": 11.7512045,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 139,
+      "q": 3,
+      "v": 12.332066,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 139,
+      "q": 4,
+      "v": 13.0037565,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 139,
+      "q": 5,
+      "v": 13,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 139,
+      "q": 6,
+      "v": 14.928763,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 139,
+      "q": 7,
+      "v": 15.771113,
+      "d": "2026-07-28T00:00:00Z"
+    },
+    {
+      "i": 139,
+      "q": 8,
+      "v": 17,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 139,
+      "q": 9,
+      "v": 21.75,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 139,
+      "q": 10,
+      "v": 21.589285,
+      "d": "2026-07-27T00:00:00Z"
+    },
+    {
+      "i": 140,
+      "q": 0,
+      "v": 268.85873,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 140,
+      "q": 1,
+      "v": 273.6641,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 140,
+      "q": 2,
+      "v": 269.5215,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 140,
+      "q": 3,
+      "v": 273.6099,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 140,
+      "q": 4,
+      "v": 276,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 140,
+      "q": 5,
+      "v": 264,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 141,
+      "q": 0,
+      "v": 36.48778,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 141,
+      "q": 1,
+      "v": 42.206627,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 141,
+      "q": 2,
+      "v": 45.208813,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 141,
+      "q": 3,
+      "v": 50.448696,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 141,
+      "q": 4,
+      "v": 63.478794,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 141,
+      "q": 5,
+      "v": 65.05865,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 141,
+      "q": 6,
+      "v": 67.5,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 141,
+      "q": 7,
+      "v": 67,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 141,
+      "q": 8,
+      "v": 75,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 141,
+      "q": 10,
+      "v": 98,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 141,
+      "q": 11,
+      "v": 120,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 142,
+      "q": 0,
+      "v": 1009.31287,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 142,
+      "q": 1,
+      "v": 1005.7938,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 142,
+      "q": 2,
+      "v": 1054.1688,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 142,
+      "q": 3,
+      "v": 1204.7227,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 142,
+      "q": 4,
+      "v": 1301.8467,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 142,
+      "q": 5,
+      "v": 1278.361,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 142,
+      "q": 6,
+      "v": 1332.6781,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 142,
+      "q": 7,
+      "v": 1309.2958,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 142,
+      "q": 8,
+      "v": 1350,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 142,
+      "q": 9,
+      "v": 1365.3254,
+      "d": "2026-07-26T00:00:00Z"
+    },
+    {
+      "i": 142,
+      "q": 10,
+      "v": 1382.0366,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 142,
+      "q": 11,
+      "v": 1550,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 142,
+      "q": 12,
+      "v": 1356.2043,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 143,
+      "q": 0,
+      "v": 725.47406,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 143,
+      "q": 1,
+      "v": 798,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 143,
+      "q": 2,
+      "v": 807.9432,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 143,
+      "q": 3,
+      "v": 877.1992,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 143,
+      "q": 4,
+      "v": 915.3615,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 143,
+      "q": 5,
+      "v": 963.43695,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 143,
+      "q": 6,
+      "v": 977.3168,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 143,
+      "q": 7,
+      "v": 983.0595,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 143,
+      "q": 8,
+      "v": 1019.90497,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 143,
+      "q": 9,
+      "v": 1100,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 143,
+      "q": 10,
+      "v": 1200,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 143,
+      "q": 11,
+      "v": 1250,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 143,
+      "q": 12,
+      "v": 1365.1079,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 144,
+      "q": 0,
+      "v": 18.4,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 144,
+      "q": 1,
+      "v": 18.771439,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 144,
+      "q": 2,
+      "v": 18.8,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 144,
+      "q": 3,
+      "v": 18.9,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 144,
+      "q": 4,
+      "v": 19,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 144,
+      "q": 5,
+      "v": 19.5,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 144,
+      "q": 9,
+      "v": 16.5,
+      "d": "2026-07-26T00:00:00Z"
+    },
+    {
+      "i": 145,
+      "q": 0,
+      "v": 141.11235,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 146,
+      "q": 0,
+      "v": 12.19563,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 146,
+      "q": 1,
+      "v": 12.45,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 146,
+      "q": 2,
+      "v": 12.599999,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 146,
+      "q": 3,
+      "v": 12.839394,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 146,
+      "q": 4,
+      "v": 12.7,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 146,
+      "q": 5,
+      "v": 12.5,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 146,
+      "q": 6,
+      "v": 14.6,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 146,
+      "q": 10,
+      "v": 12,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 147,
+      "q": 0,
+      "v": 46.416473,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 147,
+      "q": 1,
+      "v": 46.75,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 147,
+      "q": 2,
+      "v": 47,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 147,
+      "q": 3,
+      "v": 46.63704,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 148,
+      "q": 0,
+      "v": 34.5,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 148,
+      "q": 1,
+      "v": 33,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 148,
+      "q": 2,
+      "v": 36.25,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 148,
+      "q": 3,
+      "v": 36.75,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 148,
+      "q": 4,
+      "v": 37.25,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 149,
+      "q": 0,
+      "v": 760.71155,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 149,
+      "q": 1,
+      "v": 770,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 149,
+      "q": 2,
+      "v": 1051.6929,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 149,
+      "q": 3,
+      "v": 1059.7048,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 149,
+      "q": 4,
+      "v": 1088.2023,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 149,
+      "q": 5,
+      "v": 1098.9596,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 149,
+      "q": 6,
+      "v": 1424.0101,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 149,
+      "q": 7,
+      "v": 1440,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 149,
+      "q": 8,
+      "v": 1450,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 149,
+      "q": 9,
+      "v": 1847.6744,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 149,
+      "q": 10,
+      "v": 1970,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 149,
+      "q": 11,
+      "v": 2492.8206,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 150,
+      "q": 0,
+      "v": 384.36462,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 150,
+      "q": 1,
+      "v": 800.08154,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 150,
+      "q": 2,
+      "v": 1500.8151,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 150,
+      "q": 3,
+      "v": 2931.2407,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 150,
+      "q": 4,
+      "v": 4648.7095,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 150,
+      "q": 5,
+      "v": 9103.711,
+      "d": "2026-07-30T00:00:00Z"
+    },
+    {
+      "i": 150,
+      "q": 6,
+      "v": 20000,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 150,
+      "q": 7,
+      "v": 34750,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 150,
+      "q": 8,
+      "v": 67631.58,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 150,
+      "q": 9,
+      "v": 150000,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 150,
+      "q": 10,
+      "v": 298423.06,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 150,
+      "q": 11,
+      "v": 604857.1,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 150,
+      "q": 12,
+      "v": 1448500,
+      "d": "2026-07-31T00:00:00Z"
+    },
+    {
+      "i": 151,
+      "q": 0,
+      "v": 266,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 151,
+      "q": 10,
+      "v": 398,
+      "d": "2026-07-26T00:00:00Z"
+    },
+    {
+      "i": 152,
+      "q": 0,
+      "v": 243.21037,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 152,
+      "q": 1,
+      "v": 236.00797,
+      "d": "2026-07-27T00:00:00Z"
+    },
+    {
+      "i": 153,
+      "q": 0,
+      "v": 89.16224,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 153,
+      "q": 1,
+      "v": 88.16607,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 153,
+      "q": 2,
+      "v": 90.08294,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 153,
+      "q": 3,
+      "v": 89.72642,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 153,
+      "q": 4,
+      "v": 92.20795,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 153,
+      "q": 5,
+      "v": 96.4897,
+      "d": "2026-07-29T00:00:00Z"
+    },
+    {
+      "i": 154,
+      "q": 0,
+      "v": 83.72303,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 154,
+      "q": 1,
+      "v": 87.256645,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 154,
+      "q": 2,
+      "v": 87.33312,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 154,
+      "q": 3,
+      "v": 89.82769,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 154,
+      "q": 4,
+      "v": 89.87986,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 154,
+      "q": 8,
+      "v": 90,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 155,
+      "q": 0,
+      "v": 157,
+      "d": "2026-08-01T00:00:00Z"
+    },
+    {
+      "i": 155,
+      "q": 1,
+      "v": 147.95238,
+      "d": "2026-07-28T00:00:00Z"
+    },
+    {
+      "i": 155,
+      "q": 2,
+      "v": 139.09901,
+      "d": "2026-07-26T00:00:00Z"
+    },
+    {
+      "i": 155,
+      "q": 3,
+      "v": 167.6919,
+      "d": "2026-07-28T00:00:00Z"
+    }
+  ]
+}
