@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-08-01T23:45:08.486Z",
+  "generatedAt": "2026-08-02T00:25:05.719Z",
   "realms": [
     0
   ],
@@ -8,6 +8,10 @@
     {
       "path": "realm-0/macro.json",
       "bytes": 261
+    },
+    {
+      "path": "realm-0/history.json",
+      "bytes": 14989
     }
   ]
 }
