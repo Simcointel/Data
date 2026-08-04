@@ -11,7 +11,11 @@
     "coreCpi": 2536.4723,
     "gdp": 2080120137823
   },
-  "latestInflation": null,
-  "generatedAt": "2026-08-04T09:01:11.856Z"
+  "latestInflation": {
+    "cpiRate": 0,
+    "coreCpiRate": 0,
+    "gdpGrowth": 0
+  },
+  "generatedAt": "2026-08-04T09:25:06.230Z"
 }
 
