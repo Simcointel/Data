@@ -1,60 +1,59 @@
 [
   {
-    "t": "2026-08-05T07:30:12.496Z",
-    "r": 0,
-    "sr": "/tmp/data-repo/snapshots/market/realm-0/market-snapshot-2026-08-05T07-25-50.682Z.json",
     "ix": {
-      "raw-materials": {
-        "v": 7532.4243,
-        "n": 28,
-        "rn": 28
-      },
-      "industrial-goods": {
-        "v": 409.129,
-        "n": 24,
-        "rn": 24
-      },
-      "consumer-goods": {
-        "v": 609.0509,
-        "n": 38,
-        "rn": 38
-      },
-      "energy-fuel": {
-        "v": 25.1882,
-        "n": 6,
-        "rn": 6
-      },
-      "electronics": {
-        "v": 1131.5003,
-        "n": 9,
-        "rn": 9
+      "aerospace": {
+        "n": 22,
+        "rn": 31,
+        "v": 4160.3937
       },
       "construction": {
-        "v": 1684.6797,
         "n": 3,
-        "rn": 3
+        "rn": 3,
+        "v": 1684.6797
       },
-      "aerospace": {
-        "v": 4160.3937,
-        "n": 22,
-        "rn": 31
-      },
-      "cpi": {
-        "v": 2221.7666,
-        "n": 7,
-        "rn": 7
+      "consumer-goods": {
+        "n": 38,
+        "rn": 38,
+        "v": 609.0509
       },
       "core-cpi": {
-        "v": 2535.5635,
         "n": 7,
-        "rn": 7
+        "rn": 7,
+        "v": 2535.5635
+      },
+      "cpi": {
+        "n": 7,
+        "rn": 7,
+        "v": 2221.7666
+      },
+      "electronics": {
+        "n": 9,
+        "rn": 9,
+        "v": 1131.5003
+      },
+      "energy-fuel": {
+        "n": 6,
+        "rn": 6,
+        "v": 25.1882
       },
       "gdp": {
-        "v": 2078695535770,
         "n": 1,
-        "rn": 1
+        "rn": 1,
+        "v": 2078695535770
+      },
+      "industrial-goods": {
+        "n": 24,
+        "rn": 24,
+        "v": 409.129
+      },
+      "raw-materials": {
+        "n": 28,
+        "rn": 28,
+        "v": 7532.4243
       }
-    }
+    },
+    "r": 0,
+    "sr": "/tmp/data-repo/snapshots/market/realm-0/market-snapshot-2026-08-05T07-25-50.682Z.json",
+    "t": "2026-08-05T07:30:12.496Z"
   }
 ]
-
