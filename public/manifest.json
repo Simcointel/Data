@@ -1,17 +1,18 @@
 {
-  "files": [
-    {
-      "bytes": 242,
-      "path": "realm-0/macro.json"
-    },
-    {
-      "bytes": 7475,
-      "path": "realm-0/history.json"
-    }
-  ],
+  "version": "1.0.0",
   "generatedAt": "2026-08-12T09:40:09.052Z",
   "realms": [
     0
   ],
-  "version": "1.0.0"
+  "files": [
+    {
+      "path": "realm-0/macro.json",
+      "bytes": 242
+    },
+    {
+      "path": "realm-0/history.json",
+      "bytes": 7475
+    }
+  ]
 }
+
