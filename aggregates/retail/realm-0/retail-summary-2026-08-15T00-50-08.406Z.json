@@ -1,143 +1,6 @@
 {
-  "t": "2026-08-15T00:50:08.406Z",
   "r": 0,
   "retail": {
-    "3": {
-      "saturation": 1.4512940264283045,
-      "sellers": 0
-    },
-    "4": {
-      "saturation": 1.4561881081267425,
-      "sellers": 0
-    },
-    "5": {
-      "saturation": 1.5746735582317932,
-      "sellers": 0
-    },
-    "7": {
-      "saturation": 1.4255214997709282,
-      "sellers": 0
-    },
-    "8": {
-      "saturation": 1.3227446058933576,
-      "sellers": 0
-    },
-    "9": {
-      "saturation": 1.5274284478258962,
-      "sellers": 0
-    },
-    "11": {
-      "saturation": 0.8488272152372963,
-      "sellers": 0
-    },
-    "12": {
-      "saturation": 0.8392544838827211,
-      "sellers": 0
-    },
-    "24": {
-      "saturation": 0.7682600710643837,
-      "sellers": 0
-    },
-    "25": {
-      "saturation": 0.8824391683373094,
-      "sellers": 0
-    },
-    "26": {
-      "saturation": 0.7151775814814326,
-      "sellers": 0
-    },
-    "27": {
-      "saturation": 0.5707038515516428,
-      "sellers": 0
-    },
-    "28": {
-      "saturation": 0.69940626830034,
-      "sellers": 0
-    },
-    "53": {
-      "saturation": 0.7034123811058175,
-      "sellers": 0
-    },
-    "54": {
-      "saturation": 0.7149839002764758,
-      "sellers": 0
-    },
-    "55": {
-      "saturation": 0.5928324724397832,
-      "sellers": 0
-    },
-    "56": {
-      "saturation": 0.6698975692780199,
-      "sellers": 0
-    },
-    "57": {
-      "saturation": 0.5263917509934687,
-      "sellers": 0
-    },
-    "60": {
-      "saturation": 1.3356093526712802,
-      "sellers": 0
-    },
-    "61": {
-      "saturation": 1.2175134614101502,
-      "sellers": 0
-    },
-    "62": {
-      "saturation": 1.269398944072573,
-      "sellers": 0
-    },
-    "63": {
-      "saturation": 1.3198476368023668,
-      "sellers": 0
-    },
-    "64": {
-      "saturation": 1.3513152111554871,
-      "sellers": 0
-    },
-    "65": {
-      "saturation": 0.9010816695675554,
-      "sellers": 0
-    },
-    "67": {
-      "saturation": 0.49907035349101303,
-      "sellers": 0
-    },
-    "70": {
-      "saturation": 0.7930993505363045,
-      "sellers": 0
-    },
-    "71": {
-      "saturation": 1.034368060495755,
-      "sellers": 0
-    },
-    "91": {
-      "saturation": 1.273931704451815,
-      "sellers": 0
-    },
-    "94": {
-      "saturation": 1.2565449644357432,
-      "sellers": 0
-    },
-    "95": {
-      "saturation": 1.2932202295013404,
-      "sellers": 0
-    },
-    "96": {
-      "saturation": 1.2479376367356523,
-      "sellers": 0
-    },
-    "97": {
-      "saturation": 1.3043417479233008,
-      "sellers": 0
-    },
-    "98": {
-      "saturation": 0.7673793798072306,
-      "sellers": 0
-    },
-    "99": {
-      "saturation": 1.1901328539619749,
-      "sellers": 0
-    },
     "102": {
       "saturation": 1.024704994119199,
       "sellers": 0
@@ -154,6 +17,10 @@
       "saturation": 0.717423522476044,
       "sellers": 0
     },
+    "11": {
+      "saturation": 0.8488272152372963,
+      "sellers": 0
+    },
     "110": {
       "saturation": 0.7566097117206162,
       "sellers": 0
@@ -164,6 +31,10 @@
     },
     "119": {
       "saturation": 1.468595157825783,
+      "sellers": 0
+    },
+    "12": {
+      "saturation": 0.8392544838827211,
       "sellers": 0
     },
     "121": {
@@ -265,6 +136,135 @@
     "154": {
       "saturation": 0.5440519922275712,
       "sellers": 0
+    },
+    "24": {
+      "saturation": 0.7682600710643837,
+      "sellers": 0
+    },
+    "25": {
+      "saturation": 0.8824391683373094,
+      "sellers": 0
+    },
+    "26": {
+      "saturation": 0.7151775814814326,
+      "sellers": 0
+    },
+    "27": {
+      "saturation": 0.5707038515516428,
+      "sellers": 0
+    },
+    "28": {
+      "saturation": 0.69940626830034,
+      "sellers": 0
+    },
+    "3": {
+      "saturation": 1.4512940264283045,
+      "sellers": 0
+    },
+    "4": {
+      "saturation": 1.4561881081267425,
+      "sellers": 0
+    },
+    "5": {
+      "saturation": 1.5746735582317932,
+      "sellers": 0
+    },
+    "53": {
+      "saturation": 0.7034123811058175,
+      "sellers": 0
+    },
+    "54": {
+      "saturation": 0.7149839002764758,
+      "sellers": 0
+    },
+    "55": {
+      "saturation": 0.5928324724397832,
+      "sellers": 0
+    },
+    "56": {
+      "saturation": 0.6698975692780199,
+      "sellers": 0
+    },
+    "57": {
+      "saturation": 0.5263917509934687,
+      "sellers": 0
+    },
+    "60": {
+      "saturation": 1.3356093526712802,
+      "sellers": 0
+    },
+    "61": {
+      "saturation": 1.2175134614101502,
+      "sellers": 0
+    },
+    "62": {
+      "saturation": 1.269398944072573,
+      "sellers": 0
+    },
+    "63": {
+      "saturation": 1.3198476368023668,
+      "sellers": 0
+    },
+    "64": {
+      "saturation": 1.3513152111554871,
+      "sellers": 0
+    },
+    "65": {
+      "saturation": 0.9010816695675554,
+      "sellers": 0
+    },
+    "67": {
+      "saturation": 0.49907035349101303,
+      "sellers": 0
+    },
+    "7": {
+      "saturation": 1.4255214997709282,
+      "sellers": 0
+    },
+    "70": {
+      "saturation": 0.7930993505363045,
+      "sellers": 0
+    },
+    "71": {
+      "saturation": 1.034368060495755,
+      "sellers": 0
+    },
+    "8": {
+      "saturation": 1.3227446058933576,
+      "sellers": 0
+    },
+    "9": {
+      "saturation": 1.5274284478258962,
+      "sellers": 0
+    },
+    "91": {
+      "saturation": 1.273931704451815,
+      "sellers": 0
+    },
+    "94": {
+      "saturation": 1.2565449644357432,
+      "sellers": 0
+    },
+    "95": {
+      "saturation": 1.2932202295013404,
+      "sellers": 0
+    },
+    "96": {
+      "saturation": 1.2479376367356523,
+      "sellers": 0
+    },
+    "97": {
+      "saturation": 1.3043417479233008,
+      "sellers": 0
+    },
+    "98": {
+      "saturation": 0.7673793798072306,
+      "sellers": 0
+    },
+    "99": {
+      "saturation": 1.1901328539619749,
+      "sellers": 0
     }
-  }
+  },
+  "t": "2026-08-15T00:50:08.406Z"
 }
