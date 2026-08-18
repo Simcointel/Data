@@ -1,13 +1,12 @@
 {
-  "realm": "0",
+  "generatedAt": "2026-08-18T07:40:08.481Z",
   "latest": {
-    "companiesValue": 2101378357047,
     "activeCompanies": 26059,
     "bondsSold": 18374065000,
+    "companiesValue": 2101378357047,
     "totalBuildings": 303918
   },
   "latestIndexes": null,
   "latestInflation": null,
-  "generatedAt": "2026-08-18T07:40:08.481Z"
+  "realm": "0"
 }
-
