@@ -8,6 +8,7 @@
     "macro.json",
     "inflation.json",
     "indexes.json",
+    "index.json",
     "history.json",
     "forecast.json",
     "dependencies.json",
