@@ -10,6 +10,7 @@
     "indexes.json",
     "index.json",
     "history.json",
+    "government-orders.json",
     "forecast.json",
     "dependencies.json",
     "cycles.json"
