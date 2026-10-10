@@ -1,1 +1,15 @@
-{"latest":"government-orders-2026-10-10T08-27-15.070Z.json","files":["government-orders-2026-10-10T08-27-15.070Z.json","government-orders-2026-10-10T08-27-09.666Z.json"]}
+{
+  "directory": "snapshots/government/orders/realm-0",
+  "latest": "index.json",
+  "files": [
+    "index.json",
+    "government-orders-2026-10-10T08-27-15.070Z.json",
+    "government-orders-2026-10-10T08-27-09.666Z.json",
+    "government-orders-2026-10-10T07-13-35.439Z.json",
+    "government-orders-2026-10-10T07-13-30.114Z.json",
+    "government-orders-2026-10-10T07-05-20.731Z.json",
+    "government-orders-2026-10-10T07-05-15.328Z.json",
+    "government-orders-2026-10-10T06-57-29.851Z.json",
+    "government-orders-2026-10-10T06-57-24.525Z.json"
+  ]
+}
