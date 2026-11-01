@@ -1,7 +1,8 @@
 {
   "directory": "snapshots/market/realm-0",
-  "latest": "market-snapshot-2026-11-01T19-00-25.380Z.json",
+  "latest": "market-snapshot-2026-11-01T23-00-25.850Z.json",
   "files": [
+    "market-snapshot-2026-11-01T23-00-25.850Z.json",
     "market-snapshot-2026-11-01T19-00-25.380Z.json",
     "market-snapshot-2026-11-01T16-00-24.672Z.json",
     "market-snapshot-2026-11-01T15-50-14.626Z.json",
@@ -100,7 +101,6 @@
     "market-snapshot-2026-08-13T09-15-08.515Z.json",
     "market-snapshot-2026-08-13T07-55-05.987Z.json",
     "market-snapshot-2026-08-13T05-25-05.945Z.json",
-    "market-snapshot-2026-08-13T03-31-06.909Z.json",
-    "market-snapshot-2026-08-13T01-25-54.190Z.json"
+    "market-snapshot-2026-08-13T03-31-06.909Z.json"
   ]
 }
