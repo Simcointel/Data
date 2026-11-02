@@ -1,2654 +1,2654 @@
 [
   {
-    "quality": 0,
-    "dbLetter": 150,
     "averagePrice": 352.8081055607917,
-    "saturation": 1.1968242745445836,
+    "dbLetter": 150,
+    "quality": 0,
     "retailData": [
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 115.40506329113924,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-05",
         "demand": 0.28802323246858086,
-        "saturation": 1.4239535350628383,
-        "date": "2026-10-05"
+        "saturation": 1.4239535350628383
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 333.17309941520466,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-06",
         "demand": 0.3745978209143538,
-        "saturation": 1.2508043581712924,
-        "date": "2026-10-06"
+        "saturation": 1.2508043581712924
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 299.8557894736842,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-07",
         "demand": 0.45491384702802673,
-        "saturation": 1.0901723059439465,
-        "date": "2026-10-07"
+        "saturation": 1.0901723059439465
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 317.74485134155185,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-08",
         "demand": 0.18949474025173718,
-        "saturation": 1.6210105194965256,
-        "date": "2026-10-08"
+        "saturation": 1.6210105194965256
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 317.40434782608696,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-09",
         "demand": 0.2986009314169443,
-        "saturation": 1.4027981371661113,
-        "date": "2026-10-09"
+        "saturation": 1.4027981371661113
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 317.951854349292,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-10",
         "demand": 0.2095032256174042,
-        "saturation": 1.5809935487651916,
-        "date": "2026-10-10"
+        "saturation": 1.5809935487651916
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 302.3636363636364,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-11",
         "demand": 0.31386321320044386,
-        "saturation": 1.3722735735991123,
-        "date": "2026-10-11"
+        "saturation": 1.3722735735991123
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 301.03783783783786,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-12",
         "demand": 0.3984084533051092,
-        "saturation": 1.2031830933897816,
-        "date": "2026-10-12"
+        "saturation": 1.2031830933897816
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 425.6259351620948,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-13",
         "demand": 0.406843509591697,
-        "saturation": 1.186312980816606,
-        "date": "2026-10-13"
+        "saturation": 1.186312980816606
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 436.5440677966101,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-14",
         "demand": 0.4660441395731786,
-        "saturation": 1.0679117208536428,
-        "date": "2026-10-14"
+        "saturation": 1.0679117208536428
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 468.26458616010854,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-15",
         "demand": 0.44829170676701857,
-        "saturation": 1.1034165864659629,
-        "date": "2026-10-15"
+        "saturation": 1.1034165864659629
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 460.03492333901204,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-16",
         "demand": 0.48738939373054857,
-        "saturation": 1.0252212125389029,
-        "date": "2026-10-16"
+        "saturation": 1.0252212125389029
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 461.50514075887395,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-17",
         "demand": 0.4551520235765306,
-        "saturation": 1.0896959528469388,
-        "date": "2026-10-17"
+        "saturation": 1.0896959528469388
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 436.56459770114947,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-18",
         "demand": 0.5022889638996373,
-        "saturation": 0.9954220722007255,
-        "date": "2026-10-18"
+        "saturation": 0.9954220722007255
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 454.13910835214455,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-19",
         "demand": 0.3524229069034217,
-        "saturation": 1.2951541861931566,
-        "date": "2026-10-19"
+        "saturation": 1.2951541861931566
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 426.3907975460123,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-20",
         "demand": 0.4107375494246903,
-        "saturation": 1.1785249011506194,
-        "date": "2026-10-20"
+        "saturation": 1.1785249011506194
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 414.12187500000005,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-21",
         "demand": 0.47542444991473753,
-        "saturation": 1.049151100170525,
-        "date": "2026-10-21"
+        "saturation": 1.049151100170525
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 427.69886048660305,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-22",
         "demand": 0.34824572055840985,
-        "saturation": 1.3035085588831803,
-        "date": "2026-10-22"
+        "saturation": 1.3035085588831803
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 424.1244444444444,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-23",
         "demand": 0.41618820247163735,
-        "saturation": 1.1676235950567253,
-        "date": "2026-10-23"
+        "saturation": 1.1676235950567253
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 423.75893023255816,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-24",
         "demand": 0.36920941612187497,
-        "saturation": 1.26158116775625,
-        "date": "2026-10-24"
+        "saturation": 1.26158116775625
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 432.06728971962616,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-25",
         "demand": 0.4426267553326235,
-        "saturation": 1.114746489334753,
-        "date": "2026-10-25"
+        "saturation": 1.114746489334753
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 438.4758448873484,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-26",
         "demand": 0.25322893952402004,
-        "saturation": 1.49354212095196,
-        "date": "2026-10-26"
+        "saturation": 1.49354212095196
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 333.6194029850746,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-27",
         "demand": 0.3280152697182904,
-        "saturation": 1.3439694605634191,
-        "date": "2026-10-27"
+        "saturation": 1.3439694605634191
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 335.7644763042612,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-28",
         "demand": 0.27474347714093994,
-        "saturation": 1.4505130457181201,
-        "date": "2026-10-28"
+        "saturation": 1.4505130457181201
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 336.671624898949,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-29",
         "demand": 0.2296887625310985,
-        "saturation": 1.540622474937803,
-        "date": "2026-10-29"
+        "saturation": 1.540622474937803
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 298.1841137123746,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-30",
         "demand": 0.2998154007154097,
-        "saturation": 1.4003691985691806,
-        "date": "2026-10-30"
+        "saturation": 1.4003691985691806
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 328.8376923076923,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-31",
         "demand": 0.3798192492097532,
-        "saturation": 1.2403615015804936,
-        "date": "2026-10-31"
+        "saturation": 1.2403615015804936
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 352.8081055607917,
-        "amountSoldRestaurant": 0,
+        "date": "2026-11-01",
         "demand": 0.4015878627277082,
-        "saturation": 1.1968242745445836,
-        "date": "2026-11-01"
+        "saturation": 1.1968242745445836
       }
-    ]
+    ],
+    "saturation": 1.1968242745445836
   },
   {
-    "quality": 1,
-    "dbLetter": 150,
     "averagePrice": 800.3936774193548,
-    "saturation": 2.1123696181397142,
+    "dbLetter": 150,
+    "quality": 1,
     "retailData": [
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 886.1062283737024,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-05",
         "demand": 0.21427768048809914,
-        "saturation": 1.5714446390238017,
-        "date": "2026-10-05"
+        "saturation": 1.5714446390238017
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 865.2900000000002,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-06",
         "demand": 0.3177328076817115,
-        "saturation": 1.364534384636577,
-        "date": "2026-10-06"
+        "saturation": 1.364534384636577
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 920.8535071384233,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-07",
         "demand": 0.21322924973169988,
-        "saturation": 1.5735415005366002,
-        "date": "2026-10-07"
+        "saturation": 1.5735415005366002
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 695.91642228739,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-08",
         "demand": 0.27850949091757005,
-        "saturation": 1.44298101816486,
-        "date": "2026-10-08"
+        "saturation": 1.44298101816486
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 698.8150498164657,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-09",
         "demand": 0.14187698375802038,
-        "saturation": 1.7162460324839592,
-        "date": "2026-10-09"
+        "saturation": 1.7162460324839592
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 669.5912087912088,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-10",
         "demand": 0.2475575375043183,
-        "saturation": 1.5048849249913634,
-        "date": "2026-10-10"
+        "saturation": 1.5048849249913634
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 826.6625,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-11",
         "demand": 0.33417483804451165,
-        "saturation": 1.3316503239109767,
-        "date": "2026-10-11"
+        "saturation": 1.3316503239109767
       },
       {
-        "averagePrice": 903.2374876360041,
         "amountSoldRestaurant": 0,
+        "averagePrice": 903.2374876360041,
+        "date": "2026-10-12",
         "demand": 0.05531750026125526,
-        "saturation": 1.8893649994774895,
-        "date": "2026-10-12"
+        "saturation": 1.8893649994774895
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 903.2374876360041,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-13",
         "demand": 0.18413784113472043,
-        "saturation": 1.6317243177305591,
-        "date": "2026-10-13"
+        "saturation": 1.6317243177305591
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 903.2,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-14",
         "demand": 0.2949017301719403,
-        "saturation": 1.4101965396561194,
-        "date": "2026-10-14"
+        "saturation": 1.4101965396561194
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 991.634004474273,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-15",
         "demand": 0.33612289962683706,
-        "saturation": 1.3277542007463259,
-        "date": "2026-10-15"
+        "saturation": 1.3277542007463259
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 1020.8186717998076,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-16",
         "demand": 0.2987315360653898,
-        "saturation": 1.4025369278692204,
-        "date": "2026-10-16"
+        "saturation": 1.4025369278692204
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 956.6861607142857,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-17",
         "demand": 0.3663552657622663,
-        "saturation": 1.2672894684754674,
-        "date": "2026-10-17"
+        "saturation": 1.2672894684754674
       },
       {
-        "averagePrice": 920.0962320773591,
         "amountSoldRestaurant": 0,
+        "averagePrice": 920.0962320773591,
+        "date": "2026-10-18",
         "demand": 0.07825850376562993,
-        "saturation": 1.8434829924687401,
-        "date": "2026-10-18"
+        "saturation": 1.8434829924687401
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 920.0962320773591,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-19",
         "demand": 0.20395052597940766,
-        "saturation": 1.5920989480411847,
-        "date": "2026-10-19"
+        "saturation": 1.5920989480411847
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 861.8862068965517,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-20",
         "demand": 0.2627011816407653,
-        "saturation": 1.4745976367184694,
-        "date": "2026-10-20"
+        "saturation": 1.4745976367184694
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 767.3785714285714,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-21",
         "demand": 0.3546740006691048,
-        "saturation": 1.2906519986617904,
-        "date": "2026-10-21"
+        "saturation": 1.2906519986617904
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 1035.976650563607,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-22",
         "demand": 0.2906557510734259,
-        "saturation": 1.4186884978531482,
-        "date": "2026-10-22"
+        "saturation": 1.4186884978531482
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 1036.229023383769,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-23",
         "demand": 0.3028380406386789,
-        "saturation": 1.3943239187226422,
-        "date": "2026-10-23"
+        "saturation": 1.3943239187226422
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 1037.1732142857143,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-24",
         "demand": 0.38471672247398203,
-        "saturation": 1.230566555052036,
-        "date": "2026-10-24"
+        "saturation": 1.230566555052036
       },
       {
-        "averagePrice": 1177.8535433070867,
         "amountSoldRestaurant": 0,
+        "averagePrice": 1177.8535433070867,
+        "date": "2026-10-25",
         "demand": -0.21929336089046814,
-        "saturation": 2.4385867217809363,
-        "date": "2026-10-25"
+        "saturation": 2.4385867217809363
       },
       {
-        "averagePrice": 1177.8535433070867,
         "amountSoldRestaurant": 0,
+        "averagePrice": 1177.8535433070867,
+        "date": "2026-10-26",
         "demand": -0.05302608440540424,
-        "saturation": 2.1060521688108085,
-        "date": "2026-10-26"
+        "saturation": 2.1060521688108085
       },
       {
-        "averagePrice": 1177.8535433070867,
         "amountSoldRestaurant": 0,
+        "averagePrice": 1177.8535433070867,
+        "date": "2026-10-27",
         "demand": 0.09056838164987824,
-        "saturation": 1.8188632367002435,
-        "date": "2026-10-27"
+        "saturation": 1.8188632367002435
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 1177.8535433070867,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-28",
         "demand": 0.21458178415216755,
-        "saturation": 1.570836431695665,
-        "date": "2026-10-28"
+        "saturation": 1.570836431695665
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 703.3054187192118,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-29",
         "demand": 0.27443685298710063,
-        "saturation": 1.4511262940257987,
-        "date": "2026-10-29"
+        "saturation": 1.4511262940257987
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 706.3149253731342,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-30",
         "demand": 0.21689843126607278,
-        "saturation": 1.5662031374678544,
-        "date": "2026-10-30"
+        "saturation": 1.5662031374678544
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 751.3246153846154,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-31",
         "demand": 0.3082091392307804,
-        "saturation": 1.3835817215384392,
-        "date": "2026-10-31"
+        "saturation": 1.3835817215384392
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 800.3936774193548,
-        "amountSoldRestaurant": 0,
+        "date": "2026-11-01",
         "demand": -0.05618480906985712,
-        "saturation": 2.1123696181397142,
-        "date": "2026-11-01"
+        "saturation": 2.1123696181397142
       }
-    ]
+    ],
+    "saturation": 2.1123696181397142
   },
   {
-    "quality": 2,
-    "dbLetter": 150,
     "averagePrice": 2204.412987012987,
-    "saturation": 1.5681833495627433,
+    "dbLetter": 150,
+    "quality": 2,
     "retailData": [
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 1883.1,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-05",
         "demand": 0.328836906128008,
-        "saturation": 1.342326187743984,
-        "date": "2026-10-05"
+        "saturation": 1.342326187743984
       },
       {
-        "averagePrice": 2064.5191074523395,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2064.5191074523395,
+        "date": "2026-10-06",
         "demand": -0.14722813233652898,
-        "saturation": 2.294456264673058,
-        "date": "2026-10-06"
+        "saturation": 2.294456264673058
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2064.5191074523395,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-07",
         "demand": 0.00921206752754311,
-        "saturation": 1.9815758649449138,
-        "date": "2026-10-07"
+        "saturation": 1.9815758649449138
       },
       {
-        "averagePrice": 1000,
         "amountSoldRestaurant": 0,
+        "averagePrice": 1000,
+        "date": "2026-10-08",
         "demand": 0.14382676589337362,
-        "saturation": 1.7123464682132528,
-        "date": "2026-10-08"
+        "saturation": 1.7123464682132528
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 1000,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-09",
         "demand": 0.2521973807992349,
-        "saturation": 1.4956052384015301,
-        "date": "2026-10-09"
+        "saturation": 1.4956052384015301
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 1939.215909090909,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-10",
         "demand": 0.2883954675282604,
-        "saturation": 1.4232090649434792,
-        "date": "2026-10-10"
+        "saturation": 1.4232090649434792
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2007.527041742287,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-11",
         "demand": 0.11013064048301657,
-        "saturation": 1.7797387190339669,
-        "date": "2026-10-11"
+        "saturation": 1.7797387190339669
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 1048.2173913043478,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-12",
         "demand": 0.20905117085347158,
-        "saturation": 1.5818976582930568,
-        "date": "2026-10-12"
+        "saturation": 1.5818976582930568
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 1048.2,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-13",
         "demand": 0.3149500530242897,
-        "saturation": 1.3700998939514206,
-        "date": "2026-10-13"
+        "saturation": 1.3700998939514206
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2190,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-14",
         "demand": 0.27948498327773286,
-        "saturation": 1.4410300334445343,
-        "date": "2026-10-14"
+        "saturation": 1.4410300334445343
       },
       {
-        "averagePrice": 2210.4002770083102,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2210.4002770083102,
+        "date": "2026-10-15",
         "demand": 0.20029432268921987,
-        "saturation": 1.5994113546215603,
-        "date": "2026-10-15"
+        "saturation": 1.5994113546215603
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2210.4002770083102,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-16",
         "demand": 0.30934509686796263,
-        "saturation": 1.3813098062640747,
-        "date": "2026-10-16"
+        "saturation": 1.3813098062640747
       },
       {
-        "averagePrice": 2209.767100977199,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2209.767100977199,
+        "date": "2026-10-17",
         "demand": 0.09648377698487631,
-        "saturation": 1.8070324460302474,
-        "date": "2026-10-17"
+        "saturation": 1.8070324460302474
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2209.767100977199,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-18",
         "demand": 0.21969053466875677,
-        "saturation": 1.5606189306624865,
-        "date": "2026-10-18"
+        "saturation": 1.5606189306624865
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2144.279069767442,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-19",
         "demand": 0.31552906048832774,
-        "saturation": 1.3689418790233445,
-        "date": "2026-10-19"
+        "saturation": 1.3689418790233445
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2204.1018119068162,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-20",
         "demand": 0.12453107550093556,
-        "saturation": 1.7509378489981289,
-        "date": "2026-10-20"
+        "saturation": 1.7509378489981289
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 1204,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-21",
         "demand": 0.23975163608883132,
-        "saturation": 1.5204967278223374,
-        "date": "2026-10-21"
+        "saturation": 1.5204967278223374
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 1438.4661016949153,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-22",
         "demand": 0.32897900485692877,
-        "saturation": 1.3420419902861425,
-        "date": "2026-10-22"
+        "saturation": 1.3420419902861425
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2396.657142857143,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-23",
         "demand": 0.4123412171904881,
-        "saturation": 1.1753175656190238,
-        "date": "2026-10-23"
+        "saturation": 1.1753175656190238
       },
       {
-        "averagePrice": 2546.8925898203593,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2546.8925898203593,
+        "date": "2026-10-24",
         "demand": -0.7661173793645415,
-        "saturation": 3.532234758729083,
-        "date": "2026-10-24"
+        "saturation": 3.532234758729083
       },
       {
-        "averagePrice": 2546.8925898203593,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2546.8925898203593,
+        "date": "2026-10-25",
         "demand": -0.5252831912693767,
-        "saturation": 3.0505663825387535,
-        "date": "2026-10-25"
+        "saturation": 3.0505663825387535
       },
       {
-        "averagePrice": 2546.8925898203593,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2546.8925898203593,
+        "date": "2026-10-26",
         "demand": -0.3172900288235525,
-        "saturation": 2.634580057647105,
-        "date": "2026-10-26"
+        "saturation": 2.634580057647105
       },
       {
-        "averagePrice": 2546.8925898203593,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2546.8925898203593,
+        "date": "2026-10-27",
         "demand": -0.13765957034761356,
-        "saturation": 2.275319140695227,
-        "date": "2026-10-27"
+        "saturation": 2.275319140695227
       },
       {
-        "averagePrice": 2546.8925898203593,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2546.8925898203593,
+        "date": "2026-10-28",
         "demand": 0.01747582560887917,
-        "saturation": 1.9650483487822417,
-        "date": "2026-10-28"
+        "saturation": 1.9650483487822417
       },
       {
-        "averagePrice": 2546.8925898203593,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2546.8925898203593,
+        "date": "2026-10-29",
         "demand": 0.15145639484403206,
-        "saturation": 1.6970872103119359,
-        "date": "2026-10-29"
+        "saturation": 1.6970872103119359
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2546.8925898203593,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-30",
         "demand": 0.26716688645620956,
-        "saturation": 1.4656662270875809,
-        "date": "2026-10-30"
+        "saturation": 1.4656662270875809
       },
       {
-        "averagePrice": 2204.412987012987,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2204.412987012987,
+        "date": "2026-10-31",
         "demand": 0.092104376568938,
-        "saturation": 1.815791246862124,
-        "date": "2026-10-31"
+        "saturation": 1.815791246862124
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2204.412987012987,
-        "amountSoldRestaurant": 0,
+        "date": "2026-11-01",
         "demand": 0.21590832521862835,
-        "saturation": 1.5681833495627433,
-        "date": "2026-11-01"
+        "saturation": 1.5681833495627433
       }
-    ]
+    ],
+    "saturation": 1.5681833495627433
   },
   {
-    "quality": 3,
-    "dbLetter": 150,
     "averagePrice": 1700,
-    "saturation": 1.8852378454619816,
+    "dbLetter": 150,
+    "quality": 3,
     "retailData": [
       {
-        "averagePrice": 1700,
         "amountSoldRestaurant": 0,
+        "averagePrice": 1700,
+        "date": "2026-10-05",
         "demand": -0.007138688388160341,
-        "saturation": 2.0142773767763207,
-        "date": "2026-10-05"
+        "saturation": 2.0142773767763207
       },
       {
-        "averagePrice": 1700,
         "amountSoldRestaurant": 0,
+        "averagePrice": 1700,
+        "date": "2026-10-06",
         "demand": 0.12577181492243095,
-        "saturation": 1.748456370155138,
-        "date": "2026-10-06"
+        "saturation": 1.748456370155138
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2079.2332613390927,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-07",
         "demand": 0.017893459661559863,
-        "saturation": 1.9642130806768803,
-        "date": "2026-10-07"
+        "saturation": 1.9642130806768803
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 1900,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-08",
         "demand": 0.1370346696589383,
-        "saturation": 1.7259306606821234,
-        "date": "2026-10-08"
+        "saturation": 1.7259306606821234
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2923.5618279569894,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-09",
         "demand": 0.07133150114013742,
-        "saturation": 1.8573369977197252,
-        "date": "2026-10-09"
+        "saturation": 1.8573369977197252
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2538.5454545454545,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-10",
         "demand": 0.19248686481207422,
-        "saturation": 1.6150262703758516,
-        "date": "2026-10-10"
+        "saturation": 1.6150262703758516
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 3541.2691588785046,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-11",
         "demand": -0.23201283535404382,
-        "saturation": 2.4640256707080876,
-        "date": "2026-10-11"
+        "saturation": 2.4640256707080876
       },
       {
-        "averagePrice": 1688.5,
         "amountSoldRestaurant": 0,
+        "averagePrice": 1688.5,
+        "date": "2026-10-12",
         "demand": -0.07376121176625805,
-        "saturation": 2.147522423532516,
-        "date": "2026-10-12"
+        "saturation": 2.147522423532516
       },
       {
-        "averagePrice": 1688.5,
         "amountSoldRestaurant": 0,
+        "averagePrice": 1688.5,
+        "date": "2026-10-13",
         "demand": 0.033505244673150636,
-        "saturation": 1.9329895106536987,
-        "date": "2026-10-13"
+        "saturation": 1.9329895106536987
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 1688.5,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-14",
         "demand": 0.16529998403590285,
-        "saturation": 1.6694000319281943,
-        "date": "2026-10-14"
+        "saturation": 1.6694000319281943
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2864.6875,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-15",
         "demand": 0.12183277812965876,
-        "saturation": 1.7563344437406825,
-        "date": "2026-10-15"
+        "saturation": 1.7563344437406825
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2877.6470588235293,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-16",
         "demand": 0.21646669209753444,
-        "saturation": 1.5670666158049311,
-        "date": "2026-10-16"
+        "saturation": 1.5670666158049311
       },
       {
-        "averagePrice": 3461.899613899614,
         "amountSoldRestaurant": 0,
+        "averagePrice": 3461.899613899614,
+        "date": "2026-10-17",
         "demand": 0.06427710313554935,
-        "saturation": 1.8714457937289013,
-        "date": "2026-10-17"
+        "saturation": 1.8714457937289013
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 3461.899613899614,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-18",
         "demand": 0.19187567998070176,
-        "saturation": 1.6162486400385965,
-        "date": "2026-10-18"
+        "saturation": 1.6162486400385965
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 3586.05530726257,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-19",
         "demand": 0.1261164457955657,
-        "saturation": 1.7477671084088686,
-        "date": "2026-10-19"
+        "saturation": 1.7477671084088686
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2960,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-20",
         "demand": 0.2408664844331131,
-        "saturation": 1.5182670311337738,
-        "date": "2026-10-20"
+        "saturation": 1.5182670311337738
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 3662.0064599483203,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-21",
         "demand": -0.4135098222263598,
-        "saturation": 2.8270196444527196,
-        "date": "2026-10-21"
+        "saturation": 2.8270196444527196
       },
       {
-        "averagePrice": 1667,
         "amountSoldRestaurant": 0,
+        "averagePrice": 1667,
+        "date": "2026-10-22",
         "demand": -0.2212480713970879,
-        "saturation": 2.442496142794176,
-        "date": "2026-10-22"
+        "saturation": 2.442496142794176
       },
       {
-        "averagePrice": 1667,
         "amountSoldRestaurant": 0,
+        "averagePrice": 1667,
+        "date": "2026-10-23",
         "demand": -0.06262230410149905,
-        "saturation": 2.125244608202998,
-        "date": "2026-10-23"
+        "saturation": 2.125244608202998
       },
       {
-        "averagePrice": 1667,
         "amountSoldRestaurant": 0,
+        "averagePrice": 1667,
+        "date": "2026-10-24",
         "demand": 0.08228073736688712,
-        "saturation": 1.8354385252662258,
-        "date": "2026-10-24"
+        "saturation": 1.8354385252662258
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 1667,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-25",
         "demand": 0.2074242731804934,
-        "saturation": 1.5851514536390132,
-        "date": "2026-10-25"
+        "saturation": 1.5851514536390132
       },
       {
-        "averagePrice": 2994.703181272509,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2994.703181272509,
+        "date": "2026-10-26",
         "demand": -1.2171205401647405,
-        "saturation": 4.434241080329481,
-        "date": "2026-10-26"
+        "saturation": 4.434241080329481
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2994.703181272509,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-27",
         "demand": -0.9147859210513669,
-        "saturation": 3.829571842102734,
-        "date": "2026-10-27"
+        "saturation": 3.829571842102734
       },
       {
-        "averagePrice": 1700,
         "amountSoldRestaurant": 0,
+        "averagePrice": 1700,
+        "date": "2026-10-28",
         "demand": -0.6675287929121121,
-        "saturation": 3.335057585824224,
-        "date": "2026-10-28"
+        "saturation": 3.335057585824224
       },
       {
-        "averagePrice": 1700,
         "amountSoldRestaurant": 0,
+        "averagePrice": 1700,
+        "date": "2026-10-29",
         "demand": -0.45503423976381874,
-        "saturation": 2.9100684795276375,
-        "date": "2026-10-29"
+        "saturation": 2.9100684795276375
       },
       {
-        "averagePrice": 1700,
         "amountSoldRestaurant": 0,
+        "averagePrice": 1700,
+        "date": "2026-10-30",
         "demand": -0.2566204797960252,
-        "saturation": 2.5132409595920504,
-        "date": "2026-10-30"
+        "saturation": 2.5132409595920504
       },
       {
-        "averagePrice": 1700,
         "amountSoldRestaurant": 0,
+        "averagePrice": 1700,
+        "date": "2026-10-31",
         "demand": -0.09145348947798926,
-        "saturation": 2.1829069789559785,
-        "date": "2026-10-31"
+        "saturation": 2.1829069789559785
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 1700,
-        "amountSoldRestaurant": 0,
+        "date": "2026-11-01",
         "demand": 0.057381077269009206,
-        "saturation": 1.8852378454619816,
-        "date": "2026-11-01"
+        "saturation": 1.8852378454619816
       }
-    ]
+    ],
+    "saturation": 1.8852378454619816
   },
   {
-    "quality": 4,
-    "dbLetter": 150,
     "averagePrice": 5815.516788321168,
-    "saturation": 2.9974514323497887,
+    "dbLetter": 150,
+    "quality": 4,
     "retailData": [
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 5554.981308411215,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-05",
         "demand": 0.006497874889435207,
-        "saturation": 1.9870042502211296,
-        "date": "2026-10-05"
+        "saturation": 1.9870042502211296
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 3556,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-06",
         "demand": 0.1380406902396042,
-        "saturation": 1.7239186195207916,
-        "date": "2026-10-06"
+        "saturation": 1.7239186195207916
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 5149.39263803681,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-07",
         "demand": -0.06421102550911661,
-        "saturation": 2.1284220510182332,
-        "date": "2026-10-07"
+        "saturation": 2.1284220510182332
       },
       {
-        "averagePrice": 3109,
         "amountSoldRestaurant": 0,
+        "averagePrice": 3109,
+        "date": "2026-10-08",
         "demand": 0.07992316584493564,
-        "saturation": 1.8401536683101287,
-        "date": "2026-10-08"
+        "saturation": 1.8401536683101287
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 3109,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-09",
         "demand": 0.20538818868426256,
-        "saturation": 1.5892236226314749,
-        "date": "2026-10-09"
+        "saturation": 1.5892236226314749
       },
       {
-        "averagePrice": 6793.801129943503,
         "amountSoldRestaurant": 0,
+        "averagePrice": 6793.801129943503,
+        "date": "2026-10-10",
         "demand": -0.5682385790315698,
-        "saturation": 3.1364771580631396,
-        "date": "2026-10-10"
+        "saturation": 3.1364771580631396
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 6793.801129943503,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-11",
         "demand": -0.35438786370908293,
-        "saturation": 2.708775727418166,
-        "date": "2026-10-11"
+        "saturation": 2.708775727418166
       },
       {
-        "averagePrice": 3098,
         "amountSoldRestaurant": 0,
+        "averagePrice": 3098,
+        "date": "2026-10-12",
         "demand": -0.17067362223571192,
-        "saturation": 2.341347244471424,
-        "date": "2026-10-12"
+        "saturation": 2.341347244471424
       },
       {
-        "averagePrice": 3098,
         "amountSoldRestaurant": 0,
+        "averagePrice": 3098,
+        "date": "2026-10-13",
         "demand": -0.011036310112660264,
-        "saturation": 2.0220726202253205,
-        "date": "2026-10-13"
+        "saturation": 2.0220726202253205
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 3098,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-14",
         "demand": 0.12683227762997518,
-        "saturation": 1.7463354447400496,
-        "date": "2026-10-14"
+        "saturation": 1.7463354447400496
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 4827.090909090909,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-15",
         "demand": 0.06206799146050512,
-        "saturation": 1.8758640170789898,
-        "date": "2026-10-15"
+        "saturation": 1.8758640170789898
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 3890,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-16",
         "demand": 0.1889828632875169,
-        "saturation": 1.6220342734249662,
-        "date": "2026-10-16"
+        "saturation": 1.6220342734249662
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 5801.806451612903,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-17",
         "demand": 0.11355094531341725,
-        "saturation": 1.7728981093731655,
-        "date": "2026-10-17"
+        "saturation": 1.7728981093731655
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 5755.6,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-18",
         "demand": 0.22943532535448574,
-        "saturation": 1.5411293492910285,
-        "date": "2026-10-18"
+        "saturation": 1.5411293492910285
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 6295.662805662806,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-19",
         "demand": -0.4292830364639646,
-        "saturation": 2.858566072927929,
-        "date": "2026-10-19"
+        "saturation": 2.858566072927929
       },
       {
-        "averagePrice": 3296,
         "amountSoldRestaurant": 0,
+        "averagePrice": 3296,
+        "date": "2026-10-20",
         "demand": -0.23536211545713348,
-        "saturation": 2.470724230914267,
-        "date": "2026-10-20"
+        "saturation": 2.470724230914267
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 3296,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-21",
         "demand": -0.06690364516752445,
-        "saturation": 2.133807290335049,
-        "date": "2026-10-21"
+        "saturation": 2.133807290335049
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 3141,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-22",
         "demand": 0.07662486127621115,
-        "saturation": 1.8467502774475777,
-        "date": "2026-10-22"
+        "saturation": 1.8467502774475777
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 4583,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-23",
         "demand": 0.17835029101717648,
-        "saturation": 1.643299417965647,
-        "date": "2026-10-23"
+        "saturation": 1.643299417965647
       },
       {
-        "averagePrice": 5798.674752920036,
         "amountSoldRestaurant": 0,
+        "averagePrice": 5798.674752920036,
+        "date": "2026-10-24",
         "demand": -0.7581207840183521,
-        "saturation": 3.5162415680367043,
-        "date": "2026-10-24"
+        "saturation": 3.5162415680367043
       },
       {
-        "averagePrice": 5798.674752920036,
         "amountSoldRestaurant": 0,
+        "averagePrice": 5798.674752920036,
+        "date": "2026-10-25",
         "demand": -0.5183770407431223,
-        "saturation": 3.0367540814862446,
-        "date": "2026-10-25"
+        "saturation": 3.0367540814862446
       },
       {
-        "averagePrice": 5798.674752920036,
         "amountSoldRestaurant": 0,
+        "averagePrice": 5798.674752920036,
+        "date": "2026-10-26",
         "demand": -0.31132562609633285,
-        "saturation": 2.6226512521926657,
-        "date": "2026-10-26"
+        "saturation": 2.6226512521926657
       },
       {
-        "averagePrice": 5798.674752920036,
         "amountSoldRestaurant": 0,
+        "averagePrice": 5798.674752920036,
+        "date": "2026-10-27",
         "demand": -0.13250849526501463,
-        "saturation": 2.2650169905300293,
-        "date": "2026-10-27"
+        "saturation": 2.2650169905300293
       },
       {
-        "averagePrice": 5798.674752920036,
         "amountSoldRestaurant": 0,
+        "averagePrice": 5798.674752920036,
+        "date": "2026-10-28",
         "demand": 0.021924481362032844,
-        "saturation": 1.9561510372759343,
-        "date": "2026-10-28"
+        "saturation": 1.9561510372759343
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 5798.674752920036,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-29",
         "demand": 0.15529841572175573,
-        "saturation": 1.6894031685564885,
-        "date": "2026-10-29"
+        "saturation": 1.6894031685564885
       },
       {
-        "averagePrice": 5815.516788321168,
         "amountSoldRestaurant": 0,
+        "averagePrice": 5815.516788321168,
+        "date": "2026-10-30",
         "demand": -1.009371874317587,
-        "saturation": 4.018743748635174,
-        "date": "2026-10-30"
+        "saturation": 4.018743748635174
       },
       {
-        "averagePrice": 5815.516788321168,
         "amountSoldRestaurant": 0,
+        "averagePrice": 5815.516788321168,
+        "date": "2026-10-31",
         "demand": -0.735366618728825,
-        "saturation": 3.47073323745765,
-        "date": "2026-10-31"
+        "saturation": 3.47073323745765
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 5815.516788321168,
-        "amountSoldRestaurant": 0,
+        "date": "2026-11-01",
         "demand": -0.49872571617489436,
-        "saturation": 2.9974514323497887,
-        "date": "2026-11-01"
+        "saturation": 2.9974514323497887
       }
-    ]
+    ],
+    "saturation": 2.9974514323497887
   },
   {
-    "quality": 5,
-    "dbLetter": 150,
     "averagePrice": 6920,
-    "saturation": 2.647854287322368,
+    "dbLetter": 150,
+    "quality": 5,
     "retailData": [
       {
-        "averagePrice": 14904.5589066918,
         "amountSoldRestaurant": 0,
+        "averagePrice": 14904.5589066918,
+        "date": "2026-10-05",
         "demand": -1.7486857598551206,
-        "saturation": 5.497371519710241,
-        "date": "2026-10-05"
+        "saturation": 5.497371519710241
       },
       {
-        "averagePrice": 14904.5589066918,
         "amountSoldRestaurant": 0,
+        "averagePrice": 14904.5589066918,
+        "date": "2026-10-06",
         "demand": -1.3738649744203313,
-        "saturation": 4.747729948840663,
-        "date": "2026-10-06"
+        "saturation": 4.747729948840663
       },
       {
-        "averagePrice": 14904.5589066918,
         "amountSoldRestaurant": 0,
+        "averagePrice": 14904.5589066918,
+        "date": "2026-10-07",
         "demand": -1.0501561142721045,
-        "saturation": 4.100312228544209,
-        "date": "2026-10-07"
+        "saturation": 4.100312228544209
       },
       {
-        "averagePrice": 14904.5589066918,
         "amountSoldRestaurant": 0,
+        "averagePrice": 14904.5589066918,
+        "date": "2026-10-08",
         "demand": -0.7705893714168177,
-        "saturation": 3.5411787428336354,
-        "date": "2026-10-08"
+        "saturation": 3.5411787428336354
       },
       {
-        "averagePrice": 14904.5589066918,
         "amountSoldRestaurant": 0,
+        "averagePrice": 14904.5589066918,
+        "date": "2026-10-09",
         "demand": -0.5291453662236154,
-        "saturation": 3.058290732447231,
-        "date": "2026-10-09"
+        "saturation": 3.058290732447231
       },
       {
-        "averagePrice": 14904.5589066918,
         "amountSoldRestaurant": 0,
+        "averagePrice": 14904.5589066918,
+        "date": "2026-10-10",
         "demand": -0.3206255435567589,
-        "saturation": 2.6412510871135177,
-        "date": "2026-10-10"
+        "saturation": 2.6412510871135177
       },
       {
-        "averagePrice": 14904.5589066918,
         "amountSoldRestaurant": 0,
+        "averagePrice": 14904.5589066918,
+        "date": "2026-10-11",
         "demand": -0.14054024216265537,
-        "saturation": 2.2810804843253107,
-        "date": "2026-10-11"
+        "saturation": 2.2810804843253107
       },
       {
-        "averagePrice": 14904.5589066918,
         "amountSoldRestaurant": 0,
+        "averagePrice": 14904.5589066918,
+        "date": "2026-10-12",
         "demand": 0.014987972677706796,
-        "saturation": 1.9700240546445864,
-        "date": "2026-10-12"
+        "saturation": 1.9700240546445864
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 14904.5589066918,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-13",
         "demand": 0.1493077945852922,
-        "saturation": 1.7013844108294156,
-        "date": "2026-10-13"
+        "saturation": 1.7013844108294156
       },
       {
-        "averagePrice": 13862.357723577235,
         "amountSoldRestaurant": 0,
+        "averagePrice": 13862.357723577235,
+        "date": "2026-10-14",
         "demand": 0.024210752310720007,
-        "saturation": 1.95157849537856,
-        "date": "2026-10-14"
+        "saturation": 1.95157849537856
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 13862.357723577235,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-15",
         "demand": 0.15727292245016733,
-        "saturation": 1.6854541550996653,
-        "date": "2026-10-15"
+        "saturation": 1.6854541550996653
       },
       {
-        "averagePrice": 13657.998123827392,
         "amountSoldRestaurant": 0,
+        "averagePrice": 13657.998123827392,
+        "date": "2026-10-16",
         "demand": -0.7777638043487058,
-        "saturation": 3.5555276086974117,
-        "date": "2026-10-16"
+        "saturation": 3.5555276086974117
       },
       {
-        "averagePrice": 13657.998123827392,
         "amountSoldRestaurant": 0,
+        "averagePrice": 13657.998123827392,
+        "date": "2026-10-17",
         "demand": -0.535341467392064,
-        "saturation": 3.070682934784128,
-        "date": "2026-10-17"
+        "saturation": 3.070682934784128
       },
       {
-        "averagePrice": 13657.998123827392,
         "amountSoldRestaurant": 0,
+        "averagePrice": 13657.998123827392,
+        "date": "2026-10-18",
         "demand": -0.3259767218386007,
-        "saturation": 2.6519534436772014,
-        "date": "2026-10-18"
+        "saturation": 2.6519534436772014
       },
       {
-        "averagePrice": 13657.998123827392,
         "amountSoldRestaurant": 0,
+        "averagePrice": 13657.998123827392,
+        "date": "2026-10-19",
         "demand": -0.14516171431515512,
-        "saturation": 2.2903234286303102,
-        "date": "2026-10-19"
+        "saturation": 2.2903234286303102
       },
       {
-        "averagePrice": 13657.998123827392,
         "amountSoldRestaurant": 0,
+        "averagePrice": 13657.998123827392,
+        "date": "2026-10-20",
         "demand": 0.010996701273275122,
-        "saturation": 1.9780065974534498,
-        "date": "2026-10-20"
+        "saturation": 1.9780065974534498
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 13657.998123827392,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-21",
         "demand": 0.14586078746328301,
-        "saturation": 1.708278425073434,
-        "date": "2026-10-21"
+        "saturation": 1.708278425073434
       },
       {
-        "averagePrice": 13583.867595818816,
         "amountSoldRestaurant": 0,
+        "averagePrice": 13583.867595818816,
+        "date": "2026-10-22",
         "demand": -0.8617610293263795,
-        "saturation": 3.723522058652759,
-        "date": "2026-10-22"
+        "saturation": 3.723522058652759
       },
       {
-        "averagePrice": 13583.867595818816,
         "amountSoldRestaurant": 0,
+        "averagePrice": 13583.867595818816,
+        "date": "2026-10-23",
         "demand": -0.607884525327328,
-        "saturation": 3.215769050654656,
-        "date": "2026-10-23"
+        "saturation": 3.215769050654656
       },
       {
-        "averagePrice": 13583.867595818816,
         "amountSoldRestaurant": 0,
+        "averagePrice": 13583.867595818816,
+        "date": "2026-10-24",
         "demand": -0.38862754460087423,
-        "saturation": 2.7772550892017485,
-        "date": "2026-10-24"
+        "saturation": 2.7772550892017485
       },
       {
-        "averagePrice": 13583.867595818816,
         "amountSoldRestaurant": 0,
+        "averagePrice": 13583.867595818816,
+        "date": "2026-10-25",
         "demand": -0.19926924306439142,
-        "saturation": 2.398538486128783,
-        "date": "2026-10-25"
+        "saturation": 2.398538486128783
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 13583.867595818816,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-26",
         "demand": -0.0357325281010652,
-        "saturation": 2.0714650562021304,
-        "date": "2026-10-26"
+        "saturation": 2.0714650562021304
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 5833,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-27",
         "demand": 0.10181300168574847,
-        "saturation": 1.796373996628503,
-        "date": "2026-10-27"
+        "saturation": 1.796373996628503
       },
       {
-        "averagePrice": 7490.116788321168,
         "amountSoldRestaurant": 0,
+        "averagePrice": 7490.116788321168,
+        "date": "2026-10-28",
         "demand": -0.02870107030411595,
-        "saturation": 2.057402140608232,
-        "date": "2026-10-28"
+        "saturation": 2.057402140608232
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 7490.116788321168,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-29",
         "demand": 0.1115763483737181,
-        "saturation": 1.7768473032525638,
-        "date": "2026-10-29"
+        "saturation": 1.7768473032525638
       },
       {
-        "averagePrice": 10623.276951672862,
         "amountSoldRestaurant": 0,
+        "averagePrice": 10623.276951672862,
+        "date": "2026-10-30",
         "demand": -0.7724764257363508,
-        "saturation": 3.5449528514727016,
-        "date": "2026-10-30"
+        "saturation": 3.5449528514727016
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 10623.276951672862,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-31",
         "demand": -0.5307750949541212,
-        "saturation": 3.0615501899082425,
-        "date": "2026-10-31"
+        "saturation": 3.0615501899082425
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 6920,
-        "amountSoldRestaurant": 0,
+        "date": "2026-11-01",
         "demand": -0.3239271436611839,
-        "saturation": 2.647854287322368,
-        "date": "2026-11-01"
+        "saturation": 2.647854287322368
       }
-    ]
+    ],
+    "saturation": 2.647854287322368
   },
   {
-    "quality": 6,
-    "dbLetter": 150,
     "averagePrice": 11965,
-    "saturation": 4.54971771815103,
+    "dbLetter": 150,
+    "quality": 6,
     "retailData": [
       {
-        "averagePrice": 24555.364620938628,
         "amountSoldRestaurant": 0,
+        "averagePrice": 24555.364620938628,
+        "date": "2026-10-05",
         "demand": 0.0009533640763588203,
-        "saturation": 1.9980932718472824,
-        "date": "2026-10-05"
+        "saturation": 1.9980932718472824
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 24555.364620938628,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-06",
         "demand": 0.13718699624776443,
-        "saturation": 1.7256260075044711,
-        "date": "2026-10-06"
+        "saturation": 1.7256260075044711
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 23872.317073170732,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-07",
         "demand": 0.0939665482341262,
-        "saturation": 1.8120669035317476,
-        "date": "2026-10-07"
+        "saturation": 1.8120669035317476
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 21766,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-08",
         "demand": 0.13079309743121992,
-        "saturation": 1.7384138051375602,
-        "date": "2026-10-08"
+        "saturation": 1.7384138051375602
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 21816.823960880196,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-09",
         "demand": -1.3636362356599903,
-        "saturation": 4.7272724713199805,
-        "date": "2026-10-09"
+        "saturation": 4.7272724713199805
       },
       {
-        "averagePrice": 17000,
         "amountSoldRestaurant": 0,
+        "averagePrice": 17000,
+        "date": "2026-10-10",
         "demand": -1.0652403845090617,
-        "saturation": 4.130480769018123,
-        "date": "2026-10-10"
+        "saturation": 4.130480769018123
       },
       {
-        "averagePrice": 17000,
         "amountSoldRestaurant": 0,
+        "averagePrice": 17000,
+        "date": "2026-10-11",
         "demand": -0.8315821651127524,
-        "saturation": 3.663164330225505,
-        "date": "2026-10-11"
+        "saturation": 3.663164330225505
       },
       {
-        "averagePrice": 17000,
         "amountSoldRestaurant": 0,
+        "averagePrice": 17000,
+        "date": "2026-10-12",
         "demand": -0.6052212648298325,
-        "saturation": 3.210442529659665,
-        "date": "2026-10-12"
+        "saturation": 3.210442529659665
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 17000,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-13",
         "demand": -0.38632745598940077,
-        "saturation": 2.7726549119788015,
-        "date": "2026-10-13"
+        "saturation": 2.7726549119788015
       },
       {
-        "averagePrice": 17080,
         "amountSoldRestaurant": 0,
+        "averagePrice": 17080,
+        "date": "2026-10-14",
         "demand": -0.23648614027085157,
-        "saturation": 2.472972280541703,
-        "date": "2026-10-14"
+        "saturation": 2.472972280541703
       },
       {
-        "averagePrice": 17080,
         "amountSoldRestaurant": 0,
+        "averagePrice": 17080,
+        "date": "2026-10-15",
         "demand": -0.06787439387028082,
-        "saturation": 2.1357487877405616,
-        "date": "2026-10-15"
+        "saturation": 2.1357487877405616
       },
       {
-        "averagePrice": 17080,
         "amountSoldRestaurant": 0,
+        "averagePrice": 17080,
+        "date": "2026-10-16",
         "demand": 0.07774484165748474,
-        "saturation": 1.8445103166850305,
-        "date": "2026-10-16"
+        "saturation": 1.8445103166850305
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 17080,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-17",
         "demand": 0.2035069087041913,
-        "saturation": 1.5929861825916174,
-        "date": "2026-10-17"
+        "saturation": 1.5929861825916174
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 19500,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-18",
         "demand": 0.21221887282976382,
-        "saturation": 1.5755622543404724,
-        "date": "2026-10-18"
+        "saturation": 1.5755622543404724
       },
       {
-        "averagePrice": 23930.154598825833,
         "amountSoldRestaurant": 0,
+        "averagePrice": 23930.154598825833,
+        "date": "2026-10-19",
         "demand": -1.6896199052060705,
-        "saturation": 5.379239810412141,
-        "date": "2026-10-19"
+        "saturation": 5.379239810412141
       },
       {
-        "averagePrice": 23930.154598825833,
         "amountSoldRestaurant": 0,
+        "averagePrice": 23930.154598825833,
+        "date": "2026-10-20",
         "demand": -1.322853554496152,
-        "saturation": 4.645707108992304,
-        "date": "2026-10-20"
+        "saturation": 4.645707108992304
       },
       {
-        "averagePrice": 23930.154598825833,
         "amountSoldRestaurant": 0,
+        "averagePrice": 23930.154598825833,
+        "date": "2026-10-21",
         "demand": -1.0061007970648586,
-        "saturation": 4.012201594129717,
-        "date": "2026-10-21"
+        "saturation": 4.012201594129717
       },
       {
-        "averagePrice": 23930.154598825833,
         "amountSoldRestaurant": 0,
+        "averagePrice": 23930.154598825833,
+        "date": "2026-10-22",
         "demand": -0.732541597465105,
-        "saturation": 3.46508319493021,
-        "date": "2026-10-22"
+        "saturation": 3.46508319493021
       },
       {
-        "averagePrice": 23930.154598825833,
         "amountSoldRestaurant": 0,
+        "averagePrice": 23930.154598825833,
+        "date": "2026-10-23",
         "demand": -0.4962859250834999,
-        "saturation": 2.992571850167,
-        "date": "2026-10-23"
+        "saturation": 2.992571850167
       },
       {
-        "averagePrice": 23930.154598825833,
         "amountSoldRestaurant": 0,
+        "averagePrice": 23930.154598825833,
+        "date": "2026-10-24",
         "demand": -0.29224693529938617,
-        "saturation": 2.5844938705987723,
-        "date": "2026-10-24"
+        "saturation": 2.5844938705987723
       },
       {
-        "averagePrice": 23930.154598825833,
         "amountSoldRestaurant": 0,
+        "averagePrice": 23930.154598825833,
+        "date": "2026-10-25",
         "demand": -0.11603144412219701,
-        "saturation": 2.232062888244394,
-        "date": "2026-10-25"
+        "saturation": 2.232062888244394
       },
       {
-        "averagePrice": 23930.154598825833,
         "amountSoldRestaurant": 0,
+        "averagePrice": 23930.154598825833,
+        "date": "2026-10-26",
         "demand": 0.036154661894466256,
-        "saturation": 1.9276906762110675,
-        "date": "2026-10-26"
+        "saturation": 1.9276906762110675
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 23930.154598825833,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-27",
         "demand": 0.16758811709067545,
-        "saturation": 1.664823765818649,
-        "date": "2026-10-27"
+        "saturation": 1.664823765818649
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 24864.601545253863,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-28",
         "demand": -3.065071539433708,
-        "saturation": 8.130143078867416,
-        "date": "2026-10-28"
+        "saturation": 8.130143078867416
       },
       {
-        "averagePrice": 11965,
         "amountSoldRestaurant": 0,
+        "averagePrice": 11965,
+        "date": "2026-10-29",
         "demand": -2.5256393390324696,
-        "saturation": 7.051278678064939,
-        "date": "2026-10-29"
+        "saturation": 7.051278678064939
       },
       {
-        "averagePrice": 11965,
         "amountSoldRestaurant": 0,
+        "averagePrice": 11965,
+        "date": "2026-10-30",
         "demand": -2.044870338255315,
-        "saturation": 6.08974067651063,
-        "date": "2026-10-30"
+        "saturation": 6.08974067651063
       },
       {
-        "averagePrice": 11965,
         "amountSoldRestaurant": 0,
+        "averagePrice": 11965,
+        "date": "2026-10-31",
         "demand": -1.6296607466750448,
-        "saturation": 5.25932149335009,
-        "date": "2026-10-31"
+        "saturation": 5.25932149335009
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 11965,
-        "amountSoldRestaurant": 0,
+        "date": "2026-11-01",
         "demand": -1.2748588590755152,
-        "saturation": 4.54971771815103,
-        "date": "2026-11-01"
+        "saturation": 4.54971771815103
       }
-    ]
+    ],
+    "saturation": 4.54971771815103
   },
   {
-    "quality": 7,
-    "dbLetter": 150,
     "averagePrice": 46912.63018867924,
-    "saturation": 4.044631339553028,
+    "dbLetter": 150,
+    "quality": 7,
     "retailData": [
       {
-        "averagePrice": 38000,
         "amountSoldRestaurant": 0,
+        "averagePrice": 38000,
+        "date": "2026-10-05",
         "demand": -0.1570249794711871,
-        "saturation": 2.314049958942374,
-        "date": "2026-10-05"
+        "saturation": 2.314049958942374
       },
       {
-        "averagePrice": 38000,
         "amountSoldRestaurant": 0,
+        "averagePrice": 38000,
+        "date": "2026-10-06",
         "demand": 0.0007511540930656979,
-        "saturation": 1.9984976918138686,
-        "date": "2026-10-06"
+        "saturation": 1.9984976918138686
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 38000,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-07",
         "demand": 0.13701236035310216,
-        "saturation": 1.7259752792937957,
-        "date": "2026-10-07"
+        "saturation": 1.7259752792937957
       },
       {
-        "averagePrice": 44286.054945054944,
         "amountSoldRestaurant": 0,
+        "averagePrice": 44286.054945054944,
+        "date": "2026-10-08",
         "demand": -1.1801866874595266,
-        "saturation": 4.360373374919053,
-        "date": "2026-10-08"
+        "saturation": 4.360373374919053
       },
       {
-        "averagePrice": 44286.054945054944,
         "amountSoldRestaurant": 0,
+        "averagePrice": 44286.054945054944,
+        "date": "2026-10-09",
         "demand": -0.8828885028059548,
-        "saturation": 3.7657770056119095,
-        "date": "2026-10-09"
+        "saturation": 3.7657770056119095
       },
       {
-        "averagePrice": 44286.054945054944,
         "amountSoldRestaurant": 0,
+        "averagePrice": 44286.054945054944,
+        "date": "2026-10-10",
         "demand": -0.6261309796960517,
-        "saturation": 3.2522619593921034,
-        "date": "2026-10-10"
+        "saturation": 3.2522619593921034
       },
       {
-        "averagePrice": 44286.054945054944,
         "amountSoldRestaurant": 0,
+        "averagePrice": 44286.054945054944,
+        "date": "2026-10-11",
         "demand": -0.4043858461011356,
-        "saturation": 2.808771692202271,
-        "date": "2026-10-11"
+        "saturation": 2.808771692202271
       },
       {
-        "averagePrice": 44286.054945054944,
         "amountSoldRestaurant": 0,
+        "averagePrice": 44286.054945054944,
+        "date": "2026-10-12",
         "demand": -0.21287868526916265,
-        "saturation": 2.4257573705383253,
-        "date": "2026-10-12"
+        "saturation": 2.4257573705383253
       },
       {
-        "averagePrice": 44286.054945054944,
         "amountSoldRestaurant": 0,
+        "averagePrice": 44286.054945054944,
+        "date": "2026-10-13",
         "demand": -0.047486137277913176,
-        "saturation": 2.0949722745558264,
-        "date": "2026-10-13"
+        "saturation": 2.0949722745558264
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 44286.054945054944,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-14",
         "demand": 0.09535288144180232,
-        "saturation": 1.8092942371163954,
-        "date": "2026-10-14"
+        "saturation": 1.8092942371163954
       },
       {
-        "averagePrice": 44286,
         "amountSoldRestaurant": 0,
+        "averagePrice": 44286,
+        "date": "2026-10-15",
         "demand": -0.08013702502191422,
-        "saturation": 2.1602740500438284,
-        "date": "2026-10-15"
+        "saturation": 2.1602740500438284
       },
       {
-        "averagePrice": 44286,
         "amountSoldRestaurant": 0,
+        "averagePrice": 44286,
+        "date": "2026-10-16",
         "demand": 0.06715438748107416,
-        "saturation": 1.8656912250378517,
-        "date": "2026-10-16"
+        "saturation": 1.8656912250378517
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 44286,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-17",
         "demand": 0.1943606073700187,
-        "saturation": 1.6112787852599626,
-        "date": "2026-10-17"
+        "saturation": 1.6112787852599626
       },
       {
-        "averagePrice": 47001.69350649351,
         "amountSoldRestaurant": 0,
+        "averagePrice": 47001.69350649351,
+        "date": "2026-10-18",
         "demand": -2.7727219638279252,
-        "saturation": 7.5454439276558505,
-        "date": "2026-10-18"
+        "saturation": 7.5454439276558505
       },
       {
-        "averagePrice": 47001.69350649351,
         "amountSoldRestaurant": 0,
+        "averagePrice": 47001.69350649351,
+        "date": "2026-10-19",
         "demand": -2.2582598778513896,
-        "saturation": 6.516519755702779,
-        "date": "2026-10-19"
+        "saturation": 6.516519755702779
       },
       {
-        "averagePrice": 47001.69350649351,
         "amountSoldRestaurant": 0,
+        "averagePrice": 47001.69350649351,
+        "date": "2026-10-20",
         "demand": -1.8139517126898363,
-        "saturation": 5.627903425379673,
-        "date": "2026-10-20"
+        "saturation": 5.627903425379673
       },
       {
-        "averagePrice": 47001.69350649351,
         "amountSoldRestaurant": 0,
+        "averagePrice": 47001.69350649351,
+        "date": "2026-10-21",
         "demand": -1.4302310245957677,
-        "saturation": 4.860462049191535,
-        "date": "2026-10-21"
+        "saturation": 4.860462049191535
       },
       {
-        "averagePrice": 47001.69350649351,
         "amountSoldRestaurant": 0,
+        "averagePrice": 47001.69350649351,
+        "date": "2026-10-22",
         "demand": -1.098835884878163,
-        "saturation": 4.197671769756326,
-        "date": "2026-10-22"
+        "saturation": 4.197671769756326
       },
       {
-        "averagePrice": 47001.69350649351,
         "amountSoldRestaurant": 0,
+        "averagePrice": 47001.69350649351,
+        "date": "2026-10-23",
         "demand": -0.8126309914856862,
-        "saturation": 3.6252619829713724,
-        "date": "2026-10-23"
+        "saturation": 3.6252619829713724
       },
       {
-        "averagePrice": 47001.69350649351,
         "amountSoldRestaurant": 0,
+        "averagePrice": 47001.69350649351,
+        "date": "2026-10-24",
         "demand": -0.5654540381012745,
-        "saturation": 3.130908076202549,
-        "date": "2026-10-24"
+        "saturation": 3.130908076202549
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 47001.69350649351,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-25",
         "demand": -0.35198303290564614,
-        "saturation": 2.7039660658112923,
-        "date": "2026-10-25"
+        "saturation": 2.7039660658112923
       },
       {
-        "averagePrice": 28121,
         "amountSoldRestaurant": 0,
+        "averagePrice": 28121,
+        "date": "2026-10-26",
         "demand": -0.17498124599442733,
-        "saturation": 2.3499624919888547,
-        "date": "2026-10-26"
+        "saturation": 2.3499624919888547
       },
       {
-        "averagePrice": 28121,
         "amountSoldRestaurant": 0,
+        "averagePrice": 28121,
+        "date": "2026-10-27",
         "demand": -0.014756530631550913,
-        "saturation": 2.029513061263102,
-        "date": "2026-10-27"
+        "saturation": 2.029513061263102
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 28121,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-28",
         "demand": 0.12361935990911521,
-        "saturation": 1.7527612801817696,
-        "date": "2026-10-28"
+        "saturation": 1.7527612801817696
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 41000,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-29",
         "demand": 0.15375139006499527,
-        "saturation": 1.6924972198700095,
-        "date": "2026-10-29"
+        "saturation": 1.6924972198700095
       },
       {
-        "averagePrice": 46912.63018867924,
         "amountSoldRestaurant": 0,
+        "averagePrice": 46912.63018867924,
+        "date": "2026-10-30",
         "demand": -1.7113595129413652,
-        "saturation": 5.4227190258827305,
-        "date": "2026-10-30"
+        "saturation": 5.4227190258827305
       },
       {
-        "averagePrice": 46912.63018867924,
         "amountSoldRestaurant": 0,
+        "averagePrice": 46912.63018867924,
+        "date": "2026-10-31",
         "demand": -1.3416286702675428,
-        "saturation": 4.683257340535086,
-        "date": "2026-10-31"
+        "saturation": 4.683257340535086
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 46912.63018867924,
-        "amountSoldRestaurant": 0,
+        "date": "2026-11-01",
         "demand": -1.0223156697765141,
-        "saturation": 4.044631339553028,
-        "date": "2026-11-01"
+        "saturation": 4.044631339553028
       }
-    ]
+    ],
+    "saturation": 4.044631339553028
   },
   {
-    "quality": 8,
-    "dbLetter": 150,
     "averagePrice": 118947.25914634146,
-    "saturation": 1.9977424045870826,
+    "dbLetter": 150,
+    "quality": 8,
     "retailData": [
       {
-        "averagePrice": 115208.82608695653,
         "amountSoldRestaurant": 0,
+        "averagePrice": 115208.82608695653,
+        "date": "2026-10-05",
         "demand": -0.826187852350402,
-        "saturation": 3.652375704700804,
-        "date": "2026-10-05"
+        "saturation": 3.652375704700804
       },
       {
-        "averagePrice": 115208.82608695653,
         "amountSoldRestaurant": 0,
+        "averagePrice": 115208.82608695653,
+        "date": "2026-10-06",
         "demand": -0.5771622361208018,
-        "saturation": 3.1543244722416035,
-        "date": "2026-10-06"
+        "saturation": 3.1543244722416035
       },
       {
-        "averagePrice": 115208.82608695653,
         "amountSoldRestaurant": 0,
+        "averagePrice": 115208.82608695653,
+        "date": "2026-10-07",
         "demand": -0.36209465846796496,
-        "saturation": 2.72418931693593,
-        "date": "2026-10-07"
+        "saturation": 2.72418931693593
       },
       {
-        "averagePrice": 115208.82608695653,
         "amountSoldRestaurant": 0,
+        "averagePrice": 115208.82608695653,
+        "date": "2026-10-08",
         "demand": -0.1763544777677879,
-        "saturation": 2.352708955535576,
-        "date": "2026-10-08"
+        "saturation": 2.352708955535576
       },
       {
-        "averagePrice": 115208.82608695653,
         "amountSoldRestaurant": 0,
+        "averagePrice": 115208.82608695653,
+        "date": "2026-10-09",
         "demand": -0.015942503526725993,
-        "saturation": 2.031885007053452,
-        "date": "2026-10-09"
+        "saturation": 2.031885007053452
       },
       {
-        "averagePrice": 115208.82608695653,
         "amountSoldRestaurant": 0,
+        "averagePrice": 115208.82608695653,
+        "date": "2026-10-10",
         "demand": 0.12259511059055483,
-        "saturation": 1.7548097788188903,
-        "date": "2026-10-10"
+        "saturation": 1.7548097788188903
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 115208.82608695653,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-11",
         "demand": 0.24224123187366098,
-        "saturation": 1.515517536252678,
-        "date": "2026-10-11"
+        "saturation": 1.515517536252678
       },
       {
-        "averagePrice": 119925.27956989247,
         "amountSoldRestaurant": 0,
+        "averagePrice": 119925.27956989247,
+        "date": "2026-10-12",
         "demand": -1.1052468781577254,
-        "saturation": 4.210493756315451,
-        "date": "2026-10-12"
+        "saturation": 4.210493756315451
       },
       {
-        "averagePrice": 119925.27956989247,
         "amountSoldRestaurant": 0,
+        "averagePrice": 119925.27956989247,
+        "date": "2026-10-13",
         "demand": -0.8181677584089446,
-        "saturation": 3.6363355168178892,
-        "date": "2026-10-13"
+        "saturation": 3.6363355168178892
       },
       {
-        "averagePrice": 119925.27956989247,
         "amountSoldRestaurant": 0,
+        "averagePrice": 119925.27956989247,
+        "date": "2026-10-14",
         "demand": -0.5702357913531793,
-        "saturation": 3.1404715827063585,
-        "date": "2026-10-14"
+        "saturation": 3.1404715827063585
       },
       {
-        "averagePrice": 119925.27956989247,
         "amountSoldRestaurant": 0,
+        "averagePrice": 119925.27956989247,
+        "date": "2026-10-15",
         "demand": -0.3561127288959274,
-        "saturation": 2.7122254577918548,
-        "date": "2026-10-15"
+        "saturation": 2.7122254577918548
       },
       {
-        "averagePrice": 119925.27956989247,
         "amountSoldRestaurant": 0,
+        "averagePrice": 119925.27956989247,
+        "date": "2026-10-16",
         "demand": -0.17118826586466462,
-        "saturation": 2.3423765317293292,
-        "date": "2026-10-16"
+        "saturation": 2.3423765317293292
       },
       {
-        "averagePrice": 119925.27956989247,
         "amountSoldRestaurant": 0,
+        "averagePrice": 119925.27956989247,
+        "date": "2026-10-17",
         "demand": -0.01148077506493772,
-        "saturation": 2.0229615501298754,
-        "date": "2026-10-17"
+        "saturation": 2.0229615501298754
       },
       {
-        "averagePrice": 119925.27956989247,
         "amountSoldRestaurant": 0,
+        "averagePrice": 119925.27956989247,
+        "date": "2026-10-18",
         "demand": 0.1264484215348265,
-        "saturation": 1.747103156930347,
-        "date": "2026-10-18"
+        "saturation": 1.747103156930347
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 119925.27956989247,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-19",
         "demand": 0.24556909132553195,
-        "saturation": 1.508861817348936,
-        "date": "2026-10-19"
+        "saturation": 1.508861817348936
       },
       {
-        "averagePrice": 118947.25914634146,
         "amountSoldRestaurant": 0,
+        "averagePrice": 118947.25914634146,
+        "date": "2026-10-20",
         "demand": -4.801475344945677,
-        "saturation": 11.602950689891355,
-        "date": "2026-10-20"
+        "saturation": 11.602950689891355
       },
       {
-        "averagePrice": 118947.25914634146,
         "amountSoldRestaurant": 0,
+        "averagePrice": 118947.25914634146,
+        "date": "2026-10-21",
         "demand": -4.0103650706349026,
-        "saturation": 10.020730141269805,
-        "date": "2026-10-21"
+        "saturation": 10.020730141269805
       },
       {
-        "averagePrice": 118947.25914634146,
         "amountSoldRestaurant": 0,
+        "averagePrice": 118947.25914634146,
+        "date": "2026-10-22",
         "demand": -3.32713347009378,
-        "saturation": 8.65426694018756,
-        "date": "2026-10-22"
+        "saturation": 8.65426694018756
       },
       {
-        "averagePrice": 118947.25914634146,
         "amountSoldRestaurant": 0,
+        "averagePrice": 118947.25914634146,
+        "date": "2026-10-23",
         "demand": -2.7370698150809916,
-        "saturation": 7.474139630161983,
-        "date": "2026-10-23"
+        "saturation": 7.474139630161983
       },
       {
-        "averagePrice": 118947.25914634146,
         "amountSoldRestaurant": 0,
+        "averagePrice": 118947.25914634146,
+        "date": "2026-10-24",
         "demand": -2.2274693857517653,
-        "saturation": 6.454938771503531,
-        "date": "2026-10-24"
+        "saturation": 6.454938771503531
       },
       {
-        "averagePrice": 118947.25914634146,
         "amountSoldRestaurant": 0,
+        "averagePrice": 118947.25914634146,
+        "date": "2026-10-25",
         "demand": -1.7873599240583427,
-        "saturation": 5.574719848116685,
-        "date": "2026-10-25"
+        "saturation": 5.574719848116685
       },
       {
-        "averagePrice": 118947.25914634146,
         "amountSoldRestaurant": 0,
+        "averagePrice": 118947.25914634146,
+        "date": "2026-10-26",
         "demand": -1.4072653889594777,
-        "saturation": 4.8145307779189555,
-        "date": "2026-10-26"
+        "saturation": 4.8145307779189555
       },
       {
-        "averagePrice": 118947.25914634146,
         "amountSoldRestaurant": 0,
+        "averagePrice": 118947.25914634146,
+        "date": "2026-10-27",
         "demand": -1.07900192682864,
-        "saturation": 4.15800385365728,
-        "date": "2026-10-27"
+        "saturation": 4.15800385365728
       },
       {
-        "averagePrice": 118947.25914634146,
         "amountSoldRestaurant": 0,
+        "averagePrice": 118947.25914634146,
+        "date": "2026-10-28",
         "demand": -0.79550166407928,
-        "saturation": 3.59100332815856,
-        "date": "2026-10-28"
+        "saturation": 3.59100332815856
       },
       {
-        "averagePrice": 118947.25914634146,
         "amountSoldRestaurant": 0,
+        "averagePrice": 118947.25914634146,
+        "date": "2026-10-29",
         "demand": -0.5506605280684691,
-        "saturation": 3.101321056136938,
-        "date": "2026-10-29"
+        "saturation": 3.101321056136938
       },
       {
-        "averagePrice": 118947.25914634146,
         "amountSoldRestaurant": 0,
+        "averagePrice": 118947.25914634146,
+        "date": "2026-10-30",
         "demand": -0.3392068196954958,
-        "saturation": 2.6784136393909916,
-        "date": "2026-10-30"
+        "saturation": 2.6784136393909916
       },
       {
-        "averagePrice": 118947.25914634146,
         "amountSoldRestaurant": 0,
+        "averagePrice": 118947.25914634146,
+        "date": "2026-10-31",
         "demand": -0.15658770791883736,
-        "saturation": 2.3131754158376747,
-        "date": "2026-10-31"
+        "saturation": 2.3131754158376747
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 118947.25914634146,
-        "amountSoldRestaurant": 0,
+        "date": "2026-11-01",
         "demand": 0.001128797706458684,
-        "saturation": 1.9977424045870826,
-        "date": "2026-11-01"
+        "saturation": 1.9977424045870826
       }
-    ]
+    ],
+    "saturation": 1.9977424045870826
   },
   {
-    "quality": 9,
-    "dbLetter": 150,
     "averagePrice": 140000,
-    "saturation": 1.7891872800978126,
+    "dbLetter": 150,
+    "quality": 9,
     "retailData": [
       {
-        "averagePrice": 184697.37142857144,
         "amountSoldRestaurant": 0,
+        "averagePrice": 184697.37142857144,
+        "date": "2026-10-05",
         "demand": -0.8406880010367379,
-        "saturation": 3.681376002073476,
-        "date": "2026-10-05"
+        "saturation": 3.681376002073476
       },
       {
-        "averagePrice": 184697.37142857144,
         "amountSoldRestaurant": 0,
+        "averagePrice": 184697.37142857144,
+        "date": "2026-10-06",
         "demand": -0.5896850918044556,
-        "saturation": 3.179370183608911,
-        "date": "2026-10-06"
+        "saturation": 3.179370183608911
       },
       {
-        "averagePrice": 184697.37142857144,
         "amountSoldRestaurant": 0,
+        "averagePrice": 184697.37142857144,
+        "date": "2026-10-07",
         "demand": -0.372909852012939,
-        "saturation": 2.745819704025878,
-        "date": "2026-10-07"
+        "saturation": 2.745819704025878
       },
       {
-        "averagePrice": 184697.37142857144,
         "amountSoldRestaurant": 0,
+        "averagePrice": 184697.37142857144,
+        "date": "2026-10-08",
         "demand": -0.18569487219299274,
-        "saturation": 2.3713897443859855,
-        "date": "2026-10-08"
+        "saturation": 2.3713897443859855
       },
       {
-        "averagePrice": 184697.37142857144,
         "amountSoldRestaurant": 0,
+        "averagePrice": 184697.37142857144,
+        "date": "2026-10-09",
         "demand": -0.024009207803039168,
-        "saturation": 2.0480184156060783,
-        "date": "2026-10-09"
+        "saturation": 2.0480184156060783
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 184697.37142857144,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-10",
         "demand": 0.11562841144282976,
-        "saturation": 1.7687431771143405,
-        "date": "2026-10-10"
+        "saturation": 1.7687431771143405
       },
       {
-        "averagePrice": 180000,
         "amountSoldRestaurant": 0,
+        "averagePrice": 180000,
+        "date": "2026-10-11",
         "demand": -0.08354525884736752,
-        "saturation": 2.167090517694735,
-        "date": "2026-10-11"
+        "saturation": 2.167090517694735
       },
       {
-        "averagePrice": 180000,
         "amountSoldRestaurant": 0,
+        "averagePrice": 180000,
+        "date": "2026-10-12",
         "demand": 0.06421091281363722,
-        "saturation": 1.8715781743727256,
-        "date": "2026-10-12"
+        "saturation": 1.8715781743727256
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 180000,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-13",
         "demand": 0.19181851561177754,
-        "saturation": 1.616362968776445,
-        "date": "2026-10-13"
+        "saturation": 1.616362968776445
       },
       {
-        "averagePrice": 198035.425,
         "amountSoldRestaurant": 0,
+        "averagePrice": 198035.425,
+        "date": "2026-10-14",
         "demand": -2.2069885100738023,
-        "saturation": 6.4139770201476045,
-        "date": "2026-10-14"
+        "saturation": 6.4139770201476045
       },
       {
-        "averagePrice": 198035.425,
         "amountSoldRestaurant": 0,
+        "averagePrice": 198035.425,
+        "date": "2026-10-15",
         "demand": -1.7696718950637385,
-        "saturation": 5.539343790127477,
-        "date": "2026-10-15"
+        "saturation": 5.539343790127477
       },
       {
-        "averagePrice": 198035.425,
         "amountSoldRestaurant": 0,
+        "averagePrice": 198035.425,
+        "date": "2026-10-16",
         "demand": -1.3919893639186833,
-        "saturation": 4.783978727837367,
-        "date": "2026-10-16"
+        "saturation": 4.783978727837367
       },
       {
-        "averagePrice": 198035.425,
         "amountSoldRestaurant": 0,
+        "averagePrice": 198035.425,
+        "date": "2026-10-17",
         "demand": -1.0658089961115902,
-        "saturation": 4.13161799222318,
-        "date": "2026-10-17"
+        "saturation": 4.13161799222318
       },
       {
-        "averagePrice": 198035.425,
         "amountSoldRestaurant": 0,
+        "averagePrice": 198035.425,
+        "date": "2026-10-18",
         "demand": -0.7841077693691005,
-        "saturation": 3.568215538738201,
-        "date": "2026-10-18"
+        "saturation": 3.568215538738201
       },
       {
-        "averagePrice": 198035.425,
         "amountSoldRestaurant": 0,
+        "averagePrice": 198035.425,
+        "date": "2026-10-19",
         "demand": -0.5408203462733141,
-        "saturation": 3.081640692546628,
-        "date": "2026-10-19"
+        "saturation": 3.081640692546628
       },
       {
-        "averagePrice": 198035.425,
         "amountSoldRestaurant": 0,
+        "averagePrice": 198035.425,
+        "date": "2026-10-20",
         "demand": -0.3307084808724077,
-        "saturation": 2.6614169617448153,
-        "date": "2026-10-20"
+        "saturation": 2.6614169617448153
       },
       {
-        "averagePrice": 198035.425,
         "amountSoldRestaurant": 0,
+        "averagePrice": 198035.425,
+        "date": "2026-10-21",
         "demand": -0.14924823348071592,
-        "saturation": 2.298496466961432,
-        "date": "2026-10-21"
+        "saturation": 2.298496466961432
       },
       {
-        "averagePrice": 198035.425,
         "amountSoldRestaurant": 0,
+        "averagePrice": 198035.425,
+        "date": "2026-10-22",
         "demand": 0.007467434721199817,
-        "saturation": 1.9850651305576004,
-        "date": "2026-10-22"
+        "saturation": 1.9850651305576004
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 198035.425,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-23",
         "demand": 0.14281278453194535,
-        "saturation": 1.7143744309361093,
-        "date": "2026-10-23"
+        "saturation": 1.7143744309361093
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 193000,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-24",
         "demand": 0.07882618235615735,
-        "saturation": 1.8423476352876853,
-        "date": "2026-10-24"
+        "saturation": 1.8423476352876853
       },
       {
-        "averagePrice": 146500,
         "amountSoldRestaurant": 0,
+        "averagePrice": 146500,
+        "date": "2026-10-25",
         "demand": -0.24773028080794024,
-        "saturation": 2.4954605616158805,
-        "date": "2026-10-25"
+        "saturation": 2.4954605616158805
       },
       {
-        "averagePrice": 146500,
         "amountSoldRestaurant": 0,
+        "averagePrice": 146500,
+        "date": "2026-10-26",
         "demand": -0.07758524251594845,
-        "saturation": 2.155170485031897,
-        "date": "2026-10-26"
+        "saturation": 2.155170485031897
       },
       {
-        "averagePrice": 146500,
         "amountSoldRestaurant": 0,
+        "averagePrice": 146500,
+        "date": "2026-10-27",
         "demand": 0.06935819964531731,
-        "saturation": 1.8612836007093654,
-        "date": "2026-10-27"
+        "saturation": 1.8612836007093654
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 146500,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-28",
         "demand": 0.19626389969368307,
-        "saturation": 1.6074722006126339,
-        "date": "2026-10-28"
+        "saturation": 1.6074722006126339
       },
       {
-        "averagePrice": 183173,
         "amountSoldRestaurant": 0,
+        "averagePrice": 183173,
+        "date": "2026-10-29",
         "demand": -0.20059077399690994,
-        "saturation": 2.40118154799382,
-        "date": "2026-10-29"
+        "saturation": 2.40118154799382
       },
       {
-        "averagePrice": 183173,
         "amountSoldRestaurant": 0,
+        "averagePrice": 183173,
+        "date": "2026-10-30",
         "demand": -0.03687385027005852,
-        "saturation": 2.073747700540117,
-        "date": "2026-10-30"
+        "saturation": 2.073747700540117
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 183173,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-31",
         "demand": 0.10451803840313123,
-        "saturation": 1.7909639231937375,
-        "date": "2026-10-31"
+        "saturation": 1.7909639231937375
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 140000,
-        "amountSoldRestaurant": 0,
+        "date": "2026-11-01",
         "demand": 0.10540635995109371,
-        "saturation": 1.7891872800978126,
-        "date": "2026-11-01"
+        "saturation": 1.7891872800978126
       }
-    ]
+    ],
+    "saturation": 1.7891872800978126
   },
   {
-    "quality": 10,
-    "dbLetter": 150,
     "averagePrice": 425346.4347826087,
-    "saturation": 6.970553275664242,
+    "dbLetter": 150,
+    "quality": 10,
     "retailData": [
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 365725.5833333333,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-05",
         "demand": 0.18208770718463207,
-        "saturation": 1.6358245856307359,
-        "date": "2026-10-05"
+        "saturation": 1.6358245856307359
       },
       {
-        "averagePrice": 398819.6666666667,
         "amountSoldRestaurant": 0,
+        "averagePrice": 398819.6666666667,
+        "date": "2026-10-06",
         "demand": -0.2729823900873085,
-        "saturation": 2.545964780174617,
-        "date": "2026-10-06"
+        "saturation": 2.545964780174617
       },
       {
-        "averagePrice": 398819.6666666667,
         "amountSoldRestaurant": 0,
+        "averagePrice": 398819.6666666667,
+        "date": "2026-10-07",
         "demand": -0.09939388234812996,
-        "saturation": 2.19878776469626,
-        "date": "2026-10-07"
+        "saturation": 2.19878776469626
       },
       {
-        "averagePrice": 398819.6666666667,
         "amountSoldRestaurant": 0,
+        "averagePrice": 398819.6666666667,
+        "date": "2026-10-08",
         "demand": 0.050523465244796895,
-        "saturation": 1.8989530695104062,
-        "date": "2026-10-08"
+        "saturation": 1.8989530695104062
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 398819.6666666667,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-09",
         "demand": 0.17999753816596098,
-        "saturation": 1.640004923668078,
-        "date": "2026-10-09"
+        "saturation": 1.640004923668078
       },
       {
-        "averagePrice": 415853.3333333333,
         "amountSoldRestaurant": 0,
+        "averagePrice": 415853.3333333333,
+        "date": "2026-10-10",
         "demand": -1.047602079444589,
-        "saturation": 4.095204158889178,
-        "date": "2026-10-10"
+        "saturation": 4.095204158889178
       },
       {
-        "averagePrice": 415853.3333333333,
         "amountSoldRestaurant": 0,
+        "averagePrice": 415853.3333333333,
+        "date": "2026-10-11",
         "demand": -0.7683836140657814,
-        "saturation": 3.5367672281315627,
-        "date": "2026-10-11"
+        "saturation": 3.5367672281315627
       },
       {
-        "averagePrice": 415853.3333333333,
         "amountSoldRestaurant": 0,
+        "averagePrice": 415853.3333333333,
+        "date": "2026-10-12",
         "demand": -0.527240393965902,
-        "saturation": 3.054480787931804,
-        "date": "2026-10-12"
+        "saturation": 3.054480787931804
       },
       {
-        "averagePrice": 415853.3333333333,
         "amountSoldRestaurant": 0,
+        "averagePrice": 415853.3333333333,
+        "date": "2026-10-13",
         "demand": -0.3189803402432789,
-        "saturation": 2.637960680486558,
-        "date": "2026-10-13"
+        "saturation": 2.637960680486558
       },
       {
-        "averagePrice": 415853.3333333333,
         "amountSoldRestaurant": 0,
+        "averagePrice": 415853.3333333333,
+        "date": "2026-10-14",
         "demand": -0.13911938475555918,
-        "saturation": 2.2782387695111184,
-        "date": "2026-10-14"
+        "saturation": 2.2782387695111184
       },
       {
-        "averagePrice": 415853.3333333333,
         "amountSoldRestaurant": 0,
+        "averagePrice": 415853.3333333333,
+        "date": "2026-10-15",
         "demand": 0.01621507680201706,
-        "saturation": 1.9675698463959659,
-        "date": "2026-10-15"
+        "saturation": 1.9675698463959659
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 415853.3333333333,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-16",
         "demand": 0.1503675663290147,
-        "saturation": 1.6992648673419706,
-        "date": "2026-10-16"
+        "saturation": 1.6992648673419706
       },
       {
-        "averagePrice": 389560.8,
         "amountSoldRestaurant": 0,
+        "averagePrice": 389560.8,
+        "date": "2026-10-17",
         "demand": -0.6939033435821595,
-        "saturation": 3.387806687164319,
-        "date": "2026-10-17"
+        "saturation": 3.387806687164319
       },
       {
-        "averagePrice": 389560.8,
         "amountSoldRestaurant": 0,
+        "averagePrice": 389560.8,
+        "date": "2026-10-18",
         "demand": -0.46291652400277394,
-        "saturation": 2.925833048005548,
-        "date": "2026-10-18"
+        "saturation": 2.925833048005548
       },
       {
-        "averagePrice": 389560.8,
         "amountSoldRestaurant": 0,
+        "averagePrice": 389560.8,
+        "date": "2026-10-19",
         "demand": -0.26342790709330477,
-        "saturation": 2.5268558141866095,
-        "date": "2026-10-19"
+        "saturation": 2.5268558141866095
       },
       {
-        "averagePrice": 389560.8,
         "amountSoldRestaurant": 0,
+        "averagePrice": 389560.8,
+        "date": "2026-10-20",
         "demand": -0.09114228339876318,
-        "saturation": 2.1822845667975264,
-        "date": "2026-10-20"
+        "saturation": 2.1822845667975264
       },
       {
-        "averagePrice": 389560.8,
         "amountSoldRestaurant": 0,
+        "averagePrice": 389560.8,
+        "date": "2026-10-21",
         "demand": 0.05764984615561364,
-        "saturation": 1.8847003076887727,
-        "date": "2026-10-21"
+        "saturation": 1.8847003076887727
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 389560.8,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-22",
         "demand": 0.18615213986166634,
-        "saturation": 1.6276957202766673,
-        "date": "2026-10-22"
+        "saturation": 1.6276957202766673
       },
       {
-        "averagePrice": 407443.59375,
         "amountSoldRestaurant": 0,
+        "averagePrice": 407443.59375,
+        "date": "2026-10-23",
         "demand": -1.6082460363957392,
-        "saturation": 5.216492072791478,
-        "date": "2026-10-23"
+        "saturation": 5.216492072791478
       },
       {
-        "averagePrice": 407443.59375,
         "amountSoldRestaurant": 0,
+        "averagePrice": 407443.59375,
+        "date": "2026-10-24",
         "demand": -1.2525761223417748,
-        "saturation": 4.50515224468355,
-        "date": "2026-10-24"
+        "saturation": 4.50515224468355
       },
       {
-        "averagePrice": 407443.59375,
         "amountSoldRestaurant": 0,
+        "averagePrice": 407443.59375,
+        "date": "2026-10-25",
         "demand": -0.945406651113351,
-        "saturation": 3.890813302226702,
-        "date": "2026-10-25"
+        "saturation": 3.890813302226702
       },
       {
-        "averagePrice": 407443.59375,
         "amountSoldRestaurant": 0,
+        "averagePrice": 407443.59375,
+        "date": "2026-10-26",
         "demand": -0.6801239259615304,
-        "saturation": 3.3602478519230607,
-        "date": "2026-10-26"
+        "saturation": 3.3602478519230607
       },
       {
-        "averagePrice": 407443.59375,
         "amountSoldRestaurant": 0,
+        "averagePrice": 407443.59375,
+        "date": "2026-10-27",
         "demand": -0.45101611787586715,
-        "saturation": 2.9020322357517343,
-        "date": "2026-10-27"
+        "saturation": 2.9020322357517343
       },
       {
-        "averagePrice": 407443.59375,
         "amountSoldRestaurant": 0,
+        "averagePrice": 407443.59375,
+        "date": "2026-10-28",
         "demand": -0.253150283620067,
-        "saturation": 2.506300567240134,
-        "date": "2026-10-28"
+        "saturation": 2.506300567240134
       },
       {
-        "averagePrice": 407443.59375,
         "amountSoldRestaurant": 0,
+        "averagePrice": 407443.59375,
+        "date": "2026-10-29",
         "demand": -0.0822661540355123,
-        "saturation": 2.1645323080710246,
-        "date": "2026-10-29"
+        "saturation": 2.1645323080710246
       },
       {
-        "averagePrice": 407443.59375,
         "amountSoldRestaurant": 0,
+        "averagePrice": 407443.59375,
+        "date": "2026-10-30",
         "demand": 0.06531559424205757,
-        "saturation": 1.8693688115158849,
-        "date": "2026-10-30"
+        "saturation": 1.8693688115158849
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 407443.59375,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-31",
         "demand": 0.19277255866359522,
-        "saturation": 1.6144548826728096,
-        "date": "2026-10-31"
+        "saturation": 1.6144548826728096
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 425346.4347826087,
-        "amountSoldRestaurant": 0,
+        "date": "2026-11-01",
         "demand": -2.485276637832121,
-        "saturation": 6.970553275664242,
-        "date": "2026-11-01"
+        "saturation": 6.970553275664242
       }
-    ]
+    ],
+    "saturation": 6.970553275664242
   },
   {
-    "quality": 11,
-    "dbLetter": 150,
     "averagePrice": 915500,
-    "saturation": 2.3002460321669616,
+    "dbLetter": 150,
+    "quality": 11,
     "retailData": [
       {
-        "averagePrice": 1059588.3636363635,
         "amountSoldRestaurant": 0,
+        "averagePrice": 1059588.3636363635,
+        "date": "2026-10-05",
         "demand": -0.28296866501848816,
-        "saturation": 2.5659373300369763,
-        "date": "2026-10-05"
+        "saturation": 2.5659373300369763
       },
       {
-        "averagePrice": 1059588.3636363635,
         "amountSoldRestaurant": 0,
+        "averagePrice": 1059588.3636363635,
+        "date": "2026-10-06",
         "demand": -0.10801839251596701,
-        "saturation": 2.216036785031934,
-        "date": "2026-10-06"
+        "saturation": 2.216036785031934
       },
       {
-        "averagePrice": 1059588.3636363635,
         "amountSoldRestaurant": 0,
+        "averagePrice": 1059588.3636363635,
+        "date": "2026-10-07",
         "demand": 0.04307502464530122,
-        "saturation": 1.9138499507093976,
-        "date": "2026-10-07"
+        "saturation": 1.9138499507093976
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 1059588.3636363635,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-08",
         "demand": 0.173564794011851,
-        "saturation": 1.652870411976298,
-        "date": "2026-10-08"
+        "saturation": 1.652870411976298
       },
       {
-        "averagePrice": 860131,
         "amountSoldRestaurant": 0,
+        "averagePrice": 860131,
+        "date": "2026-10-09",
         "demand": -0.09233099857327742,
-        "saturation": 2.184661997146555,
-        "date": "2026-10-09"
+        "saturation": 2.184661997146555
       },
       {
-        "averagePrice": 860131,
         "amountSoldRestaurant": 0,
+        "averagePrice": 860131,
+        "date": "2026-10-10",
         "demand": 0.05662322850489687,
-        "saturation": 1.8867535429902063,
-        "date": "2026-10-10"
+        "saturation": 1.8867535429902063
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 860131,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-11",
         "demand": 0.18526551552695636,
-        "saturation": 1.6294689689460873,
-        "date": "2026-10-11"
+        "saturation": 1.6294689689460873
       },
       {
-        "averagePrice": 881291.8,
         "amountSoldRestaurant": 0,
+        "averagePrice": 881291.8,
+        "date": "2026-10-12",
         "demand": -0.32764243551644623,
-        "saturation": 2.6552848710328925,
-        "date": "2026-10-12"
+        "saturation": 2.6552848710328925
       },
       {
-        "averagePrice": 881291.8,
         "amountSoldRestaurant": 0,
+        "averagePrice": 881291.8,
+        "date": "2026-10-13",
         "demand": -0.14660028521874913,
-        "saturation": 2.2932005704374983,
-        "date": "2026-10-13"
+        "saturation": 2.2932005704374983
       },
       {
-        "averagePrice": 881291.8,
         "amountSoldRestaurant": 0,
+        "averagePrice": 881291.8,
+        "date": "2026-10-14",
         "demand": 0.009754299129262067,
-        "saturation": 1.9804914017414759,
-        "date": "2026-10-14"
+        "saturation": 1.9804914017414759
       },
       {
-        "averagePrice": 881291.8,
         "amountSoldRestaurant": 0,
+        "averagePrice": 881291.8,
+        "date": "2026-10-15",
         "demand": 0.14478780379345368,
-        "saturation": 1.7104243924130926,
-        "date": "2026-10-15"
+        "saturation": 1.7104243924130926
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 881291.8,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-16",
         "demand": 0.2614076487307101,
-        "saturation": 1.4771847025385798,
-        "date": "2026-10-16"
+        "saturation": 1.4771847025385798
       },
       {
-        "averagePrice": 951319.5555555555,
         "amountSoldRestaurant": 0,
+        "averagePrice": 951319.5555555555,
+        "date": "2026-10-17",
         "demand": -0.7900310662266847,
-        "saturation": 3.5800621324533695,
-        "date": "2026-10-17"
+        "saturation": 3.5800621324533695
       },
       {
-        "averagePrice": 951319.5555555555,
         "amountSoldRestaurant": 0,
+        "averagePrice": 951319.5555555555,
+        "date": "2026-10-18",
         "demand": -0.5459359208321368,
-        "saturation": 3.0918718416642736,
-        "date": "2026-10-18"
+        "saturation": 3.0918718416642736
       },
       {
-        "averagePrice": 951319.5555555555,
         "amountSoldRestaurant": 0,
+        "averagePrice": 951319.5555555555,
+        "date": "2026-10-19",
         "demand": -0.33512647708230014,
-        "saturation": 2.6702529541646003,
-        "date": "2026-10-19"
+        "saturation": 2.6702529541646003
       },
       {
-        "averagePrice": 951319.5555555555,
         "amountSoldRestaurant": 0,
+        "averagePrice": 951319.5555555555,
+        "date": "2026-10-20",
         "demand": -0.15306377566198637,
-        "saturation": 2.3061275513239727,
-        "date": "2026-10-20"
+        "saturation": 2.3061275513239727
       },
       {
-        "averagePrice": 951319.5555555555,
         "amountSoldRestaurant": 0,
+        "averagePrice": 951319.5555555555,
+        "date": "2026-10-21",
         "demand": 0.004172193746466379,
-        "saturation": 1.9916556125070672,
-        "date": "2026-10-21"
+        "saturation": 1.9916556125070672
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 951319.5555555555,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-22",
         "demand": 0.13996689459922096,
-        "saturation": 1.720066210801558,
-        "date": "2026-10-22"
+        "saturation": 1.720066210801558
       },
       {
-        "averagePrice": 680000,
         "amountSoldRestaurant": 0,
+        "averagePrice": 680000,
+        "date": "2026-10-23",
         "demand": 0.13815804687524225,
-        "saturation": 1.7236839062495155,
-        "date": "2026-10-23"
+        "saturation": 1.7236839062495155
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 680000,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-24",
         "demand": 0.25568194957407286,
-        "saturation": 1.4886361008518543,
-        "date": "2026-10-24"
+        "saturation": 1.4886361008518543
       },
       {
-        "averagePrice": 762500,
         "amountSoldRestaurant": 0,
+        "averagePrice": 762500,
+        "date": "2026-10-25",
         "demand": -0.6074517604021905,
-        "saturation": 3.214903520804381,
-        "date": "2026-10-25"
+        "saturation": 3.214903520804381
       },
       {
-        "averagePrice": 762500,
         "amountSoldRestaurant": 0,
+        "averagePrice": 762500,
+        "date": "2026-10-26",
         "demand": -0.38825379307461905,
-        "saturation": 2.776507586149238,
-        "date": "2026-10-26"
+        "saturation": 2.776507586149238
       },
       {
-        "averagePrice": 762500,
         "amountSoldRestaurant": 0,
+        "averagePrice": 762500,
+        "date": "2026-10-27",
         "demand": -0.1989464576553528,
-        "saturation": 2.3978929153107056,
-        "date": "2026-10-27"
+        "saturation": 2.3978929153107056
       },
       {
-        "averagePrice": 762500,
         "amountSoldRestaurant": 0,
+        "averagePrice": 762500,
+        "date": "2026-10-28",
         "demand": -0.03545375888416835,
-        "saturation": 2.0709075177683367,
-        "date": "2026-10-28"
+        "saturation": 2.0709075177683367
       },
       {
-        "averagePrice": 762500,
         "amountSoldRestaurant": 0,
+        "averagePrice": 762500,
+        "date": "2026-10-29",
         "demand": 0.10574448096367284,
-        "saturation": 1.7885110380726543,
-        "date": "2026-10-29"
+        "saturation": 1.7885110380726543
       },
       {
-        "averagePrice": 762500,
         "amountSoldRestaurant": 0,
+        "averagePrice": 762500,
+        "date": "2026-10-30",
         "demand": 0.10811054725848612,
-        "saturation": 1.7837789054830278,
-        "date": "2026-10-30"
+        "saturation": 1.7837789054830278
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 762500,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-31",
         "demand": 0.22973183626869254,
-        "saturation": 1.540536327462615,
-        "date": "2026-10-31"
+        "saturation": 1.540536327462615
       },
       {
-        "averagePrice": 915500,
         "amountSoldRestaurant": 0,
+        "averagePrice": 915500,
+        "date": "2026-11-01",
         "demand": -0.15012301608348078,
-        "saturation": 2.3002460321669616,
-        "date": "2026-11-01"
+        "saturation": 2.3002460321669616
       }
-    ]
+    ],
+    "saturation": 2.3002460321669616
   },
   {
-    "quality": 12,
-    "dbLetter": 150,
     "averagePrice": 2810721,
-    "saturation": 1.2704333567258177,
+    "dbLetter": 150,
+    "quality": 12,
     "retailData": [
       {
-        "averagePrice": 2235165,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2235165,
+        "date": "2026-10-05",
         "demand": 0.14230649476491153,
-        "saturation": 1.715387010470177,
-        "date": "2026-10-05"
+        "saturation": 1.715387010470177
       },
       {
-        "averagePrice": 2235165,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2235165,
+        "date": "2026-10-06",
         "demand": 0.25926470002424173,
-        "saturation": 1.4814705999515165,
-        "date": "2026-10-06"
+        "saturation": 1.4814705999515165
       },
       {
-        "averagePrice": 2235165,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2235165,
+        "date": "2026-10-07",
         "demand": 0.10914935010560145,
-        "saturation": 1.781701299788797,
-        "date": "2026-10-07"
+        "saturation": 1.781701299788797
       },
       {
-        "averagePrice": 2235165,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2235165,
+        "date": "2026-10-08",
         "demand": 0.2306289841821103,
-        "saturation": 1.5387420316357794,
-        "date": "2026-10-08"
+        "saturation": 1.5387420316357794
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2235165,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-09",
         "demand": 0.3355432136118226,
-        "saturation": 1.3289135727763548,
-        "date": "2026-10-09"
+        "saturation": 1.3289135727763548
       },
       {
-        "averagePrice": 2395165,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2395165,
+        "date": "2026-10-10",
         "demand": 0.17102369337528223,
-        "saturation": 1.6579526132494355,
-        "date": "2026-10-10"
+        "saturation": 1.6579526132494355
       },
       {
-        "averagePrice": 2395165,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2395165,
+        "date": "2026-10-11",
         "demand": 0.28406591700592565,
-        "saturation": 1.4318681659881487,
-        "date": "2026-10-11"
+        "saturation": 1.4318681659881487
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2395165,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-12",
         "demand": 0.38169329195966306,
-        "saturation": 1.2366134160806739,
-        "date": "2026-10-12"
+        "saturation": 1.2366134160806739
       },
       {
-        "averagePrice": 2564082,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2564082,
+        "date": "2026-10-13",
         "demand": 0.21541247036319078,
-        "saturation": 1.5691750592736184,
-        "date": "2026-10-13"
+        "saturation": 1.5691750592736184
       },
       {
-        "averagePrice": 2564082,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2564082,
+        "date": "2026-10-14",
         "demand": 0.32240167895002847,
-        "saturation": 1.355196642099943,
-        "date": "2026-10-14"
+        "saturation": 1.355196642099943
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2564082,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-15",
         "demand": 0.4148014500022974,
-        "saturation": 1.1703970999954052,
-        "date": "2026-10-15"
+        "saturation": 1.1703970999954052
       },
       {
-        "averagePrice": 2756941,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2756941,
+        "date": "2026-10-16",
         "demand": -0.009691877598180021,
-        "saturation": 2.01938375519636,
-        "date": "2026-10-16"
+        "saturation": 2.01938375519636
       },
       {
-        "averagePrice": 2756941,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2756941,
+        "date": "2026-10-17",
         "demand": 0.12799337843793546,
-        "saturation": 1.744013243124129,
-        "date": "2026-10-17"
+        "saturation": 1.744013243124129
       },
       {
-        "averagePrice": 2756941,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2756941,
+        "date": "2026-10-18",
         "demand": 0.24690337228730797,
-        "saturation": 1.506193255425384,
-        "date": "2026-10-18"
+        "saturation": 1.506193255425384
       },
       {
-        "averagePrice": 2756941,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2756941,
+        "date": "2026-10-19",
         "demand": 0.34959836697540225,
-        "saturation": 1.3008032660491955,
-        "date": "2026-10-19"
+        "saturation": 1.3008032660491955
       },
       {
-        "averagePrice": 2756941,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2756941,
+        "date": "2026-10-20",
         "demand": 0.4382894987514838,
-        "saturation": 1.1234210024970324,
-        "date": "2026-10-20"
+        "saturation": 1.1234210024970324
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2756941,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-21",
         "demand": 0.5148863852853724,
-        "saturation": 0.9702272294292552,
-        "date": "2026-10-21"
+        "saturation": 0.9702272294292552
       },
       {
-        "averagePrice": 2970720.5,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2970720.5,
+        "date": "2026-10-22",
         "demand": -0.4216391397571182,
-        "saturation": 2.8432782795142364,
-        "date": "2026-10-22"
+        "saturation": 2.8432782795142364
       },
       {
-        "averagePrice": 2970720.5,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2970720.5,
+        "date": "2026-10-23",
         "demand": -0.22777925706296576,
-        "saturation": 2.4555585141259315,
-        "date": "2026-10-23"
+        "saturation": 2.4555585141259315
       },
       {
-        "averagePrice": 2970720.5,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2970720.5,
+        "date": "2026-10-24",
         "demand": -0.06035481291801603,
-        "saturation": 2.120709625836032,
-        "date": "2026-10-24"
+        "saturation": 2.120709625836032
       },
       {
-        "averagePrice": 2970720.5,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2970720.5,
+        "date": "2026-10-25",
         "demand": 0.08423902520716797,
-        "saturation": 1.831521949585664,
-        "date": "2026-10-25"
+        "saturation": 1.831521949585664
       },
       {
-        "averagePrice": 2970720.5,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2970720.5,
+        "date": "2026-10-26",
         "demand": 0.20911552176982695,
-        "saturation": 1.581768956460346,
-        "date": "2026-10-26"
+        "saturation": 1.581768956460346
       },
       {
-        "averagePrice": 2970720.5,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2970720.5,
+        "date": "2026-10-27",
         "demand": 0.31696340516485055,
-        "saturation": 1.366073189670299,
-        "date": "2026-10-27"
+        "saturation": 1.366073189670299
       },
       {
+        "amountSoldRestaurant": 0,
         "averagePrice": 2970720.5,
-        "amountSoldRestaurant": 0,
+        "date": "2026-10-28",
         "demand": 0.4101047590060073,
-        "saturation": 1.1797904819879854,
-        "date": "2026-10-28"
+        "saturation": 1.1797904819879854
       },
       {
-        "averagePrice": 2810721,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2810721,
+        "date": "2026-10-29",
         "demand": 0.013881441724995836,
-        "saturation": 1.9722371165500083,
-        "date": "2026-10-29"
+        "saturation": 1.9722371165500083
       },
       {
-        "averagePrice": 2810721,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2810721,
+        "date": "2026-10-30",
         "demand": 0.14835215421704184,
-        "saturation": 1.7032956915659163,
-        "date": "2026-10-30"
+        "saturation": 1.7032956915659163
       },
       {
-        "averagePrice": 2810721,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2810721,
+        "date": "2026-10-31",
         "demand": 0.26448595136926345,
-        "saturation": 1.471028097261473,
-        "date": "2026-10-31"
+        "saturation": 1.471028097261473
       },
       {
-        "averagePrice": 2810721,
         "amountSoldRestaurant": 0,
+        "averagePrice": 2810721,
+        "date": "2026-11-01",
         "demand": 0.36478332163709115,
-        "saturation": 1.2704333567258177,
-        "date": "2026-11-01"
+        "saturation": 1.2704333567258177
       }
-    ]
+    ],
+    "saturation": 1.2704333567258177
   }
 ]
